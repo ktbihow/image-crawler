@@ -24,16 +24,16 @@
     "https://techteesusa.com/product/greatest-dynasty-ever-chiefs-kingdom-kansas-city-t-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/wolves-home-pickles-shirt/",
-    "https://teeworksusa.com/product/wolverine-chronicle-ann-arbor-shirt/",
-    "https://teeworksusa.com/product/turbo-granny-old-woman-dandadan-shirt/",
-    "https://teeworksusa.com/product/tucker-kraft-yac-n-cheese-shirt/",
-    "https://teeworksusa.com/product/touchdown-hawk-retro-shirt/",
-    "https://teeworksusa.com/product/the-dead-dance-lady-gaga-holding-moon-shirt/",
-    "https://teeworksusa.com/product/the-bryceman-cometh-shirt/",
-    "https://teeworksusa.com/product/take-me-to-the-k-kansas-city-shirt/",
-    "https://teeworksusa.com/product/superman-x-kith-last-son-of-krypton-shirt/",
-    "https://teeworksusa.com/product/southampton-home-pickles-shirt/"
+    "https://teeworksusa.com/product/well-paint-me-green-and-call-me-a-pickle-because-im-done-dillin-with-you-bitches-shirt/",
+    "https://teeworksusa.com/product/wake-up-america-earl-pitts-shirt/",
+    "https://teeworksusa.com/product/the-thing-sumi-e-japanese-shirt/",
+    "https://teeworksusa.com/product/the-mothman-stole-my-catalytic-convertor-in-point-pleasant-west-virginia-shirt/",
+    "https://teeworksusa.com/product/supergirl-i-dreamed-of-krypton-again-shirt/",
+    "https://teeworksusa.com/product/sun-devil-sparky-fb-shirt/",
+    "https://teeworksusa.com/product/suburban-standoff-shirt/",
+    "https://teeworksusa.com/product/sober-anime-fans-of-east-hollywood-shirt/",
+    "https://teeworksusa.com/product/raygun-nasa-logo-shirt/",
+    "https://teeworksusa.com/product/phish-bourbon-and-beyond-in-louisville-ky-sept-12-2025-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-yes-im-old-but-i-saw-new-york-yankees-mantle-and-maris-greatness-shirt/",
@@ -157,16 +157,16 @@
     "https://thefunnyt.com/product/we-could-go-again-like-three-four-times-msg-2025-t8-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/original-widespread-cat-with-rats-2025-shirt/",
-    "https://uscraftedtees.com/product/original-virginia-cavaliers-lacrosse-est-1919-shirt/",
-    "https://uscraftedtees.com/product/original-unicorn-san-francisco-49ers-dabbing-shirt/",
-    "https://uscraftedtees.com/product/original-triceratops-dinosaur-2-horns-silly-2025-shirt/",
-    "https://uscraftedtees.com/product/original-t-rex-friday-february-25th-york-town-theatre-shirt/",
-    "https://uscraftedtees.com/product/original-this-is-what-the-ideal-track-looks-like-2025-shirt/",
-    "https://uscraftedtees.com/product/original-the-cranberries-zombie-kid-2025-shirt/",
-    "https://uscraftedtees.com/product/original-the-beaches-cherry-so-real-to-me-i-it-real-for-you-2025-shirt/",
-    "https://uscraftedtees.com/product/original-the-battle-of-ohio-cincinnati-vs-cleveland-since-1970-map-shirt/",
-    "https://uscraftedtees.com/product/original-tame-impala-deadbeat-2025-shirt/"
+    "https://uscraftedtees.com/product/official-yonder-mountain-string-band-x-railroad-earth-x-daniel-donatos-cosmic-country-september-2025-tour-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-vance-joy-north-american-tour-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-space-bacon-brooklyn-bowl-in-brooklyn-ny-september-20-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-snake-runaway-gin-oxford-ms-runaway-gin-09-05-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-shawn-mendes-forest-hills-stadium-tour-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-sierra-ferrell-at-franklin-music-hall-on-sept-5-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-sept-2025-alex-g-tour-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-sept-7-2025-haight-ashbury-street-fair-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-my-chemical-romance-september-7-2025-fenway-park-in-boston-ma-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-modest-mouse-september-5-2025-santa-barbara-bowl-ca-poster-t-shirts/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/tennessee-volunteers-saturdays-are-for-singing-rocky-top-2-sided-shirt/",
@@ -188,15 +188,15 @@
     "https://clickoneshirt.com/product/aj-lee-love-bites-back-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/yu-gi-oh-paris-world-championships-exodia-t-shirts/",
-    "https://teleteeshirt.com/product/trump-department-of-war-t-shirts/",
-    "https://teleteeshirt.com/product/travis-kelce-takes-slap-to-face-during-smacked-teair-tart-los-angeles-chargers-t-shirts/",
-    "https://teleteeshirt.com/product/the-teskey-brothers-pappy-harriets-in-pioneertown-ca-sept-29-2025-t-shirts/",
-    "https://teleteeshirt.com/product/tedeschi-trucks-band-saratoga-springs-new-york-gig-at-broadview-stage-at-spac-on-september-5-2025-turtle-t-shirts/",
-    "https://teleteeshirt.com/product/taz-tasmanian-devil-looney-tunes-arriba-la-raza-wolfpac-in-the-house-looney-tunes-new-world-order-t-shirts/",
-    "https://teleteeshirt.com/product/taz-looney-tunes-lwo-latino-world-order-mexico-devil-t-shirts/",
-    "https://teleteeshirt.com/product/spiritus-systems-just-a-aberdeen-north-carolina-to-bae-rather-than-to-seen-est-2013-t-shirts/",
-    "https://teleteeshirt.com/product/space-bacon-brooklyn-bowl-in-brooklyn-ny-sept-20-2025-t-shirts/",
-    "https://teleteeshirt.com/product/radio-free-alice-us-canada-tour-2025-dates-t-shirtss/"
+    "https://teleteeshirt.com/product/the-wildheart-more-satanic-rites-of-summer-2025-tour-bunny-t-shirts/",
+    "https://teleteeshirt.com/product/snoopy-but-time-heists-im-not-straight-edge-ciggarate-t-shirts/",
+    "https://teleteeshirt.com/product/slipknot-people-shit-barbie-t-shirts/",
+    "https://teleteeshirt.com/product/marie-carlile-show-red-rocks-september-6-2025-t-shirts/",
+    "https://teleteeshirt.com/product/kansas-city-chiefs-middle-finger-los-angeles-chargers-t-shirts/",
+    "https://teleteeshirt.com/product/200-stab-wounds-piles-of-festering-decomposition-t-shirts/",
+    "https://teleteeshirt.com/product/carrie-underwood-some-hearts-20th-anniversary-t-shirts/",
+    "https://teleteeshirt.com/product/dayseeker-sep-18-2025-tour-louisville-ky-t-shirts/",
+    "https://teleteeshirt.com/product/epic-the-ocean-saga-the-musical-ultra-t-shirts/",
+    "https://teleteeshirt.com/product/flyquest-league-is-dead-t-shirts/"
   ]
 }
