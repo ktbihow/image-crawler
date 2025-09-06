@@ -114,16 +114,16 @@
     "https://serenashirt.com/product/eat-trash-beat-trash-chimeron-ornament/"
   ],
   "fanaticity.com": [
-    "https://fanaticity.com/product/well-i-think-i-mightve-graduated-meme-smoking-shirt/",
-    "https://fanaticity.com/product/tree-an-appeal-to-heaven-shirt/",
-    "https://fanaticity.com/product/support-or-shut-up-ssese-jay-aludah-jo-sal-ciza-dexter-matt-slaughter-elly-mas-shirt/",
-    "https://fanaticity.com/product/resistance-to-tyrants-is-obedience-to-god-shirt/",
-    "https://fanaticity.com/product/red-friday-remember-everyone-deployed-usa-flag-shirt/",
-    "https://fanaticity.com/product/pistol-gun-and-star-shirt/",
-    "https://fanaticity.com/product/pangolins-a-thfest-music-x-art-x-kids-2025-shirt/",
-    "https://fanaticity.com/product/osceola-and-renegade-florida-state-university-shirt/",
-    "https://fanaticity.com/product/nice-day-to-live-your-dream-shirt/",
-    "https://fanaticity.com/product/newest-steelers-fan-shirt/"
+    "https://fanaticity.com/product/you-cant-see-me-new-york-mets-shirt/",
+    "https://fanaticity.com/product/yes-im-a-spoiled-son-im-raised-by-a-freaking-awesome-mom-shirt/",
+    "https://fanaticity.com/product/virginia-tech-hokies-colosseum-oht-military-appreciation-shirt/",
+    "https://fanaticity.com/product/travis-kelce-smacked-by-teair-tart-shirt/",
+    "https://fanaticity.com/product/trauma-ray-2025-shirt/",
+    "https://fanaticity.com/product/tour-sept-2025-billy-strings-shirt/",
+    "https://fanaticity.com/product/thomas-rhett-merch-home-team-football-champs-shirt/",
+    "https://fanaticity.com/product/they-dont-know-what-the-fck-theyre-doing-signature-shirt/",
+    "https://fanaticity.com/product/the-teskey-brothers-pappy-and-harriets-indoor-stage-pioneertown-concert-sept-2025-poster-shirt/",
+    "https://fanaticity.com/product/the-offspring-ridgefield-wa-poster-shirt/"
   ],
   "legendusashirt.com": [
     "https://legendusashirt.com/product/kyle-larson-hendrick-motorsports-team-collection-olive-hendrick-two-sided-shirt/",
