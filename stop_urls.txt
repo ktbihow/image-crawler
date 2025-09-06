@@ -24,15 +24,6 @@
     "https://techteesusa.com/product/greatest-dynasty-ever-chiefs-kingdom-kansas-city-t-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/wolves-home-pickles-shirt/",
-    "https://teeworksusa.com/product/wolverine-chronicle-ann-arbor-shirt/",
-    "https://teeworksusa.com/product/turbo-granny-old-woman-dandadan-shirt/",
-    "https://teeworksusa.com/product/tucker-kraft-yac-n-cheese-shirt/",
-    "https://teeworksusa.com/product/touchdown-hawk-retro-shirt/",
-    "https://teeworksusa.com/product/the-dead-dance-lady-gaga-holding-moon-shirt/",
-    "https://teeworksusa.com/product/the-bryceman-cometh-shirt/",
-    "https://teeworksusa.com/product/take-me-to-the-k-kansas-city-shirt/",
-    "https://teeworksusa.com/product/superman-x-kith-last-son-of-krypton-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-yes-im-old-but-i-saw-new-york-yankees-mantle-and-maris-greatness-shirt/",
