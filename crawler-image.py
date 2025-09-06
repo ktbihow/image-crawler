@@ -54,7 +54,7 @@ def check_url_exists(url):
 def apply_replacements(image_url, replacements):
     """Áp dụng logic thay thế URL hình ảnh."""
     final_img_url = image_url
-    if replacements:
+    if replacements and isinstance(replacements, dict):
         for original, replacement_list in replacements.items():
             if original in image_url:
                 for replacement in replacement_list:
@@ -83,6 +83,7 @@ def apply_fallback_logic(image_url, url_data):
     filename = path_parts[-1]
     prefix_length = fallback_rules.get('prefix_length', 0)
 
+    # Check if the filename has the expected format before cutting
     if len(filename) > prefix_length and filename[prefix_length - 1] == '-':
         new_filename = filename[prefix_length:]
         new_path = '/'.join(path_parts[:-1] + [new_filename])
@@ -112,7 +113,17 @@ def find_best_image_url(soup, url_data):
     else:
         image_tags_to_search = soup.find_all('img')
 
-    if replacements:
+    # Logic tìm kiếm ưu tiên cho định dạng danh sách (list)
+    if isinstance(replacements, list):
+        for img_tag in image_tags_to_search:
+            img_url = img_tag.get('src') or img_tag.get('data-src') or img_tag.get('data-lazy-src')
+            if img_url:
+                for suffix in replacements:
+                    if img_url.endswith(suffix):
+                        print(f"Found prioritized URL in HTML: {img_url}")
+                        return img_url
+    # Logic tìm kiếm ưu tiên cho định dạng dictionary
+    elif isinstance(replacements, dict):
         for img_tag in image_tags_to_search:
             img_url = img_tag.get('src') or img_tag.get('data-src') or img_tag.get('data-lazy-src')
             if img_url:
@@ -131,6 +142,7 @@ def find_best_image_url(soup, url_data):
             return img_url
             
     # 3. Fallback sang img tag thông thường
+    # Lưu ý: nếu không có selector và replacements, đây là bước sẽ chạy
     if not selector and not replacements:
         for img_tag in soup.find_all('img'):
             img_url = img_tag.get('src') or img_tag.get('data-src') or img_tag.get('data-lazy-src')
@@ -139,6 +151,25 @@ def find_best_image_url(soup, url_data):
                 return img_url
             
     return None
+
+def fetch_image_urls_from_web(url_data):
+    """Tải và phân tích URL hình ảnh trực tiếp từ trang web."""
+    all_image_urls = []
+    try:
+        r = requests.get(url_data['url'], headers=HEADERS, timeout=30)
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+    except requests.exceptions.RequestException as e:
+        print(f"Lỗi khi truy cập {url_data['url']}: {e}")
+        return []
+
+    best_url = find_best_image_url(soup, url_data)
+    if best_url:
+        final_url = apply_replacements(best_url, url_data.get('replacements', {}))
+        final_url = apply_fallback_logic(final_url, url_data)
+        all_image_urls.append(final_url)
+        
+    return all_image_urls
 
 def fetch_image_urls_from_api(url_data, stop_urls_list):
     """Tải và phân tích URL hình ảnh từ API."""
@@ -375,7 +406,7 @@ if __name__ == "__main__":
     
     for url_data in configs:
         domain = urlparse(url_data['url']).netloc
-            
+        
         try:
             with open(f"{domain}.txt", "r", encoding="utf-8") as f:
                 existing_urls = [line.strip() for line in f if line.strip()]
