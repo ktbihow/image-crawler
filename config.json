@@ -2,7 +2,7 @@
     {
         "url": "https://geekteesus.com/",
         "selector": "div.product-images img",
-        "replacements": ["-Orament-X-Mas-2024.jpg", "-Ornament-poster-black.jpg", "-shirt.jpg"],
+        "replacements": ["-Orament-X-Mas-2024.jpg", "-Ornament-poster-black.jpg", "-Orament-Christmas-den.jpg"],
         "source_type": "product-list"
     },
     {
