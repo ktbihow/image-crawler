@@ -1,0 +1,106 @@
+[
+    {
+        "url": "https://geekteesus.com/",
+        "selector": "div.product-images img",
+        "replacements": {"-T-shirt.jpg": ["-Orament-X-Mas-2024.jpg", "-Ornament-poster-black.jpg"]},
+        "source_type": "product-list"
+    },
+    {
+        "url": "https://techteesusa.com/",
+        "selector": "div.product-images img",
+        "replacements": {"-T-Shirt.jpg": ["-hoodie.jpg"]},
+        "source_type": "product-list"
+    },
+    {
+        "url": "https://teeworksusa.com/",
+        "source_type": "prevnext",
+        "first_product_selector": ".elementor-element-26e4f04 a[href*='/product/']",
+        "next_product_selector": "div.product-prev a[href*='/product/']",
+        "replacements": {"-unisex-t-shirt.jpg": ["-Posters-black.jpg", "-Posters-white.jpg", "-White-poster.jpg", "-white-poster.jpg", "-poster.jpg"]},
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teeworksusa.com", "prefix_length": 9 }
+    },
+    {
+        "url": "https://meredpremium.com/",
+        "source_type": "prevnext",
+        "first_product_selector": ".product-small a.woocommerce-LoopProduct-link",
+        "next_product_selector": "a:has(i.icon-angle-right)"
+    },
+    {
+        "url": "https://berrylittles.com/",
+        "source_type": "prevnext",
+        "first_product_selector": ".product-small a.woocommerce-LoopProduct-link",
+        "next_product_selector": "a:has(i.icon-angle-right)"
+    },
+    {
+        "url": "https://dreameshirt.com/",
+        "source_type": "prevnext",
+        "first_product_selector": ".product-small a.woocommerce-LoopProduct-link",
+        "next_product_selector": "a:has(i.icon-angle-right)"
+    },
+    {
+        "url": "https://teeextra.com/",
+        "selector": "div.product-images img",
+        "replacements": {"-Shirt.jpg": ["-Ornament.jpg"]},
+        "source_type": "product-list"
+    },
+    {
+        "url": "https://teespix.com/",
+        "source_type": "product-list",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teespix.com", "prefix_length": 9 }
+    },
+    {
+        "url": "https://nowbestshirt.com/",
+        "selector": "div.product-images img",
+        "replacements": {"-t-shirt.jpg": ["-sweater.jpg"]},
+        "source_type": "product-list",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.nowbestshirt.com", "prefix_length": 9 }
+    },
+    {
+        "url": "https://serenashirt.com/",
+        "selector": "div.product-images img",
+        "replacements": {"-v-neck-t-shirt.jpg": ["-t-shirt.jpg", "-sweater.jpg"]},
+        "source_type": "product-list",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.serenashirt.com", "prefix_length": 9 }
+    },
+    {
+        "url": "https://fanaticity.com/",
+        "source_type": "product-list"
+    },
+    {
+        "url": "https://legendusashirt.com/",
+        "selector": "div.product-images img",
+        "replacements": {"-Shirt.webp": ["-Sweater.webp"]},
+        "source_type": "product-list"
+    },
+    {
+        "url": "https://teehandus.com/",
+        "replacements": {"-t-shirt.jpg": ["-long-sleeve.jpg", "-sweater.jpg"]},
+        "source_type": "api"
+    },
+    {
+        "url": "https://thefunnyt.com/",
+        "replacements": {"-Person-Shirt.webp": ["-Premium-Shirt.webp"]},
+        "source_type": "api",
+        "image_source": "yoast",
+        "always_replace": true
+    },
+    {
+        "url": "https://uscraftedtees.com/",
+        "replacements": {"-Shirt.webp": ["-Poster.webp"]},
+        "source_type": "api"
+    },
+    {
+        "url": "https://capitoneshirt.com/",
+        "replacements": {"-shirt.webp": ["-sweater.webp"]},
+        "source_type": "api",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.capitoneshirt.com", "prefix_length": 9 }
+    },
+    {
+        "url": "https://clickoneshirt.com/",
+        "source_type": "api"
+    },
+    {
+        "url": "https://teleteeshirt.com/",
+        "source_type": "api"
+    }
+]
