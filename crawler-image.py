@@ -51,19 +51,34 @@ def check_url_exists(url):
     except requests.exceptions.RequestException:
         return False
 
-def apply_replacements(image_url, replacements):
-    """Áp dụng logic thay thế URL hình ảnh."""
+def apply_replacements(image_url, replacements, always_replace=False):
+    """
+    Áp dụng logic thay thế URL hình ảnh.
+    Đối với API, nếu always_replace=True, sẽ thay thế mà không cần checkhead.
+    """
     final_img_url = image_url
+    
+    # Logic thay thế chuỗi đơn giản cho API và các trường hợp khác
     if replacements and isinstance(replacements, dict):
         for original, replacement_list in replacements.items():
             if original in image_url:
                 for replacement in replacement_list:
                     new_url = image_url.replace(original, replacement)
-                    final_img_url = new_url
-                    break
-            if final_img_url != image_url:
-                break
+                    
+                    if always_replace:
+                        return new_url
+                    
+                    # Với API, kiểm tra sự tồn tại của URL mới
+                    if check_url_exists(new_url):
+                        print(f"✅ Found a valid replacement URL: {new_url}")
+                        return new_url
+                    else:
+                        print(f"❌ Replacement URL not found: {new_url}. Trying next...")
+                # Nếu không tìm thấy URL thay thế nào hợp lệ, trả về URL gốc
+                return image_url
+    
     return final_img_url
+
 
 def apply_fallback_logic(image_url, url_data):
     """
@@ -103,7 +118,10 @@ def apply_fallback_logic(image_url, url_data):
 # ----------------------------------------------------------------------------------------------------------------------
 
 def find_best_image_url(soup, url_data):
-    """Tìm URL hình ảnh tốt nhất dựa trên logic ưu tiên."""
+    """
+    Tìm URL hình ảnh tốt nhất dựa trên logic ưu tiên.
+    Áp dụng cho loại `product-list` và `prevnext`.
+    """
     replacements = url_data.get('replacements', {})
     selector = url_data.get('selector')
 
@@ -122,16 +140,6 @@ def find_best_image_url(soup, url_data):
                     if img_url.endswith(suffix):
                         print(f"Found prioritized URL in HTML: {img_url}")
                         return img_url
-    # Logic tìm kiếm ưu tiên cho định dạng dictionary
-    elif isinstance(replacements, dict):
-        for img_tag in image_tags_to_search:
-            img_url = img_tag.get('src') or img_tag.get('data-src') or img_tag.get('data-lazy-src')
-            if img_url:
-                for original in replacements.keys():
-                    if original in img_url:
-                        print(f"Found prioritized URL in HTML: {img_url}")
-                        final_url = apply_replacements(img_url, replacements)
-                        return final_url
     
     # 2. Fallback sang og:image
     og_image_tag = soup.find('meta', property='og:image')
@@ -142,7 +150,6 @@ def find_best_image_url(soup, url_data):
             return img_url
             
     # 3. Fallback sang img tag thông thường
-    # Lưu ý: nếu không có selector và replacements, đây là bước sẽ chạy
     if not selector and not replacements:
         for img_tag in soup.find_all('img'):
             img_url = img_tag.get('src') or img_tag.get('data-src') or img_tag.get('data-lazy-src')
@@ -152,27 +159,11 @@ def find_best_image_url(soup, url_data):
             
     return None
 
-def fetch_image_urls_from_web(url_data):
-    """Tải và phân tích URL hình ảnh trực tiếp từ trang web."""
-    all_image_urls = []
-    try:
-        r = requests.get(url_data['url'], headers=HEADERS, timeout=30)
-        r.raise_for_status()
-        soup = BeautifulSoup(r.text, "html.parser")
-    except requests.exceptions.RequestException as e:
-        print(f"Lỗi khi truy cập {url_data['url']}: {e}")
-        return []
-
-    best_url = find_best_image_url(soup, url_data)
-    if best_url:
-        final_url = apply_replacements(best_url, url_data.get('replacements', {}))
-        final_url = apply_fallback_logic(final_url, url_data)
-        all_image_urls.append(final_url)
-        
-    return all_image_urls
-
 def fetch_image_urls_from_api(url_data, stop_urls_list):
-    """Tải và phân tích URL hình ảnh từ API."""
+    """
+    Tải và phân tích URL hình ảnh từ API.
+    Thực hiện replace và checkhead.
+    """
     all_image_urls = []
     new_product_urls_found = []
     page = 1
@@ -210,7 +201,8 @@ def fetch_image_urls_from_api(url_data, stop_urls_list):
                     if img_url.startswith('http://'):
                         img_url = img_url.replace('http://', 'https://')
                     
-                    final_img_url = apply_replacements(img_url, url_data.get('replacements', {}))
+                    # Áp dụng replace và checkhead
+                    final_img_url = apply_replacements(img_url, url_data.get('replacements', {}), url_data.get('always_replace', False))
                     final_img_url = apply_fallback_logic(final_img_url, url_data)
                     
                     if final_img_url not in all_image_urls:
@@ -257,10 +249,10 @@ def fetch_image_urls_from_prevnext(url_data, stop_urls_list):
             r.raise_for_status()
             soup = BeautifulSoup(r.text, "html.parser")
 
+            # Logic tìm kiếm ưu tiên cho định dạng danh sách (list)
             best_url = find_best_image_url(soup, url_data)
             if best_url:
-                final_img_url = apply_replacements(best_url, url_data.get('replacements', {}))
-                final_img_url = apply_fallback_logic(final_img_url, url_data)
+                final_img_url = apply_fallback_logic(best_url, url_data)
                 
                 if final_img_url not in all_image_urls:
                     all_image_urls.append(final_img_url)
@@ -356,10 +348,10 @@ def fetch_image_urls_from_product_list(url_data, stop_urls_list):
             r.raise_for_status()
             soup = BeautifulSoup(r.text, "html.parser")
             
+            # Logic tìm kiếm ưu tiên cho định dạng danh sách (list)
             best_url = find_best_image_url(soup, url_data)
             if best_url:
-                final_img_url = apply_replacements(best_url, url_data.get('replacements', {}))
-                final_img_url = apply_fallback_logic(final_img_url, url_data)
+                final_img_url = apply_fallback_logic(best_url, url_data)
                 
                 if final_img_url not in all_image_urls:
                     all_image_urls.append(final_img_url)
@@ -401,12 +393,11 @@ if __name__ == "__main__":
         exit(1)
 
     urls_summary = {}
-    
     stop_urls_data = load_stop_urls()
     
     for url_data in configs:
         domain = urlparse(url_data['url']).netloc
-        
+            
         try:
             with open(f"{domain}.txt", "r", encoding="utf-8") as f:
                 existing_urls = [line.strip() for line in f if line.strip()]
@@ -414,10 +405,11 @@ if __name__ == "__main__":
             existing_urls = []
         
         source_type = url_data.get('source_type')
-        if source_type == 'web':
-            image_urls = fetch_image_urls_from_web(url_data)
-            new_product_urls_found = []
-        elif source_type == 'api':
+        
+        image_urls = []
+        new_product_urls_found = []
+        
+        if source_type == 'api':
             domain_stop_urls_list = stop_urls_data.get(domain, [])
             image_urls, new_product_urls_found = fetch_image_urls_from_api(url_data, set(domain_stop_urls_list))
         elif source_type == 'prevnext':
@@ -434,7 +426,6 @@ if __name__ == "__main__":
         new_urls_count, total_urls_count = save_urls(domain, image_urls)
         urls_summary[domain] = {'new_count': new_urls_count, 'total_count': total_urls_count}
         
-        # Cập nhật stop_urls sau khi crawl
         if new_product_urls_found:
             stop_urls_data[domain] = new_product_urls_found[:STOP_URLS_COUNT]
         elif domain in stop_urls_data:
