@@ -12,16 +12,16 @@
     "https://geekteesus.com/product/snoopy-a-little-goes-a-long-way-drive-blood-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/hung-like-jeffrey-epstein-2025-t-shirt/",
-    "https://techteesusa.com/product/carolina-soul-records-shirt/",
-    "https://techteesusa.com/product/can-i-interest-you-in-some-dick-shirt/",
-    "https://techteesusa.com/product/call-lolo-2025-has-a-loser-broken-ur-heart-shirt/",
-    "https://techteesusa.com/product/bring-it-back-minnesota-state-1858-shirt/",
-    "https://techteesusa.com/product/bride-of-chucky-eyes-heart-shirt/",
-    "https://techteesusa.com/product/breach-tour-los-angeles-artourpia-2025-shirt/",
-    "https://techteesusa.com/product/breach-hartford-pez-2025-shirt/",
-    "https://techteesusa.com/product/blues-tesla-guitar-shirt/",
-    "https://techteesusa.com/product/blink-182-bunny-logo-shirt/"
+    "https://techteesusa.com/product/i-would-prefer-not-to-herman-melville-1853-c19-dissent-shirt/",
+    "https://techteesusa.com/product/friend-of-garak-rainbow-shirt/",
+    "https://techteesusa.com/product/squid-game-3-attention-all-players-anime-shirt/",
+    "https://techteesusa.com/product/wolfsbane-mutant-shirt/",
+    "https://techteesusa.com/product/2025-tri-county-a-swim-championships-logo-shirt/",
+    "https://techteesusa.com/product/i-got-my-ass-ate-on-the-severed-floor-of-lumon-shirt/",
+    "https://techteesusa.com/product/crunchwrap-slut-shirt/",
+    "https://techteesusa.com/product/indianapolis-skyline-3-team-indianapolis-colts-indiana-fever-indiana-pacers-shirt/",
+    "https://techteesusa.com/product/michigan-wolverines-2025-ncaa-mens-gymnastics-national-champions-shirt/",
+    "https://techteesusa.com/product/trans-women-are-just-retarded-fags-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/lollapalooza-fractal-spiral-shirt/",
