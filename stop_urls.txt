@@ -24,6 +24,16 @@
     "https://techteesusa.com/product/greatest-dynasty-ever-chiefs-kingdom-kansas-city-t-shirt/"
   ],
   "teeworksusa.com": [
+    "https://teeworksusa.com/product/wolves-home-pickles-shirt/",
+    "https://teeworksusa.com/product/wolverine-chronicle-ann-arbor-shirt/",
+    "https://teeworksusa.com/product/turbo-granny-old-woman-dandadan-shirt/",
+    "https://teeworksusa.com/product/tucker-kraft-yac-n-cheese-shirt/",
+    "https://teeworksusa.com/product/touchdown-hawk-retro-shirt/",
+    "https://teeworksusa.com/product/the-dead-dance-lady-gaga-holding-moon-shirt/",
+    "https://teeworksusa.com/product/the-bryceman-cometh-shirt/",
+    "https://teeworksusa.com/product/take-me-to-the-k-kansas-city-shirt/",
+    "https://teeworksusa.com/product/superman-x-kith-last-son-of-krypton-shirt/",
+    "https://teeworksusa.com/product/southampton-home-pickles-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-yes-im-old-but-i-saw-new-york-yankees-mantle-and-maris-greatness-shirt/",
@@ -128,16 +138,11 @@
     "https://legendusashirt.com/product/ohio-state-football-lee-corso-two-sided-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/knox-america-college-sports-city-shirt/",
-    "https://teehandus.com/product/prague-czech-beer-here-czech-republic-shirt/",
-    "https://teehandus.com/product/reedeley-football-we-all-we-got-shirt/",
-    "https://teehandus.com/product/rick-sanchez-im-not-arguing-im-explaining-shirt/",
-    "https://teehandus.com/product/santigold-santogold-album-cover-shirt/",
-    "https://teehandus.com/product/this-is-a-smashing-pumpkins-t-shirt/",
-    "https://teehandus.com/product/title-fight-devil-shirt/",
-    "https://teehandus.com/product/troy-and-abed-in-the-morning-shirt/",
-    "https://teehandus.com/product/justice-hyperdrama-world-tour-shirt/",
-    "https://teehandus.com/product/lindsey-boylan-wearing-zohran-shirt/"
+    "https://teehandus.com/product/adtr-toronto-2025-shirt/",
+    "https://teehandus.com/product/hayley-williams-a-true-believe-shirt/",
+    "https://teehandus.com/product/i-survived-halloween-horror-nights-viii-1998-universal-studios-florida-shirt/",
+    "https://teehandus.com/product/hw-negative-self-talk-no-i-wont-hear-it-shirt/",
+    "https://teehandus.com/product/monsters-outside-tube-trolls-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/duke-blue-devils-paneled-shirt/",
