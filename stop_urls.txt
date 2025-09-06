@@ -198,15 +198,15 @@
     "https://clickoneshirt.com/product/suburban-standoff-art-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/gloomy-bear-abstraction-t-shirts/",
-    "https://teleteeshirt.com/product/ghostface-party-crasher-knife-t-shirts/",
-    "https://teleteeshirt.com/product/ghostface-invites-you-to-our-31st-annual-pumpkin-carving-party-halloween-t-shirts/",
-    "https://teleteeshirt.com/product/fantastic-4-first-steps-the-human-torch-t-shirts/",
-    "https://teleteeshirt.com/product/fantastic-4-first-steps-invisible-woman-together-as-a-family-t-shirts/",
-    "https://teleteeshirt.com/product/disney-princess-and-their-flowers-t-shirts/",
-    "https://teleteeshirt.com/product/call-of-duty-warzone-bot-lobby-t-shirts-2/",
-    "https://teleteeshirt.com/product/call-of-duty-ours-en-peluche-mysterieux-t-shirts-2/",
-    "https://teleteeshirt.com/product/call-of-duty-ghost-sugar-crane-t-shirts/",
-    "https://teleteeshirt.com/product/call-of-duty-clang-clang-bang-t-shirts/"
+    "https://teleteeshirt.com/product/elephant-wrecking-ball-cervantes-other-side-in-denver-co-sept-21-2025-t-shirts/",
+    "https://teleteeshirt.com/product/disco-disco-disco-disco-lines-gallagher-square-san-diego-california-august-29th-2025-t-shirts/",
+    "https://teleteeshirt.com/product/chicleteira-bicicleteira-italian-brainrot-t-shirts/",
+    "https://teleteeshirt.com/product/chicken-tender-slut-t-shirts-2/",
+    "https://teleteeshirt.com/product/boiler-room-x-pleasures-loud-loud-music-encouraged-t-shirts/",
+    "https://teleteeshirt.com/product/bobby-bare-jr-hoist-the-king-november-2-2025-los-angeles-ca-t-shirts/",
+    "https://teleteeshirt.com/product/billy-strings-seed-co-happy-hollow-michigan-fall-tour-2025-t-shirts/",
+    "https://teleteeshirt.com/product/billy-strings-and-bryan-sutton-with-royal-masat-on-tour-september-2025-river-duck-t-shirts/",
+    "https://teleteeshirt.com/product/billy-strings-and-bryan-sutton-with-royal-masat-on-tour-in-owensboro-kentucky-night-2-venue-at-woodward-on-september-6-2025-t-shirts/",
+    "https://teleteeshirt.com/product/billy-strings-and-bryan-sutton-with-royal-masat-2025-tour-suit-with-dates-in-kentucky-north-carolina-and-tennessee-september-t-shirts/"
   ]
 }
