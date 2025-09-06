@@ -145,40 +145,32 @@
     "https://teehandus.com/product/monsters-outside-tube-trolls-shirt/"
   ],
   "thefunnyt.com": [
-    "https://thefunnyt.com/product/duke-blue-devils-paneled-shirt/",
-    "https://thefunnyt.com/product/if-god-made-anything-better-than-pussy-shirt/",
-    "https://thefunnyt.com/product/virji-isnt-it-shirt/",
-    "https://thefunnyt.com/product/ice-nine-kills-kim-dracula-shirt/",
-    "https://thefunnyt.com/product/dropout-tv-no-problem-shirt/",
-    "https://thefunnyt.com/product/wake-up-america-earl-pitts-shirt/",
-    "https://thefunnyt.com/product/pablo-sanchez-baseball-card-shirt/",
-    "https://thefunnyt.com/product/sister-of-battle-in-training-shirt/",
-    "https://thefunnyt.com/product/bride-of-chucky-shirt/",
-    "https://thefunnyt.com/product/we-could-go-again-like-three-four-times-msg-2025-t8-shirt/"
+    "https://thefunnyt.com/product/my-name-is-not-sami-zayn-my-name-is-rebellion-shirt/",
+    "https://thefunnyt.com/product/jesus-tylor-swift-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/official-yonder-mountain-string-band-x-railroad-earth-x-daniel-donatos-cosmic-country-september-2025-tour-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-vance-joy-north-american-tour-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-space-bacon-brooklyn-bowl-in-brooklyn-ny-september-20-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-snake-runaway-gin-oxford-ms-runaway-gin-09-05-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-shawn-mendes-forest-hills-stadium-tour-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-sierra-ferrell-at-franklin-music-hall-on-sept-5-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-sept-2025-alex-g-tour-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-sept-7-2025-haight-ashbury-street-fair-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-my-chemical-romance-september-7-2025-fenway-park-in-boston-ma-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-modest-mouse-september-5-2025-santa-barbara-bowl-ca-poster-t-shirts/"
+    "https://uscraftedtees.com/product/official-woodstock-a-little-goes-a-long-way-give-blood-t-shirts/",
+    "https://uscraftedtees.com/product/official-vinegar-syndrome-tammy-and-the-t-rex-v-demon-wind-t-shirts/",
+    "https://uscraftedtees.com/product/official-trauma-ray-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-they-dont-know-what-the-fck-theyre-doing-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-the-who-united-center-in-chicago-il-sept-7-9-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-south-park-x-dmb-gorge-crew-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-skull-cody-rhodes-is-guile-american-flag-2026-t-shirts/",
+    "https://uscraftedtees.com/product/official-shake-it-for-congress-the-band-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-sept-6-7-2025-mountain-view-art-wine-festival-white-t-shirts/",
+    "https://uscraftedtees.com/product/official-pulp-band-postcard-2025-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/tennessee-volunteers-saturdays-are-for-singing-rocky-top-2-sided-shirt/",
-    "https://capitoneshirt.com/product/tennessee-volunteers-rocky-top-youll-always-be-home-2-sided-shirt/",
-    "https://capitoneshirt.com/product/tennessee-volunteers-let-em-fucking-know-2-sided-shirt/",
-    "https://capitoneshirt.com/product/tennessee-volunteers-alexa-play-rocky-top-2-sided-shirt/",
-    "https://capitoneshirt.com/product/tcu-horned-frogs-winner-stays-2-sided-shirt/",
-    "https://capitoneshirt.com/product/tcu-horned-frogs-jesus-won-2-sided-shirt/",
-    "https://capitoneshirt.com/product/philadelphia-eagles-quinyonamo-bay-2-sided-shirt/",
-    "https://capitoneshirt.com/product/philadelphia-eagles-love-hurts-2-sided-shirt/",
-    "https://capitoneshirt.com/product/philadelphia-eagles-love-c-j-gardner-johnson-2-sided-shirt/",
-    "https://capitoneshirt.com/product/philadelphia-eagles-beat-dallas-cowboys-2-sided-shirt/"
+    "https://capitoneshirt.com/product/honey-badger-natural-born-chiller-shirt/",
+    "https://capitoneshirt.com/product/honey-badger-fuck-regrets-manage-consequences-shirt/",
+    "https://capitoneshirt.com/product/henry-viii-chess-all-queens-few-survivors-shirt/",
+    "https://capitoneshirt.com/product/happy-fall-yall-halloween-shirt/",
+    "https://capitoneshirt.com/product/fredrick-moore-oh-no-michigan-wolverines-shirt/",
+    "https://capitoneshirt.com/product/florida-state-seminoles-i-just-dont-see-them-stopping-me-shirt/",
+    "https://capitoneshirt.com/product/egyptian-sarcophagus-dead-inside-shirt-2/",
+    "https://capitoneshirt.com/product/americans-will-cross-a-frozen-river-on-christmas-to-kill-you-shirt/",
+    "https://capitoneshirt.com/product/alamo-dear-texas-youre-welcome-regards-the-real-ut-shirt/",
+    "https://capitoneshirt.com/product/alexander-the-great-to-the-edge-of-the-world-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/hbcu-dreams-atlanta-dream-shirt/",
@@ -188,15 +180,15 @@
     "https://clickoneshirt.com/product/aj-lee-love-bites-back-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/the-wildheart-more-satanic-rites-of-summer-2025-tour-bunny-t-shirts/",
-    "https://teleteeshirt.com/product/snoopy-but-time-heists-im-not-straight-edge-ciggarate-t-shirts/",
-    "https://teleteeshirt.com/product/slipknot-people-shit-barbie-t-shirts/",
-    "https://teleteeshirt.com/product/marie-carlile-show-red-rocks-september-6-2025-t-shirts/",
-    "https://teleteeshirt.com/product/kansas-city-chiefs-middle-finger-los-angeles-chargers-t-shirts/",
-    "https://teleteeshirt.com/product/200-stab-wounds-piles-of-festering-decomposition-t-shirts/",
-    "https://teleteeshirt.com/product/carrie-underwood-some-hearts-20th-anniversary-t-shirts/",
-    "https://teleteeshirt.com/product/dayseeker-sep-18-2025-tour-louisville-ky-t-shirts/",
-    "https://teleteeshirt.com/product/epic-the-ocean-saga-the-musical-ultra-t-shirts/",
-    "https://teleteeshirt.com/product/flyquest-league-is-dead-t-shirts/"
+    "https://teleteeshirt.com/product/your-intuition-was-right-youre-crazy-t-shirts/",
+    "https://teleteeshirt.com/product/warhammer-the-old-world-grand-cathay-t-shirts/",
+    "https://teleteeshirt.com/product/touching-grass-in-this-economy-hands-t-shirts/",
+    "https://teleteeshirt.com/product/wake-up-act-silly-t-shirts/",
+    "https://teleteeshirt.com/product/the-austin-chronicle-hot-sauce-festival-2025-t-shirts/",
+    "https://teleteeshirt.com/product/theyre-not-bad-at-texting-they-just-dont-like-you-t-shirts/",
+    "https://teleteeshirt.com/product/talking-shit-together-is-a-love-language-t-shirts/",
+    "https://teleteeshirt.com/product/sorry-im-late-i-was-mentally-preparing-for-this-t-shirts/",
+    "https://teleteeshirt.com/product/situationship-survivor-t-shirts/",
+    "https://teleteeshirt.com/product/raygun-nasa-logo-t-shirts/"
   ]
 }
