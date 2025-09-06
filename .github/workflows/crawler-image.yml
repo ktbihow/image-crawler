@@ -81,3 +81,9 @@ jobs:
           -H "Accept: application/vnd.github.v3+json" \
           https://api.github.com/repos/ktbgit/ktb-image/dispatches \
           -d '{"event_type":"new_urls_available"}'
+          # Command to trigger the 3rd repository on a different account
+          curl -X POST \
+          -H "Authorization: token ${{ secrets.KTBHUB_PAT }}" \
+          -H "Accept: application/vnd.github.v3+json" \
+          https://api.github.com/repos/ktbhub/ktb/dispatches \
+          -d '{"event_type":"new_urls_available"}'
