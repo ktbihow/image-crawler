@@ -173,11 +173,7 @@
     "https://capitoneshirt.com/product/stix-city-lavar-arrington-penn-state-nittany-lions-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/hbcu-dreams-atlanta-dream-shirt/",
-    "https://clickoneshirt.com/product/texas-tech-vs-oregon-state-2025-raider-power-shirt/",
-    "https://clickoneshirt.com/product/goose-chicago-fall-tour-2025-northerly-island-shirt/",
-    "https://clickoneshirt.com/product/carmelo-anthony-denver-nuggets-ultimate-player-shirt/",
-    "https://clickoneshirt.com/product/aj-lee-love-bites-back-shirt/"
+    "https://clickoneshirt.com/product/bayou-bandits-lsu-bandit-noun-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/your-intuition-was-right-youre-crazy-t-shirts/",
