@@ -8,7 +8,7 @@ from datetime import datetime
 
 # Constants
 MAX_URLS = 500
-MAX_PREVNEXT_URLS = 50
+MAX_PREVNEXT_URLS = 200
 MAX_API_PAGES = 1
 DEFAULT_API_URL_PATTERN = "https://{domain}/wp-json/wp/v2/product?per_page=100&page={page}&orderby=date&order=desc"
 HEADERS = {"User-Agent": "Mozilla/50.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}
