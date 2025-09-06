@@ -1,15 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/miami-hurricanes-football-2025-logo-t-shirt/",
-    "https://geekteesus.com/product/university-of-south-carolina-bikini-shirt/",
-    "https://geekteesus.com/product/jay-park-studys-clock-shirt/",
-    "https://geekteesus.com/product/i-dont-do-tears-wednesday-shirt/",
-    "https://geekteesus.com/product/tidy-trax-harder-faster-shirt/",
-    "https://geekteesus.com/product/we-are-all-palestine-action-shirt/",
-    "https://geekteesus.com/product/the-only-ny-team-buffalo-bills-state-map-shirt/",
-    "https://geekteesus.com/product/stop-eating-batteries-shirt/",
-    "https://geekteesus.com/product/suleiman-al-obeid-commemorative-shirt/",
-    "https://geekteesus.com/product/philadelphia-eagles-autism-foundation-shirt/"
+    "https://geekteesus.com/product/isack-hadjar-nooo-nooo-nooo-i-destroyed-the-trophy-shirt/",
+    "https://geekteesus.com/product/hbcu-dreams-atlanta-dream-shirt/",
+    "https://geekteesus.com/product/2025-wnba-playoffs-golden-state-valkyries-inaugural-season-shirt/",
+    "https://geekteesus.com/product/new-york-mets-x-stranger-things-night-2025-shirt/",
+    "https://geekteesus.com/product/die-mo-power-shirt/",
+    "https://geekteesus.com/product/i-love-transforming-unstructured-data-into-actionable-business-insights-shirt/",
+    "https://geekteesus.com/product/ben-ingram-and-darren-oday-shake-n-bake-bristol-baby-shirt/",
+    "https://geekteesus.com/product/dr-frankensteins-tiki-monster-shirt/",
+    "https://geekteesus.com/product/minnesota-lynx-wnba-playoffs-2025-t-shirt/",
+    "https://geekteesus.com/product/kate-martin-player-golden-state-valkyries-wnba-playoffs-2025-graphic-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/yea-dawgies-ride-the-tide-shirt/",
@@ -36,16 +36,16 @@
     "https://teeworksusa.com/product/southampton-home-pickles-shirt/"
   ],
   "meredpremium.com": [
-    "https://meredpremium.com/product/official-washington-commanders-raise-hail-names-t-shirt/",
-    "https://meredpremium.com/product/official-unc-tar-heels-vs-charlotte-2025-gameday-showdown-football-t-shirt/",
-    "https://meredpremium.com/product/official-toronto-on-2025-the-who-band-event-t-shirt/",
-    "https://meredpremium.com/product/official-the-cranberries-zombie-shirt/",
-    "https://meredpremium.com/product/official-seattle-seahawks-touchdown-hawk-rivalry-t-shirt/",
-    "https://meredpremium.com/product/official-season-opener-eagles-vs-cowboys-philadelphia-pa-sept-4-2025-gameday-football-shirt/",
-    "https://meredpremium.com/product/official-re-elect-trump-2028-t-shirt/",
-    "https://meredpremium.com/product/official-phillies-long-live-dollar-dog-night-powders-blue-baseball-shirt/",
-    "https://meredpremium.com/product/official-nike-tcu-horned-frogs-fear-the-frog-shirt/",
-    "https://meredpremium.com/product/official-morgan-wallen-nike-lumen-field-seattle-seahawks-2025-shirt/"
+    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-new-york-yankees-mantle-and-maris-greatness-shirt/",
+    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-new-york-yankees-derek-jeter-mariano-rivera-jorge-posada-andy-pettitte-greatness-shirt/",
+    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-los-angeles-dodgers-sandy-koufax-and-don-drysdale-greatness-shirt/",
+    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-boston-red-sox-david-ortiz-manny-ramirez-pedro-martinez-curt-schilling-greatness-shirt/",
+    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-los-angeles-dodgers-sandy-koufax-and-don-drysdale-maury-wills-greatness-shirt/",
+    "https://meredpremium.com/product/official-wolverines-on-saturdays-lions-on-sundays-football-2025-shirt/",
+    "https://meredpremium.com/product/official-underwood-wolverines-on-saturdays-goff-lions-on-sundays-shirt/",
+    "https://meredpremium.com/product/official-trumpkin-spice-presidential-blend-t-shirt/",
+    "https://meredpremium.com/product/official-trumpkin-spice-everything-nice-halloween-trump-pumpkin-t-shirt/",
+    "https://meredpremium.com/product/official-treveyon-henderson-new-england-patriots-celebration-player-t-shirt/"
   ],
   "berrylittles.com": [
     "https://berrylittles.com/product/official-nfl-vikings-vs-bears-1985-40th-anniversary-edition-now-playing-september-8-2025-poster-t-shirt/",
@@ -60,16 +60,10 @@
     "https://berrylittles.com/product/official-cleveland-browns-football-taking-the-pound-across-the-pond-painting-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-presented-by-texas-lottery-silver-boot-series-texas-rangers-vs-houston-astros-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-phish-bourbon-and-beyond-in-louisville-ky-september-12-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-philadelphia-eagles-jihaad-campbell-play-of-the-game-rookie-making-plays-t-shirt/",
-    "https://dreameshirt.com/product/official-nfl-fighter-ii-the-world-warriors-chiefs-vs-chargers-week-1-kickoff-t-shirt/",
-    "https://dreameshirt.com/product/official-nfl-fighter-ii-the-world-warriors-chiefs-vs-chargers-2p-player-select-t-shirt/",
-    "https://dreameshirt.com/product/official-slam-x-los-angeles-sparks-basketball-azura-stevens-graphic-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-treveyon-henderson-new-england-patriots-celebration-nfl-football-2025-graphic-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-modest-mouse-september-5-2025-santa-barbara-bowl-ca-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-jer-band-nietzsches-in-buffalo-ny-september-20-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-dayseeker-louder-than-life-sideshow-september-18-2025-tour-louisville-ky-t-shirt/"
+    "https://dreameshirt.com/product/official-san-diego-ca-dude-blink-182-ranch-est-1992-online-ceramics-retro-t-shirt/",
+    "https://dreameshirt.com/product/official-new-york-yankees-vs-toronto-blue-jays-in-friday-september-5-mlb-pennant-chase-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-new-york-mets-vs-cincinnati-reds-in-friday-september-5-mlb-pennant-chase-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-blink-182-dude-ranch-parental-advisory-explicit-content-poster-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/caitlin-clark-wear-her-logo-two-sided-shirt/",
