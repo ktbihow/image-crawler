@@ -59,7 +59,7 @@
     {
         "url": "https://serenashirt.com/",
         "selector": "div.product-images img",
-        "replacements": {"-v-neck-t-shirt.jpg": ["-t-shirt.jpg", "-sweater.jpg"]},
+        "replacements": {"-v-neck-t-shirt.jpg": ["-ornament-Ornament.jpg", "-sweater.jpg", "-shirt.jpg"]},
         "source_type": "product-list",
         "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.serenashirt.com", "prefix_length": 9 }
     },
