@@ -126,28 +126,28 @@
     "https://fanaticity.com/product/melvin-seals-and-jgb-sept-9-2025-junction-beer-garden-in-mill-valley-ca-poster-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/west-virginia-black-bears-2025-mlb-draft-league-champions-t-shirt/",
-    "https://legendusashirt.com/product/welcome-to-the-schlitt-show-signature-t-shirt/",
-    "https://legendusashirt.com/product/wasted-in-jarmen-sept-5-6-2025-poster-motoballplatr-parmen-t-shirt/",
-    "https://legendusashirt.com/product/washington-huskies-the-peanuts-its-the-most-wonderful-time-of-the-year-autumn-2025-t-shirt/",
-    "https://legendusashirt.com/product/vanderbilt-commodores-the-peanuts-its-the-most-wonderful-time-of-the-year-autumn-2025-t-shirt/",
-    "https://legendusashirt.com/product/valley-isle-ordnance-t-shirt/",
-    "https://legendusashirt.com/product/usc-trojans-the-peanuts-its-the-most-wonderful-time-of-the-year-2025-t-shirt/",
-    "https://legendusashirt.com/product/university-of-minnesota-bart-simpson-t-shirt/",
-    "https://legendusashirt.com/product/uconn-huskies-six-time-ncaa-national-champions-mens-basketball-t-shirt/",
-    "https://legendusashirt.com/product/uconn-huskies-12-time-ncaa-national-champions-womens-basketball-t-shirt/"
+    "https://legendusashirt.com/product/alex-g-tour-sept-2025-poster-t-shirt/",
+    "https://legendusashirt.com/product/utah-state-football-farm-fresh-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/seattle-mariners-t-mobile-park-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/salty-detroit-lions-x-dan-campbell-2025-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/phoenix-suns-x-wwe-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/phoenix-suns-new-logo-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/philadelphia-eagles-in-the-season-opener-go-birds-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/philadelphia-eagles-2025-super-bowl-champs-beat-dallas-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/penn-state-football-look-the-fukin-in-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/ohio-state-football-lee-corso-two-sided-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/youngstown-state-penguins-eastwood-mall-meijer-shirt/",
-    "https://teehandus.com/product/shake-n-bake-bristol-baby-shirt/",
-    "https://teehandus.com/product/point-of-contact-has-the-edge-gone-dull-shirt/",
-    "https://teehandus.com/product/new-york-mets-stranger-things-shirt/",
-    "https://teehandus.com/product/mcr-love-billys-sons-band-shirt/",
-    "https://teehandus.com/product/hbcu-dreams-inspiring-the-next-generation-to-honor-shirt/",
-    "https://teehandus.com/product/hatchetman-violent-j-cartoon-shirt/",
-    "https://teehandus.com/product/fsu-vs-alabama-2025-sweet-home-tallahassee-noles-tide-shirt/",
-    "https://teehandus.com/product/brent-marks-sprint-car-19-shirt/",
-    "https://teehandus.com/product/danny-sullivan-spin-and-win-shirt/"
+    "https://teehandus.com/product/knox-america-college-sports-city-shirt/",
+    "https://teehandus.com/product/prague-czech-beer-here-czech-republic-shirt/",
+    "https://teehandus.com/product/reedeley-football-we-all-we-got-shirt/",
+    "https://teehandus.com/product/rick-sanchez-im-not-arguing-im-explaining-shirt/",
+    "https://teehandus.com/product/santigold-santogold-album-cover-shirt/",
+    "https://teehandus.com/product/this-is-a-smashing-pumpkins-t-shirt/",
+    "https://teehandus.com/product/title-fight-devil-shirt/",
+    "https://teehandus.com/product/troy-and-abed-in-the-morning-shirt/",
+    "https://teehandus.com/product/justice-hyperdrama-world-tour-shirt/",
+    "https://teehandus.com/product/lindsey-boylan-wearing-zohran-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/duke-blue-devils-paneled-shirt/",
@@ -198,15 +198,15 @@
     "https://clickoneshirt.com/product/suburban-standoff-art-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/osama-bin-laden-mortal-9-11-t-shirts/",
-    "https://teleteeshirt.com/product/william-shakespeare-william-cheekespeare-potrait-t-shirts/",
-    "https://teleteeshirt.com/product/vosh-tour-summer-2025-dates-t-shirts/",
-    "https://teleteeshirt.com/product/twiztid-freek-show-orbs-t-shirts/",
-    "https://teleteeshirt.com/product/trust-no-one-fbi-project-promo-t-shirts/",
-    "https://teleteeshirt.com/product/trauma-ray-faces-head-t-shirts/",
-    "https://teleteeshirt.com/product/tom-and-jery-tom-and-jewy-t-shirts/",
-    "https://teleteeshirt.com/product/the-x-files-the-truth-is-out-there-t-shirts/",
-    "https://teleteeshirt.com/product/the-x-files-deny-everything-morly-cigarettes-t-shirts/",
-    "https://teleteeshirt.com/product/the-cough-syrup-drop-out-t-shirts/"
+    "https://teleteeshirt.com/product/gloomy-bear-abstraction-t-shirts/",
+    "https://teleteeshirt.com/product/ghostface-party-crasher-knife-t-shirts/",
+    "https://teleteeshirt.com/product/ghostface-invites-you-to-our-31st-annual-pumpkin-carving-party-halloween-t-shirts/",
+    "https://teleteeshirt.com/product/fantastic-4-first-steps-the-human-torch-t-shirts/",
+    "https://teleteeshirt.com/product/fantastic-4-first-steps-invisible-woman-together-as-a-family-t-shirts/",
+    "https://teleteeshirt.com/product/disney-princess-and-their-flowers-t-shirts/",
+    "https://teleteeshirt.com/product/call-of-duty-warzone-bot-lobby-t-shirts-2/",
+    "https://teleteeshirt.com/product/call-of-duty-ours-en-peluche-mysterieux-t-shirts-2/",
+    "https://teleteeshirt.com/product/call-of-duty-ghost-sugar-crane-t-shirts/",
+    "https://teleteeshirt.com/product/call-of-duty-clang-clang-bang-t-shirts/"
   ]
 }
