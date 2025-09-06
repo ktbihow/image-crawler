@@ -126,16 +126,12 @@
     "https://fanaticity.com/product/newest-steelers-fan-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/yonder-mountain-string-band-and-railroad-earth-with-daniel-donatos-cosmic-country-september-6-2025-town-of-perinton-in-fairport-ny-t-shirt/",
-    "https://legendusashirt.com/product/yes-they-are-real-t-shirt-2/",
-    "https://legendusashirt.com/product/xl-recordings-blawan-sick-elixir-t-shirt/",
-    "https://legendusashirt.com/product/vianova-t-shirt/",
-    "https://legendusashirt.com/product/ut-martin-skyhawks-vs-oklahoma-st-cowboys-2025-week-football-gameday-t-shirt/",
-    "https://legendusashirt.com/product/treveyon-henderson-new-england-patriots-celebration-2025-t-shirt/",
-    "https://legendusashirt.com/product/these-pretzels-are-making-me-thirsty-t-shirt/",
-    "https://legendusashirt.com/product/travis-kelce-takes-slap-to-face-during-chiefs-loss-to-chargers-t-shirt/",
-    "https://legendusashirt.com/product/these-pretzels-are-making-me-thirsty-seinfeld-t-shirt/",
-    "https://legendusashirt.com/product/the-wildheart-tour-summer-december-2025-t-shirt/"
+    "https://legendusashirt.com/product/kyle-larson-hendrick-motorsports-team-collection-olive-hendrick-two-sided-shirt/",
+    "https://legendusashirt.com/product/billy-strings-and-bryan-sutton-with-royal-masat-on-tour-groundhog-tee-with-dates-september-2025-two-sided-shirt/",
+    "https://legendusashirt.com/product/23xi-racing-red-fifth-anniversary-est-2020-two-sided-shirt/",
+    "https://legendusashirt.com/product/billy-strings-and-bryan-sutton-with-royal-masat-2025-on-tour-suit-tee-with-dates-in-kentucky-north-carolina-and-tennessee-september-2025-two-sided-shirt/",
+    "https://legendusashirt.com/product/billy-strings-and-bryan-sutton-with-royal-masat-2025-on-tour-farm-fresh-tee-with-dates-in-kentucky-north-carolina-and-tennessee-september-2025-two-sided-shirt/",
+    "https://legendusashirt.com/product/billy-strings-and-bryan-sutton-with-royal-masat-2025-on-tour-rooster-with-dates-september-two-sided-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/adtr-toronto-2025-shirt/",
