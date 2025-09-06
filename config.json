@@ -2,7 +2,7 @@
     {
         "url": "https://geekteesus.com/",
         "selector": "div.product-images img",
-        "replacements": {"-T-shirt.jpg": ["-Orament-X-Mas-2024.jpg", "-Ornament-poster-black.jpg"]},
+        "replacements": ["-Orament-X-Mas-2024.jpg", "-Ornament-poster-black.jpg", "-shirt.jpg"],
         "source_type": "product-list"
     },
     {
@@ -16,7 +16,7 @@
         "source_type": "prevnext",
         "first_product_selector": ".elementor-element-26e4f04 a[href*='/product/']",
         "next_product_selector": "div.product-prev a[href*='/product/']",
-        "replacements": {"-unisex-t-shirt.jpg": ["-Posters-black.jpg", "-Posters-white.jpg", "-White-poster.jpg", "-white-poster.jpg", "-poster.jpg"]},
+        "replacements": ["-Posters-black.jpg", "-Posters-white.jpg", "-White-poster.jpg", "-white-poster.jpg", "-poster.jpg", "-unisex-t-shirt.jpg"],
         "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teeworksusa.com", "prefix_length": 9 }
     },
     {
@@ -40,9 +40,9 @@
     {
         "url": "https://teeextra.com/",
         "selector": "div.product-images img",
-        "replacements": {"-Shirt.jpg": ["-Ornament.jpg"]},
+        "replacements": ["-Ornament.jpg", "-Shirt.jpg"],
         "source_type": "product-list",
-        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teespix.com", "prefix_length": 9 }
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teeextra.com", "prefix_length": 9 }
     },
     {
         "url": "https://teespix.com/",
@@ -52,14 +52,14 @@
     {
         "url": "https://nowbestshirt.com/",
         "selector": "div.product-images img",
-        "replacements": {"-t-shirt.jpg": ["-sweater.jpg"]},
+        "replacements": ["-sweater.jpg", "-t-shirt.jpg"],
         "source_type": "product-list",
         "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.nowbestshirt.com", "prefix_length": 9 }
     },
     {
         "url": "https://serenashirt.com/",
         "selector": "div.product-images img",
-        "replacements": {"-v-neck-t-shirt.jpg": ["-ornament-Ornament.jpg", "-sweater.jpg", "-shirt.jpg"]},
+        "replacements": ["-ornament-Ornament.jpg", "-sweater.jpg", "-shirt.jpg"],
         "source_type": "product-list",
         "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.serenashirt.com", "prefix_length": 9 }
     },
@@ -70,7 +70,7 @@
     {
         "url": "https://legendusashirt.com/",
         "selector": "div.product-images img",
-        "replacements": {"-Shirt.webp": ["-Sweater.webp"]},
+        "replacements": ["-Sweater.webp", "-Shirt.webp"],
         "source_type": "product-list"
     },
     {
