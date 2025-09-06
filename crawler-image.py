@@ -8,7 +8,7 @@ from datetime import datetime
 
 # Constants
 MAX_URLS = 500
-MAX_PREVNEXT_URLS = 200
+MAX_PREVNEXT_URLS = 50
 MAX_API_PAGES = 1
 DEFAULT_API_URL_PATTERN = "https://{domain}/wp-json/wp/v2/product?per_page=100&page={page}&orderby=date&order=desc"
 HEADERS = {"User-Agent": "Mozilla/50.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}
@@ -117,24 +117,26 @@ def apply_fallback_logic(image_url, url_data):
 # ----------------------------------------------------------------------------------------------------------------------
 
 def find_best_image_url(soup, url_data):
-    """Tìm URL hình ảnh tốt nhất dựa trên logic ưu tiên."""
+    """
+    Tìm URL hình ảnh tốt nhất dựa trên logic ưu tiên.
+    Áp dụng cho loại `product-list` và `prevnext`.
+    """
     replacements = url_data.get('replacements', {})
     selector = url_data.get('selector')
-
-    if selector:
-        image_tags_to_search = soup.select(selector)
-    else:
-        image_tags_to_search = soup.find_all('img')
-
-    # Logic tìm kiếm ưu tiên cho định dạng danh sách (product-list và prevnext)
+    
+    # 1. Logic tìm kiếm ưu tiên cho định dạng danh sách (list)
     if isinstance(replacements, list):
-        for img_tag in image_tags_to_search:
-            img_url = img_tag.get('src') or img_tag.get('data-src') or img_tag.get('data-lazy-src')
-            if img_url:
-                for suffix in replacements:
-                    if img_url.endswith(suffix):
-                        print(f"Found prioritized URL in HTML: {img_url}")
-                        return img_url
+        for suffix in replacements:
+            if selector:
+                image_tags_to_search = soup.select(selector)
+            else:
+                image_tags_to_search = soup.find_all('img')
+
+            for img_tag in image_tags_to_search:
+                img_url = img_tag.get('src') or img_tag.get('data-src') or img_tag.get('data-lazy-src')
+                if img_url and img_url.endswith(suffix):
+                    print(f"Found prioritized URL in HTML: {img_url}")
+                    return img_url
     
     # 2. Fallback sang og:image
     og_image_tag = soup.find('meta', property='og:image')
@@ -388,7 +390,7 @@ if __name__ == "__main__":
     
     for url_data in configs:
         domain = urlparse(url_data['url']).netloc
-            
+        
         try:
             with open(f"{domain}.txt", "r", encoding="utf-8") as f:
                 existing_urls = [line.strip() for line in f if line.strip()]
