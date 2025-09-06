@@ -24,7 +24,15 @@
     "https://techteesusa.com/product/greatest-dynasty-ever-chiefs-kingdom-kansas-city-t-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/southampton-home-pickles-shirt/"
+    "https://teeworksusa.com/product/wolves-home-pickles-shirt/",
+    "https://teeworksusa.com/product/wolverine-chronicle-ann-arbor-shirt/",
+    "https://teeworksusa.com/product/turbo-granny-old-woman-dandadan-shirt/",
+    "https://teeworksusa.com/product/tucker-kraft-yac-n-cheese-shirt/",
+    "https://teeworksusa.com/product/touchdown-hawk-retro-shirt/",
+    "https://teeworksusa.com/product/the-dead-dance-lady-gaga-holding-moon-shirt/",
+    "https://teeworksusa.com/product/the-bryceman-cometh-shirt/",
+    "https://teeworksusa.com/product/take-me-to-the-k-kansas-city-shirt/",
+    "https://teeworksusa.com/product/superman-x-kith-last-son-of-krypton-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-yes-im-old-but-i-saw-new-york-yankees-mantle-and-maris-greatness-shirt/",
@@ -177,27 +185,22 @@
     "https://capitoneshirt.com/product/philadelphia-eagles-beat-dallas-cowboys-2-sided-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/yee-haw-cowgirl-shirt/",
-    "https://clickoneshirt.com/product/xavier-worthy-kansas-city-chiefs-football-superstar-pose-shirt/",
-    "https://clickoneshirt.com/product/xavier-worthy-kansas-city-chiefs-football-celebratory-pose-shirt/",
-    "https://clickoneshirt.com/product/xavier-worthy-kansas-city-chiefs-charity-game-benefiting-casa-shirt/",
-    "https://clickoneshirt.com/product/travis-kelce-kansas-city-chiefs-football-number-87-superstar-pose-graphic-shirt/",
-    "https://clickoneshirt.com/product/travis-kelce-kansas-city-chiefs-1960-football-club-oitenta-e-sete-shirt/",
-    "https://clickoneshirt.com/product/the-british-bulldogs-flag-shirt/",
-    "https://clickoneshirt.com/product/taylor-fritz-six-kings-slam-2025-riyadh-season-tennis-shirt/",
-    "https://clickoneshirt.com/product/suburban-sweetheart-wrangling-kids-and-running-things-shirt/",
-    "https://clickoneshirt.com/product/suburban-standoff-art-shirt/"
+    "https://clickoneshirt.com/product/hbcu-dreams-atlanta-dream-shirt/",
+    "https://clickoneshirt.com/product/texas-tech-vs-oregon-state-2025-raider-power-shirt/",
+    "https://clickoneshirt.com/product/goose-chicago-fall-tour-2025-northerly-island-shirt/",
+    "https://clickoneshirt.com/product/carmelo-anthony-denver-nuggets-ultimate-player-shirt/",
+    "https://clickoneshirt.com/product/aj-lee-love-bites-back-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/elephant-wrecking-ball-cervantes-other-side-in-denver-co-sept-21-2025-t-shirts/",
-    "https://teleteeshirt.com/product/disco-disco-disco-disco-lines-gallagher-square-san-diego-california-august-29th-2025-t-shirts/",
-    "https://teleteeshirt.com/product/chicleteira-bicicleteira-italian-brainrot-t-shirts/",
-    "https://teleteeshirt.com/product/chicken-tender-slut-t-shirts-2/",
-    "https://teleteeshirt.com/product/boiler-room-x-pleasures-loud-loud-music-encouraged-t-shirts/",
-    "https://teleteeshirt.com/product/bobby-bare-jr-hoist-the-king-november-2-2025-los-angeles-ca-t-shirts/",
-    "https://teleteeshirt.com/product/billy-strings-seed-co-happy-hollow-michigan-fall-tour-2025-t-shirts/",
-    "https://teleteeshirt.com/product/billy-strings-and-bryan-sutton-with-royal-masat-on-tour-september-2025-river-duck-t-shirts/",
-    "https://teleteeshirt.com/product/billy-strings-and-bryan-sutton-with-royal-masat-on-tour-in-owensboro-kentucky-night-2-venue-at-woodward-on-september-6-2025-t-shirts/",
-    "https://teleteeshirt.com/product/billy-strings-and-bryan-sutton-with-royal-masat-2025-tour-suit-with-dates-in-kentucky-north-carolina-and-tennessee-september-t-shirts/"
+    "https://teleteeshirt.com/product/yu-gi-oh-paris-world-championships-exodia-t-shirts/",
+    "https://teleteeshirt.com/product/trump-department-of-war-t-shirts/",
+    "https://teleteeshirt.com/product/travis-kelce-takes-slap-to-face-during-smacked-teair-tart-los-angeles-chargers-t-shirts/",
+    "https://teleteeshirt.com/product/the-teskey-brothers-pappy-harriets-in-pioneertown-ca-sept-29-2025-t-shirts/",
+    "https://teleteeshirt.com/product/tedeschi-trucks-band-saratoga-springs-new-york-gig-at-broadview-stage-at-spac-on-september-5-2025-turtle-t-shirts/",
+    "https://teleteeshirt.com/product/taz-tasmanian-devil-looney-tunes-arriba-la-raza-wolfpac-in-the-house-looney-tunes-new-world-order-t-shirts/",
+    "https://teleteeshirt.com/product/taz-looney-tunes-lwo-latino-world-order-mexico-devil-t-shirts/",
+    "https://teleteeshirt.com/product/spiritus-systems-just-a-aberdeen-north-carolina-to-bae-rather-than-to-seen-est-2013-t-shirts/",
+    "https://teleteeshirt.com/product/space-bacon-brooklyn-bowl-in-brooklyn-ny-sept-20-2025-t-shirts/",
+    "https://teleteeshirt.com/product/radio-free-alice-us-canada-tour-2025-dates-t-shirtss/"
   ]
 }
