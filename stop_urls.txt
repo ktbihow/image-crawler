@@ -78,10 +78,16 @@
     "https://teeextra.com/product/official-in-october-we-wear-pink-boo-bees-against-breast-cancer-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/adam-thielen-minnesota-vikings-thielen-good-t-shirt/",
-    "https://teespix.com/product/calling-jacksonville-jaguars-london-games-2025-t-shirt/",
-    "https://teespix.com/product/yes-im-old-but-i-saw-new-york-yankees-derek-jeter-mariano-rivera-jorge-posada-andy-pettitte-greatness-shirt/",
-    "https://teespix.com/product/2025-go-birds-philadelphia-eagles-24-20-dallas-cowboys-shirt/"
+    "https://teespix.com/product/ucf-knights-vs-north-carolina-at-aggies-2025-game-notes-football-shirt/",
+    "https://teespix.com/product/fuck-dallas-football-game-eagles-shirt/",
+    "https://teespix.com/product/andi-jackson-max-collegiate-shirt/",
+    "https://teespix.com/product/philadelphia-eagles-fuck-dallas-cowboys-t-shirt/",
+    "https://teespix.com/product/philadelphia-eagles-fuck-dallas-2025-gameday-shirt/",
+    "https://teespix.com/product/utsa-roadrunners-ancira-auto-group-cash-cannon-t-shirt/",
+    "https://teespix.com/product/giants-rafael-devers-adios-pelota-goodbye-ball-shirt/",
+    "https://teespix.com/product/cleveland-browns-bottoms-up-sunday-funday-t-shirt/",
+    "https://teespix.com/product/cody-rhodes-is-guile-2026-shirt/",
+    "https://teespix.com/product/carmelo-anthony-york-knicks-nba-2k26-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/big-mullet-energy-armchair-illini-illinois-fighting-football-signature-2-sided-shirt/",

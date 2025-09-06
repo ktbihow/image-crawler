@@ -1,13 +1,13 @@
 -Kết quả crawl-
-Thời gian: 2025-09-06 13:01:56
+Thời gian: 2025-09-06 13:33:29
 geekteesus.com: 0 new URLs added. Total 126 URLs.
 techteesusa.com: 0 new URLs added. Total 171 URLs.
-teeworksusa.com: 69 new URLs added. Total 312 URLs.
+teeworksusa.com: 0 new URLs added. Total 312 URLs.
 meredpremium.com: 0 new URLs added. Total 122 URLs.
 berrylittles.com: 0 new URLs added. Total 30 URLs.
 dreameshirt.com: 0 new URLs added. Total 37 URLs.
 teeextra.com: 0 new URLs added. Total 52 URLs.
-teespix.com: 4 new URLs added. Total 138 URLs.
+teespix.com: 95 new URLs added. Total 233 URLs.
 nowbestshirt.com: 0 new URLs added. Total 20 URLs.
 serenashirt.com: 0 new URLs added. Total 108 URLs.
 fanaticity.com: 0 new URLs added. Total 20 URLs.
@@ -15,6 +15,6 @@ legendusashirt.com: 0 new URLs added. Total 191 URLs.
 teehandus.com: 0 new URLs added. Total 232 URLs.
 thefunnyt.com: 0 new URLs added. Total 22 URLs.
 uscraftedtees.com: 0 new URLs added. Total 198 URLs.
-capitoneshirt.com: 46 new URLs added. Total 204 URLs.
+capitoneshirt.com: 0 new URLs added. Total 204 URLs.
 clickoneshirt.com: 0 new URLs added. Total 122 URLs.
 teleteeshirt.com: 0 new URLs added. Total 233 URLs.
