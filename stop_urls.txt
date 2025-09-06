@@ -1,15 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/mcfralm-style-the-godfather-logo-shirt/",
-    "https://geekteesus.com/product/warning-do-it-pervert-shirt/",
-    "https://geekteesus.com/product/moustardche-hot-dog-shirt/",
-    "https://geekteesus.com/product/the-cranberries-zombie-shirt/",
-    "https://geekteesus.com/product/hatchie-liquorice-photo-shirt/",
-    "https://geekteesus.com/product/the-pigeon-and-ratboy-shirt/",
-    "https://geekteesus.com/product/this-is-what-the-ideal-track-looks-like-shirt/",
-    "https://geekteesus.com/product/larry-david-is-my-spirit-animal-shirt/",
-    "https://geekteesus.com/product/no-drama-just-matcha-shirt/",
-    "https://geekteesus.com/product/snoopy-a-little-goes-a-long-way-drive-blood-shirt/"
+    "https://geekteesus.com/product/miami-hurricanes-football-2025-logo-t-shirt/",
+    "https://geekteesus.com/product/university-of-south-carolina-bikini-shirt/",
+    "https://geekteesus.com/product/jay-park-studys-clock-shirt/",
+    "https://geekteesus.com/product/i-dont-do-tears-wednesday-shirt/",
+    "https://geekteesus.com/product/tidy-trax-harder-faster-shirt/",
+    "https://geekteesus.com/product/we-are-all-palestine-action-shirt/",
+    "https://geekteesus.com/product/the-only-ny-team-buffalo-bills-state-map-shirt/",
+    "https://geekteesus.com/product/stop-eating-batteries-shirt/",
+    "https://geekteesus.com/product/suleiman-al-obeid-commemorative-shirt/",
+    "https://geekteesus.com/product/philadelphia-eagles-autism-foundation-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/yea-dawgies-ride-the-tide-shirt/",
@@ -24,11 +24,16 @@
     "https://techteesusa.com/product/greatest-dynasty-ever-chiefs-kingdom-kansas-city-t-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/ricky-saints-wweshirt/",
-    "https://teeworksusa.com/product/slayhaw-cupid-angel-devil-love-kissing-couple-shirt/",
-    "https://teeworksusa.com/product/simply-octopus-hockey-stick-red-eyes-ice-hockey-shirt/",
-    "https://teeworksusa.com/product/screenshot_19/",
-    "https://teeworksusa.com/product/saquon-barkley-philadelphia-eagles-football-player-shirt/"
+    "https://teeworksusa.com/product/wolves-home-pickles-shirt/",
+    "https://teeworksusa.com/product/wolverine-chronicle-ann-arbor-shirt/",
+    "https://teeworksusa.com/product/turbo-granny-old-woman-dandadan-shirt/",
+    "https://teeworksusa.com/product/tucker-kraft-yac-n-cheese-shirt/",
+    "https://teeworksusa.com/product/touchdown-hawk-retro-shirt/",
+    "https://teeworksusa.com/product/the-dead-dance-lady-gaga-holding-moon-shirt/",
+    "https://teeworksusa.com/product/the-bryceman-cometh-shirt/",
+    "https://teeworksusa.com/product/take-me-to-the-k-kansas-city-shirt/",
+    "https://teeworksusa.com/product/superman-x-kith-last-son-of-krypton-shirt/",
+    "https://teeworksusa.com/product/southampton-home-pickles-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-washington-commanders-raise-hail-names-t-shirt/",
@@ -139,16 +144,16 @@
     "https://legendusashirt.com/product/uconn-huskies-12-time-ncaa-national-champions-womens-basketball-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/maybe-i-am-the-drama-shirt/",
-    "https://teehandus.com/product/mickey-mouse-2025-dracula-pumpkin-halloween-shirt/",
-    "https://teehandus.com/product/mickey-nightmare-on-main-street-halloween-shirt/",
-    "https://teehandus.com/product/minnie-mouse-disney-trick-or-treat-halloween-shirt/",
-    "https://teehandus.com/product/misery-shes-your-number-one-fan-shirt/",
-    "https://teehandus.com/product/mugendramon-mfs-3-update-mode-godzilla-vs-digital-monster-shirt/",
-    "https://teehandus.com/product/my-chemical-romance-like-phantoms-forever-shirt/",
-    "https://teehandus.com/product/once-a-marine-always-a-marine-once-a-marine-semper-fidelis-shirt/",
-    "https://teehandus.com/product/oogie-boogie-bash-mickey-and-friends-disney-halloween-shirt/",
-    "https://teehandus.com/product/oogie-boogie-bash-this-is-halloween-2025-shirt/"
+    "https://teehandus.com/product/youngstown-state-penguins-eastwood-mall-meijer-shirt/",
+    "https://teehandus.com/product/shake-n-bake-bristol-baby-shirt/",
+    "https://teehandus.com/product/point-of-contact-has-the-edge-gone-dull-shirt/",
+    "https://teehandus.com/product/new-york-mets-stranger-things-shirt/",
+    "https://teehandus.com/product/mcr-love-billys-sons-band-shirt/",
+    "https://teehandus.com/product/hbcu-dreams-inspiring-the-next-generation-to-honor-shirt/",
+    "https://teehandus.com/product/hatchetman-violent-j-cartoon-shirt/",
+    "https://teehandus.com/product/fsu-vs-alabama-2025-sweet-home-tallahassee-noles-tide-shirt/",
+    "https://teehandus.com/product/brent-marks-sprint-car-19-shirt/",
+    "https://teehandus.com/product/danny-sullivan-spin-and-win-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/duke-blue-devils-paneled-shirt/",
