@@ -8,7 +8,7 @@ from datetime import datetime
 
 # Constants
 MAX_URLS = 500
-MAX_PREVNEXT_URLS = 50
+MAX_PREVNEXT_URLS = 20
 MAX_API_PAGES = 1
 DEFAULT_API_URL_PATTERN = "https://{domain}/wp-json/wp/v2/product?per_page=100&page={page}&orderby=date&order=desc"
 HEADERS = {"User-Agent": "Mozilla/50.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}
@@ -83,7 +83,6 @@ def apply_fallback_logic(image_url, url_data):
     filename = path_parts[-1]
     prefix_length = fallback_rules.get('prefix_length', 0)
 
-    # Check if the filename has the expected format before cutting
     if len(filename) > prefix_length and filename[prefix_length - 1] == '-':
         new_filename = filename[prefix_length:]
         new_path = '/'.join(path_parts[:-1] + [new_filename])
@@ -141,28 +140,10 @@ def find_best_image_url(soup, url_data):
             
     return None
 
-def fetch_image_urls_from_web(url_data):
-    """Tải và phân tích URL hình ảnh trực tiếp từ trang web."""
-    all_image_urls = []
-    try:
-        r = requests.get(url_data['url'], headers=HEADERS, timeout=30)
-        r.raise_for_status()
-        soup = BeautifulSoup(r.text, "html.parser")
-    except requests.exceptions.RequestException as e:
-        print(f"Lỗi khi truy cập {url_data['url']}: {e}")
-        return []
-
-    best_url = find_best_image_url(soup, url_data)
-    if best_url:
-        final_url = apply_replacements(best_url, url_data.get('replacements', {}))
-        final_url = apply_fallback_logic(final_url, url_data)
-        all_image_urls.append(final_url)
-        
-    return all_image_urls
-
-def fetch_image_urls_from_api(url_data):
+def fetch_image_urls_from_api(url_data, stop_urls_list):
     """Tải và phân tích URL hình ảnh từ API."""
     all_image_urls = []
+    new_product_urls_found = []
     page = 1
     domain = urlparse(url_data['url']).netloc
     
@@ -177,8 +158,14 @@ def fetch_image_urls_from_api(url_data):
                 break
             
             for item in data:
-                img_url = None
+                # Tìm và so sánh URL sản phẩm để dừng
+                product_url = item.get('link')
+                if product_url and product_url in stop_urls_list:
+                    print(f"Đã tìm thấy URL dừng: {product_url}, kết thúc crawl.")
+                    return all_image_urls, new_product_urls_found
                 
+                # Trích xuất URL hình ảnh
+                img_url = None
                 if 'yoast_head_json' in item and 'og_image' in item['yoast_head_json'] and len(item['yoast_head_json']['og_image']) > 0:
                     img_url = item['yoast_head_json']['og_image'][0]['url']
                 
@@ -197,17 +184,20 @@ def fetch_image_urls_from_api(url_data):
                     
                     if final_img_url not in all_image_urls:
                         all_image_urls.append(final_img_url)
+                        if product_url:
+                            new_product_urls_found.append(product_url)
             
             page += 1
         except requests.exceptions.RequestException as e:
             print(f"Lỗi khi truy cập API {api_url}: {e}")
             break
             
-    return all_image_urls
+    return all_image_urls, new_product_urls_found
 
-def fetch_image_urls_from_prevnext(url_data):
-    """Crawl sản phẩm theo chuỗi next/prev với cơ chế khôi phục."""
+def fetch_image_urls_from_prevnext(url_data, stop_urls_list):
+    """Crawl sản phẩm theo chuỗi next/prev với cơ chế khôi phục và stop_urls.txt."""
     all_image_urls = []
+    new_product_urls_found = []
     domain = urlparse(url_data['url']).netloc
 
     try:
@@ -217,15 +207,20 @@ def fetch_image_urls_from_prevnext(url_data):
         first_product_tag = soup.select_one(url_data['first_product_selector'])
         if not first_product_tag:
             print(f"Không tìm thấy sản phẩm đầu tiên trên {url_data['url']}")
-            return []
+            return [], []
         current_product_url = urljoin(url_data['url'], first_product_tag.get('href'))
         last_successful_product_url = None
     except requests.exceptions.RequestException as e:
         print(f"Lỗi khi truy cập trang chủ {url_data['url']}: {e}")
-        return []
+        return [], []
 
     count = 0
     while count < MAX_PREVNEXT_URLS:
+        # Kiểm tra URL sản phẩm để dừng
+        if current_product_url in stop_urls_list:
+            print(f"Đã tìm thấy URL dừng: {current_product_url}, kết thúc crawl.")
+            break
+
         try:
             r = requests.get(current_product_url, headers=HEADERS, timeout=30)
             r.raise_for_status()
@@ -238,6 +233,7 @@ def fetch_image_urls_from_prevnext(url_data):
                 
                 if final_img_url not in all_image_urls:
                     all_image_urls.append(final_img_url)
+                    new_product_urls_found.append(current_product_url)
             
             last_successful_product_url = current_product_url
             
@@ -252,6 +248,7 @@ def fetch_image_urls_from_prevnext(url_data):
             print(f"Lỗi khi truy cập {current_product_url}: {e}")
             print(f"URL thành công gần nhất: {last_successful_product_url}")
             
+            # Cơ chế khôi phục từ repo product
             repo_file_url = REPO_URL_PATTERN.format(domain=domain)
             try:
                 repo_file = requests.get(repo_file_url, headers=HEADERS, timeout=30)
@@ -284,26 +281,25 @@ def fetch_image_urls_from_prevnext(url_data):
                 print(f"Lỗi khi truy cập repo: {e}, kết thúc.")
                 break
 
-    return all_image_urls
+    return all_image_urls, new_product_urls_found
 
 def fetch_image_urls_from_product_list(url_data, stop_urls_list):
     """Tải danh sách URL sản phẩm từ repo và crawl từng trang để lấy ảnh."""
     all_image_urls = []
+    new_product_urls_found = []
     domain = urlparse(url_data['url']).netloc
     repo_file_url = REPO_URL_PATTERN.format(domain=domain)
     
-    # Lấy danh sách URL sản phẩm từ repo
     try:
         r = requests.get(repo_file_url, headers=HEADERS, timeout=30)
         r.raise_for_status()
         product_urls = [line.strip() for line in r.text.splitlines() if line.strip()]
     except requests.exceptions.RequestException as e:
         print(f"Lỗi khi truy cập repo sản phẩm: {e}. Bỏ qua domain này.")
-        return []
+        return [], []
     
     urls_to_crawl = []
     
-    # Duyệt qua danh sách sản phẩm để tìm điểm dừng
     if stop_urls_list:
         found_stop_point = False
         for product_url in product_urls:
@@ -319,7 +315,6 @@ def fetch_image_urls_from_product_list(url_data, stop_urls_list):
     else:
         urls_to_crawl = product_urls
 
-    # Xử lý các URL sản phẩm mới
     for product_url in urls_to_crawl:
         if len(all_image_urls) >= MAX_PREVNEXT_URLS:
             print("Đạt giới hạn URL, kết thúc crawl.")
@@ -337,11 +332,13 @@ def fetch_image_urls_from_product_list(url_data, stop_urls_list):
                 
                 if final_img_url not in all_image_urls:
                     all_image_urls.append(final_img_url)
+                    new_product_urls_found.append(product_url)
+
         except requests.exceptions.RequestException as e:
             print(f"Lỗi khi truy cập URL sản phẩm {product_url}: {e}. Bỏ qua.")
             continue
 
-    return all_image_urls
+    return all_image_urls, new_product_urls_found
 
 # ----------------------------------------------------------------------------------------------------------------------
 # Main Execution
@@ -374,12 +371,11 @@ if __name__ == "__main__":
 
     urls_summary = {}
     
-    # Tải stop_urls một lần duy nhất
     stop_urls_data = load_stop_urls()
     
     for url_data in configs:
         domain = urlparse(url_data['url']).netloc
-        
+            
         try:
             with open(f"{domain}.txt", "r", encoding="utf-8") as f:
                 existing_urls = [line.strip() for line in f if line.strip()]
@@ -389,25 +385,16 @@ if __name__ == "__main__":
         source_type = url_data.get('source_type')
         if source_type == 'web':
             image_urls = fetch_image_urls_from_web(url_data)
+            new_product_urls_found = []
         elif source_type == 'api':
-            image_urls = fetch_image_urls_from_api(url_data)
+            domain_stop_urls_list = stop_urls_data.get(domain, [])
+            image_urls, new_product_urls_found = fetch_image_urls_from_api(url_data, set(domain_stop_urls_list))
         elif source_type == 'prevnext':
-            image_urls = fetch_image_urls_from_prevnext(url_data)
+            domain_stop_urls_list = stop_urls_data.get(domain, [])
+            image_urls, new_product_urls_found = fetch_image_urls_from_prevnext(url_data, set(domain_stop_urls_list))
         elif source_type == 'product-list':
             domain_stop_urls_list = stop_urls_data.get(domain, [])
-            image_urls = fetch_image_urls_from_product_list(url_data, domain_stop_urls_list)
-            
-            # Sau khi crawl product-list, cập nhật danh sách stop_urls mới
-            product_repo_url = REPO_URL_PATTERN.format(domain=domain)
-            try:
-                r = requests.get(product_repo_url, headers=HEADERS, timeout=30)
-                r.raise_for_status()
-                product_urls_from_repo = [line.strip() for line in r.text.splitlines() if line.strip()]
-                
-                new_stop_urls = product_urls_from_repo[:STOP_URLS_COUNT]
-                stop_urls_data[domain] = new_stop_urls
-            except requests.exceptions.RequestException as e:
-                print(f"Lỗi khi cập nhật stop_urls cho domain {domain}: {e}")
+            image_urls, new_product_urls_found = fetch_image_urls_from_product_list(url_data, set(domain_stop_urls_list))
         else:
             print(f"Lỗi: Không xác định được source_type cho domain {domain}. Bỏ qua.")
             continue
@@ -415,8 +402,13 @@ if __name__ == "__main__":
         print(f"[{domain}] Found {len(image_urls)} potential image URLs.")
         new_urls_count, total_urls_count = save_urls(domain, image_urls)
         urls_summary[domain] = {'new_count': new_urls_count, 'total_count': total_urls_count}
-
-    # Lưu lại file stop_urls.txt sau khi tất cả các domain đã được xử lý
+        
+        # Cập nhật stop_urls sau khi crawl
+        if new_product_urls_found:
+            stop_urls_data[domain] = new_product_urls_found[:STOP_URLS_COUNT]
+        elif domain in stop_urls_data:
+            stop_urls_data[domain] = stop_urls_data[domain][:STOP_URLS_COUNT]
+        
     save_stop_urls(stop_urls_data)
 
     with open("crawl-log.txt", "w", encoding="utf-8") as f:
