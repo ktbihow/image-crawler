@@ -13,7 +13,7 @@ MAX_API_PAGES = 1
 DEFAULT_API_URL_PATTERN = "https://{domain}/wp-json/wp/v2/product?per_page=100&page={page}&orderby=date&order=desc"
 HEADERS = {"User-Agent": "Mozilla/50.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}
 REPO_URL_PATTERN = "https://raw.githubusercontent.com/chanktb/product-crawler/main/{domain}.txt"
-IMAGE_REPO_URL_PATTERN = "https://raw.githubusercontent.com/ktbhub/image-crawler/main/{domain}.txt"
+IMAGE_REPO_URL_PATTERN = "https://raw.githubusercontent.com/ktbihow/image-crawler/main/{domain}.txt"
 STOP_URLS_FILE = "stop_urls.txt"
 STOP_URLS_COUNT = 10  # Số lượng URL sản phẩm được lưu làm điểm dừng
 
