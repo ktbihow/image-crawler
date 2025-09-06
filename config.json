@@ -8,7 +8,6 @@
     {
         "url": "https://techteesusa.com/",
         "selector": "div.product-images img",
-        "replacements": {"-T-Shirt.jpg": ["-hoodie.jpg"]},
         "source_type": "product-list",
         "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.techteesusa.com", "prefix_length": 9 }
     },
