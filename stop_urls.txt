@@ -12,28 +12,23 @@
     "https://geekteesus.com/product/snoopy-a-little-goes-a-long-way-drive-blood-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/john-f-kennedy-dallas-sucks-go-birds-shirt/",
-    "https://techteesusa.com/product/it-isthmus-what-it-isthmus/",
-    "https://techteesusa.com/product/israel-is-a-parasite-controlling-america-shirt/",
-    "https://techteesusa.com/product/in-my-fighting-childhood-cancer-era-shirt-2/",
-    "https://techteesusa.com/product/im-an-influencer-i-influence-my-friends-to-get-another-beer-shirt/",
-    "https://techteesusa.com/product/if-god-made-anything-better-than-pussy-beer-money-or-the-cyclones-he-kept-it-for-himself-big-kevy-shirt/",
-    "https://techteesusa.com/product/i-do-not-serve-cunt-i-am-cunts-servant-pray-shirt/",
-    "https://techteesusa.com/product/hope-prevails-american-foundation-for-suicide-prevention-lowa-shirt/",
-    "https://techteesusa.com/product/hey-bestfriend-shirt/",
-    "https://techteesusa.com/product/grailknights-forever-shirt/"
+    "https://techteesusa.com/product/yea-dawgies-ride-the-tide-shirt/",
+    "https://techteesusa.com/product/the-pumpkin-halloween-jack-o-lantern-tarot-card-shirt/",
+    "https://techteesusa.com/product/tyler-perkins-our-punters-superpowere-kicking-hunger-t-shirt/",
+    "https://techteesusa.com/product/in-my-fighting-childhood-cancer-era-t-shirt/",
+    "https://techteesusa.com/product/100-thieves-x-demon-2025-shirt/",
+    "https://techteesusa.com/product/what-kind-of-vibe-do-i-give-off-t-shirt/",
+    "https://techteesusa.com/product/warning-choking-hazard-t-shirt/",
+    "https://techteesusa.com/product/tyler-perkins-put-hunger-on-the-sidelines-t-shirt/",
+    "https://techteesusa.com/product/old-white-hippie-t-shirt/",
+    "https://techteesusa.com/product/greatest-dynasty-ever-chiefs-kingdom-kansas-city-t-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/sane-is-boring-lets-go-mad-mad-hatter-halloween-shirt/",
-    "https://teeworksusa.com/product/starfleet-yellow-logo-shirt/",
-    "https://teeworksusa.com/product/spot-the-ball-florida-gators-football-shirt-2/",
-    "https://teeworksusa.com/product/slam-azura-stevens-los-angeles-sparks-shirt/",
-    "https://teeworksusa.com/product/the-rock-face-fantastic-four-thing-shirt/",
-    "https://teeworksusa.com/product/spider-web-skeleton-rib-cage-heart-shirt/",
-    "https://teeworksusa.com/product/thunder-up-okc-graphic-team-retro-shirt/",
-    "https://teeworksusa.com/product/this-is-basic-punkonomics-punk-life-cm-punk-shirt/",
-    "https://teeworksusa.com/product/thielen-good-minnesota-vikings-shirt/",
-    "https://teeworksusa.com/product/tokyo-revengers-mikey-and-draken-shirt/"
+    "https://teeworksusa.com/product/ricky-saints-wweshirt/",
+    "https://teeworksusa.com/product/slayhaw-cupid-angel-devil-love-kissing-couple-shirt/",
+    "https://teeworksusa.com/product/simply-octopus-hockey-stick-red-eyes-ice-hockey-shirt/",
+    "https://teeworksusa.com/product/screenshot_19/",
+    "https://teeworksusa.com/product/saquon-barkley-philadelphia-eagles-football-player-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-washington-commanders-raise-hail-names-t-shirt/",
@@ -144,16 +139,16 @@
     "https://legendusashirt.com/product/uconn-huskies-12-time-ncaa-national-champions-womens-basketball-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/im-into-fitness-taco-in-my-mouth-vintage-shirt/",
-    "https://teehandus.com/product/jacy-jayne-wwe-champ-shirt/",
-    "https://teehandus.com/product/jayne-dough-shirt/",
-    "https://teehandus.com/product/jevon-evans-wwe-vertical-shirt/",
-    "https://teehandus.com/product/joe-bob-briggs-jamboree-2022-shirt/",
-    "https://teehandus.com/product/joe-bob-briggs-jamboree-2022-the-drive-in-will-never-die-cartoon-shirt/",
-    "https://teehandus.com/product/john-f-kennedy-dallas-texas-would-not-recommend-shirt/",
-    "https://teehandus.com/product/keklus-maximus-shirt/",
-    "https://teehandus.com/product/king-of-chingasos-style-bandana-joe-shirt/",
-    "https://teehandus.com/product/krueger-mattress-co-since-1984-for-a-killer-nights-sleep-shirt/"
+    "https://teehandus.com/product/maybe-i-am-the-drama-shirt/",
+    "https://teehandus.com/product/mickey-mouse-2025-dracula-pumpkin-halloween-shirt/",
+    "https://teehandus.com/product/mickey-nightmare-on-main-street-halloween-shirt/",
+    "https://teehandus.com/product/minnie-mouse-disney-trick-or-treat-halloween-shirt/",
+    "https://teehandus.com/product/misery-shes-your-number-one-fan-shirt/",
+    "https://teehandus.com/product/mugendramon-mfs-3-update-mode-godzilla-vs-digital-monster-shirt/",
+    "https://teehandus.com/product/my-chemical-romance-like-phantoms-forever-shirt/",
+    "https://teehandus.com/product/once-a-marine-always-a-marine-once-a-marine-semper-fidelis-shirt/",
+    "https://teehandus.com/product/oogie-boogie-bash-mickey-and-friends-disney-halloween-shirt/",
+    "https://teehandus.com/product/oogie-boogie-bash-this-is-halloween-2025-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/duke-blue-devils-paneled-shirt/",
@@ -180,16 +175,16 @@
     "https://uscraftedtees.com/product/original-tame-impala-deadbeat-2025-shirt/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/ziggurat-sumerian-things-shirt/",
-    "https://capitoneshirt.com/product/yoda-has-my-mouth-gotten-me-in-trouble-shirt/",
-    "https://capitoneshirt.com/product/yoda-be-kind-to-me-i-probably-lost-an-argument-with-a-toddler-shirt/",
-    "https://capitoneshirt.com/product/yes-they-are-real-shirt/",
-    "https://capitoneshirt.com/product/women-in-science-historical-accomplishments-shirt/",
-    "https://capitoneshirt.com/product/woke-is-not-an-insult-shirt/",
-    "https://capitoneshirt.com/product/wizard-the-orb-is-telling-me-to-attack-the-government-shirt/",
-    "https://capitoneshirt.com/product/wizard-im-pretty-sure-my-last-words-will-be-well-that-didnt-work-shirt/",
-    "https://capitoneshirt.com/product/wednesday-middle-finger-halloween-shirt/",
-    "https://capitoneshirt.com/product/vampire-sunlight-is-for-plants-shirt/"
+    "https://capitoneshirt.com/product/tennessee-volunteers-saturdays-are-for-singing-rocky-top-2-sided-shirt/",
+    "https://capitoneshirt.com/product/tennessee-volunteers-rocky-top-youll-always-be-home-2-sided-shirt/",
+    "https://capitoneshirt.com/product/tennessee-volunteers-let-em-fucking-know-2-sided-shirt/",
+    "https://capitoneshirt.com/product/tennessee-volunteers-alexa-play-rocky-top-2-sided-shirt/",
+    "https://capitoneshirt.com/product/tcu-horned-frogs-winner-stays-2-sided-shirt/",
+    "https://capitoneshirt.com/product/tcu-horned-frogs-jesus-won-2-sided-shirt/",
+    "https://capitoneshirt.com/product/philadelphia-eagles-quinyonamo-bay-2-sided-shirt/",
+    "https://capitoneshirt.com/product/philadelphia-eagles-love-hurts-2-sided-shirt/",
+    "https://capitoneshirt.com/product/philadelphia-eagles-love-c-j-gardner-johnson-2-sided-shirt/",
+    "https://capitoneshirt.com/product/philadelphia-eagles-beat-dallas-cowboys-2-sided-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/yee-haw-cowgirl-shirt/",
