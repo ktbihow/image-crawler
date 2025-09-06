@@ -126,16 +126,16 @@
     "https://fanaticity.com/product/newest-steelers-fan-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/cookies-light-the-world-knit-t-shirt/",
-    "https://legendusashirt.com/product/cookies-comic-sketch-t-shirt/",
-    "https://legendusashirt.com/product/chelsea-grin-forbidden-knowledge-t-shirt/",
-    "https://legendusashirt.com/product/chelsea-grin-band-death-worldwide-t-shirt/",
-    "https://legendusashirt.com/product/cfp-national-championship-trophy-tour-texas-at-ohio-state-ohio-stadium-2025-t-shirt/",
-    "https://legendusashirt.com/product/carmelo-anthony-denver-nuggets-ultimate-player-t-shirt/",
-    "https://legendusashirt.com/product/buckeye-country-superfest-2026-in-columbus-ohio-at-ohio-stadium-on-june-13-t-shirt/",
-    "https://legendusashirt.com/product/brandi-carlile-red-rocks-amphitheatre-september-567-2025-morrison-co-t-shirt/",
-    "https://legendusashirt.com/product/br-x-pleasures-loud-music-t-shirt/",
-    "https://legendusashirt.com/product/boundaries-panther-t-shirt/"
+    "https://legendusashirt.com/product/yonder-mountain-string-band-and-railroad-earth-with-daniel-donatos-cosmic-country-september-6-2025-town-of-perinton-in-fairport-ny-t-shirt/",
+    "https://legendusashirt.com/product/yes-they-are-real-t-shirt-2/",
+    "https://legendusashirt.com/product/xl-recordings-blawan-sick-elixir-t-shirt/",
+    "https://legendusashirt.com/product/vianova-t-shirt/",
+    "https://legendusashirt.com/product/ut-martin-skyhawks-vs-oklahoma-st-cowboys-2025-week-football-gameday-t-shirt/",
+    "https://legendusashirt.com/product/treveyon-henderson-new-england-patriots-celebration-2025-t-shirt/",
+    "https://legendusashirt.com/product/these-pretzels-are-making-me-thirsty-t-shirt/",
+    "https://legendusashirt.com/product/travis-kelce-takes-slap-to-face-during-chiefs-loss-to-chargers-t-shirt/",
+    "https://legendusashirt.com/product/these-pretzels-are-making-me-thirsty-seinfeld-t-shirt/",
+    "https://legendusashirt.com/product/the-wildheart-tour-summer-december-2025-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/adtr-toronto-2025-shirt/",
@@ -185,15 +185,15 @@
     "https://clickoneshirt.com/product/the-tower-rangers-parody-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/wilderness-society-life-support-logo-t-shirts/",
-    "https://teleteeshirt.com/product/the-wilderness-nature-watchers-t-shirts/",
-    "https://teleteeshirt.com/product/teeth-september-october-usa-2025-tour-dates-t-shirts/",
-    "https://teleteeshirt.com/product/take-care-now-better-america-better-world-t-shirts/",
-    "https://teleteeshirt.com/product/static-x-wdt-square-faces-t-shirts/",
-    "https://teleteeshirt.com/product/slipknot-1999-t-shirts/",
-    "https://teleteeshirt.com/product/protect-the-sandhill-dunnart-wilderness-society-x-megan-bird-t-shirts/",
-    "https://teleteeshirt.com/product/philadelphia-eagles-24-eagles-birds-t-shirts/",
-    "https://teleteeshirt.com/product/papadosio-final-shows-before-hiatus-oct-10-2025-globe-iron-in-cleveland-oh-turtle-t-shirts/",
-    "https://teleteeshirt.com/product/our-stars-wwf-attitude-the-big-4-t-shirts/"
+    "https://teleteeshirt.com/product/vianova-written-and-directed-sebastian-de-sprengol-t-shirts/",
+    "https://teleteeshirt.com/product/the-kings-of-black-magic-black-skull-t-shirts/",
+    "https://teleteeshirt.com/product/tedeschi-trucks-band-broadview-stage-at-spac-saratoga-springs-ny-tour-2025-turtle-t-shirts/",
+    "https://teleteeshirt.com/product/philadelphia-eagles-rent-is-due-everyday-philly-t-shirts/",
+    "https://teleteeshirt.com/product/philadelphia-eagles-lix-eagle-statue-champion-philly-t-shirts/",
+    "https://teleteeshirt.com/product/official-if-youre-reading-this-youre-too-close-i-have-a-boyfriend-t-shirts/",
+    "https://teleteeshirt.com/product/michigan-wolverines-whos-got-it-better-than-us-t-shirts/",
+    "https://teleteeshirt.com/product/kenji-nightfall-t-shirts/",
+    "https://teleteeshirt.com/product/jenny-holzer-it-is-in-your-self-interest-to-find-a-way-to-be-very-tender-t-shirts/",
+    "https://teleteeshirt.com/product/harakiri-for-the-sky-heal-me-latin-american-tour-2025-dates-t-shirts/"
   ]
 }
