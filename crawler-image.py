@@ -15,7 +15,7 @@ HEADERS = {"User-Agent": "Mozilla/50.0 (Windows NT 10.0; Win64; x64) AppleWebKit
 REPO_URL_PATTERN = "https://raw.githubusercontent.com/chanktb/product-crawler/main/{domain}.txt"
 IMAGE_REPO_URL_PATTERN = "https://raw.githubusercontent.com/ktbhub/image-crawler/main/{domain}.txt"
 STOP_URLS_FILE = "stop_urls.txt"
-STOP_URLS_COUNT = 10  # Number of product URLs to save as a stop list
+STOP_URLS_COUNT = 10  # Số lượng URL sản phẩm được lưu làm điểm dừng
 
 # ----------------------------------------------------------------------------------------------------------------------
 # Core Functions
@@ -51,6 +51,21 @@ def check_url_exists(url):
     except requests.exceptions.RequestException:
         return False
 
+def get_stop_url_from_repo(domain):
+    """Lấy URL hình ảnh đầu tiên từ file repo của image-crawler để làm điểm dừng."""
+    image_repo_url = IMAGE_REPO_URL_PATTERN.format(domain=domain)
+    try:
+        r = requests.get(image_repo_url, headers=HEADERS, timeout=30)
+        if r.status_code == 200:
+            repo_urls = [line.strip() for line in r.text.splitlines() if line.strip()]
+            if repo_urls:
+                stop_url = repo_urls[0]
+                print(f"Stop URL được lấy từ repo image-crawler: {stop_url}")
+                return stop_url
+    except requests.exceptions.RequestException as e:
+        print(f"Lỗi khi lấy stop URL từ repo: {e}")
+    return None
+
 def apply_replacements(image_url, replacements):
     """Áp dụng logic thay thế URL hình ảnh."""
     final_img_url = image_url
@@ -83,6 +98,7 @@ def apply_fallback_logic(image_url, url_data):
     filename = path_parts[-1]
     prefix_length = fallback_rules.get('prefix_length', 0)
 
+    # Check if the filename has the expected format before cutting
     if len(filename) > prefix_length and filename[prefix_length - 1] == '-':
         new_filename = filename[prefix_length:]
         new_path = '/'.join(path_parts[:-1] + [new_filename])
@@ -208,6 +224,13 @@ def fetch_image_urls_from_prevnext(url_data):
     """Crawl sản phẩm theo chuỗi next/prev với cơ chế khôi phục."""
     all_image_urls = []
     domain = urlparse(url_data['url']).netloc
+    
+    # Lấy stop URL từ repo image-crawler
+    stop_url_repo = get_stop_url_from_repo(domain)
+    if stop_url_repo:
+        stop_url = stop_url_repo
+    else:
+        stop_url = None
 
     try:
         r = requests.get(url_data['url'], headers=HEADERS, timeout=30)
@@ -234,6 +257,10 @@ def fetch_image_urls_from_prevnext(url_data):
             if best_url:
                 final_img_url = apply_replacements(best_url, url_data.get('replacements', {}))
                 final_img_url = apply_fallback_logic(final_img_url, url_data)
+                
+                if stop_url and final_img_url == stop_url:
+                    print("Đã tìm thấy URL dừng, kết thúc crawl.")
+                    break
                 
                 if final_img_url not in all_image_urls:
                     all_image_urls.append(final_img_url)
@@ -285,7 +312,7 @@ def fetch_image_urls_from_prevnext(url_data):
 
     return all_image_urls
 
-def fetch_image_urls_from_product_list(url_data, stop_urls):
+def fetch_image_urls_from_product_list(url_data, stop_urls_list):
     """Tải danh sách URL sản phẩm từ repo và crawl từng trang để lấy ảnh."""
     all_image_urls = []
     domain = urlparse(url_data['url']).netloc
@@ -299,15 +326,15 @@ def fetch_image_urls_from_product_list(url_data, stop_urls):
     except requests.exceptions.RequestException as e:
         print(f"Lỗi khi truy cập repo sản phẩm: {e}. Bỏ qua domain này.")
         return []
-
+    
     urls_to_crawl = []
     
     # Duyệt qua danh sách sản phẩm để tìm điểm dừng
-    if domain in stop_urls:
+    if stop_urls_list:
         found_stop_point = False
         for product_url in product_urls:
-            if product_url in stop_urls[domain]:
-                print(f"Đã tìm thấy URL dừng, kết thúc tìm kiếm sản phẩm mới.")
+            if product_url in stop_urls_list:
+                print(f"Đã tìm thấy URL dừng: {product_url}, kết thúc tìm kiếm sản phẩm mới.")
                 found_stop_point = True
                 break
             urls_to_crawl.append(product_url)
@@ -379,9 +406,9 @@ if __name__ == "__main__":
     for url_data in configs:
         domain = urlparse(url_data['url']).netloc
         
-        # Lấy stop_url cho các loại không sử dụng stop_urls.txt
+        # Lấy stop_url từ repo cho các loại không sử dụng stop_urls.txt
         stop_url_repo = None
-        if url_data.get('source_type') != 'product-list':
+        if url_data.get('source_type') in ['web', 'api', 'prevnext']:
             stop_url_repo = get_stop_url_from_repo(domain)
             
         try:
