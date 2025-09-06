@@ -24,16 +24,16 @@
     "https://techteesusa.com/product/greatest-dynasty-ever-chiefs-kingdom-kansas-city-t-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/well-paint-me-green-and-call-me-a-pickle-because-im-done-dillin-with-you-bitches-shirt/",
-    "https://teeworksusa.com/product/wake-up-america-earl-pitts-shirt/",
-    "https://teeworksusa.com/product/the-thing-sumi-e-japanese-shirt/",
-    "https://teeworksusa.com/product/the-mothman-stole-my-catalytic-convertor-in-point-pleasant-west-virginia-shirt/",
-    "https://teeworksusa.com/product/supergirl-i-dreamed-of-krypton-again-shirt/",
-    "https://teeworksusa.com/product/sun-devil-sparky-fb-shirt/",
-    "https://teeworksusa.com/product/suburban-standoff-shirt/",
-    "https://teeworksusa.com/product/sober-anime-fans-of-east-hollywood-shirt/",
-    "https://teeworksusa.com/product/raygun-nasa-logo-shirt/",
-    "https://teeworksusa.com/product/phish-bourbon-and-beyond-in-louisville-ky-sept-12-2025-shirt/"
+    "https://teeworksusa.com/product/zebra-live-fast-die-fast-shirt/",
+    "https://teeworksusa.com/product/yes-they-are-real-shirt/",
+    "https://teeworksusa.com/product/uber-is-for-quitters-shirt/",
+    "https://teeworksusa.com/product/trumpkin-spice-presidential-blend-shirt/",
+    "https://teeworksusa.com/product/trumpkin-spice-and-everything-nice-halloween-pumpkin-shirt/",
+    "https://teeworksusa.com/product/these-pretzels-are-making-me-thirsty-shirt/",
+    "https://teeworksusa.com/product/these-pretzels-are-making-me-thirsty-seinfeld-shirt/",
+    "https://teeworksusa.com/product/the-ohio-state-band-shirt/",
+    "https://teeworksusa.com/product/the-life-of-showboy-kansas-city-shirt/",
+    "https://teeworksusa.com/product/the-dead-dance-graphic-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-yes-im-old-but-i-saw-new-york-yankees-mantle-and-maris-greatness-shirt/",
@@ -78,16 +78,10 @@
     "https://teeextra.com/product/official-in-october-we-wear-pink-boo-bees-against-breast-cancer-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/we-are-all-going-to-die-another-department-2025-painting-shirt/",
-    "https://teespix.com/product/washington-huskies-football-ncaa-purplr-reign-seattle-wa-helmet-grid-shirt/",
-    "https://teespix.com/product/the-warning-band-logo-2025-shirt/",
-    "https://teespix.com/product/steve-angeli-peanut-butter-angeli-time-syracuse-orange-football-ncaa-shirt/",
-    "https://teespix.com/product/southeastern-conference-drippy-helmets-16-team-character-shirt/",
-    "https://teespix.com/product/southeastern-conference-16-college-football-stadiums-shirt/",
-    "https://teespix.com/product/sober-anime-fans-of-east-hollywood-shirt/",
-    "https://teespix.com/product/snoopy-yesterday-i-did-nothing-and-today-im-finishing-shirt/",
-    "https://teespix.com/product/snoopy-walking-by-faith-tripping-constantly-shirt/",
-    "https://teespix.com/product/snoopy-inside-every-older-person-younger-person-wondering-what-shirt/"
+    "https://teespix.com/product/adam-thielen-minnesota-vikings-thielen-good-t-shirt/",
+    "https://teespix.com/product/calling-jacksonville-jaguars-london-games-2025-t-shirt/",
+    "https://teespix.com/product/yes-im-old-but-i-saw-new-york-yankees-derek-jeter-mariano-rivera-jorge-posada-andy-pettitte-greatness-shirt/",
+    "https://teespix.com/product/2025-go-birds-philadelphia-eagles-24-20-dallas-cowboys-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/big-mullet-energy-armchair-illini-illinois-fighting-football-signature-2-sided-shirt/",
@@ -161,16 +155,16 @@
     "https://uscraftedtees.com/product/official-pulp-band-postcard-2025-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/honey-badger-natural-born-chiller-shirt/",
-    "https://capitoneshirt.com/product/honey-badger-fuck-regrets-manage-consequences-shirt/",
-    "https://capitoneshirt.com/product/henry-viii-chess-all-queens-few-survivors-shirt/",
-    "https://capitoneshirt.com/product/happy-fall-yall-halloween-shirt/",
-    "https://capitoneshirt.com/product/fredrick-moore-oh-no-michigan-wolverines-shirt/",
-    "https://capitoneshirt.com/product/florida-state-seminoles-i-just-dont-see-them-stopping-me-shirt/",
-    "https://capitoneshirt.com/product/egyptian-sarcophagus-dead-inside-shirt-2/",
-    "https://capitoneshirt.com/product/americans-will-cross-a-frozen-river-on-christmas-to-kill-you-shirt/",
-    "https://capitoneshirt.com/product/alamo-dear-texas-youre-welcome-regards-the-real-ut-shirt/",
-    "https://capitoneshirt.com/product/alexander-the-great-to-the-edge-of-the-world-shirt/"
+    "https://capitoneshirt.com/product/witch-spooky-knotts-berry-farm-halloween-shirt/",
+    "https://capitoneshirt.com/product/viking-to-do-list-buy-an-axe-kill-with-kindness-shirt/",
+    "https://capitoneshirt.com/product/u-ok-attila-the-hun-shirt/",
+    "https://capitoneshirt.com/product/to-do-list-dealing-with-rasputin-poisoned-beaten-shot-twice-shirt/",
+    "https://capitoneshirt.com/product/tiger-tank-my-kind-of-porsche-shirt/",
+    "https://capitoneshirt.com/product/tennessee-vols-gets-corn-from-a-jar-shirt/",
+    "https://capitoneshirt.com/product/tennessee-the-everything-university-shirt/",
+    "https://capitoneshirt.com/product/tennessee-home-sweet-home-to-me-shirt/",
+    "https://capitoneshirt.com/product/tennessee-greater-than-florida-shirt/",
+    "https://capitoneshirt.com/product/stix-city-lavar-arrington-penn-state-nittany-lions-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/hbcu-dreams-atlanta-dream-shirt/",
