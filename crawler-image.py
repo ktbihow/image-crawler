@@ -51,21 +51,6 @@ def check_url_exists(url):
     except requests.exceptions.RequestException:
         return False
 
-def get_stop_url_from_repo(domain):
-    """Lấy URL hình ảnh đầu tiên từ file repo của image-crawler để làm điểm dừng."""
-    image_repo_url = IMAGE_REPO_URL_PATTERN.format(domain=domain)
-    try:
-        r = requests.get(image_repo_url, headers=HEADERS, timeout=30)
-        if r.status_code == 200:
-            repo_urls = [line.strip() for line in r.text.splitlines() if line.strip()]
-            if repo_urls:
-                stop_url = repo_urls[0]
-                print(f"Stop URL được lấy từ repo image-crawler: {stop_url}")
-                return stop_url
-    except requests.exceptions.RequestException as e:
-        print(f"Lỗi khi lấy stop URL từ repo: {e}")
-    return None
-
 def apply_replacements(image_url, replacements):
     """Áp dụng logic thay thế URL hình ảnh."""
     final_img_url = image_url
@@ -224,13 +209,6 @@ def fetch_image_urls_from_prevnext(url_data):
     """Crawl sản phẩm theo chuỗi next/prev với cơ chế khôi phục."""
     all_image_urls = []
     domain = urlparse(url_data['url']).netloc
-    
-    # Lấy stop URL từ repo image-crawler
-    stop_url_repo = get_stop_url_from_repo(domain)
-    if stop_url_repo:
-        stop_url = stop_url_repo
-    else:
-        stop_url = None
 
     try:
         r = requests.get(url_data['url'], headers=HEADERS, timeout=30)
@@ -257,10 +235,6 @@ def fetch_image_urls_from_prevnext(url_data):
             if best_url:
                 final_img_url = apply_replacements(best_url, url_data.get('replacements', {}))
                 final_img_url = apply_fallback_logic(final_img_url, url_data)
-                
-                if stop_url and final_img_url == stop_url:
-                    print("Đã tìm thấy URL dừng, kết thúc crawl.")
-                    break
                 
                 if final_img_url not in all_image_urls:
                     all_image_urls.append(final_img_url)
@@ -406,11 +380,6 @@ if __name__ == "__main__":
     for url_data in configs:
         domain = urlparse(url_data['url']).netloc
         
-        # Lấy stop_url từ repo cho các loại không sử dụng stop_urls.txt
-        stop_url_repo = None
-        if url_data.get('source_type') in ['web', 'api', 'prevnext']:
-            stop_url_repo = get_stop_url_from_repo(domain)
-            
         try:
             with open(f"{domain}.txt", "r", encoding="utf-8") as f:
                 existing_urls = [line.strip() for line in f if line.strip()]
