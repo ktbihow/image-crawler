@@ -58,7 +58,7 @@ def apply_replacements(image_url, replacements, always_replace=False):
     """
     final_img_url = image_url
     
-    # Logic thay thế chuỗi đơn giản cho API và các trường hợp khác
+    # Logic thay thế chuỗi cho API và các trường hợp khác (dạng dictionary)
     if replacements and isinstance(replacements, dict):
         for original, replacement_list in replacements.items():
             if original in image_url:
@@ -78,7 +78,6 @@ def apply_replacements(image_url, replacements, always_replace=False):
                 return image_url
     
     return final_img_url
-
 
 def apply_fallback_logic(image_url, url_data):
     """
@@ -118,20 +117,16 @@ def apply_fallback_logic(image_url, url_data):
 # ----------------------------------------------------------------------------------------------------------------------
 
 def find_best_image_url(soup, url_data):
-    """
-    Tìm URL hình ảnh tốt nhất dựa trên logic ưu tiên.
-    Áp dụng cho loại `product-list` và `prevnext`.
-    """
+    """Tìm URL hình ảnh tốt nhất dựa trên logic ưu tiên."""
     replacements = url_data.get('replacements', {})
     selector = url_data.get('selector')
 
-    # 1. Tìm kiếm URL có chứa chuỗi thay thế trong phạm vi selector (nếu có)
     if selector:
         image_tags_to_search = soup.select(selector)
     else:
         image_tags_to_search = soup.find_all('img')
 
-    # Logic tìm kiếm ưu tiên cho định dạng danh sách (list)
+    # Logic tìm kiếm ưu tiên cho định dạng danh sách (product-list và prevnext)
     if isinstance(replacements, list):
         for img_tag in image_tags_to_search:
             img_url = img_tag.get('src') or img_tag.get('data-src') or img_tag.get('data-lazy-src')
@@ -150,6 +145,7 @@ def find_best_image_url(soup, url_data):
             return img_url
             
     # 3. Fallback sang img tag thông thường
+    # Chỉ áp dụng nếu không có selector và replacements
     if not selector and not replacements:
         for img_tag in soup.find_all('img'):
             img_url = img_tag.get('src') or img_tag.get('data-src') or img_tag.get('data-lazy-src')
@@ -180,13 +176,11 @@ def fetch_image_urls_from_api(url_data, stop_urls_list):
                 break
             
             for item in data:
-                # Tìm và so sánh URL sản phẩm để dừng
                 product_url = item.get('link')
                 if product_url and product_url in stop_urls_list:
                     print(f"Đã tìm thấy URL dừng: {product_url}, kết thúc crawl.")
                     return all_image_urls, new_product_urls_found
                 
-                # Trích xuất URL hình ảnh
                 img_url = None
                 if 'yoast_head_json' in item and 'og_image' in item['yoast_head_json'] and len(item['yoast_head_json']['og_image']) > 0:
                     img_url = item['yoast_head_json']['og_image'][0]['url']
@@ -201,7 +195,6 @@ def fetch_image_urls_from_api(url_data, stop_urls_list):
                     if img_url.startswith('http://'):
                         img_url = img_url.replace('http://', 'https://')
                     
-                    # Áp dụng replace và checkhead
                     final_img_url = apply_replacements(img_url, url_data.get('replacements', {}), url_data.get('always_replace', False))
                     final_img_url = apply_fallback_logic(final_img_url, url_data)
                     
@@ -249,7 +242,6 @@ def fetch_image_urls_from_prevnext(url_data, stop_urls_list):
             r.raise_for_status()
             soup = BeautifulSoup(r.text, "html.parser")
 
-            # Logic tìm kiếm ưu tiên cho định dạng danh sách (list)
             best_url = find_best_image_url(soup, url_data)
             if best_url:
                 final_img_url = apply_fallback_logic(best_url, url_data)
@@ -348,7 +340,6 @@ def fetch_image_urls_from_product_list(url_data, stop_urls_list):
             r.raise_for_status()
             soup = BeautifulSoup(r.text, "html.parser")
             
-            # Logic tìm kiếm ưu tiên cho định dạng danh sách (list)
             best_url = find_best_image_url(soup, url_data)
             if best_url:
                 final_img_url = apply_fallback_logic(best_url, url_data)
