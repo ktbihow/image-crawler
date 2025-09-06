@@ -173,7 +173,16 @@
     "https://capitoneshirt.com/product/stix-city-lavar-arrington-penn-state-nittany-lions-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/bayou-bandits-lsu-bandit-noun-shirt/"
+    "https://clickoneshirt.com/product/but-mom-it-means-black-in-spanish-shirt/",
+    "https://clickoneshirt.com/product/ceedee-lamb-of-ceedee-lamb-shirt/",
+    "https://clickoneshirt.com/product/bossa-nova-rio-de-janeiro-latin-jazz-music-shirt/",
+    "https://clickoneshirt.com/product/buffalo-bills-1989-1990-feeding-frenzy-shirt/",
+    "https://clickoneshirt.com/product/boner-donor-red-cross-shirt/",
+    "https://clickoneshirt.com/product/billy-strings-and-bryan-sutton-with-royal-shirt/",
+    "https://clickoneshirt.com/product/angel-give-adam-and-eva-a-break-its-just-one-litle-apple-vintage-funny-graphic-shirt/",
+    "https://clickoneshirt.com/product/americas-new-first-family-january-20-2009-shirt/",
+    "https://clickoneshirt.com/product/billy-strings-and-bryan-sutton-with-royal-masat-taxidermy-shirt/",
+    "https://clickoneshirt.com/product/big-johnson-theres-not-much-room-in-the-box-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/your-intuition-was-right-youre-crazy-t-shirts/",

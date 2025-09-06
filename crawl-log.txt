@@ -1,5 +1,5 @@
 -Kết quả crawl-
-Thời gian: 2025-09-06 14:28:41
+Thời gian: 2025-09-06 14:42:04
 geekteesus.com: 0 new URLs added. Total 126 URLs.
 techteesusa.com: 0 new URLs added. Total 171 URLs.
 teeworksusa.com: 0 new URLs added. Total 312 URLs.
@@ -16,5 +16,5 @@ teehandus.com: 0 new URLs added. Total 232 URLs.
 thefunnyt.com: 0 new URLs added. Total 22 URLs.
 uscraftedtees.com: 0 new URLs added. Total 198 URLs.
 capitoneshirt.com: 0 new URLs added. Total 204 URLs.
-clickoneshirt.com: 1 new URLs added. Total 123 URLs.
+clickoneshirt.com: 92 new URLs added. Total 215 URLs.
 teleteeshirt.com: 0 new URLs added. Total 233 URLs.
