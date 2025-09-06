@@ -60,10 +60,10 @@
     "https://berrylittles.com/product/official-cleveland-browns-football-taking-the-pound-across-the-pond-painting-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-san-diego-ca-dude-blink-182-ranch-est-1992-online-ceramics-retro-t-shirt/",
-    "https://dreameshirt.com/product/official-new-york-yankees-vs-toronto-blue-jays-in-friday-september-5-mlb-pennant-chase-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-new-york-mets-vs-cincinnati-reds-in-friday-september-5-mlb-pennant-chase-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-blink-182-dude-ranch-parental-advisory-explicit-content-poster-t-shirt/"
+    "https://dreameshirt.com/product/official-john-cena-and-brock-lesnar-will-go-to-war-one-last-time-at-wrestlepalooza-september-20-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-from-tuscaloosa-to-the-league-thank-you-amari-cooper-alabama-football-t-shirt/",
+    "https://dreameshirt.com/product/official-cfp-national-championship-trophy-tour-texas-at-ohio-state-ohio-stadium-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-carlos-alcaraz-vs-jannik-sinner-french-open-wimbledon-us-open-2025-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/caitlin-clark-wear-her-logo-two-sided-shirt/",
