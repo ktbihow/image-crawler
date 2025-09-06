@@ -41,7 +41,8 @@
         "url": "https://teeextra.com/",
         "selector": "div.product-images img",
         "replacements": {"-Shirt.jpg": ["-Ornament.jpg"]},
-        "source_type": "product-list"
+        "source_type": "product-list",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teespix.com", "prefix_length": 9 }
     },
     {
         "url": "https://teespix.com/",
