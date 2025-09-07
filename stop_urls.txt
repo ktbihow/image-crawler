@@ -72,14 +72,14 @@
     "https://dreameshirt.com/product/official-penn-state-nittany-lions-football-ncaa-happy-valley-university-park-pa-helmet-grid-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-jr-motorsports-official-team-apparel-heather-powder-blue-been-there-won-that-shirt/",
-    "https://teeextra.com/product/official-iowa-hawkeyes-football-herky-the-hawk-gridiron-mascot-shirt/",
-    "https://teeextra.com/product/official-idaho-mighty-vandals-brave-and-bold-go-mighty-logo-shirt/",
-    "https://teeextra.com/product/official-hendrick-motorsports-team-kyle-larson-hendrick-cars/",
-    "https://teeextra.com/product/official-harry-mack-official-omegle-bars-100-shirt/",
-    "https://teeextra.com/product/official-fuckthisindustry2008-n0ahh-shirt/",
-    "https://teeextra.com/product/official-felix-auger-aliassime-tennis-shirt/",
-    "https://teeextra.com/product/official-eric-clapton-tour-cleveland-ohio-09-11-2025-shirt/"
+    "https://teeextra.com/product/official-wolves-green-canyon-football-north-logan-mascot-shirt/",
+    "https://teeextra.com/product/official-timpview-thunderbirds-football-provo-mascot-lightning-shirt/",
+    "https://teeextra.com/product/official-the-tower-rangers-parody-meme-shirt/",
+    "https://teeextra.com/product/official-the-teskey-brothers-september-23-2025-the-mission-ballroom-shows-shirt/",
+    "https://teeextra.com/product/official-the-offspring-supercharged-worldwide-in-25-west-valley-city-ut-shirt/",
+    "https://teeextra.com/product/official-the-black-keys-the-armory-sep-6-2025-shirt/",
+    "https://teeextra.com/product/official-tenemos-explosivos-trotamundos-valparaiso-chile-oct-17-2025-shirt/",
+    "https://teeextra.com/product/official-tedeschi-trucks-band-mansfield-ma-tour-06-sep-2025-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/travis-kelce-kansas-city-chiefs-1960-football-club-oitenta-e-sete-shirt/",
