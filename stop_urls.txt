@@ -60,16 +60,16 @@
     "https://berrylittles.com/product/official-blink-182-missionary-impossible-2025-tour-september-6-2025-bethel-woods-center-for-the-arts-in-bethel-ny-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-poster-tennessee-vols-vs-georgia-bulldogs-espns-college-gameday-september-13-2025-knoxville-tennessee-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-nassourdine-imavov-defeats-caio-borralho-the-sniper-ufc-paris-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-ohio-state-buckeyes-victory-grambling-state-tigers-final-score-70-00-september-6-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-drake-maye-v2-new-england-patriots-nfl-football-planet-euphoria-art-t-shirt/",
-    "https://dreameshirt.com/product/official-bokey-strong-9-florida-state-seminoles-football-ethan-pritchard-t-shirt/",
-    "https://dreameshirt.com/product/official-the-conjuring-the-official-conjuring-universe-coloring-book-illustrated-by-alan-robert-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-raider-nation-the-kickoff-a-season-fueled-by-fan-strength-and-ferocity-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-papadosio-the-fillmore-auditorium-in-denver-co-september-6-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-green-day-the-saviors-tour-the-town-sao-paulo-brazil-september-7-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-penn-state-nittany-lions-football-ncaa-happy-valley-university-park-pa-helmet-grid-t-shirt/"
+    "https://dreameshirt.com/product/official-oregon-69-3-oklahoma-state-sep-6-2025-final-score-patrick-star-meme-t-shirt/",
+    "https://dreameshirt.com/product/official-georgia-bulldogs-defeat-austin-peay-governors-final-sorce-28-06-sep-6-2025-godawgs-t-shirt/",
+    "https://dreameshirt.com/product/official-ducati-2025-constructors-champions-marc-marquez-alex-marquez-alenta-motogp-t-shirt/",
+    "https://dreameshirt.com/product/official-baylor-bears-48-45-smu-mustangs-sep-6-2025-cfb-on-fox-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-philly-karen-hey-thats-my-ball-phillary-clinton-t-shirt/",
+    "https://dreameshirt.com/product/official-oklahoma-sooners-defeat-michigan-wolverines-we-rolled-em-t-shirt/",
+    "https://dreameshirt.com/product/official-nerds-aint-shit-french-mma-stronger-t-shirt/",
+    "https://dreameshirt.com/product/official-nascar-xfinity-2025-regular-season-champion-connor-zilisch-signature-t-shirt/",
+    "https://dreameshirt.com/product/official-holymountainprinting-outta-pocket-mlb-major-league-beatdown-logo-t-shirt/",
+    "https://dreameshirt.com/product/official-bowling-green-state-university-football-orange-pudge-the-cat-team-painting-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/official-wolves-green-canyon-football-north-logan-mascot-shirt/",
@@ -130,16 +130,16 @@
     "https://fanaticity.com/product/the-offspring-ridgefield-wa-poster-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/jalen-hurts-how-bout-them-birds-2025-t-shirt/",
-    "https://legendusashirt.com/product/iowa-state-cyclones-vs-iowa-hawkeyes-st-september-6-2025-cy-hawk-jack-trice-stadium-t-shirt/",
-    "https://legendusashirt.com/product/iowa-state-cyclones-16-iowa-hawkeyes-13-2025-cy-hawk-t-shirt/",
-    "https://legendusashirt.com/product/iowa-state-cyclones-16-iowa-hawkeyes-13-2025-cy-hawk-jack-trice-stadium-t-shirt/",
-    "https://legendusashirt.com/product/hulaween-spirit-of-the-suwannee-music-park-october-30-november-2-2025-poster-t-shirt/",
-    "https://legendusashirt.com/product/green-day-the-town-sao-paulo-brazil-sept-7-2025-t-shirt/",
-    "https://legendusashirt.com/product/glare-in-austin-tx-on-sept-17-2025-t-shirt/",
-    "https://legendusashirt.com/product/georgia-bulldogs-on-saturdays-and-atlanta-falcons-on-sundays-t-shirt/",
-    "https://legendusashirt.com/product/chris-jones-kansas-city-retro-stone-cold-signature-t-shirt/",
-    "https://legendusashirt.com/product/canadiens-all-time-greats-24x-stanley-cup-champions-1909-2025-signatures-t-shirt/"
+    "https://legendusashirt.com/product/zach-bryan-notre-dame-stadium-september-6-2025-tour-poster-t-shirt/",
+    "https://legendusashirt.com/product/yes-im-old-but-i-saw-greatness-steelers-greene-bradshaw-harris-and-lambert-signatures-t-shirt/",
+    "https://legendusashirt.com/product/yes-im-old-but-i-saw-greatness-49ers-montana-rice-young-and-lott-signatures-t-shirt/",
+    "https://legendusashirt.com/product/yes-im-old-but-i-saw-greatness-cowboys-staubach-e-smith-aikman-and-irvin-signatures-t-shirt/",
+    "https://legendusashirt.com/product/vance-joy-north-american-tour-2025-poster-t-shirt/",
+    "https://legendusashirt.com/product/tyreek-hill-cheetah-miami-dolphins-collage-signature-t-shirt/",
+    "https://legendusashirt.com/product/the-teskey-brothers-september-26-2025-forest-grove-or-concert-poster-t-shirt/",
+    "https://legendusashirt.com/product/the-glorious-dead-2-dead-boyz-birth-t-shirt/",
+    "https://legendusashirt.com/product/the-devil-went-down-to-starkville-and-left-a-loser-t-shirt/",
+    "https://legendusashirt.com/product/texas-rangers-garcia-and-dallas-cowboys-parsons-skyline-signatures-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/adtr-toronto-2025-shirt/",
