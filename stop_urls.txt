@@ -12,16 +12,12 @@
     "https://geekteesus.com/product/uconn-huskies-nike-six-time-ncaa-national-champions-mens-basketball-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/yea-dawgies-ride-the-tide-shirt/",
-    "https://techteesusa.com/product/the-pumpkin-halloween-jack-o-lantern-tarot-card-shirt/",
-    "https://techteesusa.com/product/tyler-perkins-our-punters-superpowere-kicking-hunger-t-shirt/",
-    "https://techteesusa.com/product/in-my-fighting-childhood-cancer-era-t-shirt/",
-    "https://techteesusa.com/product/100-thieves-x-demon-2025-shirt/",
-    "https://techteesusa.com/product/what-kind-of-vibe-do-i-give-off-t-shirt/",
-    "https://techteesusa.com/product/warning-choking-hazard-t-shirt/",
-    "https://techteesusa.com/product/tyler-perkins-put-hunger-on-the-sidelines-t-shirt/",
-    "https://techteesusa.com/product/old-white-hippie-t-shirt/",
-    "https://techteesusa.com/product/greatest-dynasty-ever-chiefs-kingdom-kansas-city-t-shirt/"
+    "https://techteesusa.com/product/cyclones-power-iowa-outline-shirt/",
+    "https://techteesusa.com/product/caitlin-clark-9th-in-your-rankings-but-1st-in-your-nightmares-shirt/",
+    "https://techteesusa.com/product/never-argue-with-somebody-john-brown-would-have-shot-shirt/",
+    "https://techteesusa.com/product/coffee-and-spreadsheets-logo-shirt/",
+    "https://techteesusa.com/product/buy-a-man-eat-fish-he-day-teach-fish-man-to-a-lifetime-t-shirt/",
+    "https://techteesusa.com/product/edkh-epstein-didnt-kill-himself-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/yoda-my-husband-is-my-favorite-pain-in-the-ass-shirt/",
