@@ -36,16 +36,16 @@
     "https://teeworksusa.com/product/aphex-twin-richard-d-james-smiley-face-logo-electronic-music-shirt/"
   ],
   "meredpremium.com": [
-    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-new-york-yankees-mantle-and-maris-greatness-shirt/",
-    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-new-york-yankees-derek-jeter-mariano-rivera-jorge-posada-andy-pettitte-greatness-shirt/",
-    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-los-angeles-dodgers-sandy-koufax-and-don-drysdale-greatness-shirt/",
-    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-boston-red-sox-david-ortiz-manny-ramirez-pedro-martinez-curt-schilling-greatness-shirt/",
-    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-los-angeles-dodgers-sandy-koufax-and-don-drysdale-maury-wills-greatness-shirt/",
-    "https://meredpremium.com/product/official-wolverines-on-saturdays-lions-on-sundays-football-2025-shirt/",
-    "https://meredpremium.com/product/official-underwood-wolverines-on-saturdays-goff-lions-on-sundays-shirt/",
-    "https://meredpremium.com/product/official-trumpkin-spice-presidential-blend-t-shirt/",
-    "https://meredpremium.com/product/official-trumpkin-spice-everything-nice-halloween-trump-pumpkin-t-shirt/",
-    "https://meredpremium.com/product/official-treveyon-henderson-new-england-patriots-celebration-player-t-shirt/"
+    "https://meredpremium.com/product/official-vanderbilt-commodores-win-44-20-virginia-tech-poster-shirt/",
+    "https://meredpremium.com/product/official-usf-bulls-win-18-16-florida-poster-shirt/",
+    "https://meredpremium.com/product/official-the-peanuts-walking-x-sydney-swans-its-the-most-wonderful-time-of-the-year-shirt/",
+    "https://meredpremium.com/product/official-the-peanuts-walking-x-hawthorn-hawks-its-the-most-wonderful-time-of-the-year-shirt/",
+    "https://meredpremium.com/product/official-the-peanuts-snoopy-and-woodstock-x-denver-broncos-in-the-fall-shirt/",
+    "https://meredpremium.com/product/official-the-peanuts-snoopy-and-woodstock-x-dallas-cowboys-in-the-fall-shirt/",
+    "https://meredpremium.com/product/official-the-peanuts-snoopy-and-woodstock-x-chicago-bears-in-the-fall-shirt/",
+    "https://meredpremium.com/product/official-texas-tech-red-raiders-fill-er-up-oil-gas-shirt/",
+    "https://meredpremium.com/product/official-tennessee-win-72-17-east-tennessee-state-poster-shirt/",
+    "https://meredpremium.com/product/official-tennessee-titans-and-peanuts-character-its-the-most-wonderful-time-of-the-year-shirt/"
   ],
   "berrylittles.com": [
     "https://berrylittles.com/product/official-poster-ohio-state-buckeyes-win-grambling-state-tigers-final-score-70-00-t-shirt/",
@@ -130,12 +130,15 @@
     "https://fanaticity.com/product/the-offspring-ridgefield-wa-poster-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/kyle-larson-hendrick-motorsports-team-collection-olive-hendrick-two-sided-shirt/",
-    "https://legendusashirt.com/product/billy-strings-and-bryan-sutton-with-royal-masat-on-tour-groundhog-tee-with-dates-september-2025-two-sided-shirt/",
-    "https://legendusashirt.com/product/23xi-racing-red-fifth-anniversary-est-2020-two-sided-shirt/",
-    "https://legendusashirt.com/product/billy-strings-and-bryan-sutton-with-royal-masat-2025-on-tour-suit-tee-with-dates-in-kentucky-north-carolina-and-tennessee-september-2025-two-sided-shirt/",
-    "https://legendusashirt.com/product/billy-strings-and-bryan-sutton-with-royal-masat-2025-on-tour-farm-fresh-tee-with-dates-in-kentucky-north-carolina-and-tennessee-september-2025-two-sided-shirt/",
-    "https://legendusashirt.com/product/billy-strings-and-bryan-sutton-with-royal-masat-2025-on-tour-rooster-with-dates-september-two-sided-shirt/"
+    "https://legendusashirt.com/product/harry-mack-official-omegle-bars-100-t-shirt/",
+    "https://legendusashirt.com/product/grateful-dead-hampton-86-t-shirt/",
+    "https://legendusashirt.com/product/fuckthisindustry2008-n0ahh-t-shirt/",
+    "https://legendusashirt.com/product/felix-auger-aliassime-tennis-t-shirt/",
+    "https://legendusashirt.com/product/eric-clapton-tour-cleveland-ohio-09-11-2025-t-shirt/",
+    "https://legendusashirt.com/product/deafheaven-the-rave-ii-in-milwaukee-wi-9-13-2025-t-shirt/",
+    "https://legendusashirt.com/product/bokey-strong-9-t-shirt/",
+    "https://legendusashirt.com/product/brooks-nielsen-boulder-fox-theatre-sep-06-2025-t-shirt/",
+    "https://legendusashirt.com/product/alabama-shakes-budweiser-stage-in-toronto-on-sept-6-2025-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/adtr-toronto-2025-shirt/",
