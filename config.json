@@ -103,5 +103,11 @@
     {
         "url": "https://teleteeshirt.com/",
         "source_type": "api"
+    },
+    {
+        "url": "https://teeslocal.com/",
+        "selector": "div.product-images img",
+        "replacements": ["-hoodie.jpg", "-shirt.jpg"],
+        "source_type": "product-list"
     }
 ]
