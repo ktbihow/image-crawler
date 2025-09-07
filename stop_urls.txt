@@ -72,16 +72,14 @@
     "https://dreameshirt.com/product/official-penn-state-nittany-lions-football-ncaa-happy-valley-university-park-pa-helmet-grid-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-willcatchers-for-willca-di-kaya-tayo-taping-friends-shirt-2/",
-    "https://teeextra.com/product/official-wilderness-forest-red-tailed-black-cockatoo-womens-natural-organic-shirt/",
-    "https://teeextra.com/product/official-the-who-chicago-tour-on-sept-7-9-2025-shirt/",
-    "https://teeextra.com/product/official-smu-mustangs-vs-baylor-bears-football-2025-dallas-tx-gameday-shirt/",
-    "https://teeextra.com/product/official-the-austin-chronicle-hot-sauce-festival-2025-shirt/",
-    "https://teeextra.com/product/official-polydor-store-merch-elmiene-hes-british-shirt/",
-    "https://teeextra.com/product/official-polydor-elmiene-mainstream-shirt/",
-    "https://teeextra.com/product/official-perrie-album-shirt/",
-    "https://teeextra.com/product/official-south-carolina-football-its-a-lanorris-sellers-market-shirt-2/",
-    "https://teeextra.com/product/official-sayin-ohio-state-buckeyes-on-saturdays-and-flacco-cleveland-browns-on-sundays-signatures-shirt/"
+    "https://teeextra.com/product/official-jr-motorsports-official-team-apparel-heather-powder-blue-been-there-won-that-shirt/",
+    "https://teeextra.com/product/official-iowa-hawkeyes-football-herky-the-hawk-gridiron-mascot-shirt/",
+    "https://teeextra.com/product/official-idaho-mighty-vandals-brave-and-bold-go-mighty-logo-shirt/",
+    "https://teeextra.com/product/official-hendrick-motorsports-team-kyle-larson-hendrick-cars/",
+    "https://teeextra.com/product/official-harry-mack-official-omegle-bars-100-shirt/",
+    "https://teeextra.com/product/official-fuckthisindustry2008-n0ahh-shirt/",
+    "https://teeextra.com/product/official-felix-auger-aliassime-tennis-shirt/",
+    "https://teeextra.com/product/official-eric-clapton-tour-cleveland-ohio-09-11-2025-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/travis-kelce-kansas-city-chiefs-1960-football-club-oitenta-e-sete-shirt/",
