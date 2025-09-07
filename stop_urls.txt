@@ -154,28 +154,28 @@
     "https://thefunnyt.com/product/hot-girls-for-zohran-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/original-san-francisco-ca-nin-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-hulaween-oct-30-nov-2-2025-spirit-of-the-suwannee-live-oak-florida-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-jerrys-middle-finger-in-crystal-bay-sept-6-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-chicago-il-the-who-sept-7-9-2025-tour-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-colby-acuff-tour-july-aug-sept-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-deafheaven-9-13-2025-the-rave-ii-in-milwaukee-wi-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-the-black-keys-september-6-2025-minneapolis-mn-concert-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-the-teskey-brothers-tour-september-26-2025-forest-grove-or-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-the-offspring-tour-west-valley-city-ut-utah-first-credit-union-amphitheatre-september-6-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-fall-tour-2025-frankie-and-the-witch-fingers-poster-t-shirts/"
+    "https://uscraftedtees.com/product/original-half-moon-bay-jerrys-middle-finger-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-north-american-tour-vance-joy-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-carlile-sep-5-7-2025-red-rocks-amphitheatre-in-morrison-co-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-skeleton-and-roses-dead-in-the-kitchen-grateful-dead-2025-cookbook-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-sept-29-2025-the-teskey-brothers-california-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-witch-we-intend-to-cause-havoc-san-francisco-sept-6-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-papadosio-the-fillmore-auditorium-in-denver-co-september-6-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-blink-182-bethel-woods-center-for-the-arts-in-bethel-ny-september-6-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-green-day-the-town-sao-paulo-brazil-september-7-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-brooks-nielsen-9-6-2025-fox-theater-in-boulder-co-poster-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/witch-spooky-knotts-berry-farm-halloween-shirt/",
-    "https://capitoneshirt.com/product/viking-to-do-list-buy-an-axe-kill-with-kindness-shirt/",
-    "https://capitoneshirt.com/product/u-ok-attila-the-hun-shirt/",
-    "https://capitoneshirt.com/product/to-do-list-dealing-with-rasputin-poisoned-beaten-shot-twice-shirt/",
-    "https://capitoneshirt.com/product/tiger-tank-my-kind-of-porsche-shirt/",
-    "https://capitoneshirt.com/product/tennessee-vols-gets-corn-from-a-jar-shirt/",
-    "https://capitoneshirt.com/product/tennessee-the-everything-university-shirt/",
-    "https://capitoneshirt.com/product/tennessee-home-sweet-home-to-me-shirt/",
-    "https://capitoneshirt.com/product/tennessee-greater-than-florida-shirt/",
-    "https://capitoneshirt.com/product/stix-city-lavar-arrington-penn-state-nittany-lions-shirt/"
+    "https://capitoneshirt.com/product/yes-i-am-old-but-i-saw-toronto-maple-leafs-back-2-back-stanley-cup-champions-shirt/",
+    "https://capitoneshirt.com/product/yes-i-am-old-but-i-saw-toronto-blue-jays-back-2-back-world-series-champions-shirt/",
+    "https://capitoneshirt.com/product/vernell-brown-iii-catch-of-the-year-florida-gators-shirt/",
+    "https://capitoneshirt.com/product/tin-can-sailor-us-navy-destroyer-veterans-shirt/",
+    "https://capitoneshirt.com/product/theres-no-place-like-g28-x0-y0-z0-shirt/",
+    "https://capitoneshirt.com/product/the-lights-are-different-in-lfk-kansas-jayhawks-shirt/",
+    "https://capitoneshirt.com/product/south-florida-bulls-beat-florida-gators-2025-score-18-16-shirt/",
+    "https://capitoneshirt.com/product/skeleton-i-have-separation-anxiety-from-my-dogs-shirt/",
+    "https://capitoneshirt.com/product/remember-when-michigan-wolverines-use-to-beat-on-notre-dame-shirt/",
+    "https://capitoneshirt.com/product/scarlet-knights-on-saturdays-new-york-giants-on-sundays-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/xaden-riorson-girl-dinner-graphic-shirt/",
@@ -190,16 +190,16 @@
     "https://clickoneshirt.com/product/the-tower-rangers-parody-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/young-the-giant-on-september-4-5-2025-at-troubadour-west-hollywood-california-special-anniversary-t-shirts/",
-    "https://teleteeshirt.com/product/the-offspring-west-valley-city-tour-on-sept-6-2025-t-shirts/",
-    "https://teleteeshirt.com/product/the-clutch-full-ahead-flank-mmxxv-tour-2025-t-shirts/",
-    "https://teleteeshirt.com/product/radiohead-london-england-2025-tour-t-shirts/",
-    "https://teleteeshirt.com/product/smackdown-boxing-flames-t-shirts/",
-    "https://teleteeshirt.com/product/pokemon-starter-squad-pikachu-bulbasaur-charmander-and-squirtle-t-shirts/",
-    "https://teleteeshirt.com/product/official-the-real-g-spot-guinness-draught-beer-t-shirts/",
-    "https://teleteeshirt.com/product/missouri-tigers-beat-kansas-jayhawks-border-war-champs-mascot-t-shirts/",
-    "https://teleteeshirt.com/product/massari-dream-t-shirts/",
-    "https://teleteeshirt.com/product/linkin-park-from-zero-world-tour-2025-phoenix-event-t-shirts/"
+    "https://teleteeshirt.com/product/youre-my-chosen-one-ufo-t-shirts/",
+    "https://teleteeshirt.com/product/you-can-learn-sewing-t-shirts/",
+    "https://teleteeshirt.com/product/we-all-get-lost-sometimes-t-shirts/",
+    "https://teleteeshirt.com/product/vomit-emptiness-takes-bloom-forth-jesus-tour-2025-t-shirts/",
+    "https://teleteeshirt.com/product/undergold-golden-hills-iii-the-chief-indians-t-shirts/",
+    "https://teleteeshirt.com/product/undergold-thunder-rider-pegasus-t-shirts/",
+    "https://teleteeshirt.com/product/the-hunchback-of-notre-dame-djali-t-shirts/",
+    "https://teleteeshirt.com/product/the-haunted-mansion-walt-disney-world-t-shirts/",
+    "https://teleteeshirt.com/product/the-haunted-mansion-home-of-999-t-shirts/",
+    "https://teleteeshirt.com/product/the-dripfather-dripfather-applique-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/university-of-texas-longhorns-football-est-1883-vintage-shirt/",
