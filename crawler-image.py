@@ -427,7 +427,7 @@ if __name__ == "__main__":
     save_stop_urls(stop_urls_data)
 
     with open("crawl-log.txt", "w", encoding="utf-8") as f:
-        f.write("--- Summary of Last Crawl ---\n")
+        f.write("--- Summary of Last Image Crawl ---\n")
         f.write(f"Thời gian: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
         for domain, counts in urls_summary.items():
             f.write(f"{domain}: {counts['new_count']} new URLs added. Total {counts['total_count']} URLs.\n")
