@@ -12,16 +12,16 @@
     "https://geekteesus.com/product/uconn-huskies-nike-six-time-ncaa-national-champions-mens-basketball-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/hot-girls-for-zohran-t-shirt/",
-    "https://techteesusa.com/product/heres-how-to-use-ai-to-take-your-art-to-the-next-level-shirt/",
-    "https://techteesusa.com/product/go-birds-dickhead-shirt/",
-    "https://techteesusa.com/product/get-in-losers-were-stealing-candy-halloween-shirt/",
-    "https://techteesusa.com/product/gameday-in-kansas-city-shirt/",
-    "https://techteesusa.com/product/football-is-my-favorite-season-shirt/",
-    "https://techteesusa.com/product/fck-this-industry-shirt/",
-    "https://techteesusa.com/product/arkansas-razorbacks-future-hog-shirt/",
-    "https://techteesusa.com/product/bring-the-noise-in-the-world-est-1972-loudest-stadium-kansas-city-shirt/",
-    "https://techteesusa.com/product/border-showdown-kansas-jayhawks-vs-missouri-tigers-head-to-head-helmet-shirt/"
+    "https://techteesusa.com/product/this-is-why-we-cant-have-nice-things-t-shirt/",
+    "https://techteesusa.com/product/rainbow-moustache-shirt/",
+    "https://techteesusa.com/product/caitlin-clark-wearing-indiana-fever-secondary-logo-shirt/",
+    "https://techteesusa.com/product/wnba-jam-atlanta-dream-brittney-griner-and-rhyne-howard-shirt/",
+    "https://techteesusa.com/product/youre-killin-me-smalls-philadelphia-phillies-x-the-sandlot-shirt/",
+    "https://techteesusa.com/product/7th-annual-jimmy-jab-games-champion-shirt/",
+    "https://techteesusa.com/product/raccoon-for-rocket-men-elon-musk-2028-new-america-party-shirt/",
+    "https://techteesusa.com/product/yes-they-are-real-shirt-2/",
+    "https://techteesusa.com/product/wait-if-youre-circling-back-and-im-touching-base-who-the-hell-is-monitoring-the-situation-shirt/",
+    "https://techteesusa.com/product/touchdown-kan-zuh-city-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/yoda-my-husband-is-my-favorite-pain-in-the-ass-shirt/",
@@ -175,16 +175,16 @@
     "https://capitoneshirt.com/product/scarlet-knights-on-saturdays-new-york-giants-on-sundays-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/xaden-riorson-girl-dinner-graphic-shirt/",
-    "https://clickoneshirt.com/product/wig-timer-error-not-clocking-shirt/",
-    "https://clickoneshirt.com/product/wednesday-addams-salty-af-graphic-shirt/",
-    "https://clickoneshirt.com/product/washington-huskies-football-purple-reign-seattle-helmet-grid-shirt/",
-    "https://clickoneshirt.com/product/washington-commanders-nfl-raise-hail-names-football-player-shirt/",
-    "https://clickoneshirt.com/product/virginia-tech-hokies-football-helmet-grid-blackburg-virginia-shirt/",
-    "https://clickoneshirt.com/product/usa-wildlife-of-north-america-shirt/",
-    "https://clickoneshirt.com/product/the-world-famous-ohio-state-buckeyes-shirt/",
-    "https://clickoneshirt.com/product/troy-and-abed-in-the-morning-shirt/",
-    "https://clickoneshirt.com/product/the-tower-rangers-parody-shirt/"
+    "https://clickoneshirt.com/product/tiff-50-canada-flag-shirt/",
+    "https://clickoneshirt.com/product/the-world-is-my-ashtray-shirt/",
+    "https://clickoneshirt.com/product/teair-tart-slapped-travis-kelce-shirt/",
+    "https://clickoneshirt.com/product/teair-tart-slap-on-travis-kelce-shirt/",
+    "https://clickoneshirt.com/product/steven-universe-three-magical-guardians-of-the-universe-and-steven-shirt/",
+    "https://clickoneshirt.com/product/philly-karen-wanted-reward-poster-shirt/",
+    "https://clickoneshirt.com/product/oklahoma-sooners-vs-michigan-wolverines-rolled-em-shirt/",
+    "https://clickoneshirt.com/product/mr-neutered-beta-male-bad-son-give-her-my-balls-shirt/",
+    "https://clickoneshirt.com/product/meguru-bachira-blue-lock-anime-shirt/",
+    "https://clickoneshirt.com/product/martin-brundle-push-cool-cool-push-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/jr-motorsports-all-we-do-is-win-t-shirts/",
@@ -199,15 +199,15 @@
     "https://teleteeshirt.com/product/stuck-farmer-no-farmers-no-food-t-shirts/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/in-g-d-we-trust-60-years-and-the-band-keeps-playing-on-shirt/",
-    "https://teeslocal.com/product/i-love-jerrys-kids-mda-shirt/",
-    "https://teeslocal.com/product/hulk-hogan-wrestler-the-taskmaster-kevin-sullivan-shirt/",
-    "https://teeslocal.com/product/helen-shivers-and-dont-you-fucking-forget-it-i-know-what-you-did-last-summer-shirt/",
-    "https://teeslocal.com/product/florida-i-hate-it-here-many-storms-shirt/",
-    "https://teeslocal.com/product/festa-world-cup-weekend-overtreder-shirt/",
-    "https://teeslocal.com/product/es-un-honor-mareo-flores-estar-con-dr-doom-shirt/",
-    "https://teeslocal.com/product/tyler-childers-live-at-dinosaur-world-you-just-missed-us-july-30-2025-cave-city-ky-shirt/",
-    "https://teeslocal.com/product/special-ops-soldier-with-down-syndrome-meme-shirt/",
-    "https://teeslocal.com/product/sore-taptap-berkalam-the-man-with-sombrero-and-guitar-shirt/"
+    "https://teeslocal.com/product/taylor-and-travis-kansas-city-love-story-13-87-story-and-baby-she-said-yes-shirt/",
+    "https://teeslocal.com/product/sorry-i-cant-i-have-plans-with-the-mafia-buffalo-bills-football-nfl-2025-shirt/",
+    "https://teeslocal.com/product/sorry-i-cant-i-have-plans-with-the-changer-los-angeles-chargers-football-nfl-2025-shirt/",
+    "https://teeslocal.com/product/funny-ghost-buffalo-bills-go-bills-football-nfl-game-day-2025-shirt/",
+    "https://teeslocal.com/product/los-angeles-chargers-football-established-1960-gift-for-fans-shirt/",
+    "https://teeslocal.com/product/ghost-new-york-giants-football-nfl-game-day-2025-shirt/",
+    "https://teeslocal.com/product/skeleton-its-ok-im-on-500mg-of-fukitol-and-on-300mg-of-gosukadik-shirt/",
+    "https://teeslocal.com/product/skeletons-devil-my-best-friend-is-not-your-friend-idc-what-she-told-you-she-lies-a-little-sometimes-shirt/",
+    "https://teeslocal.com/product/to-be-woke-is-not-a-threat-its-a-calling-pope-leo-xiv-shirt/",
+    "https://teeslocal.com/product/the-kansas-city-chiefs-abbey-road-signatures-football-nfl-2025-shirt/"
   ]
 }
