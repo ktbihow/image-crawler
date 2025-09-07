@@ -105,16 +105,8 @@
     "https://nowbestshirt.com/product/if-they-aint-with-houston-texans-us-vs-the-world-tour-2-sided-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/travis-kelce-smacked-by-teair-tart-shirt/",
-    "https://serenashirt.com/product/buffalo-bills-mascot-est-1960-shirt/",
-    "https://serenashirt.com/product/teair-tart-smacks-travis-kelce-shirt/",
-    "https://serenashirt.com/product/couldnt-be-me-shirt/",
-    "https://serenashirt.com/product/the-way-you-tune-it-out-shirt/",
-    "https://serenashirt.com/product/dont-talk-to-me-until-ive-had-my-red40-shirt/",
-    "https://serenashirt.com/product/indiana-fever-basketball-est-2000-retro-shirt/",
-    "https://serenashirt.com/product/new-york-liberty-basketball-est-1997-retro-shirt/",
-    "https://serenashirt.com/product/minnesota-lynx-basketball-est-1999-retro-shirt/",
-    "https://serenashirt.com/product/bo-nix-denver-broncos-nfl-celebration-shirt/"
+    "https://serenashirt.com/product/bowling-happy-halloween-shirt/",
+    "https://serenashirt.com/product/keep-halloween-alive-in-your-neighborhood-shirt/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/you-cant-see-me-new-york-mets-shirt/",
@@ -141,11 +133,14 @@
     "https://legendusashirt.com/product/2025-its-football-time-in-oklahoma-sooners-two-sided-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/adtr-toronto-2025-shirt/",
-    "https://teehandus.com/product/hayley-williams-a-true-believe-shirt/",
-    "https://teehandus.com/product/i-survived-halloween-horror-nights-viii-1998-universal-studios-florida-shirt/",
-    "https://teehandus.com/product/hw-negative-self-talk-no-i-wont-hear-it-shirt/",
-    "https://teehandus.com/product/monsters-outside-tube-trolls-shirt/"
+    "https://teehandus.com/product/they-are-going-to-eat-you-the-dead-are-among-us-zombies-shirt/",
+    "https://teehandus.com/product/thicc-six-shirt/",
+    "https://teehandus.com/product/tyler-myers-1000-games-played-shirt/",
+    "https://teehandus.com/product/tyler-reddick-45-nascar-toyota-camry-goodyear-shirt/",
+    "https://teehandus.com/product/welcome-to-the-creepy-circus-shirt/",
+    "https://teehandus.com/product/what-da-dog-da-dog-doing-shirt/",
+    "https://teehandus.com/product/wwe-rhea-ripley-tiffany-stratton-indi-hartwell-cora-jade-collage-wrestling-graphic-shirt/",
+    "https://teehandus.com/product/wwe-rhea-ripley-tarot-card-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/felix-auger-aliassime-tennis-shirt/",
