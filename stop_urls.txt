@@ -154,16 +154,16 @@
     "https://thefunnyt.com/product/hot-girls-for-zohran-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/official-woodstock-a-little-goes-a-long-way-give-blood-t-shirts/",
-    "https://uscraftedtees.com/product/official-vinegar-syndrome-tammy-and-the-t-rex-v-demon-wind-t-shirts/",
-    "https://uscraftedtees.com/product/official-trauma-ray-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-they-dont-know-what-the-fck-theyre-doing-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-the-who-united-center-in-chicago-il-sept-7-9-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-south-park-x-dmb-gorge-crew-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-skull-cody-rhodes-is-guile-american-flag-2026-t-shirts/",
-    "https://uscraftedtees.com/product/official-shake-it-for-congress-the-band-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-sept-6-7-2025-mountain-view-art-wine-festival-white-t-shirts/",
-    "https://uscraftedtees.com/product/official-pulp-band-postcard-2025-t-shirts/"
+    "https://uscraftedtees.com/product/original-san-francisco-ca-nin-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-hulaween-oct-30-nov-2-2025-spirit-of-the-suwannee-live-oak-florida-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-jerrys-middle-finger-in-crystal-bay-sept-6-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-chicago-il-the-who-sept-7-9-2025-tour-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-colby-acuff-tour-july-aug-sept-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-deafheaven-9-13-2025-the-rave-ii-in-milwaukee-wi-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-the-black-keys-september-6-2025-minneapolis-mn-concert-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-the-teskey-brothers-tour-september-26-2025-forest-grove-or-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-the-offspring-tour-west-valley-city-ut-utah-first-credit-union-amphitheatre-september-6-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-fall-tour-2025-frankie-and-the-witch-fingers-poster-t-shirts/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/witch-spooky-knotts-berry-farm-halloween-shirt/",
