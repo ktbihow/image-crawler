@@ -1,15 +1,14 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/theres-a-skelly-in-my-belly-shirt/",
-    "https://geekteesus.com/product/the-ghosting-wild-scary-funny-and-offbeat-shirt/",
-    "https://geekteesus.com/product/the-cubby-bear-chicago-est-1953-shirt/",
-    "https://geekteesus.com/product/texas-rangers-levelwear-phase-banner-mlb-shirt/",
-    "https://geekteesus.com/product/tekken-3-modelo-gaming-retro-shirt/",
-    "https://geekteesus.com/product/ram-a-lamb-a-dingdong-trump-shirt/",
-    "https://geekteesus.com/product/reality-is-not-bigotry-shirt/",
-    "https://geekteesus.com/product/millions-must-die-proud-amarnite-shirt/",
-    "https://geekteesus.com/product/mayor-brandon-johnson-shootings-will-continue-shirt/",
-    "https://geekteesus.com/product/matcha-vintage-rap-shirt/"
+    "https://geekteesus.com/product/wizard-you-must-be-exhausted-from-watching-me-do-everything-shirt/",
+    "https://geekteesus.com/product/witches-be-sippin-more-espresso-les-depresso-shirt/",
+    "https://geekteesus.com/product/will-trade-sister-for-candy-halloween-2025-costume-shirt/",
+    "https://geekteesus.com/product/wednesday-raven-dance-scene-shirt/",
+    "https://geekteesus.com/product/unicorn-some-people-just-need-a-high-five-in-the-face-with-a-chair-shirt/",
+    "https://geekteesus.com/product/tyler-reddick-23xi-racing-jordan-brand-car-graphic-shirt/",
+    "https://geekteesus.com/product/tis-the-season-autism-shirt/",
+    "https://geekteesus.com/product/time-the-forgotten-crisis-september-29-2025-moises-saman-poster-shirt/",
+    "https://geekteesus.com/product/throne-bros-billy-ends-the-world-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/yea-dawgies-ride-the-tide-shirt/",
@@ -130,16 +129,16 @@
     "https://fanaticity.com/product/the-offspring-ridgefield-wa-poster-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/zach-bryan-notre-dame-stadium-september-6-2025-tour-poster-t-shirt/",
-    "https://legendusashirt.com/product/yes-im-old-but-i-saw-greatness-steelers-greene-bradshaw-harris-and-lambert-signatures-t-shirt/",
-    "https://legendusashirt.com/product/yes-im-old-but-i-saw-greatness-49ers-montana-rice-young-and-lott-signatures-t-shirt/",
-    "https://legendusashirt.com/product/yes-im-old-but-i-saw-greatness-cowboys-staubach-e-smith-aikman-and-irvin-signatures-t-shirt/",
-    "https://legendusashirt.com/product/vance-joy-north-american-tour-2025-poster-t-shirt/",
-    "https://legendusashirt.com/product/tyreek-hill-cheetah-miami-dolphins-collage-signature-t-shirt/",
-    "https://legendusashirt.com/product/the-teskey-brothers-september-26-2025-forest-grove-or-concert-poster-t-shirt/",
-    "https://legendusashirt.com/product/the-glorious-dead-2-dead-boyz-birth-t-shirt/",
-    "https://legendusashirt.com/product/the-devil-went-down-to-starkville-and-left-a-loser-t-shirt/",
-    "https://legendusashirt.com/product/texas-rangers-garcia-and-dallas-cowboys-parsons-skyline-signatures-t-shirt/"
+    "https://legendusashirt.com/product/vandal-football-fightin-taters-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/trust-no-one-fbi-project-promo-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/travis-kelce-kansas-city-chiefs-oitenta-e-sete-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/kansas-city-chiefs-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/slipknot-self-titled-faces-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/iowa-state-cyclones-football-big-noon-kickoff-2025-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/kansas-city-chiefs-travis-kelce-2025-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/iowa-state-cyclones-big-kevy-2025-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/colorado-state-football-today-we-play-the-ram-way-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/2025-its-football-time-in-oklahoma-sooners-two-sided-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/adtr-toronto-2025-shirt/",
@@ -190,27 +189,27 @@
     "https://clickoneshirt.com/product/the-tower-rangers-parody-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/pur-shilajit-the-leaders-in-shiladit-mountain-t-shirts/",
-    "https://teleteeshirt.com/product/powells-books-fiercely-independent-portland-ore-est-1971-cat-t-shirts/",
-    "https://teleteeshirt.com/product/pink-breath-of-heaven-west-coast-tour-2025-dates-t-shirtss/",
-    "https://teleteeshirt.com/product/papadosio-motifv-flying-mojito-bros-6-september-2025-t-shirts/",
-    "https://teleteeshirt.com/product/osees-x-see-machine-t-shirts/",
-    "https://teleteeshirt.com/product/official-philadelphia-eagles-brotherly-shove-its-a-philly-thing-t-shirts/",
-    "https://teleteeshirt.com/product/official-new-orleans-saints-pink-out-breast-cancer-diamond-heart-t-shirts/",
-    "https://teleteeshirt.com/product/mt-joy-if-were-gonna-go-better-go-together-coyotes-together-t-shirts/",
-    "https://teleteeshirt.com/product/montreal-canadiens-all-time-greats-24x-stanley-cup-champions-1909-2025-signatures-t-shirts/",
-    "https://teleteeshirt.com/product/mississippi-state-bulldogs-beat-arizona-state-sun-devils-the-devil-went-down-to-starkville-and-left-a-loser-mascot-t-shirts/"
+    "https://teleteeshirt.com/product/jr-motorsports-all-we-do-is-win-t-shirts/",
+    "https://teleteeshirt.com/product/without-a-face-parasite-t-shirts/",
+    "https://teleteeshirt.com/product/vivienne-medrano-saint-fuckass-hazbin-hotel-t-shirts/",
+    "https://teleteeshirt.com/product/vivienne-medrano-men-love-me-leeches-fear-me-hazbin-hotel-t-shirts/",
+    "https://teleteeshirt.com/product/turkey-and-the-wolf-a-lil-crescent-city-connection-skeletons-bridge-t-shirts/",
+    "https://teleteeshirt.com/product/the-red-pony-club-im-gonna-keep-on-prancing-t-shirts/",
+    "https://teleteeshirt.com/product/taking-back-sunday-panther-moon-t-shirts/",
+    "https://teleteeshirt.com/product/sunami-fence-fence-walker-no-friend-of-mine-t-shirts/",
+    "https://teleteeshirt.com/product/static-x-l-d-50-25th-anniversary-tour-2025-dates-t-shirts/",
+    "https://teleteeshirt.com/product/stuck-farmer-no-farmers-no-food-t-shirts/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/university-of-texas-longhorns-football-est-1883-vintage-shirt/",
-    "https://teeslocal.com/product/the-office-michael-ccott-well-how-the-turntables-funny-shirt/",
-    "https://teeslocal.com/product/the-death-of-slim-shady-coupe-de-grace-text-shirt/",
-    "https://teeslocal.com/product/stitch-spray-paint-i-may-not-put-the-sparkle-in-your-eyes-but-ill-definitely-put-the-what-the-hell-shirt/",
-    "https://teeslocal.com/product/stitch-im-chief-kickabitch-from-the-slapahoe-tribe-funny-shirt/",
-    "https://teeslocal.com/product/sorry-i-cant-come-to-work-tomorrow-ive-gotta-teach-my-facial-expressions-shirt/",
-    "https://teeslocal.com/product/snoopy-housewife-if-a-child-can-work-a-tablet-phone-or-game-they-can-work-a-broom-mop-and-dishes-shirt/",
-    "https://teeslocal.com/product/snoopy-tongue-out-just-because-i-am-awake-doesnt-mean-i-am-ready-to-do-things-shirt/",
-    "https://teeslocal.com/product/snoopy-holding-slingshot-arguing-with-me-is-crazy-because-my-goal-isnt-to-win-its-to-make-shirt/",
-    "https://teeslocal.com/product/skull-money-dolar-working-like-crazy-to-support-the-lazy-1965-1980-shirt/"
+    "https://teeslocal.com/product/in-g-d-we-trust-60-years-and-the-band-keeps-playing-on-shirt/",
+    "https://teeslocal.com/product/i-love-jerrys-kids-mda-shirt/",
+    "https://teeslocal.com/product/hulk-hogan-wrestler-the-taskmaster-kevin-sullivan-shirt/",
+    "https://teeslocal.com/product/helen-shivers-and-dont-you-fucking-forget-it-i-know-what-you-did-last-summer-shirt/",
+    "https://teeslocal.com/product/florida-i-hate-it-here-many-storms-shirt/",
+    "https://teeslocal.com/product/festa-world-cup-weekend-overtreder-shirt/",
+    "https://teeslocal.com/product/es-un-honor-mareo-flores-estar-con-dr-doom-shirt/",
+    "https://teeslocal.com/product/tyler-childers-live-at-dinosaur-world-you-just-missed-us-july-30-2025-cave-city-ky-shirt/",
+    "https://teeslocal.com/product/special-ops-soldier-with-down-syndrome-meme-shirt/",
+    "https://teeslocal.com/product/sore-taptap-berkalam-the-man-with-sombrero-and-guitar-shirt/"
   ]
 }
