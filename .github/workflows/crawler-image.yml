@@ -49,7 +49,7 @@ jobs:
         with:
           to: ${{ secrets.TELEGRAM_CHAT_ID }}
           token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          message: "✅ KTBihow Crawl ImgV3 - Done."
+          message: "✅ KTB Image Crawl - Done."
 
       - name: Send Failure Message to Telegram
         if: failure()
@@ -57,7 +57,7 @@ jobs:
         with:
           to: ${{ secrets.TELEGRAM_CHAT_ID }}
           token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          message: "❌ KTBihow Crawl ImgV3 - Fail."
+          message: "❌ KTB Image Crawl - Fail."
 
       - name: Commit & push results
         if: success()
