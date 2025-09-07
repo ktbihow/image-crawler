@@ -24,16 +24,16 @@
     "https://techteesusa.com/product/touchdown-kan-zuh-city-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/yoda-my-husband-is-my-favorite-pain-in-the-ass-shirt/",
-    "https://teeworksusa.com/product/yes-im-old-but-i-saw-steelers-greatness-greene-bradshaw-harris-and-lambert-shirt/",
-    "https://teeworksusa.com/product/yes-im-old-but-i-saw-49ers-greatness-montana-rice-young-and-lott-signature-shirt/",
-    "https://teeworksusa.com/product/wnba-playoffs-2025-las-vegas-aces-shirt/",
-    "https://teeworksusa.com/product/wisconsin-badgers-on-saturdays-green-bay-packers-on-sundays-shirt/",
-    "https://teeworksusa.com/product/trumpamania-american-flag-shirt/",
-    "https://teeworksusa.com/product/truck-sit-tall-in-the-saddle-hold-your-head-up-high-keep-your-eyes-fixed-where-the-trail-meets-the-sky-shirt/",
-    "https://teeworksusa.com/product/truck-driver-as-i-lay-rubber-down-the-street-i-pray-for-traction-shirt/",
-    "https://teeworksusa.com/product/timothy-tornadoes-say-it-any-way-you-can-shirt/",
-    "https://teeworksusa.com/product/this-is-our-state-ames-iowa-state-cyclones-shirt/"
+    "https://teeworksusa.com/product/death_s-dynamic-shroud-virtual-utopia-experience-japanese-text-shirt/",
+    "https://teeworksusa.com/product/danger-danger-band-logo-80s-rock-shirt/",
+    "https://teeworksusa.com/product/cleveland-football-city-skyline-and-dog-bone-chain-shirt/",
+    "https://teeworksusa.com/product/cleveland-taking-the-pound-across-the-pond-football-helmet-shirt/",
+    "https://teeworksusa.com/product/cleveland-browns-elf-mascot-running-with-football-shirt/",
+    "https://teeworksusa.com/product/chicago-champs-bear-with-crown-holding-baseball-bat-shirt/",
+    "https://teeworksusa.com/product/carolina-league-2025-playoffs-baseball-fireflies-mason-jar-shirt/",
+    "https://teeworksusa.com/product/carolina-league-2025-1st-half-champions-columbia-fireflies-baseball-bats-shirt/",
+    "https://teeworksusa.com/product/buffy-the-vampire-slayer-sarah-michelle-gellar-holding-a-stake-shirt/",
+    "https://teeworksusa.com/product/california-magic-lowrider-impala-retro-neon-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-vanderbilt-commodores-win-44-20-virginia-tech-poster-shirt/",
@@ -72,14 +72,14 @@
     "https://dreameshirt.com/product/official-bowling-green-state-university-football-orange-pudge-the-cat-team-painting-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-wolves-green-canyon-football-north-logan-mascot-shirt/",
-    "https://teeextra.com/product/official-timpview-thunderbirds-football-provo-mascot-lightning-shirt/",
-    "https://teeextra.com/product/official-the-tower-rangers-parody-meme-shirt/",
-    "https://teeextra.com/product/official-the-teskey-brothers-september-23-2025-the-mission-ballroom-shows-shirt/",
-    "https://teeextra.com/product/official-the-offspring-supercharged-worldwide-in-25-west-valley-city-ut-shirt/",
-    "https://teeextra.com/product/official-the-black-keys-the-armory-sep-6-2025-shirt/",
-    "https://teeextra.com/product/official-tenemos-explosivos-trotamundos-valparaiso-chile-oct-17-2025-shirt/",
-    "https://teeextra.com/product/official-tedeschi-trucks-band-mansfield-ma-tour-06-sep-2025-shirt/"
+    "https://teeextra.com/product/official-yes-im-old-but-i-saw-new-york-yankees-greatness-derek-jeter-mariano-rivera-jorge-posada-andy-pettitte-williams-signatures-shirt/",
+    "https://teeextra.com/product/official-all-i-need-today-is-a-little-bit-of-los-angeles-dodgers-and-a-whole-lot-of-jesus-2025-shirt/",
+    "https://teeextra.com/product/official-yes-im-old-but-i-saw-greatness-dallas-cowboys-staubach-smith-aikman-and-irvin-signatures-shirt/",
+    "https://teeextra.com/product/official-yes-im-old-but-i-saw-new-york-yankees-greatness-derek-jeter-mariano-rivera-jorge-posada-andy-pettitte-signatures-shirt/",
+    "https://teeextra.com/product/official-yes-im-old-but-i-saw-greatness-san-francisco-49ers-legends-signatures-shirt/",
+    "https://teeextra.com/product/official-yes-im-old-but-i-saw-dallas-cowboys-greatness-smith-irvin-aikan-signatures-shirt/",
+    "https://teeextra.com/product/official-yes-im-old-but-i-saw-greatness-pittsburgh-steelers-legends-signatures-shirt/",
+    "https://teeextra.com/product/official-yes-im-old-but-i-saw-boston-red-sox-greatness-david-ortiz-manny-ramirez-pedro-martinez-curt-schilling-signatures-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/buffalo-bills-aint-no-boo-sheet-halloween-shirt/",
@@ -122,16 +122,16 @@
     "https://fanaticity.com/product/that-was-in-my-hands-phillies-karen-meme-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/vandal-football-fightin-taters-two-sided-t-shirt/",
-    "https://legendusashirt.com/product/trust-no-one-fbi-project-promo-two-sided-t-shirt/",
-    "https://legendusashirt.com/product/travis-kelce-kansas-city-chiefs-oitenta-e-sete-two-sided-t-shirt/",
-    "https://legendusashirt.com/product/kansas-city-chiefs-two-sided-t-shirt/",
-    "https://legendusashirt.com/product/slipknot-self-titled-faces-two-sided-t-shirt/",
-    "https://legendusashirt.com/product/iowa-state-cyclones-football-big-noon-kickoff-2025-two-sided-t-shirt/",
-    "https://legendusashirt.com/product/kansas-city-chiefs-travis-kelce-2025-two-sided-t-shirt/",
-    "https://legendusashirt.com/product/iowa-state-cyclones-big-kevy-2025-two-sided-t-shirt/",
-    "https://legendusashirt.com/product/colorado-state-football-today-we-play-the-ram-way-two-sided-t-shirt/",
-    "https://legendusashirt.com/product/2025-its-football-time-in-oklahoma-sooners-two-sided-t-shirt/"
+    "https://legendusashirt.com/product/i-can-do-all-things-through-christ-who-strengthens-me-oklahoma-sooners-130th-anniversary-1895-2025-t-shirt/",
+    "https://legendusashirt.com/product/i-can-do-all-things-through-christ-who-strengthens-me-dallas-cowboys-65th-anniversary-signatures-t-shirt/",
+    "https://legendusashirt.com/product/i-can-do-all-things-through-christ-who-strengthens-me-clemson-tigers-130th-1896-2026-t-shirt/",
+    "https://legendusashirt.com/product/helicopter-pilots-get-it-up-faster-vintage-t-shirt/",
+    "https://legendusashirt.com/product/helicopter-periodic-table-elements-aviation-helicopter-pilot-t-shirt/",
+    "https://legendusashirt.com/product/garcia-texas-rangers-and-parsons-dallas-cowboys-skyline-signatures-t-shirt/",
+    "https://legendusashirt.com/product/florida-gators-the-swamp-only-gators-come-out-alive-2025-national-champions-mascot-t-shirt/",
+    "https://legendusashirt.com/product/epic-the-musical-the-ocean-saga-t-shirt/",
+    "https://legendusashirt.com/product/detroit-sports-teams-with-mascot-2025-t-shirt/",
+    "https://legendusashirt.com/product/denver-broncos-yes-im-old-but-i-saw-super-bowl-champions-signatures-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/10-cent-beer-night-cleveland-ohio-municipal-stadium-shirt/",
@@ -187,16 +187,16 @@
     "https://clickoneshirt.com/product/martin-brundle-push-cool-cool-push-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/your-changing-body-teen-health-physical-education-t-shirts/",
-    "https://teleteeshirt.com/product/toy-story-woody-bullseye-and-aliens-t-shirts/",
-    "https://teleteeshirt.com/product/undergold-studio-369-gratia-plena-saint-matthew-t-shirts/",
-    "https://teleteeshirt.com/product/todays-problem-are-brought-to-you-by-the-letters-spelling-and-learning-t-shirts/",
-    "https://teleteeshirt.com/product/timmy-has-a-visitor-t-shirts/",
-    "https://teleteeshirt.com/product/the-princess-and-the-frog-louis-jazz-on-the-bayou-t-shirts/",
-    "https://teleteeshirt.com/product/the-little-mermaid-prince-erics-royal-sailing-academy-atlantica-t-shirts/",
-    "https://teleteeshirt.com/product/sorryimbusy-uluwatu-volley-ball-retreat-t-shirts/",
-    "https://teleteeshirt.com/product/sorryimbusy-tourist-t-shirts/",
-    "https://teleteeshirt.com/product/sorryimbusy-nobody-thinks-its-cool-that-youre-so-busy-all-the-time-t-shirts/"
+    "https://teleteeshirt.com/product/vitriol-suffer-and-become-tour-2025-t-shirts/",
+    "https://teleteeshirt.com/product/who-cares-the-fuck-cares-game-show-t-shirts/",
+    "https://teleteeshirt.com/product/vitriol-pan-t-shirts/",
+    "https://teleteeshirt.com/product/undergold-thunder-rider-pigeons-t-shirts/",
+    "https://teleteeshirt.com/product/undergold-studio-369-palace-stoney-angel-t-shirts/",
+    "https://teleteeshirt.com/product/undergold-gratia-plena-the-risen-one-t-shirts/",
+    "https://teleteeshirt.com/product/undergold-gratia-plena-pax-vobis-do-pax-vobis-relinquam-t-shirts/",
+    "https://teleteeshirt.com/product/undergold-gratia-plena-appearance-t-shirts/",
+    "https://teleteeshirt.com/product/tim-burtons-the-nightmare-before-christmas-family-trip-2025-t-shirts/",
+    "https://teleteeshirt.com/product/tobias-sammets-avantasia-against-the-wind-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/taylor-and-travis-kansas-city-love-story-13-87-story-and-baby-she-said-yes-shirt/",
