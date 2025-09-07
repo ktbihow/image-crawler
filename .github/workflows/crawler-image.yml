@@ -1,4 +1,4 @@
-name: Crawl Image V3
+name: KTB Image Crawl
 
 on:
   schedule:
