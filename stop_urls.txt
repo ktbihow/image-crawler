@@ -105,16 +105,16 @@
     "https://nowbestshirt.com/product/if-they-aint-with-houston-texans-us-vs-the-world-tour-2-sided-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/benson-boone-mr-electric-american-blue-tour-2025-ornament/",
-    "https://serenashirt.com/product/bear-damn-i-might-have-to-call-in-thicc-today-ornament/",
-    "https://serenashirt.com/product/beloit-sky-carp-2025-midwest-league-playoffs-retro-ornament/",
-    "https://serenashirt.com/product/beloit-sky-carp-2025-midwest-league-playoffs-ornament/",
-    "https://serenashirt.com/product/alec-benjamin-pencil-ornament/",
-    "https://serenashirt.com/product/badgers-flat-out-ornament/",
-    "https://serenashirt.com/product/fan-wearing-e-rosso-tardozzi-ornament/",
-    "https://serenashirt.com/product/at-for-mvp-ornament/",
-    "https://serenashirt.com/product/american-patriot-lily-tang-williams-ornament/",
-    "https://serenashirt.com/product/eat-trash-beat-trash-chimeron-ornament/"
+    "https://serenashirt.com/product/travis-kelce-smacked-by-teair-tart-shirt/",
+    "https://serenashirt.com/product/buffalo-bills-mascot-est-1960-shirt/",
+    "https://serenashirt.com/product/teair-tart-smacks-travis-kelce-shirt/",
+    "https://serenashirt.com/product/couldnt-be-me-shirt/",
+    "https://serenashirt.com/product/the-way-you-tune-it-out-shirt/",
+    "https://serenashirt.com/product/dont-talk-to-me-until-ive-had-my-red40-shirt/",
+    "https://serenashirt.com/product/indiana-fever-basketball-est-2000-retro-shirt/",
+    "https://serenashirt.com/product/new-york-liberty-basketball-est-1997-retro-shirt/",
+    "https://serenashirt.com/product/minnesota-lynx-basketball-est-1999-retro-shirt/",
+    "https://serenashirt.com/product/bo-nix-denver-broncos-nfl-celebration-shirt/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/you-cant-see-me-new-york-mets-shirt/",
