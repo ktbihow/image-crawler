@@ -187,16 +187,16 @@
     "https://clickoneshirt.com/product/martin-brundle-push-cool-cool-push-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/jr-motorsports-all-we-do-is-win-t-shirts/",
-    "https://teleteeshirt.com/product/without-a-face-parasite-t-shirts/",
-    "https://teleteeshirt.com/product/vivienne-medrano-saint-fuckass-hazbin-hotel-t-shirts/",
-    "https://teleteeshirt.com/product/vivienne-medrano-men-love-me-leeches-fear-me-hazbin-hotel-t-shirts/",
-    "https://teleteeshirt.com/product/turkey-and-the-wolf-a-lil-crescent-city-connection-skeletons-bridge-t-shirts/",
-    "https://teleteeshirt.com/product/the-red-pony-club-im-gonna-keep-on-prancing-t-shirts/",
-    "https://teleteeshirt.com/product/taking-back-sunday-panther-moon-t-shirts/",
-    "https://teleteeshirt.com/product/sunami-fence-fence-walker-no-friend-of-mine-t-shirts/",
-    "https://teleteeshirt.com/product/static-x-l-d-50-25th-anniversary-tour-2025-dates-t-shirts/",
-    "https://teleteeshirt.com/product/stuck-farmer-no-farmers-no-food-t-shirts/"
+    "https://teleteeshirt.com/product/your-changing-body-teen-health-physical-education-t-shirts/",
+    "https://teleteeshirt.com/product/toy-story-woody-bullseye-and-aliens-t-shirts/",
+    "https://teleteeshirt.com/product/undergold-studio-369-gratia-plena-saint-matthew-t-shirts/",
+    "https://teleteeshirt.com/product/todays-problem-are-brought-to-you-by-the-letters-spelling-and-learning-t-shirts/",
+    "https://teleteeshirt.com/product/timmy-has-a-visitor-t-shirts/",
+    "https://teleteeshirt.com/product/the-princess-and-the-frog-louis-jazz-on-the-bayou-t-shirts/",
+    "https://teleteeshirt.com/product/the-little-mermaid-prince-erics-royal-sailing-academy-atlantica-t-shirts/",
+    "https://teleteeshirt.com/product/sorryimbusy-uluwatu-volley-ball-retreat-t-shirts/",
+    "https://teleteeshirt.com/product/sorryimbusy-tourist-t-shirts/",
+    "https://teleteeshirt.com/product/sorryimbusy-nobody-thinks-its-cool-that-youre-so-busy-all-the-time-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/taylor-and-travis-kansas-city-love-story-13-87-story-and-baby-she-said-yes-shirt/",
