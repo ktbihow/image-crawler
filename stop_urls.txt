@@ -130,15 +130,16 @@
     "https://fanaticity.com/product/the-offspring-ridgefield-wa-poster-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/harry-mack-official-omegle-bars-100-t-shirt/",
-    "https://legendusashirt.com/product/grateful-dead-hampton-86-t-shirt/",
-    "https://legendusashirt.com/product/fuckthisindustry2008-n0ahh-t-shirt/",
-    "https://legendusashirt.com/product/felix-auger-aliassime-tennis-t-shirt/",
-    "https://legendusashirt.com/product/eric-clapton-tour-cleveland-ohio-09-11-2025-t-shirt/",
-    "https://legendusashirt.com/product/deafheaven-the-rave-ii-in-milwaukee-wi-9-13-2025-t-shirt/",
-    "https://legendusashirt.com/product/bokey-strong-9-t-shirt/",
-    "https://legendusashirt.com/product/brooks-nielsen-boulder-fox-theatre-sep-06-2025-t-shirt/",
-    "https://legendusashirt.com/product/alabama-shakes-budweiser-stage-in-toronto-on-sept-6-2025-t-shirt/"
+    "https://legendusashirt.com/product/jalen-hurts-how-bout-them-birds-2025-t-shirt/",
+    "https://legendusashirt.com/product/iowa-state-cyclones-vs-iowa-hawkeyes-st-september-6-2025-cy-hawk-jack-trice-stadium-t-shirt/",
+    "https://legendusashirt.com/product/iowa-state-cyclones-16-iowa-hawkeyes-13-2025-cy-hawk-t-shirt/",
+    "https://legendusashirt.com/product/iowa-state-cyclones-16-iowa-hawkeyes-13-2025-cy-hawk-jack-trice-stadium-t-shirt/",
+    "https://legendusashirt.com/product/hulaween-spirit-of-the-suwannee-music-park-october-30-november-2-2025-poster-t-shirt/",
+    "https://legendusashirt.com/product/green-day-the-town-sao-paulo-brazil-sept-7-2025-t-shirt/",
+    "https://legendusashirt.com/product/glare-in-austin-tx-on-sept-17-2025-t-shirt/",
+    "https://legendusashirt.com/product/georgia-bulldogs-on-saturdays-and-atlanta-falcons-on-sundays-t-shirt/",
+    "https://legendusashirt.com/product/chris-jones-kansas-city-retro-stone-cold-signature-t-shirt/",
+    "https://legendusashirt.com/product/canadiens-all-time-greats-24x-stanley-cup-champions-1909-2025-signatures-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/adtr-toronto-2025-shirt/",
