@@ -134,16 +134,7 @@
     "https://legendusashirt.com/product/to-hover-or-not-to-hover-thats-a-silly-question-helicopter-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/10-cent-beer-night-cleveland-ohio-municipal-stadium-shirt/",
-    "https://teehandus.com/product/auburn-tigers-ball-is-not-a-state-shirt/",
-    "https://teehandus.com/product/baylor-bears-vs-smu-mustangs-not-our-first-rodeo-shirt/",
-    "https://teehandus.com/product/beer-panzer-and-virtual-women-supremacy-shirt/",
-    "https://teehandus.com/product/big-kahuna-burger-shirt/",
-    "https://teehandus.com/product/bill-obrien-is-building-a-monster-shirt/",
-    "https://teehandus.com/product/birmingham-city-shit-on-the-villa-shirt/",
-    "https://teehandus.com/product/bokey-strong-9-shirt/",
-    "https://teehandus.com/product/chestnut-bill-shirt/",
-    "https://teehandus.com/product/coach-mike-shula-south-carolina-gamecocks-graphics-shirt/"
+    "https://teehandus.com/product/nick-herbig-wearing-a-keeanu-benton-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/chargers-player-slapped-travis-kelce-in-the-face-shirt/",
@@ -163,16 +154,16 @@
     "https://uscraftedtees.com/product/original-brooks-nielsen-9-6-2025-fox-theater-in-boulder-co-poster-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/yes-i-am-old-but-i-saw-toronto-maple-leafs-back-2-back-stanley-cup-champions-shirt/",
-    "https://capitoneshirt.com/product/yes-i-am-old-but-i-saw-toronto-blue-jays-back-2-back-world-series-champions-shirt/",
-    "https://capitoneshirt.com/product/vernell-brown-iii-catch-of-the-year-florida-gators-shirt/",
-    "https://capitoneshirt.com/product/tin-can-sailor-us-navy-destroyer-veterans-shirt/",
-    "https://capitoneshirt.com/product/theres-no-place-like-g28-x0-y0-z0-shirt/",
-    "https://capitoneshirt.com/product/the-lights-are-different-in-lfk-kansas-jayhawks-shirt/",
-    "https://capitoneshirt.com/product/south-florida-bulls-beat-florida-gators-2025-score-18-16-shirt/",
-    "https://capitoneshirt.com/product/skeleton-i-have-separation-anxiety-from-my-dogs-shirt/",
-    "https://capitoneshirt.com/product/remember-when-michigan-wolverines-use-to-beat-on-notre-dame-shirt/",
-    "https://capitoneshirt.com/product/scarlet-knights-on-saturdays-new-york-giants-on-sundays-shirt/"
+    "https://capitoneshirt.com/product/wednesday-enid-thing-im-a-spooky-girl-in-spooky-world-barbie-shirt/",
+    "https://capitoneshirt.com/product/zero-the-nightmare-before-christmas-fucks-given-shirt/",
+    "https://capitoneshirt.com/product/tortoise-dont-tread-on-me-save-florida-parks-shirt/",
+    "https://capitoneshirt.com/product/universal-studios-halloween-horror-characters-nights-shirt/",
+    "https://capitoneshirt.com/product/thats-that-me-lexapro-shirt/",
+    "https://capitoneshirt.com/product/star-wars-groot-cartoon-halloween-shirt/",
+    "https://capitoneshirt.com/product/skeleton-opinions-on-how-im-supposed-to-live-my-life-shirt/",
+    "https://capitoneshirt.com/product/salem-book-club-moonlit-meetings-in-the-witching-hour-halloween-shirt/",
+    "https://capitoneshirt.com/product/pumpkin-scream-ghostface-barbie-box-halloween-shirt/",
+    "https://capitoneshirt.com/product/oatmeal-creme-pies-little-debbie-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/tiff-50-canada-flag-shirt/",
