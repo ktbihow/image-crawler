@@ -81,16 +81,16 @@
     "https://teeextra.com/product/official-tedeschi-trucks-band-mansfield-ma-tour-06-sep-2025-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/travis-kelce-kansas-city-chiefs-1960-football-club-oitenta-e-sete-shirt/",
-    "https://teespix.com/product/the-british-bulldogs-flag-shirt/",
-    "https://teespix.com/product/suburban-sweetheart-wrangling-kids-and-running-things-shirt/",
-    "https://teespix.com/product/sigurros-takk-20-album-shirt/",
-    "https://teespix.com/product/santigold-santogold-album-cover-shirt-2/",
-    "https://teespix.com/product/philadelphia-blink-182-shirt/",
-    "https://teespix.com/product/philadelphia-world-champs-no-one-likes-us-we-dont-care-cartoon-shirt/",
-    "https://teespix.com/product/my-cat-said-youre-a-bitch-shirt/",
-    "https://teespix.com/product/masterbate-logo-parody-shirt/",
-    "https://teespix.com/product/kc-chiefs-house-brazil-a-journey-through-the-heart-of-the-kingdom-mascot-football-fans-shirt/"
+    "https://teespix.com/product/buffalo-bills-aint-no-boo-sheet-halloween-shirt/",
+    "https://teespix.com/product/breast-cancer-fight-like-a-buffalo-bills-shirt/",
+    "https://teespix.com/product/auburn-tigers-vs-ball-state-fold-the-cards-2025-shirt/",
+    "https://teespix.com/product/florida-state-seminoles-climb-football-shirt/",
+    "https://teespix.com/product/auburn-tigers-ball-is-not-a-state-beat-ball-state-shirt/",
+    "https://teespix.com/product/texas-tech-vs-oregon-state-2025-raider-power-energy-gameday-t-shirt/",
+    "https://teespix.com/product/auburn-tigers-vs-ball-state-ball-thru-the-wall-shirt/",
+    "https://teespix.com/product/texas-tech-red-raider-beat-the-beavers-2025-raider-power-t-shirt/",
+    "https://teespix.com/product/n0ahh-shirt/",
+    "https://teespix.com/product/florida-state-seminoles-rolled-em-beat-east-texas-am-lions-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/big-mullet-energy-armchair-illini-illinois-fighting-football-signature-2-sided-shirt/",
@@ -133,14 +133,16 @@
     "https://legendusashirt.com/product/2025-its-football-time-in-oklahoma-sooners-two-sided-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/they-are-going-to-eat-you-the-dead-are-among-us-zombies-shirt/",
-    "https://teehandus.com/product/thicc-six-shirt/",
-    "https://teehandus.com/product/tyler-myers-1000-games-played-shirt/",
-    "https://teehandus.com/product/tyler-reddick-45-nascar-toyota-camry-goodyear-shirt/",
-    "https://teehandus.com/product/welcome-to-the-creepy-circus-shirt/",
-    "https://teehandus.com/product/what-da-dog-da-dog-doing-shirt/",
-    "https://teehandus.com/product/wwe-rhea-ripley-tiffany-stratton-indi-hartwell-cora-jade-collage-wrestling-graphic-shirt/",
-    "https://teehandus.com/product/wwe-rhea-ripley-tarot-card-shirt/"
+    "https://teehandus.com/product/10-cent-beer-night-cleveland-ohio-municipal-stadium-shirt/",
+    "https://teehandus.com/product/auburn-tigers-ball-is-not-a-state-shirt/",
+    "https://teehandus.com/product/baylor-bears-vs-smu-mustangs-not-our-first-rodeo-shirt/",
+    "https://teehandus.com/product/beer-panzer-and-virtual-women-supremacy-shirt/",
+    "https://teehandus.com/product/big-kahuna-burger-shirt/",
+    "https://teehandus.com/product/bill-obrien-is-building-a-monster-shirt/",
+    "https://teehandus.com/product/birmingham-city-shit-on-the-villa-shirt/",
+    "https://teehandus.com/product/bokey-strong-9-shirt/",
+    "https://teehandus.com/product/chestnut-bill-shirt/",
+    "https://teehandus.com/product/coach-mike-shula-south-carolina-gamecocks-graphics-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/felix-auger-aliassime-tennis-shirt/",
