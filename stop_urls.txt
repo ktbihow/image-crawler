@@ -1,15 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/isack-hadjar-nooo-nooo-nooo-i-destroyed-the-trophy-shirt/",
-    "https://geekteesus.com/product/hbcu-dreams-atlanta-dream-shirt/",
-    "https://geekteesus.com/product/2025-wnba-playoffs-golden-state-valkyries-inaugural-season-shirt/",
-    "https://geekteesus.com/product/new-york-mets-x-stranger-things-night-2025-shirt/",
-    "https://geekteesus.com/product/die-mo-power-shirt/",
-    "https://geekteesus.com/product/i-love-transforming-unstructured-data-into-actionable-business-insights-shirt/",
-    "https://geekteesus.com/product/ben-ingram-and-darren-oday-shake-n-bake-bristol-baby-shirt/",
-    "https://geekteesus.com/product/dr-frankensteins-tiki-monster-shirt/",
-    "https://geekteesus.com/product/minnesota-lynx-wnba-playoffs-2025-t-shirt/",
-    "https://geekteesus.com/product/kate-martin-player-golden-state-valkyries-wnba-playoffs-2025-graphic-shirt/"
+    "https://geekteesus.com/product/theres-a-skelly-in-my-belly-shirt/",
+    "https://geekteesus.com/product/the-ghosting-wild-scary-funny-and-offbeat-shirt/",
+    "https://geekteesus.com/product/the-cubby-bear-chicago-est-1953-shirt/",
+    "https://geekteesus.com/product/texas-rangers-levelwear-phase-banner-mlb-shirt/",
+    "https://geekteesus.com/product/tekken-3-modelo-gaming-retro-shirt/",
+    "https://geekteesus.com/product/ram-a-lamb-a-dingdong-trump-shirt/",
+    "https://geekteesus.com/product/reality-is-not-bigotry-shirt/",
+    "https://geekteesus.com/product/millions-must-die-proud-amarnite-shirt/",
+    "https://geekteesus.com/product/mayor-brandon-johnson-shootings-will-continue-shirt/",
+    "https://geekteesus.com/product/matcha-vintage-rap-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/yea-dawgies-ride-the-tide-shirt/",
@@ -190,16 +190,16 @@
     "https://clickoneshirt.com/product/the-tower-rangers-parody-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/youre-my-chosen-one-ufo-t-shirts/",
-    "https://teleteeshirt.com/product/you-can-learn-sewing-t-shirts/",
-    "https://teleteeshirt.com/product/we-all-get-lost-sometimes-t-shirts/",
-    "https://teleteeshirt.com/product/vomit-emptiness-takes-bloom-forth-jesus-tour-2025-t-shirts/",
-    "https://teleteeshirt.com/product/undergold-golden-hills-iii-the-chief-indians-t-shirts/",
-    "https://teleteeshirt.com/product/undergold-thunder-rider-pegasus-t-shirts/",
-    "https://teleteeshirt.com/product/the-hunchback-of-notre-dame-djali-t-shirts/",
-    "https://teleteeshirt.com/product/the-haunted-mansion-walt-disney-world-t-shirts/",
-    "https://teleteeshirt.com/product/the-haunted-mansion-home-of-999-t-shirts/",
-    "https://teleteeshirt.com/product/the-dripfather-dripfather-applique-t-shirts/"
+    "https://teleteeshirt.com/product/pur-shilajit-the-leaders-in-shiladit-mountain-t-shirts/",
+    "https://teleteeshirt.com/product/powells-books-fiercely-independent-portland-ore-est-1971-cat-t-shirts/",
+    "https://teleteeshirt.com/product/pink-breath-of-heaven-west-coast-tour-2025-dates-t-shirtss/",
+    "https://teleteeshirt.com/product/papadosio-motifv-flying-mojito-bros-6-september-2025-t-shirts/",
+    "https://teleteeshirt.com/product/osees-x-see-machine-t-shirts/",
+    "https://teleteeshirt.com/product/official-philadelphia-eagles-brotherly-shove-its-a-philly-thing-t-shirts/",
+    "https://teleteeshirt.com/product/official-new-orleans-saints-pink-out-breast-cancer-diamond-heart-t-shirts/",
+    "https://teleteeshirt.com/product/mt-joy-if-were-gonna-go-better-go-together-coyotes-together-t-shirts/",
+    "https://teleteeshirt.com/product/montreal-canadiens-all-time-greats-24x-stanley-cup-champions-1909-2025-signatures-t-shirts/",
+    "https://teleteeshirt.com/product/mississippi-state-bulldogs-beat-arizona-state-sun-devils-the-devil-went-down-to-starkville-and-left-a-loser-mascot-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/university-of-texas-longhorns-football-est-1883-vintage-shirt/",
