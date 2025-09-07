@@ -24,16 +24,16 @@
     "https://techteesusa.com/product/touchdown-kan-zuh-city-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/death_s-dynamic-shroud-virtual-utopia-experience-japanese-text-shirt/",
-    "https://teeworksusa.com/product/danger-danger-band-logo-80s-rock-shirt/",
-    "https://teeworksusa.com/product/cleveland-football-city-skyline-and-dog-bone-chain-shirt/",
-    "https://teeworksusa.com/product/cleveland-taking-the-pound-across-the-pond-football-helmet-shirt/",
-    "https://teeworksusa.com/product/cleveland-browns-elf-mascot-running-with-football-shirt/",
-    "https://teeworksusa.com/product/chicago-champs-bear-with-crown-holding-baseball-bat-shirt/",
-    "https://teeworksusa.com/product/carolina-league-2025-playoffs-baseball-fireflies-mason-jar-shirt/",
-    "https://teeworksusa.com/product/carolina-league-2025-1st-half-champions-columbia-fireflies-baseball-bats-shirt/",
-    "https://teeworksusa.com/product/buffy-the-vampire-slayer-sarah-michelle-gellar-holding-a-stake-shirt/",
-    "https://teeworksusa.com/product/california-magic-lowrider-impala-retro-neon-shirt/"
+    "https://teeworksusa.com/product/john-wick-yeah-i_m-thinking-i_m-back-movie-quote-shirt/",
+    "https://teeworksusa.com/product/wtf-is-a-kilometer-american-eagle-tank-and-burger-shirt/",
+    "https://teeworksusa.com/product/topo-chico-border-collie-dog-holding-a-bottle-shirt/",
+    "https://teeworksusa.com/product/the-judy-show-oversized-cartoon-shirt/",
+    "https://teeworksusa.com/product/scary-vintage-halloween-black-cat-face-with-green-eyes-shirt/",
+    "https://teeworksusa.com/product/osama-bin-liftin_-bodybuilder-funny-parody-shirt/",
+    "https://teeworksusa.com/product/one-piece-luffy-stained-glass-skull-and-crossbones-anime-manga-shirt/",
+    "https://teeworksusa.com/product/mott-the-hoople-all-the-young-dudes-album-cover-shirt/",
+    "https://teeworksusa.com/product/milwaukee-giannis-antetokounmpo-basketball-player-dunking-shirt/",
+    "https://teeworksusa.com/product/metcalf-d-k-4-football-player-on-fire-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-vanderbilt-commodores-win-44-20-virginia-tech-poster-shirt/",
@@ -72,14 +72,14 @@
     "https://dreameshirt.com/product/official-bowling-green-state-university-football-orange-pudge-the-cat-team-painting-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-yes-im-old-but-i-saw-new-york-yankees-greatness-derek-jeter-mariano-rivera-jorge-posada-andy-pettitte-williams-signatures-shirt/",
-    "https://teeextra.com/product/official-all-i-need-today-is-a-little-bit-of-los-angeles-dodgers-and-a-whole-lot-of-jesus-2025-shirt/",
-    "https://teeextra.com/product/official-yes-im-old-but-i-saw-greatness-dallas-cowboys-staubach-smith-aikman-and-irvin-signatures-shirt/",
-    "https://teeextra.com/product/official-yes-im-old-but-i-saw-new-york-yankees-greatness-derek-jeter-mariano-rivera-jorge-posada-andy-pettitte-signatures-shirt/",
-    "https://teeextra.com/product/official-yes-im-old-but-i-saw-greatness-san-francisco-49ers-legends-signatures-shirt/",
-    "https://teeextra.com/product/official-yes-im-old-but-i-saw-dallas-cowboys-greatness-smith-irvin-aikan-signatures-shirt/",
-    "https://teeextra.com/product/official-yes-im-old-but-i-saw-greatness-pittsburgh-steelers-legends-signatures-shirt/",
-    "https://teeextra.com/product/official-yes-im-old-but-i-saw-boston-red-sox-greatness-david-ortiz-manny-ramirez-pedro-martinez-curt-schilling-signatures-shirt/"
+    "https://teeextra.com/product/official-youre-a-gooner-im-a-goober-shirt/",
+    "https://teeextra.com/product/official-yes-im-old-but-i-saw-los-angeles-dodgers-sandy-koufax-don-drysdale-greatness-signatures-shirt/",
+    "https://teeextra.com/product/official-yes-im-old-but-i-saw-los-angeles-dodgers-dodgers-sandy-koufax-don-drysdale-maury-wills-greatness-signatures-shirt/",
+    "https://teeextra.com/product/official-wednesday-girls-witch-poster-shirt/",
+    "https://teeextra.com/product/official-jeff-goldblum-rhod-lil-alex-sexy-pose-jurassic-park-shirt/",
+    "https://teeextra.com/product/official-kansas-city-chiefs-patrick-mahomes-highlight-shirt/",
+    "https://teeextra.com/product/official-chris-brown-breezy-bowl-xx-international-stadium-series-2025-shirt/",
+    "https://teeextra.com/product/official-deadlock-cute-anime-girl-and-frankenstein-monster-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/buffalo-bills-aint-no-boo-sheet-halloween-shirt/",
@@ -122,16 +122,16 @@
     "https://fanaticity.com/product/that-was-in-my-hands-phillies-karen-meme-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/i-can-do-all-things-through-christ-who-strengthens-me-oklahoma-sooners-130th-anniversary-1895-2025-t-shirt/",
-    "https://legendusashirt.com/product/i-can-do-all-things-through-christ-who-strengthens-me-dallas-cowboys-65th-anniversary-signatures-t-shirt/",
-    "https://legendusashirt.com/product/i-can-do-all-things-through-christ-who-strengthens-me-clemson-tigers-130th-1896-2026-t-shirt/",
-    "https://legendusashirt.com/product/helicopter-pilots-get-it-up-faster-vintage-t-shirt/",
-    "https://legendusashirt.com/product/helicopter-periodic-table-elements-aviation-helicopter-pilot-t-shirt/",
-    "https://legendusashirt.com/product/garcia-texas-rangers-and-parsons-dallas-cowboys-skyline-signatures-t-shirt/",
-    "https://legendusashirt.com/product/florida-gators-the-swamp-only-gators-come-out-alive-2025-national-champions-mascot-t-shirt/",
-    "https://legendusashirt.com/product/epic-the-musical-the-ocean-saga-t-shirt/",
-    "https://legendusashirt.com/product/detroit-sports-teams-with-mascot-2025-t-shirt/",
-    "https://legendusashirt.com/product/denver-broncos-yes-im-old-but-i-saw-super-bowl-champions-signatures-t-shirt/"
+    "https://legendusashirt.com/product/joe-burrow-burreaux-lsu-tigers-and-cincinnati-bengals-signature-t-shirt/",
+    "https://legendusashirt.com/product/im-a-jayden-daniels-and-joe-burrow-geaux-on-saturday-bengals-on-sunday-signatures-t-shirt/",
+    "https://legendusashirt.com/product/ibew-48-current-kills-t-shirt/",
+    "https://legendusashirt.com/product/i-can-do-all-things-through-christ-who-strengthens-me-san-francisco-49ers-80-years-t-shirt/",
+    "https://legendusashirt.com/product/i-can-do-all-things-through-christ-who-strengthens-me-pittsburgh-steelers-legend-signatures-t-shirt/",
+    "https://legendusashirt.com/product/i-can-do-all-things-through-christ-who-strengthens-me-ohio-state-buckeyes-logo-135th-1890-2025-t-shirt/",
+    "https://legendusashirt.com/product/zach-bryan-notre-dame-stadium-in-notre-dame-in-september-6-2025-t-shirt/",
+    "https://legendusashirt.com/product/weirdo-the-rasmus-t-shirt/",
+    "https://legendusashirt.com/product/uh-1-iroquois-huey-helicopter-t-shirt/",
+    "https://legendusashirt.com/product/to-hover-or-not-to-hover-thats-a-silly-question-helicopter-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/10-cent-beer-night-cleveland-ohio-municipal-stadium-shirt/",
