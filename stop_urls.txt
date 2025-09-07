@@ -24,16 +24,16 @@
     "https://techteesusa.com/product/greatest-dynasty-ever-chiefs-kingdom-kansas-city-t-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/zebra-live-fast-die-fast-shirt/",
-    "https://teeworksusa.com/product/yes-they-are-real-shirt/",
-    "https://teeworksusa.com/product/uber-is-for-quitters-shirt/",
-    "https://teeworksusa.com/product/trumpkin-spice-presidential-blend-shirt/",
-    "https://teeworksusa.com/product/trumpkin-spice-and-everything-nice-halloween-pumpkin-shirt/",
-    "https://teeworksusa.com/product/these-pretzels-are-making-me-thirsty-shirt/",
-    "https://teeworksusa.com/product/these-pretzels-are-making-me-thirsty-seinfeld-shirt/",
-    "https://teeworksusa.com/product/the-ohio-state-band-shirt/",
-    "https://teeworksusa.com/product/the-life-of-showboy-kansas-city-shirt/",
-    "https://teeworksusa.com/product/the-dead-dance-graphic-shirt/"
+    "https://teeworksusa.com/product/with-great-beard-comes-great-responsibility-viking-norse-god-shirt/",
+    "https://teeworksusa.com/product/rafael-devers-san-francisco-baseball-player-adios-pelota-goodbye-ball-shirt/",
+    "https://teeworksusa.com/product/minnesota-lynx-welcome-basketball-player-on-stool-graphic-shirt/",
+    "https://teeworksusa.com/product/jojo_s-bizarre-adventure-jolyne-cujoh-stone-ocean-character-anime-shirt/",
+    "https://teeworksusa.com/product/i-do-yoga-i-drink-coffee-and-i-have-cattitude-grumpy-cat-shirt/",
+    "https://teeworksusa.com/product/final-form-volleyball-rooted-flower-graphic-shirt/",
+    "https://teeworksusa.com/product/face-of-an-angel-body-of-a-porn-star-status-lost-funny-quote-shirt/",
+    "https://teeworksusa.com/product/cosmic-creator-collective-jester-holding-crescent-moon-shirt/",
+    "https://teeworksusa.com/product/dance-or-die-spiked-hat-spiked-shoulder-pad-lady-gaga-style-shirt/",
+    "https://teeworksusa.com/product/aphex-twin-richard-d-james-smiley-face-logo-electronic-music-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-yes-im-old-but-i-saw-new-york-yankees-mantle-and-maris-greatness-shirt/",
@@ -141,8 +141,9 @@
     "https://teehandus.com/product/monsters-outside-tube-trolls-shirt/"
   ],
   "thefunnyt.com": [
-    "https://thefunnyt.com/product/my-name-is-not-sami-zayn-my-name-is-rebellion-shirt/",
-    "https://thefunnyt.com/product/jesus-tylor-swift-shirt/"
+    "https://thefunnyt.com/product/felix-auger-aliassime-tennis-shirt/",
+    "https://thefunnyt.com/product/felix-auger-aliassime-shirt/",
+    "https://thefunnyt.com/product/hot-girls-for-zohran-shirt/"
   ],
   "uscraftedtees.com": [
     "https://uscraftedtees.com/product/official-woodstock-a-little-goes-a-long-way-give-blood-t-shirts/",
@@ -181,15 +182,27 @@
     "https://clickoneshirt.com/product/the-tower-rangers-parody-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/vianova-written-and-directed-sebastian-de-sprengol-t-shirts/",
-    "https://teleteeshirt.com/product/the-kings-of-black-magic-black-skull-t-shirts/",
-    "https://teleteeshirt.com/product/tedeschi-trucks-band-broadview-stage-at-spac-saratoga-springs-ny-tour-2025-turtle-t-shirts/",
-    "https://teleteeshirt.com/product/philadelphia-eagles-rent-is-due-everyday-philly-t-shirts/",
-    "https://teleteeshirt.com/product/philadelphia-eagles-lix-eagle-statue-champion-philly-t-shirts/",
-    "https://teleteeshirt.com/product/official-if-youre-reading-this-youre-too-close-i-have-a-boyfriend-t-shirts/",
-    "https://teleteeshirt.com/product/michigan-wolverines-whos-got-it-better-than-us-t-shirts/",
-    "https://teleteeshirt.com/product/kenji-nightfall-t-shirts/",
-    "https://teleteeshirt.com/product/jenny-holzer-it-is-in-your-self-interest-to-find-a-way-to-be-very-tender-t-shirts/",
-    "https://teleteeshirt.com/product/harakiri-for-the-sky-heal-me-latin-american-tour-2025-dates-t-shirts/"
+    "https://teleteeshirt.com/product/young-the-giant-on-september-4-5-2025-at-troubadour-west-hollywood-california-special-anniversary-t-shirts/",
+    "https://teleteeshirt.com/product/the-offspring-west-valley-city-tour-on-sept-6-2025-t-shirts/",
+    "https://teleteeshirt.com/product/the-clutch-full-ahead-flank-mmxxv-tour-2025-t-shirts/",
+    "https://teleteeshirt.com/product/radiohead-london-england-2025-tour-t-shirts/",
+    "https://teleteeshirt.com/product/smackdown-boxing-flames-t-shirts/",
+    "https://teleteeshirt.com/product/pokemon-starter-squad-pikachu-bulbasaur-charmander-and-squirtle-t-shirts/",
+    "https://teleteeshirt.com/product/official-the-real-g-spot-guinness-draught-beer-t-shirts/",
+    "https://teleteeshirt.com/product/missouri-tigers-beat-kansas-jayhawks-border-war-champs-mascot-t-shirts/",
+    "https://teleteeshirt.com/product/massari-dream-t-shirts/",
+    "https://teleteeshirt.com/product/linkin-park-from-zero-world-tour-2025-phoenix-event-t-shirts/"
+  ],
+  "teeslocal.com": [
+    "https://teeslocal.com/product/university-of-texas-longhorns-football-est-1883-vintage-shirt/",
+    "https://teeslocal.com/product/the-office-michael-ccott-well-how-the-turntables-funny-shirt/",
+    "https://teeslocal.com/product/the-death-of-slim-shady-coupe-de-grace-text-shirt/",
+    "https://teeslocal.com/product/stitch-spray-paint-i-may-not-put-the-sparkle-in-your-eyes-but-ill-definitely-put-the-what-the-hell-shirt/",
+    "https://teeslocal.com/product/stitch-im-chief-kickabitch-from-the-slapahoe-tribe-funny-shirt/",
+    "https://teeslocal.com/product/sorry-i-cant-come-to-work-tomorrow-ive-gotta-teach-my-facial-expressions-shirt/",
+    "https://teeslocal.com/product/snoopy-housewife-if-a-child-can-work-a-tablet-phone-or-game-they-can-work-a-broom-mop-and-dishes-shirt/",
+    "https://teeslocal.com/product/snoopy-tongue-out-just-because-i-am-awake-doesnt-mean-i-am-ready-to-do-things-shirt/",
+    "https://teeslocal.com/product/snoopy-holding-slingshot-arguing-with-me-is-crazy-because-my-goal-isnt-to-win-its-to-make-shirt/",
+    "https://teeslocal.com/product/skull-money-dolar-working-like-crazy-to-support-the-lazy-1965-1980-shirt/"
   ]
 }
