@@ -1,14 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/wizard-you-must-be-exhausted-from-watching-me-do-everything-shirt/",
-    "https://geekteesus.com/product/witches-be-sippin-more-espresso-les-depresso-shirt/",
-    "https://geekteesus.com/product/will-trade-sister-for-candy-halloween-2025-costume-shirt/",
-    "https://geekteesus.com/product/wednesday-raven-dance-scene-shirt/",
-    "https://geekteesus.com/product/unicorn-some-people-just-need-a-high-five-in-the-face-with-a-chair-shirt/",
-    "https://geekteesus.com/product/tyler-reddick-23xi-racing-jordan-brand-car-graphic-shirt/",
-    "https://geekteesus.com/product/tis-the-season-autism-shirt/",
-    "https://geekteesus.com/product/time-the-forgotten-crisis-september-29-2025-moises-saman-poster-shirt/",
-    "https://geekteesus.com/product/throne-bros-billy-ends-the-world-shirt/"
+    "https://geekteesus.com/product/2025-charros-de-jalisco-preventa-camiseta-campeones-zona-norte-baseball-shirt/",
+    "https://geekteesus.com/product/charros-de-jalisco-beisbol-somos-campeones-de-la-zona-norte-2025-shirt/",
+    "https://geekteesus.com/product/patrick-mahomes-kansas-city-chiefs-nfl-highlight-shirt/",
+    "https://geekteesus.com/product/philly-karen-wanted-reward-poster-shirt/",
+    "https://geekteesus.com/product/phillies-karen-ballsnatcher-give-me-that-ball-shirt/",
+    "https://geekteesus.com/product/alexander-isak-heritage-no-9-liverpool-shirt/",
+    "https://geekteesus.com/product/tre-harris-los-angeles-chargers-nfl-signature-shirt/",
+    "https://geekteesus.com/product/phillies-karen-fan-cheryl-richardson-wagner-harrison-bader-home-run-marlins-photo-shirt/",
+    "https://geekteesus.com/product/teair-tart-los-angeles-chargers-haymaker-travis-kelce-bitch-slap-shirt/",
+    "https://geekteesus.com/product/uconn-huskies-nike-six-time-ncaa-national-champions-mens-basketball-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/yea-dawgies-ride-the-tide-shirt/",
@@ -23,16 +24,16 @@
     "https://techteesusa.com/product/greatest-dynasty-ever-chiefs-kingdom-kansas-city-t-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/with-great-beard-comes-great-responsibility-viking-norse-god-shirt/",
-    "https://teeworksusa.com/product/rafael-devers-san-francisco-baseball-player-adios-pelota-goodbye-ball-shirt/",
-    "https://teeworksusa.com/product/minnesota-lynx-welcome-basketball-player-on-stool-graphic-shirt/",
-    "https://teeworksusa.com/product/jojo_s-bizarre-adventure-jolyne-cujoh-stone-ocean-character-anime-shirt/",
-    "https://teeworksusa.com/product/i-do-yoga-i-drink-coffee-and-i-have-cattitude-grumpy-cat-shirt/",
-    "https://teeworksusa.com/product/final-form-volleyball-rooted-flower-graphic-shirt/",
-    "https://teeworksusa.com/product/face-of-an-angel-body-of-a-porn-star-status-lost-funny-quote-shirt/",
-    "https://teeworksusa.com/product/cosmic-creator-collective-jester-holding-crescent-moon-shirt/",
-    "https://teeworksusa.com/product/dance-or-die-spiked-hat-spiked-shoulder-pad-lady-gaga-style-shirt/",
-    "https://teeworksusa.com/product/aphex-twin-richard-d-james-smiley-face-logo-electronic-music-shirt/"
+    "https://teeworksusa.com/product/yoda-my-husband-is-my-favorite-pain-in-the-ass-shirt/",
+    "https://teeworksusa.com/product/yes-im-old-but-i-saw-steelers-greatness-greene-bradshaw-harris-and-lambert-shirt/",
+    "https://teeworksusa.com/product/yes-im-old-but-i-saw-49ers-greatness-montana-rice-young-and-lott-signature-shirt/",
+    "https://teeworksusa.com/product/wnba-playoffs-2025-las-vegas-aces-shirt/",
+    "https://teeworksusa.com/product/wisconsin-badgers-on-saturdays-green-bay-packers-on-sundays-shirt/",
+    "https://teeworksusa.com/product/trumpamania-american-flag-shirt/",
+    "https://teeworksusa.com/product/truck-sit-tall-in-the-saddle-hold-your-head-up-high-keep-your-eyes-fixed-where-the-trail-meets-the-sky-shirt/",
+    "https://teeworksusa.com/product/truck-driver-as-i-lay-rubber-down-the-street-i-pray-for-traction-shirt/",
+    "https://teeworksusa.com/product/timothy-tornadoes-say-it-any-way-you-can-shirt/",
+    "https://teeworksusa.com/product/this-is-our-state-ames-iowa-state-cyclones-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-vanderbilt-commodores-win-44-20-virginia-tech-poster-shirt/",
@@ -109,16 +110,16 @@
     "https://serenashirt.com/product/keep-halloween-alive-in-your-neighborhood-shirt/"
   ],
   "fanaticity.com": [
-    "https://fanaticity.com/product/you-cant-see-me-new-york-mets-shirt/",
-    "https://fanaticity.com/product/yes-im-a-spoiled-son-im-raised-by-a-freaking-awesome-mom-shirt/",
-    "https://fanaticity.com/product/virginia-tech-hokies-colosseum-oht-military-appreciation-shirt/",
-    "https://fanaticity.com/product/travis-kelce-smacked-by-teair-tart-shirt/",
-    "https://fanaticity.com/product/trauma-ray-2025-shirt/",
-    "https://fanaticity.com/product/tour-sept-2025-billy-strings-shirt/",
-    "https://fanaticity.com/product/thomas-rhett-merch-home-team-football-champs-shirt/",
-    "https://fanaticity.com/product/they-dont-know-what-the-fck-theyre-doing-signature-shirt/",
-    "https://fanaticity.com/product/the-teskey-brothers-pappy-and-harriets-indoor-stage-pioneertown-concert-sept-2025-poster-shirt/",
-    "https://fanaticity.com/product/the-offspring-ridgefield-wa-poster-shirt/"
+    "https://fanaticity.com/product/your-wide-behind-wont-save-you-this-time-shirt/",
+    "https://fanaticity.com/product/woody-cowboy-disney-toy-story-shirt/",
+    "https://fanaticity.com/product/will-run-my-mouth-ringer-shirt/",
+    "https://fanaticity.com/product/wednesday-girls-poster-shirt/",
+    "https://fanaticity.com/product/waylon-jennings-dont-be-nobody-else-but-you-shirt/",
+    "https://fanaticity.com/product/washington-commanders-him-another-word-to-describe-jayden-daniels-shirt/",
+    "https://fanaticity.com/product/travis-kelce-smacked-by-chargers-shirt/",
+    "https://fanaticity.com/product/travis-kelce-oitenta-e-sete-1960-shirt/",
+    "https://fanaticity.com/product/the-austin-chronicle-hot-sauce-festival-2025-shirt/",
+    "https://fanaticity.com/product/that-was-in-my-hands-phillies-karen-meme-shirt/"
   ],
   "legendusashirt.com": [
     "https://legendusashirt.com/product/vandal-football-fightin-taters-two-sided-t-shirt/",
@@ -145,9 +146,9 @@
     "https://teehandus.com/product/coach-mike-shula-south-carolina-gamecocks-graphics-shirt/"
   ],
   "thefunnyt.com": [
-    "https://thefunnyt.com/product/felix-auger-aliassime-tennis-shirt/",
-    "https://thefunnyt.com/product/felix-auger-aliassime-shirt/",
-    "https://thefunnyt.com/product/hot-girls-for-zohran-shirt/"
+    "https://thefunnyt.com/product/chargers-player-slapped-travis-kelce-in-the-face-shirt/",
+    "https://thefunnyt.com/product/the-devil-went-down-to-starkville-and-left-a-loser-shirt/",
+    "https://thefunnyt.com/product/ball-is-not-a-state-shirt/"
   ],
   "uscraftedtees.com": [
     "https://uscraftedtees.com/product/original-half-moon-bay-jerrys-middle-finger-2025-poster-t-shirts/",
