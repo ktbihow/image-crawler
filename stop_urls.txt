@@ -12,12 +12,16 @@
     "https://geekteesus.com/product/uconn-huskies-nike-six-time-ncaa-national-champions-mens-basketball-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/cyclones-power-iowa-outline-shirt/",
-    "https://techteesusa.com/product/caitlin-clark-9th-in-your-rankings-but-1st-in-your-nightmares-shirt/",
-    "https://techteesusa.com/product/never-argue-with-somebody-john-brown-would-have-shot-shirt/",
-    "https://techteesusa.com/product/coffee-and-spreadsheets-logo-shirt/",
-    "https://techteesusa.com/product/buy-a-man-eat-fish-he-day-teach-fish-man-to-a-lifetime-t-shirt/",
-    "https://techteesusa.com/product/edkh-epstein-didnt-kill-himself-shirt/"
+    "https://techteesusa.com/product/hot-girls-for-zohran-t-shirt/",
+    "https://techteesusa.com/product/heres-how-to-use-ai-to-take-your-art-to-the-next-level-shirt/",
+    "https://techteesusa.com/product/go-birds-dickhead-shirt/",
+    "https://techteesusa.com/product/get-in-losers-were-stealing-candy-halloween-shirt/",
+    "https://techteesusa.com/product/gameday-in-kansas-city-shirt/",
+    "https://techteesusa.com/product/football-is-my-favorite-season-shirt/",
+    "https://techteesusa.com/product/fck-this-industry-shirt/",
+    "https://techteesusa.com/product/arkansas-razorbacks-future-hog-shirt/",
+    "https://techteesusa.com/product/bring-the-noise-in-the-world-est-1972-loudest-stadium-kansas-city-shirt/",
+    "https://techteesusa.com/product/border-showdown-kansas-jayhawks-vs-missouri-tigers-head-to-head-helmet-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/yoda-my-husband-is-my-favorite-pain-in-the-ass-shirt/",
