@@ -48,22 +48,28 @@
     "https://meredpremium.com/product/official-treveyon-henderson-new-england-patriots-celebration-player-t-shirt/"
   ],
   "berrylittles.com": [
-    "https://berrylittles.com/product/official-nfl-vikings-vs-bears-1985-40th-anniversary-edition-now-playing-september-8-2025-poster-t-shirt/",
-    "https://berrylittles.com/product/official-texas-tech-red-raiders-vs-oregon-state-beavers-september-13-2025-raider-power-energy-gameday-t-shirt/",
-    "https://berrylittles.com/product/official-new-years-rev-a-film-by-lee-kirk-a-green-day-story-live-nation-studio-poster-t-shirt/",
-    "https://berrylittles.com/product/official-texas-tech-red-raiders-thank-you-for-filling-up-your-gas-tank-top-off-our-season-fill-er-up-oil-gas-t-shirt/",
-    "https://berrylittles.com/product/official-south-carolina-gamecocks-football-its-a-lanorris-sellers-market-painting-t-shirt/",
-    "https://berrylittles.com/product/official-saquon-barkley-philadelphia-eagles-celebration-nfl-football-2025-graphic-t-shirt/",
-    "https://berrylittles.com/product/official-poster-the-jer-band-9-22-2025-in-the-hourglass-deadspeak-hoosier-dome-in-indianapolis-in-t-shirt/",
-    "https://berrylittles.com/product/official-poster-alabama-shakes-september-5-2025-meadow-brook-amphitheatre-in-rochester-hills-mi-t-shirt/",
-    "https://berrylittles.com/product/official-dawgs-unleashed-the-browns-face-the-bengals-in-the-battle-of-ohio-flacco-returns-poster-t-shirt/",
-    "https://berrylittles.com/product/official-cleveland-browns-football-taking-the-pound-across-the-pond-painting-t-shirt/"
+    "https://berrylittles.com/product/official-poster-ohio-state-buckeyes-win-grambling-state-tigers-final-score-70-00-t-shirt/",
+    "https://berrylittles.com/product/official-poster-blink-182-bethel-woods-center-for-the-arts-in-bethel-ny-september-6-2025-t-shirt/",
+    "https://berrylittles.com/product/official-not-our-first-rodeo-baylor-bears-vs-smu-mustangs-mascots-t-shirt/",
+    "https://berrylittles.com/product/official-mizzou-tigers-football-victory-kansas-jayhawks-border-showdown-september-6th-2025-columbia-missouri-score-t-shirt/",
+    "https://berrylittles.com/product/official-this-is-our-state-ames-ia-iowa-state-cyclones-vs-iowa-hawkeyes-mascots-t-shirt/",
+    "https://berrylittles.com/product/official-south-florida-bulls-vs-florida-gators-statement-made-september-6-2025-score-18-16-t-shirt/",
+    "https://berrylittles.com/product/official-run-cmc-christian-mccaffrey-san-francisco-49ers-nfl-football-planet-euphoria-art-t-shirt/",
+    "https://berrylittles.com/product/official-missouri-tigers-vs-kansas-jayhawks-mizzou-rah-september-6-2025-score-42-31-t-shirt/",
+    "https://berrylittles.com/product/official-border-war-champs-2025-missouri-tigers-vs-kansas-jayhawks-mascots-t-shirt/",
+    "https://berrylittles.com/product/official-blink-182-missionary-impossible-2025-tour-september-6-2025-bethel-woods-center-for-the-arts-in-bethel-ny-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-john-cena-and-brock-lesnar-will-go-to-war-one-last-time-at-wrestlepalooza-september-20-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-from-tuscaloosa-to-the-league-thank-you-amari-cooper-alabama-football-t-shirt/",
-    "https://dreameshirt.com/product/official-cfp-national-championship-trophy-tour-texas-at-ohio-state-ohio-stadium-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-carlos-alcaraz-vs-jannik-sinner-french-open-wimbledon-us-open-2025-t-shirt/"
+    "https://dreameshirt.com/product/official-poster-tennessee-vols-vs-georgia-bulldogs-espns-college-gameday-september-13-2025-knoxville-tennessee-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-nassourdine-imavov-defeats-caio-borralho-the-sniper-ufc-paris-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-ohio-state-buckeyes-victory-grambling-state-tigers-final-score-70-00-september-6-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-drake-maye-v2-new-england-patriots-nfl-football-planet-euphoria-art-t-shirt/",
+    "https://dreameshirt.com/product/official-bokey-strong-9-florida-state-seminoles-football-ethan-pritchard-t-shirt/",
+    "https://dreameshirt.com/product/official-the-conjuring-the-official-conjuring-universe-coloring-book-illustrated-by-alan-robert-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-raider-nation-the-kickoff-a-season-fueled-by-fan-strength-and-ferocity-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-papadosio-the-fillmore-auditorium-in-denver-co-september-6-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-green-day-the-saviors-tour-the-town-sao-paulo-brazil-september-7-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-penn-state-nittany-lions-football-ncaa-happy-valley-university-park-pa-helmet-grid-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/official-willcatchers-for-willca-di-kaya-tayo-taping-friends-shirt-2/",
@@ -78,16 +84,16 @@
     "https://teeextra.com/product/official-sayin-ohio-state-buckeyes-on-saturdays-and-flacco-cleveland-browns-on-sundays-signatures-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/ucf-knights-vs-north-carolina-at-aggies-2025-game-notes-football-shirt/",
-    "https://teespix.com/product/fuck-dallas-football-game-eagles-shirt/",
-    "https://teespix.com/product/andi-jackson-max-collegiate-shirt/",
-    "https://teespix.com/product/philadelphia-eagles-fuck-dallas-cowboys-t-shirt/",
-    "https://teespix.com/product/philadelphia-eagles-fuck-dallas-2025-gameday-shirt/",
-    "https://teespix.com/product/utsa-roadrunners-ancira-auto-group-cash-cannon-t-shirt/",
-    "https://teespix.com/product/giants-rafael-devers-adios-pelota-goodbye-ball-shirt/",
-    "https://teespix.com/product/cleveland-browns-bottoms-up-sunday-funday-t-shirt/",
-    "https://teespix.com/product/cody-rhodes-is-guile-2026-shirt/",
-    "https://teespix.com/product/carmelo-anthony-york-knicks-nba-2k26-shirt/"
+    "https://teespix.com/product/travis-kelce-kansas-city-chiefs-1960-football-club-oitenta-e-sete-shirt/",
+    "https://teespix.com/product/the-british-bulldogs-flag-shirt/",
+    "https://teespix.com/product/suburban-sweetheart-wrangling-kids-and-running-things-shirt/",
+    "https://teespix.com/product/sigurros-takk-20-album-shirt/",
+    "https://teespix.com/product/santigold-santogold-album-cover-shirt-2/",
+    "https://teespix.com/product/philadelphia-blink-182-shirt/",
+    "https://teespix.com/product/philadelphia-world-champs-no-one-likes-us-we-dont-care-cartoon-shirt/",
+    "https://teespix.com/product/my-cat-said-youre-a-bitch-shirt/",
+    "https://teespix.com/product/masterbate-logo-parody-shirt/",
+    "https://teespix.com/product/kc-chiefs-house-brazil-a-journey-through-the-heart-of-the-kingdom-mascot-football-fans-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/big-mullet-energy-armchair-illini-illinois-fighting-football-signature-2-sided-shirt/",
