@@ -24,16 +24,16 @@
     "https://techteesusa.com/product/move-fast-and-break-chains-t-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/tyler-reddick-23xi-racing-car-shirt/",
-    "https://teeworksusa.com/product/the-lord-of-the-rings-aragorn-you-have-my-sword-shirt/",
-    "https://teeworksusa.com/product/skyline-kansas-jayhawks-thank-you-for-the-memories-shirt/",
-    "https://teeworksusa.com/product/mississippi-state-in-my-veins-jesus-in-my-heart-mascot-shirt/",
-    "https://teeworksusa.com/product/ken-dryden-1947-2025-thank-you-for-the-memories-shirt/",
-    "https://teeworksusa.com/product/halloween-gig-em-texas-aggies-skeleton-shirt/",
-    "https://teeworksusa.com/product/derpy-tiger-will-not-miss-shirt/",
-    "https://teeworksusa.com/product/you-got-mossed-shirt/",
-    "https://teeworksusa.com/product/yamamoto-roar-yoshinobu-yamamoto-los-angeles-baseball-shirt/",
-    "https://teeworksusa.com/product/whos-got-it-better-than-us-shirt/"
+    "https://teeworksusa.com/product/indiana-fever-2025-wnba-playoffs-shirt/",
+    "https://teeworksusa.com/product/jonas-brothers-september-6-2025-greetings-from-los-angeles-concert-tour-shirt/",
+    "https://teeworksusa.com/product/im-sorry-ms-jackson-i-am-four-eels-outkast-parody-funny-eels-men-in-trench-coat-shirt/",
+    "https://teeworksusa.com/product/i-squirt-on-juicy-wieners-funny-ketchup-hot-dog-wiener-shirt/",
+    "https://teeworksusa.com/product/horror-movie-characters-stalk-haunt-kill-hunt-halloween-hope-shirt/",
+    "https://teeworksusa.com/product/garbage-pail-kids-ball-hog-brenda-baseball-player-card-shirt/",
+    "https://teeworksusa.com/product/gm-bull-wearing-supreme-hoodie-and-pie-on-head-nft-shirt/",
+    "https://teeworksusa.com/product/football-is-a-contact-sport-graphic-shirt/",
+    "https://teeworksusa.com/product/east-nashville-tomato-garden-rabbit-shirt/",
+    "https://teeworksusa.com/product/east-nashville-tennessee-usa-37206-tomato-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-zach-bryan-2025-09-06-events-experience-notre-dame-shirt/",
@@ -184,16 +184,16 @@
     "https://clickoneshirt.com/product/talking-shit-together-is-a-long-language-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/yoshinobu-yamamoto-los-angeles-dodgers-dominant-pitch-mlb-just-do-it-nike-t-shirts/",
-    "https://teleteeshirt.com/product/the-hu-hawk-temple-eagle-t-shirts/",
-    "https://teleteeshirt.com/product/sample-dog-eat-dog-world-t-shirts/",
-    "https://teleteeshirt.com/product/rob-halford-x-metal-for-good-positive-change-one-riff-at-a-time-t-shirts/",
-    "https://teleteeshirt.com/product/metal-for-good-two-face-t-shirts/",
-    "https://teleteeshirt.com/product/metal-for-good-positive-change-one-riff-at-a-time-broken-halo-t-shirts/",
-    "https://teleteeshirt.com/product/katelyn-tarver-jo-taylor-t-shirts/",
-    "https://teleteeshirt.com/product/las-oakland-from-la-to-the-bay-to-las-vegas-raiders-forever-a-fan-t-shirts/",
-    "https://teleteeshirt.com/product/fabiana-palladino-closer-i-care-eyes-t-shirts/",
-    "https://teleteeshirt.com/product/everything-is-recorded-maharishi-celeste-t-shirts/"
+    "https://teleteeshirt.com/product/vanellope-von-schweetz-eat-my-dust-t-shirts/",
+    "https://teleteeshirt.com/product/tod-and-copper-the-fox-and-the-hound-t-shirts/",
+    "https://teleteeshirt.com/product/the-princess-and-the-frog-louis-jazz-on-the-bayou-t-shirts-2/",
+    "https://teleteeshirt.com/product/the-little-mermaid-prince-erics-royal-sailing-academy-t-shirts/",
+    "https://teleteeshirt.com/product/selah-hes-gone-hes-gone-jesus-has-risen-t-shirts/",
+    "https://teleteeshirt.com/product/selah-big-apple-t-shirts-2/",
+    "https://teleteeshirt.com/product/sci-fi-fantasy-windy-t-shirts/",
+    "https://teleteeshirt.com/product/sci-fi-fantasy-pressure-points-t-shirts/",
+    "https://teleteeshirt.com/product/sci-fi-fantasy-2029-ad-t-shirts/",
+    "https://teleteeshirt.com/product/official-robin-hood-keep-your-chin-up-est-1973-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/we-do-not-care-club-dragoncon-chapter-shirt/",
