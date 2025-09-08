@@ -48,20 +48,25 @@
     "https://meredpremium.com/product/official-tennessee-titans-and-peanuts-character-its-the-most-wonderful-time-of-the-year-shirt/"
   ],
   "berrylittles.com": [
-    "https://berrylittles.com/product/official-poster-ohio-state-buckeyes-win-grambling-state-tigers-final-score-70-00-t-shirt/",
-    "https://berrylittles.com/product/official-poster-blink-182-bethel-woods-center-for-the-arts-in-bethel-ny-september-6-2025-t-shirt/",
-    "https://berrylittles.com/product/official-not-our-first-rodeo-baylor-bears-vs-smu-mustangs-mascots-t-shirt/",
-    "https://berrylittles.com/product/official-mizzou-tigers-football-victory-kansas-jayhawks-border-showdown-september-6th-2025-columbia-missouri-score-t-shirt/",
-    "https://berrylittles.com/product/official-this-is-our-state-ames-ia-iowa-state-cyclones-vs-iowa-hawkeyes-mascots-t-shirt/",
-    "https://berrylittles.com/product/official-south-florida-bulls-vs-florida-gators-statement-made-september-6-2025-score-18-16-t-shirt/",
-    "https://berrylittles.com/product/official-run-cmc-christian-mccaffrey-san-francisco-49ers-nfl-football-planet-euphoria-art-t-shirt/",
-    "https://berrylittles.com/product/official-missouri-tigers-vs-kansas-jayhawks-mizzou-rah-september-6-2025-score-42-31-t-shirt/",
-    "https://berrylittles.com/product/official-border-war-champs-2025-missouri-tigers-vs-kansas-jayhawks-mascots-t-shirt/",
-    "https://berrylittles.com/product/official-blink-182-missionary-impossible-2025-tour-september-6-2025-bethel-woods-center-for-the-arts-in-bethel-ny-t-shirt/"
+    "https://berrylittles.com/product/official-carlos-alcaraz-dominant-tournament-us-open-champions-2022-2025-poster-t-shirt/",
+    "https://berrylittles.com/product/official-alex-marquez-alenta-race-against-the-family-bk8-gresini-racing-motogp-2025-poster-t-shirt/",
+    "https://berrylittles.com/product/official-miami-dolphins-vs-indianapolis-colts-lucas-oil-stadium-in-indianapolis-in-september-7th-2025-poster-t-shirt/",
+    "https://berrylittles.com/product/official-denver-broncos-vs-tennessee-titans-home-of-ener-empower-field-at-mile-high-in-denver-colorado-2025-poster-t-shirt/",
+    "https://berrylittles.com/product/official-blink-182-broadview-stage-at-saratoga-springs-ny-on-september-7-2025-t-shirt/",
+    "https://berrylittles.com/product/official-pat-murphy-pocket-quesadillas-the-man-likes-his-snacks-milwaukee-brewers-mlb-signature-t-shirt/",
+    "https://berrylittles.com/product/official-the-who-september-7-9-2025-the-song-is-over-the-north-american-farewell-tour-chicago-poster-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-buffalo-bandits-lacrosse-rest-in-peace-noah-snyder-2005-2025-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-zac-blackerby-ball-is-not-a-state-auburn-tigers-football-painting-t-shirt/"
+    "https://dreameshirt.com/product/official-los-angeles-rams-matthew-stafford-60000-career-passing-yards-signature-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-los-angeles-rams-win-houston-texans-final-score-14-9-september-7-2024-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-jacob-tyler-new-york-jets-vs-pittsburgh-steelers-at-metlife-stadium-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-southeast-polk-hoco-25-they-not-like-us-football-class-5a-2012-2024-helmet-t-shirt/",
+    "https://dreameshirt.com/product/official-becky-hammon-wearing-mivp-the-conversation-starter-new-t-shirt/",
+    "https://dreameshirt.com/product/official-kinda-fit-kinda-fat-making-gainz-both-ways-est-2017-graphic-t-shirt/",
+    "https://dreameshirt.com/product/official-oklahoma-sooners-vs-michigan-wolverines-boomer-sooner-9-6-2025-score-24-13-t-shirt/",
+    "https://dreameshirt.com/product/official-the-devil-went-down-to-starkville-and-left-a-loser-mississippi-state-bulldogs-defeats-arizona-state-sun-devils-t-shirt/",
+    "https://dreameshirt.com/product/official-santana-moss-washington-commanders-nfl-football-retired-player-classic-caricature-signature-t-shirt/",
+    "https://dreameshirt.com/product/official-billy-strings-and-bryan-sutton-with-royal-masat-on-tour-september-2025-11-12-boone-nc-poster-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/official-youre-a-gooner-im-a-goober-shirt/",
@@ -74,16 +79,16 @@
     "https://teeextra.com/product/official-deadlock-cute-anime-girl-and-frankenstein-monster-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/buffalo-bills-aint-no-boo-sheet-halloween-shirt/",
-    "https://teespix.com/product/breast-cancer-fight-like-a-buffalo-bills-shirt/",
-    "https://teespix.com/product/auburn-tigers-vs-ball-state-fold-the-cards-2025-shirt/",
-    "https://teespix.com/product/florida-state-seminoles-climb-football-shirt/",
-    "https://teespix.com/product/auburn-tigers-ball-is-not-a-state-beat-ball-state-shirt/",
-    "https://teespix.com/product/texas-tech-vs-oregon-state-2025-raider-power-energy-gameday-t-shirt/",
-    "https://teespix.com/product/auburn-tigers-vs-ball-state-ball-thru-the-wall-shirt/",
-    "https://teespix.com/product/texas-tech-red-raider-beat-the-beavers-2025-raider-power-t-shirt/",
-    "https://teespix.com/product/n0ahh-shirt/",
-    "https://teespix.com/product/florida-state-seminoles-rolled-em-beat-east-texas-am-lions-shirt/"
+    "https://teespix.com/product/zb-fighting-irish-zach-bryan-shirt/",
+    "https://teespix.com/product/yes-i-can-drive-a-stick-halloween-shirt-3/",
+    "https://teespix.com/product/wonder-more-shirt/",
+    "https://teespix.com/product/weird-elephant-shirt/",
+    "https://teespix.com/product/walsh-toilet-water-drink-it-in-shirt/",
+    "https://teespix.com/product/travis-kelce-smacked-by-teair-tart-shirt/",
+    "https://teespix.com/product/travis-kelce-oitenta-e-sete-shirt/",
+    "https://teespix.com/product/ting-auto-parts-shirt/",
+    "https://teespix.com/product/the-teskey-brothers-in-forest-grove-or-on-sept-26-2025-shirt/",
+    "https://teespix.com/product/the-offspring-sept-6-2025-utah-tour-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/big-mullet-energy-armchair-illini-illinois-fighting-football-signature-2-sided-shirt/",
@@ -122,16 +127,16 @@
     "https://fanaticity.com/product/that-was-in-my-hands-phillies-karen-meme-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/joe-burrow-burreaux-lsu-tigers-and-cincinnati-bengals-signature-t-shirt/",
-    "https://legendusashirt.com/product/im-a-jayden-daniels-and-joe-burrow-geaux-on-saturday-bengals-on-sunday-signatures-t-shirt/",
-    "https://legendusashirt.com/product/ibew-48-current-kills-t-shirt/",
-    "https://legendusashirt.com/product/i-can-do-all-things-through-christ-who-strengthens-me-san-francisco-49ers-80-years-t-shirt/",
-    "https://legendusashirt.com/product/i-can-do-all-things-through-christ-who-strengthens-me-pittsburgh-steelers-legend-signatures-t-shirt/",
-    "https://legendusashirt.com/product/i-can-do-all-things-through-christ-who-strengthens-me-ohio-state-buckeyes-logo-135th-1890-2025-t-shirt/",
-    "https://legendusashirt.com/product/zach-bryan-notre-dame-stadium-in-notre-dame-in-september-6-2025-t-shirt/",
-    "https://legendusashirt.com/product/weirdo-the-rasmus-t-shirt/",
-    "https://legendusashirt.com/product/uh-1-iroquois-huey-helicopter-t-shirt/",
-    "https://legendusashirt.com/product/to-hover-or-not-to-hover-thats-a-silly-question-helicopter-t-shirt/"
+    "https://legendusashirt.com/product/defunct-minnesota-kicks-soccer-t-shirt/",
+    "https://legendusashirt.com/product/colts-jim-irsay-for-the-boss-t-shirt/",
+    "https://legendusashirt.com/product/cat-powells-books-fiercely-independent-t-shirt/",
+    "https://legendusashirt.com/product/buffalo-bills-new-york-september-7-2025-t-shirt/",
+    "https://legendusashirt.com/product/bendy-gingerbread-t-shirt/",
+    "https://legendusashirt.com/product/blue-ox-truck-stop-t-shirt/",
+    "https://legendusashirt.com/product/be-aggressively-kind-t-shirt/",
+    "https://legendusashirt.com/product/aura-farming-meme-gen-alpha-slang-t-shirt/",
+    "https://legendusashirt.com/product/all-might-yall-might-t-shirt/",
+    "https://legendusashirt.com/product/arkansas-razorbacks-future-hog-2025-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/nick-herbig-wearing-a-keeanu-benton-shirt/"
