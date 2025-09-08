@@ -92,7 +92,7 @@ jobs:
               --method POST \
               -H "Accept: application/vnd.github+json" \
               "/repos/${TARGET_OWNER}/${TARGET_REPO}/dispatches" \
-              -d '{"event_type":"new_image_available"}'
+              -f '{"event_type":"new_image_available"}'
             echo "Trigger dispatch sent."
             echo "triggered=sent" >> "$GITHUB_OUTPUT"
           fi
