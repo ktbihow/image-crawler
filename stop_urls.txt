@@ -1,15 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/2025-charros-de-jalisco-preventa-camiseta-campeones-zona-norte-baseball-shirt/",
-    "https://geekteesus.com/product/charros-de-jalisco-beisbol-somos-campeones-de-la-zona-norte-2025-shirt/",
-    "https://geekteesus.com/product/patrick-mahomes-kansas-city-chiefs-nfl-highlight-shirt/",
-    "https://geekteesus.com/product/philly-karen-wanted-reward-poster-shirt/",
-    "https://geekteesus.com/product/phillies-karen-ballsnatcher-give-me-that-ball-shirt/",
-    "https://geekteesus.com/product/alexander-isak-heritage-no-9-liverpool-shirt/",
-    "https://geekteesus.com/product/tre-harris-los-angeles-chargers-nfl-signature-shirt/",
-    "https://geekteesus.com/product/phillies-karen-fan-cheryl-richardson-wagner-harrison-bader-home-run-marlins-photo-shirt/",
-    "https://geekteesus.com/product/teair-tart-los-angeles-chargers-haymaker-travis-kelce-bitch-slap-shirt/",
-    "https://geekteesus.com/product/uconn-huskies-nike-six-time-ncaa-national-champions-mens-basketball-shirt/"
+    "https://geekteesus.com/product/the-new-york-jets-gotham-city-american-football-conference-1959-helmet-shirt/",
+    "https://geekteesus.com/product/tyreek-hill-miami-dolphins-nfl-vintage-graphic-shirt/",
+    "https://geekteesus.com/product/trumpkin-spice-and-everything-nice-halloween-trump-pumpkins-shirt/",
+    "https://geekteesus.com/product/smackdown-boxing-flames-shirt/",
+    "https://geekteesus.com/product/st-louis-cardinals-league-champions-1985-vintage-shirt/",
+    "https://geekteesus.com/product/sidney-crosby-big-head-pittsburgh-penguins-nhl-cartoon-shirt/",
+    "https://geekteesus.com/product/stuck-farmer-no-farmers-no-food-shirt/",
+    "https://geekteesus.com/product/stephen-hawking-epstein-island-spring-break-06-shirt/",
+    "https://geekteesus.com/product/puka-nacua-los-angeles-rams-nfl-vintage-graphic-shirt/",
+    "https://geekteesus.com/product/rip-giorgio-armani-1934-2025-portrait-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/this-is-why-we-cant-have-nice-things-t-shirt/",
@@ -106,8 +106,16 @@
     "https://nowbestshirt.com/product/if-they-aint-with-houston-texans-us-vs-the-world-tour-2-sided-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/bowling-happy-halloween-shirt/",
-    "https://serenashirt.com/product/keep-halloween-alive-in-your-neighborhood-shirt/"
+    "https://serenashirt.com/product/franky-goes-pop-funny-halloween-shirt/",
+    "https://serenashirt.com/product/women-girls-trip-time-to-get-wicked-halloween-shirt/",
+    "https://serenashirt.com/product/listen-up-rizzlers-sigmas-show-what-they-know-no-cap-shirt/",
+    "https://serenashirt.com/product/philadelphia-eagles-jalen-hurts-how-bout-them-birds-ornament/",
+    "https://serenashirt.com/product/these-pretzels-are-making-me-thirsty-ornament/",
+    "https://serenashirt.com/product/auburn-tigers-jackson-arnold-11-stripe-ornament/",
+    "https://serenashirt.com/product/teair-tart-smacks-travis-kelce-ornament/",
+    "https://serenashirt.com/product/we-are-all-trembling-chihuahuas-in-gods-designer-handbag-ornament/",
+    "https://serenashirt.com/product/travis-kelce-smacked-by-teair-tart-ornament/",
+    "https://serenashirt.com/product/queers-for-israel-ornament/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/your-wide-behind-wont-save-you-this-time-shirt/",
@@ -178,16 +186,16 @@
     "https://clickoneshirt.com/product/martin-brundle-push-cool-cool-push-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/vitriol-suffer-and-become-tour-2025-t-shirts/",
-    "https://teleteeshirt.com/product/who-cares-the-fuck-cares-game-show-t-shirts/",
-    "https://teleteeshirt.com/product/vitriol-pan-t-shirts/",
-    "https://teleteeshirt.com/product/undergold-thunder-rider-pigeons-t-shirts/",
-    "https://teleteeshirt.com/product/undergold-studio-369-palace-stoney-angel-t-shirts/",
-    "https://teleteeshirt.com/product/undergold-gratia-plena-the-risen-one-t-shirts/",
-    "https://teleteeshirt.com/product/undergold-gratia-plena-pax-vobis-do-pax-vobis-relinquam-t-shirts/",
-    "https://teleteeshirt.com/product/undergold-gratia-plena-appearance-t-shirts/",
-    "https://teleteeshirt.com/product/tim-burtons-the-nightmare-before-christmas-family-trip-2025-t-shirts/",
-    "https://teleteeshirt.com/product/tobias-sammets-avantasia-against-the-wind-t-shirts/"
+    "https://teleteeshirt.com/product/the-psyop-you-wanna-join-the-military-so-bad-t-shirts/",
+    "https://teleteeshirt.com/product/pittsburgh-steelers-our-kicker-is-a-serial-killer-t-shirts/",
+    "https://teleteeshirt.com/product/pink-floyd-pompeii-t-shirts-2/",
+    "https://teleteeshirt.com/product/pendulum-uk-eu-2025-tour-dates-t-shirts/",
+    "https://teleteeshirt.com/product/pat-murphy-pocket-quesadillas-the-man-likes-his-snacks-t-shirts/",
+    "https://teleteeshirt.com/product/my-chemical-romance-tree-t-shirts/",
+    "https://teleteeshirt.com/product/my-chemical-romance-salem-witch-trials-t-shirts/",
+    "https://teleteeshirt.com/product/miami-dolphins-the-greatest-show-on-surf-t-shirts-2/",
+    "https://teleteeshirt.com/product/meat-rubber-t-shirts/",
+    "https://teleteeshirt.com/product/maxx-crosby-and-geno-smith-step-brothers-t-shirt/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/taylor-and-travis-kansas-city-love-story-13-87-story-and-baby-she-said-yes-shirt/",
