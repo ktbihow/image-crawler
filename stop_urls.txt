@@ -36,16 +36,16 @@
     "https://teeworksusa.com/product/hook-em-horns-ricky-williams-texas-longhorns-shirt/"
   ],
   "meredpremium.com": [
-    "https://meredpremium.com/product/official-vanderbilt-commodores-win-44-20-virginia-tech-poster-shirt/",
-    "https://meredpremium.com/product/official-usf-bulls-win-18-16-florida-poster-shirt/",
-    "https://meredpremium.com/product/official-the-peanuts-walking-x-sydney-swans-its-the-most-wonderful-time-of-the-year-shirt/",
-    "https://meredpremium.com/product/official-the-peanuts-walking-x-hawthorn-hawks-its-the-most-wonderful-time-of-the-year-shirt/",
-    "https://meredpremium.com/product/official-the-peanuts-snoopy-and-woodstock-x-denver-broncos-in-the-fall-shirt/",
-    "https://meredpremium.com/product/official-the-peanuts-snoopy-and-woodstock-x-dallas-cowboys-in-the-fall-shirt/",
-    "https://meredpremium.com/product/official-the-peanuts-snoopy-and-woodstock-x-chicago-bears-in-the-fall-shirt/",
-    "https://meredpremium.com/product/official-texas-tech-red-raiders-fill-er-up-oil-gas-shirt/",
-    "https://meredpremium.com/product/official-tennessee-win-72-17-east-tennessee-state-poster-shirt/",
-    "https://meredpremium.com/product/official-tennessee-titans-and-peanuts-character-its-the-most-wonderful-time-of-the-year-shirt/"
+    "https://meredpremium.com/product/official-nike-colts-x-jim-irsay-shirt/",
+    "https://meredpremium.com/product/official-nfl-lions-4th-down-and-fuck-it-shirt/",
+    "https://meredpremium.com/product/official-mizzou-rah-missouri-tigers-42-31-kansas-jayhawks-score-shirt/",
+    "https://meredpremium.com/product/official-mivp-the-conversation-starter-shirt/",
+    "https://meredpremium.com/product/official-missouri-tigers-vs-kansas-jayhawks-2025-gameday-score-t-shirt/",
+    "https://meredpremium.com/product/official-miles-college-vs-virginia-union-2025-clash-at-the-classic-football-shirt/",
+    "https://meredpremium.com/product/official-mike-tomlin-our-kicker-is-a-serial-killer-shirt/",
+    "https://meredpremium.com/product/official-lsu-vs-florida-game-day-september-13th-2025-t-shirt/",
+    "https://meredpremium.com/product/official-lsu-tigers-i-would-like-to-solve-the-puzzle-anti-clemson-shirt/",
+    "https://meredpremium.com/product/official-just-a-woman-who-loves-fall-and-georgia-bulldogs-x-the-peanuts-walking-shirt/"
   ],
   "berrylittles.com": [
     "https://berrylittles.com/product/official-carlos-alcaraz-dominant-tournament-us-open-champions-2022-2025-poster-t-shirt/",
