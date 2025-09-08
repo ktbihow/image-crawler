@@ -43,35 +43,64 @@ jobs:
           -d chat_id=$TELEGRAM_CHAT_ID \
           -d text="${TRUNCATED_LOG}" || echo "Lỗi khi gửi nội dung log!"
 
-      - name: Check for changes
-        id: check_changes
+      # ----- LOGIC KIỂM TRA ĐÃ ĐƯỢC THAY THẾ -----
+      - name: Check for meaningful changes
+        id: check_meaningful_changes
         run: |
-          git add *.txt
-          if ! git diff --staged --quiet; then
-            echo "Có thay đổi, tiến hành commit và trigger."
+          echo "Checking for new image URLs in crawl-log.txt..."
+          # Điều kiện 1: Kiểm tra xem có URL mới nào được thêm vào trong log không
+          has_new_urls_in_log=false
+          if grep -E -q '[1-9][0-9]* new URLs added' crawl-log.txt; then
+            has_new_urls_in_log=true
+            echo "Meaningful changes detected in crawl-log.txt."
+          else
+            echo "No new URLs found in crawl-log.txt."
+          fi
+
+          echo "Checking for direct changes in data files..."
+          # Điều kiện 2: Kiểm tra xem có file .txt nào khác ngoài log bị thay đổi không
+          has_data_file_changes=false
+          # Tìm tất cả các file .txt, loại trừ crawl-log.txt, rồi kiểm tra diff
+          other_txt_files=$(find . -maxdepth 1 -type f -name "*.txt" ! -name "crawl-log.txt")
+          if [ -n "$other_txt_files" ]; then
+            git add $other_txt_files
+            if ! git diff --staged --quiet; then
+              has_data_file_changes=true
+              echo "Meaningful changes detected in data files (e.g., stop url.txt, domain.com.txt)."
+            fi
+          else
+            echo "No other .txt data files found to check."
+          fi
+          
+          # Kết hợp 2 điều kiện: Chỉ kích hoạt khi có URL mới trong log HOẶC có file dữ liệu bị thay đổi
+          if [ "$has_new_urls_in_log" = true ] || [ "$has_data_file_changes" = true ]; then
+            echo "Meaningful changes exist. Proceeding to commit and trigger."
             echo "changes_exist=true" >> "$GITHUB_OUTPUT"
           else
-            echo "Không có thay đổi nào."
+            echo "No meaningful changes detected. Skipping commit and trigger."
             echo "changes_exist=false" >> "$GITHUB_OUTPUT"
           fi
 
+      # ----- KẾT THÚC THAY ĐỔI LOGIC KIỂM TRA -----
+
       - name: Commit & push results
-        if: success() && steps.check_changes.outputs.changes_exist == 'true'
+        if: success() && steps.check_meaningful_changes.outputs.changes_exist == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Update URLs [skip ci]"
+          # Chỉ add tất cả các file txt khi thực sự có thay đổi
+          git add *.txt
+          git commit -m "Update image URLs [skip ci]"
           git push
 
-      # ----- BƯỚC KÍCH HOẠT ĐÃ ĐƯỢC THAY THẾ -----
       - name: Check status and trigger generator workflow
-        if: success() && steps.check_changes.outputs.changes_exist == 'true'
-        id: trigger_generator # Đặt ID để lấy output cho Telegram
+        if: success() && steps.check_meaningful_changes.outputs.changes_exist == 'true'
+        id: trigger_generator
         env:
-          GH_TOKEN: ${{ secrets.KTBHUB_PAT }} # Sử dụng PAT cho repo ktb-image
+          GH_TOKEN: ${{ secrets.KTBHUB_PAT }}
           TARGET_OWNER: 'ktbhub'
           TARGET_REPO: 'ktb-image'
-          TARGET_WORKFLOW: 'auto-generate.yml' # <-- THAY TÊN FILE WORKFLOW CỦA REPO ĐÍCH
+          TARGET_WORKFLOW: 'auto-generate.yml'
         run: |
           echo "Checking status of '${TARGET_WORKFLOW}' in ${TARGET_OWNER}/${TARGET_REPO}..."
 
@@ -88,17 +117,16 @@ jobs:
             echo "triggered=skipped" >> "$GITHUB_OUTPUT"
           else
             echo "Generator workflow is idle. Triggering now..."
+            # Sửa lỗi cú pháp -d thành -f cho gh api
             gh api \
               --method POST \
               -H "Accept: application/vnd.github+json" \
               "/repos/${TARGET_OWNER}/${TARGET_REPO}/dispatches" \
-              -f '{"event_type":"new_image_available"}'
+              -f event_type='new_image_available'
             echo "Trigger dispatch sent."
             echo "triggered=sent" >> "$GITHUB_OUTPUT"
           fi
       
-      # ----- KẾT THÚC THAY ĐỔI -----
-
       - name: Send Success Message to Telegram
         if: success()
         uses: appleboy/telegram-action@master
@@ -107,7 +135,7 @@ jobs:
           token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           message: |
             ✅ KTB Image Crawl - Done.
-            Changes detected: ${{ steps.check_changes.outputs.changes_exist }}
+            Meaningful changes: ${{ steps.check_meaningful_changes.outputs.changes_exist }}
             Generator trigger: ${{ steps.trigger_generator.outputs.triggered }}
 
       - name: Send Failure Message to Telegram
