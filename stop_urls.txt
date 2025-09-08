@@ -148,28 +148,28 @@
     "https://thefunnyt.com/product/e-eosso-davide-tardozzi-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/official-vitriol-pan-t-shirts/",
-    "https://uscraftedtees.com/product/official-undergold-thunder-rider-pigeons-t-shirts/",
-    "https://uscraftedtees.com/product/official-undergold-gratia-plena-pax-vobis-do-pax-vobis-relinquam-t-shirts/",
-    "https://uscraftedtees.com/product/official-twenty-one-pilots-scaled-and-icy-album-t-shirts/",
-    "https://uscraftedtees.com/product/official-the-way-you-tune-it-out-t-shirts/",
-    "https://uscraftedtees.com/product/official-the-red-pony-club-im-gonna-keep-on-prancing-t-shirts/",
-    "https://uscraftedtees.com/product/official-the-clutch-full-ahead-flank-mmxxv-tour-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-taking-back-sunday-panther-moon-t-shirts/",
-    "https://uscraftedtees.com/product/official-stevie-ray-vaughan-and-double-trouble-t-shirts/",
-    "https://uscraftedtees.com/product/official-skeleton-vitriol-suffer-and-become-tour-2025-t-shirts/"
+    "https://uscraftedtees.com/product/official-will-run-my-mouth-ringer-till-the-bitter-end-t-shirts/",
+    "https://uscraftedtees.com/product/official-title-fight-devil-t-shirts/",
+    "https://uscraftedtees.com/product/official-tiger-zac-blackerby-ball-is-not-a-state-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-spikes-joint-boycott-sals-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-somebody-in-rilo-kiley-loves-me-new-t-shirts/",
+    "https://uscraftedtees.com/product/official-salt-standing-against-legalized-tyranny-t-shirts/",
+    "https://uscraftedtees.com/product/official-perrie-album-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-rolled-em-pocket-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-not-our-first-rodeo-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-pain-of-truth-toast-to-coast-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/world-war-ii-group-chat-winston-germany-italy-french-left-the-chat-shirt/",
-    "https://capitoneshirt.com/product/when-are-the-fireworks-the-pride-of-portage-lakes-shirt/",
-    "https://capitoneshirt.com/product/well-behaved-women-rarely-make-history-shirt-2/",
-    "https://capitoneshirt.com/product/trump-epsteingate-cashes-shirt/",
-    "https://capitoneshirt.com/product/the-eyes-chico-they-never-lie-shirt/",
-    "https://capitoneshirt.com/product/the-black-phone-the-movie-grabber-portrait-shirt/",
-    "https://capitoneshirt.com/product/thank-you-pete-carroll-shirt/",
-    "https://capitoneshirt.com/product/terrifier-3-damien-leones-tis-the-season-you-better-watch-out-art-the-clown-shirt/",
-    "https://capitoneshirt.com/product/tennessee-flyovers-before-football-drones-knoxville-shirt/",
-    "https://capitoneshirt.com/product/taylen-green-tg-10-4-the-heisman-razorbacks-shirt/"
+    "https://capitoneshirt.com/product/why-are-the-pyramids-in-egypt-they-couldnt-be-carried-to-the-british-museum-shirt/",
+    "https://capitoneshirt.com/product/veteran-remembrance-tribute-lest-we-forget-shirt/",
+    "https://capitoneshirt.com/product/usa-we-are-not-dropping-the-epstein-thing-shirt/",
+    "https://capitoneshirt.com/product/tiger-tank-50-tons-of-angry-cat-shirt/",
+    "https://capitoneshirt.com/product/texas-longhorns-keep-austin-winning-shirt/",
+    "https://capitoneshirt.com/product/terrifier-3-art-the-clown-portrait-halloween-shirt/",
+    "https://capitoneshirt.com/product/teddy-roosevelt-i-dont-get-shot-often-when-i-do-ill-finish-the-damn-speech-shirt/",
+    "https://capitoneshirt.com/product/southend-on-tour-1906-shirt/",
+    "https://capitoneshirt.com/product/silly-goose-certified-yapper-shirt/",
+    "https://capitoneshirt.com/product/snow-removal-team-we-leave-no-trace-behind-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/zoe-roarz-cant-get-right-shirt/",
