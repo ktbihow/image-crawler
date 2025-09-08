@@ -12,7 +12,14 @@
     "https://geekteesus.com/product/rip-giorgio-armani-1934-2025-portrait-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/nothing-really-dies-you-just-stop-experiencing-the-time-in-which-they-live-shirt/"
+    "https://techteesusa.com/product/cal-reinagine-the-path-sdsu-shirt/",
+    "https://techteesusa.com/product/fact-85-percent-of-monster-disasters-are-a-direct-result-of-capitalism-shirt/",
+    "https://techteesusa.com/product/nicki-minaj-spotify-aint-gotta-lie-they-really-streamin-my-music-shirt/",
+    "https://techteesusa.com/product/ice-intense-chest-exerciser-shirt/",
+    "https://techteesusa.com/product/youre-killin-me-smalls-atlanta-braves-x-the-sandlot-shirt/",
+    "https://techteesusa.com/product/cowboy-carter-beyonce-rodeo-chitlin-circuit-tour-2025-signature-shirt/",
+    "https://techteesusa.com/product/fck-ice-shirt/",
+    "https://techteesusa.com/product/whats-up-punk-bunny-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/circle-the-wagons-oklahoma-sooners-shirt/",
@@ -96,16 +103,16 @@
     "https://nowbestshirt.com/product/if-they-aint-with-houston-texans-us-vs-the-world-tour-2-sided-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/what-about-5-inches-and-kind-shirt/",
-    "https://serenashirt.com/product/last-name-ever-first-name-gayest-classic-shirt/",
-    "https://serenashirt.com/product/derek-moneyberg-dont-stay-poor-painting-shirt/",
-    "https://serenashirt.com/product/cardi-b-bride-of-chucky-halloween-shirt/",
-    "https://serenashirt.com/product/wizard-conversations-to-me-are-turn-based-combat-i-make-a-concentration-saving-throw-at-the-start-of-every-turn-shirt/",
-    "https://serenashirt.com/product/wizard-im-being-reality-to-my-will-does-anybody-want-anything-shirt/",
-    "https://serenashirt.com/product/the-williamson-dad-god-is-the-greatest-shirt/",
-    "https://serenashirt.com/product/jonas-brothers-burnin-up-flames-shirt/",
-    "https://serenashirt.com/product/edgar-allan-poe-the-pit-and-the-pendulum-shirt/",
-    "https://serenashirt.com/product/chicago-cubs-sammy-sosa-fila-21-baseball-shirt/"
+    "https://serenashirt.com/product/i-love-jesus-but-i-cuss-a-little-shirt/",
+    "https://serenashirt.com/product/its-ok-not-to-be-ok-shirt/",
+    "https://serenashirt.com/product/proud-little-american-shirt/",
+    "https://serenashirt.com/product/pennywise-it-the-master-of-horror-unleashed-everything-you-were-ever-afraid-of-shirt/",
+    "https://serenashirt.com/product/im-not-a-normal-woman-im-a-witch-under-a-moon-that-never-obeys-shirt/",
+    "https://serenashirt.com/product/breaking-news-im-the-favorite-child-shirt/",
+    "https://serenashirt.com/product/salt-standing-against-legalized-tyranny-shirt/",
+    "https://serenashirt.com/product/more-park-rangers-fewer-billionaires-shirt/",
+    "https://serenashirt.com/product/my-cat-said-youre-a-bitch-shirt/",
+    "https://serenashirt.com/product/the-day-the-cried-shirt/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/vintage-robert-crumb-twas-ever-thus-says-mr-natural-graphic-shirt/",
@@ -120,28 +127,28 @@
     "https://fanaticity.com/product/still-cant-beat-michigan-baseball-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/witch-we-intend-to-cause-havoc-san-francisco-ca-sep-06-2025-t-shirt/",
-    "https://legendusashirt.com/product/vivziepop-saint-fuckass-t-shirt/",
-    "https://legendusashirt.com/product/turkey-and-the-wolf-a-lil-crescent-city-connection-t-shirt/",
-    "https://legendusashirt.com/product/the-williamson-dad-god-is-the-greatest-t-shirt/",
-    "https://legendusashirt.com/product/the-vols-tennessee-volunteers-mascot-otx-t-shirt/",
-    "https://legendusashirt.com/product/the-republic-report-joshua-cummins-and-jon-goble-t-shirt/",
-    "https://legendusashirt.com/product/the-life-of-showboy-kansas-city-t-shirt/",
-    "https://legendusashirt.com/product/the-cocks-south-carolina-gamecocks-mascot-otx-t-shirt/",
-    "https://legendusashirt.com/product/spindlehorse-mob-life-t-shirt/",
-    "https://legendusashirt.com/product/starset-ad-astra-infinitum-t-shirt/"
+    "https://legendusashirt.com/product/yellowcard-better-days-co-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/ohio-state-buckeyes-team-jesus-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/preventa-camiseta-campeones-zona-norte-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/noah-kahan-cape-elizabeth-i-wanna-go-to-maine-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/my-chemical-romance-2025-tour-i-love-billys-sons-band-two-sided-t-shirt-2/",
+    "https://legendusashirt.com/product/mississippi-state-football-starkville-vs-everybody-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/lsu-football-i-would-like-to-solve-the-puzzle-logo-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/lewis-capaldi-uk-ire-tour-2025-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/how-about-them-sooners-oklahoma-beat-michigan-24-13-2025-two-sided-t-shirt/",
+    "https://legendusashirt.com/product/im-the-problem-tour-25-torontoon-mg-two-sided-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/oasis-live-25-toronto-rogers-stadium-2025-shirt/",
-    "https://teehandus.com/product/oasis-live-25-dublin-shirt/",
-    "https://teehandus.com/product/nickel-silver-vinyl-lizard-chemistry-shirt/",
-    "https://teehandus.com/product/nacho-average-dad-corny-cheesy-and-proud-shirt/",
-    "https://teehandus.com/product/muscle-car-bodybuilder-explosion-hemorrhoid-conqueror-shirt/",
-    "https://teehandus.com/product/mother-should-trust-the-government-shirt/",
-    "https://teehandus.com/product/lynn-benfield-vintage-portrait-collage-shirt/",
-    "https://teehandus.com/product/luke-baldwin-season-7-vr-shirt/",
-    "https://teehandus.com/product/let-creative-juices-flow-shirt/",
-    "https://teehandus.com/product/la-dispute-shirt/"
+    "https://teehandus.com/product/carmelo-anthony-denver-nuggets-nba-ultimate-player-gold-shirt/",
+    "https://teehandus.com/product/carmelo-anthony-new-york-knicks-nba-ultimate-player-shirt/",
+    "https://teehandus.com/product/carmelo-anthony-denver-nuggets-rookie-photo-name-and-number-shirt/",
+    "https://teehandus.com/product/detroit-lions-hws-height-weight-speed-shirt/",
+    "https://teehandus.com/product/luke-baldwin-smart-modified-tour-champion-24-shirt/",
+    "https://teehandus.com/product/miles-davis-kind-of-blue-so-what-freddie-freeloader-shirt/",
+    "https://teehandus.com/product/qb1-underwhelming-s12-m-shirt/",
+    "https://teehandus.com/product/travis-kelce-kansas-city-chiefs-oitenta-e-sete-shirt/",
+    "https://teehandus.com/product/west-virginia-mountaineers-throwback-retro-badge-script-shirt/",
+    "https://teehandus.com/product/us-navy-welcome-to-annapolis-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/e-eosso-davide-tardozzi-shirt/"
@@ -183,16 +190,16 @@
     "https://clickoneshirt.com/product/san-francisco-49ers-vs-seattle-seahawks-2025-week-one-nfl-graphic-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/young-nola-spikes-joint-1619-t-shirts/",
-    "https://teleteeshirt.com/product/young-mars-brooklyn-spikes-joint-t-shirts/",
-    "https://teleteeshirt.com/product/the-doors-american-poet-jim-morrison-1943-1971-t-shirts/",
-    "https://teleteeshirt.com/product/spikes-joint-bridge-walk-crooklyn-t-shirts/",
-    "https://teleteeshirt.com/product/selah-isnt-god-the-greatest-t-shirts/",
-    "https://teleteeshirt.com/product/shoot-from-the-hip-im-entering-the-astral-plane-t-shirts/",
-    "https://teleteeshirt.com/product/selah-glory-to-god-in-the-highest-t-shirts/",
-    "https://teleteeshirt.com/product/selah-cross-training-t-shirts-2/",
-    "https://teleteeshirt.com/product/selah-believe-in-miracles-t-shirts/",
-    "https://teleteeshirt.com/product/official-ohsees-mace-t-shirts/"
+    "https://teleteeshirt.com/product/the-offspring-at-ball-arena-in-denver-co-on-september-7-2025-skeleton-eye-t-shirts/",
+    "https://teleteeshirt.com/product/the-hu-wolf-circle-emblem-2025-tour-t-shirts/",
+    "https://teleteeshirt.com/product/texas-am-aggies-vs-all-yall-tamu-takeover-lsu-tigers-texas-longhorns-arkansas-razorbacks-mascots-t-shirts/",
+    "https://teleteeshirt.com/product/tesla-years-of-1981-2026-thank-you-for-the-memories-signatures-t-shirts/",
+    "https://teleteeshirt.com/product/sierra-ferrell-heavy-petal-music-red-rocks-amphitheatre-september-7-2025-the-anthem-washington-dc-t-shirts/",
+    "https://teleteeshirt.com/product/snoopy-the-peanuts-just-a-woman-who-loves-fall-and-georgia-bulldogs-walking-t-shirts/",
+    "https://teleteeshirt.com/product/rutgers-scarlet-knights-sir-henry-mascot-head-t-shirts/",
+    "https://teleteeshirt.com/product/reliqa-strike-t-shirts/",
+    "https://teleteeshirt.com/product/powerwolf-september-7-2025-blood-moon-total-lunar-eclipse-fitting-night-for-the-wolves-to-rise-t-shirts/",
+    "https://teleteeshirt.com/product/philadelphia-phillies-cruella-da-phil-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/dallas-cowboys-football-skull-vintage-shirt/",
