@@ -12,16 +12,16 @@
     "https://geekteesus.com/product/rip-giorgio-armani-1934-2025-portrait-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/dak-sapt-first-shirt/",
-    "https://techteesusa.com/product/buckle-up-ohio-state-buckeyes-shirt/",
-    "https://techteesusa.com/product/dallas-suck-philadelphia-eagles-claws-shirt/",
-    "https://techteesusa.com/product/buffalo-bills-i-cleaned-it-up-bal-vs-buf-shirt/",
-    "https://techteesusa.com/product/destiny-is-calling-me-mr-brightside-88-dawson-knox-buffalo-bills-shirt/",
-    "https://techteesusa.com/product/booing-is-my-love-language-shirt/",
-    "https://techteesusa.com/product/allen-iverson-a-i-is-coming-for-your-job-shirt/",
-    "https://techteesusa.com/product/im-all-the-bad-guys-shirt/",
-    "https://techteesusa.com/product/franklin-d-roosevelt-the-presidential-chronicles-shirt/",
-    "https://techteesusa.com/product/roll-for-panic-attack-shirt/"
+    "https://techteesusa.com/product/you-gotta-billieve-buffalo-bills-beat-baltimore-ravens-shirt/",
+    "https://techteesusa.com/product/wnba-pay-kyle-schwarber-wehat-he-is-owed-shirt/",
+    "https://techteesusa.com/product/washington-nationals-davey-johnson-1943-2025-shirt/",
+    "https://techteesusa.com/product/washington-commanders-ring-of-fame-shirt/",
+    "https://techteesusa.com/product/washington-commanders-deebo-samuel-1-raise-hail-shirt/",
+    "https://techteesusa.com/product/toppers-platoon-philadelphia-phillies-shirt/",
+    "https://techteesusa.com/product/the-washing-commanders-take-control-of-the-new-york-giants-shirt/",
+    "https://techteesusa.com/product/the-sugar-edwin-diaz-shoe-game-neon-shirt/",
+    "https://techteesusa.com/product/the-philadelphia-eagles-spit-out-their-first-win-of-the-season-defeat-dallas-cowboys-shirt/",
+    "https://techteesusa.com/product/the-san-francisco-49ers-fly-home-with-a-win-beat-seattle-seahawks-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/circle-the-wagons-oklahoma-sooners-shirt/",
@@ -141,19 +141,15 @@
     "https://legendusashirt.com/product/starset-ad-astra-infinitum-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/zombie-vampire-mummy-werewolf-frankenstein-summerween-world-tour-2025-shirt/",
-    "https://teehandus.com/product/zombie-shift-survivor-nurse-halloween-shirt/",
-    "https://teehandus.com/product/zach-bryan-quittin-time-tour-2025-silhouette-shirt/",
-    "https://teehandus.com/product/witchy-pumpkin-black-cat-halloween-vintage-shirt/",
-    "https://teehandus.com/product/witch-please-im-on-island-time-shirt/",
-    "https://teehandus.com/product/wednesday-girls-poster-shirt/",
-    "https://teehandus.com/product/we-do-not-care-club-dragoncon-chapter-shirt/",
-    "https://teehandus.com/product/washington-ring-of-fame-santana-moss-cowboy-killa-signature-shirt/",
-    "https://teehandus.com/product/washington-commanders-raise-hail-names-shirt/",
-    "https://teehandus.com/product/virginia-tech-hokies-colosseum-oht-military-shirt/"
+    "https://teehandus.com/product/dragon-con-blood-donor-shirt/",
+    "https://teehandus.com/product/do-you-even-lift-shirt/",
+    "https://teehandus.com/product/cigarettes-and-alcohol-cats-shirt/",
+    "https://teehandus.com/product/brennan-lee-mulligan-retro-shirt/",
+    "https://teehandus.com/product/asking-alexandria-we-wont-stop-until-we-burn-this-to-the-ground-shirt/",
+    "https://teehandus.com/product/children-of-the-trails-shirt/"
   ],
   "thefunnyt.com": [
-    "https://thefunnyt.com/product/pat-murphy-pocket-quesadillas-shirt/"
+    "https://thefunnyt.com/product/e-eosso-davide-tardozzi-shirt/"
   ],
   "uscraftedtees.com": [
     "https://uscraftedtees.com/product/original-half-moon-bay-jerrys-middle-finger-2025-poster-t-shirts/",
@@ -192,16 +188,16 @@
     "https://clickoneshirt.com/product/san-francisco-49ers-vs-seattle-seahawks-2025-week-one-nfl-graphic-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/the-psyop-you-wanna-join-the-military-so-bad-t-shirts/",
-    "https://teleteeshirt.com/product/pittsburgh-steelers-our-kicker-is-a-serial-killer-t-shirts/",
-    "https://teleteeshirt.com/product/pink-floyd-pompeii-t-shirts-2/",
-    "https://teleteeshirt.com/product/pendulum-uk-eu-2025-tour-dates-t-shirts/",
-    "https://teleteeshirt.com/product/pat-murphy-pocket-quesadillas-the-man-likes-his-snacks-t-shirts/",
-    "https://teleteeshirt.com/product/my-chemical-romance-tree-t-shirts/",
-    "https://teleteeshirt.com/product/my-chemical-romance-salem-witch-trials-t-shirts/",
-    "https://teleteeshirt.com/product/miami-dolphins-the-greatest-show-on-surf-t-shirts-2/",
-    "https://teleteeshirt.com/product/meat-rubber-t-shirts/",
-    "https://teleteeshirt.com/product/maxx-crosby-and-geno-smith-step-brothers-t-shirt/"
+    "https://teleteeshirt.com/product/young-nola-spikes-joint-1619-t-shirts/",
+    "https://teleteeshirt.com/product/young-mars-brooklyn-spikes-joint-t-shirts/",
+    "https://teleteeshirt.com/product/the-doors-american-poet-jim-morrison-1943-1971-t-shirts/",
+    "https://teleteeshirt.com/product/spikes-joint-bridge-walk-crooklyn-t-shirts/",
+    "https://teleteeshirt.com/product/selah-isnt-god-the-greatest-t-shirts/",
+    "https://teleteeshirt.com/product/shoot-from-the-hip-im-entering-the-astral-plane-t-shirts/",
+    "https://teleteeshirt.com/product/selah-glory-to-god-in-the-highest-t-shirts/",
+    "https://teleteeshirt.com/product/selah-cross-training-t-shirts-2/",
+    "https://teleteeshirt.com/product/selah-believe-in-miracles-t-shirts/",
+    "https://teleteeshirt.com/product/official-ohsees-mace-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/dallas-cowboys-football-skull-vintage-shirt/",
