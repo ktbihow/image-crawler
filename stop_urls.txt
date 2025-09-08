@@ -12,14 +12,16 @@
     "https://geekteesus.com/product/rip-giorgio-armani-1934-2025-portrait-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/cal-reinagine-the-path-sdsu-shirt/",
-    "https://techteesusa.com/product/fact-85-percent-of-monster-disasters-are-a-direct-result-of-capitalism-shirt/",
-    "https://techteesusa.com/product/nicki-minaj-spotify-aint-gotta-lie-they-really-streamin-my-music-shirt/",
-    "https://techteesusa.com/product/ice-intense-chest-exerciser-shirt/",
-    "https://techteesusa.com/product/youre-killin-me-smalls-atlanta-braves-x-the-sandlot-shirt/",
-    "https://techteesusa.com/product/cowboy-carter-beyonce-rodeo-chitlin-circuit-tour-2025-signature-shirt/",
-    "https://techteesusa.com/product/fck-ice-shirt/",
-    "https://techteesusa.com/product/whats-up-punk-bunny-shirt/"
+    "https://techteesusa.com/product/blacksky-algorithms-original-risk-taker-shirt/",
+    "https://techteesusa.com/product/death-rosenstock-says-no-shirt/",
+    "https://techteesusa.com/product/captain-america-the-winter-soldier-infinity-saga-shirt/",
+    "https://techteesusa.com/product/brill-bruisers-shirt/",
+    "https://techteesusa.com/product/detroit-tigers-baseball-skyline-shirt/",
+    "https://techteesusa.com/product/bisexual-fafo-shirt/",
+    "https://techteesusa.com/product/all-canines-are-beautiful-dog-shirt/",
+    "https://techteesusa.com/product/zilla-godzilla-shoe-shirt/",
+    "https://techteesusa.com/product/unionize-weirdly-shirt/",
+    "https://techteesusa.com/product/tragic-lovers-leather-dad-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/circle-the-wagons-oklahoma-sooners-shirt/",
@@ -103,16 +105,16 @@
     "https://nowbestshirt.com/product/if-they-aint-with-houston-texans-us-vs-the-world-tour-2-sided-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/i-love-jesus-but-i-cuss-a-little-shirt/",
-    "https://serenashirt.com/product/its-ok-not-to-be-ok-shirt/",
-    "https://serenashirt.com/product/proud-little-american-shirt/",
-    "https://serenashirt.com/product/pennywise-it-the-master-of-horror-unleashed-everything-you-were-ever-afraid-of-shirt/",
-    "https://serenashirt.com/product/im-not-a-normal-woman-im-a-witch-under-a-moon-that-never-obeys-shirt/",
-    "https://serenashirt.com/product/breaking-news-im-the-favorite-child-shirt/",
-    "https://serenashirt.com/product/salt-standing-against-legalized-tyranny-shirt/",
-    "https://serenashirt.com/product/more-park-rangers-fewer-billionaires-shirt/",
-    "https://serenashirt.com/product/my-cat-said-youre-a-bitch-shirt/",
-    "https://serenashirt.com/product/the-day-the-cried-shirt/"
+    "https://serenashirt.com/product/not-friendly-do-not-touch-shirt/",
+    "https://serenashirt.com/product/bear-everything-will-be-ok-when-the-worms-eat-my-body-shirt/",
+    "https://serenashirt.com/product/smoking-cat-meme-funny-shirt/",
+    "https://serenashirt.com/product/the-real-g-spot-guinness-beer-shirt/",
+    "https://serenashirt.com/product/less-hate-more-tacos-shirt/",
+    "https://serenashirt.com/product/frog-let-me-be-weird-in-peace-shirt/",
+    "https://serenashirt.com/product/cher-guevarra-photo-shirt/",
+    "https://serenashirt.com/product/spit-in-my-mouth-spirit-halloween-shirt/",
+    "https://serenashirt.com/product/connect-everything-shirt/",
+    "https://serenashirt.com/product/most-racist-elf-girl-alive-shirt/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/vintage-robert-crumb-twas-ever-thus-says-mr-natural-graphic-shirt/",
@@ -166,16 +168,12 @@
     "https://uscraftedtees.com/product/original-brooks-nielsen-9-6-2025-fox-theater-in-boulder-co-poster-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/wednesday-enid-thing-im-a-spooky-girl-in-spooky-world-barbie-shirt/",
-    "https://capitoneshirt.com/product/zero-the-nightmare-before-christmas-fucks-given-shirt/",
-    "https://capitoneshirt.com/product/tortoise-dont-tread-on-me-save-florida-parks-shirt/",
-    "https://capitoneshirt.com/product/universal-studios-halloween-horror-characters-nights-shirt/",
-    "https://capitoneshirt.com/product/thats-that-me-lexapro-shirt/",
-    "https://capitoneshirt.com/product/star-wars-groot-cartoon-halloween-shirt/",
-    "https://capitoneshirt.com/product/skeleton-opinions-on-how-im-supposed-to-live-my-life-shirt/",
-    "https://capitoneshirt.com/product/salem-book-club-moonlit-meetings-in-the-witching-hour-halloween-shirt/",
-    "https://capitoneshirt.com/product/pumpkin-scream-ghostface-barbie-box-halloween-shirt/",
-    "https://capitoneshirt.com/product/oatmeal-creme-pies-little-debbie-shirt/"
+    "https://capitoneshirt.com/product/florida-state-seminoles-2025-rolled-the-tide-score-2-sided-shirt/",
+    "https://capitoneshirt.com/product/colts-for-the-boss-jim-irsay-signature-2-sided-shirt/",
+    "https://capitoneshirt.com/product/colorado-state-football-today-we-play-the-ram-way-2-sided-shirt/",
+    "https://capitoneshirt.com/product/alabama-crimson-tide-lack-two-sided-shirt/",
+    "https://capitoneshirt.com/product/alabama-crimson-tide-roll-tide-willie-2-sided-shirt/",
+    "https://capitoneshirt.com/product/alabama-crimson-tide-your-fight-is-our-fight-breast-cancer-2-sided-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/wyoming-cowboys-girl-messy-bun-glasses-shirt/",
