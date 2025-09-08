@@ -12,16 +12,16 @@
     "https://geekteesus.com/product/rip-giorgio-armani-1934-2025-portrait-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/give-nazis-a-platform-shirt/",
-    "https://techteesusa.com/product/what-the-frell-farscape-shirt/",
-    "https://techteesusa.com/product/these-pretzels-are-making-me-thirsty-x-seinfeld-shirt/",
-    "https://techteesusa.com/product/these-pretzels-are-making-me-thirsty-shirt/",
-    "https://techteesusa.com/product/the-simpsons-treehouse-of-horror-shirt/",
-    "https://techteesusa.com/product/the-rock-face-parody-shirt/",
-    "https://techteesusa.com/product/the-mortal-bunch-x-the-brady-bunch-shirt/",
-    "https://techteesusa.com/product/the-mandalorian-hunter-and-the-baby-x-the-adventures-of-tyrion-and-bronn-parody-shirt/",
-    "https://techteesusa.com/product/that-sounds-like-a-terrible-idea-count-me-in-shirt/",
-    "https://techteesusa.com/product/see-things-differently-owl-shirt/"
+    "https://techteesusa.com/product/dak-sapt-first-shirt/",
+    "https://techteesusa.com/product/buckle-up-ohio-state-buckeyes-shirt/",
+    "https://techteesusa.com/product/dallas-suck-philadelphia-eagles-claws-shirt/",
+    "https://techteesusa.com/product/buffalo-bills-i-cleaned-it-up-bal-vs-buf-shirt/",
+    "https://techteesusa.com/product/destiny-is-calling-me-mr-brightside-88-dawson-knox-buffalo-bills-shirt/",
+    "https://techteesusa.com/product/booing-is-my-love-language-shirt/",
+    "https://techteesusa.com/product/allen-iverson-a-i-is-coming-for-your-job-shirt/",
+    "https://techteesusa.com/product/im-all-the-bad-guys-shirt/",
+    "https://techteesusa.com/product/franklin-d-roosevelt-the-presidential-chronicles-shirt/",
+    "https://techteesusa.com/product/roll-for-panic-attack-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/circle-the-wagons-oklahoma-sooners-shirt/",
@@ -36,16 +36,16 @@
     "https://teeworksusa.com/product/hook-em-horns-ricky-williams-texas-longhorns-shirt/"
   ],
   "meredpremium.com": [
-    "https://meredpremium.com/product/official-nike-colts-x-jim-irsay-shirt/",
-    "https://meredpremium.com/product/official-nfl-lions-4th-down-and-fuck-it-shirt/",
-    "https://meredpremium.com/product/official-mizzou-rah-missouri-tigers-42-31-kansas-jayhawks-score-shirt/",
-    "https://meredpremium.com/product/official-mivp-the-conversation-starter-shirt/",
-    "https://meredpremium.com/product/official-missouri-tigers-vs-kansas-jayhawks-2025-gameday-score-t-shirt/",
-    "https://meredpremium.com/product/official-miles-college-vs-virginia-union-2025-clash-at-the-classic-football-shirt/",
-    "https://meredpremium.com/product/official-mike-tomlin-our-kicker-is-a-serial-killer-shirt/",
-    "https://meredpremium.com/product/official-lsu-vs-florida-game-day-september-13th-2025-t-shirt/",
-    "https://meredpremium.com/product/official-lsu-tigers-i-would-like-to-solve-the-puzzle-anti-clemson-shirt/",
-    "https://meredpremium.com/product/official-just-a-woman-who-loves-fall-and-georgia-bulldogs-x-the-peanuts-walking-shirt/"
+    "https://meredpremium.com/product/official-zach-bryan-2025-09-06-events-experience-notre-dame-shirt/",
+    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-greatness-pittsburgh-steelers-players-shirt/",
+    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-greatness-san-francisco-49ers-players-shirt/",
+    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-greatness-las-vegas-raiders-players-shirt/",
+    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-greatness-green-bay-packers-players-shirt/",
+    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-greatness-dallas-cowboys-players-shirt/",
+    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-greatness-buffalo-bills-players-shirt/",
+    "https://meredpremium.com/product/official-this-is-how-we-beat-michigan-wolverines-2025-oklahoma-24-13-michigan-shirt/",
+    "https://meredpremium.com/product/official-this-is-my-philly-karen-halloween-shirt/",
+    "https://meredpremium.com/product/official-statement-made-south-florida-bulls-18-16-florida-gators-score-t-shirt/"
   ],
   "berrylittles.com": [
     "https://berrylittles.com/product/official-carlos-alcaraz-dominant-tournament-us-open-champions-2022-2025-poster-t-shirt/",
@@ -57,16 +57,16 @@
     "https://berrylittles.com/product/official-the-who-september-7-9-2025-the-song-is-over-the-north-american-farewell-tour-chicago-poster-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-los-angeles-rams-matthew-stafford-60000-career-passing-yards-signature-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-los-angeles-rams-win-houston-texans-final-score-14-9-september-7-2024-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-jacob-tyler-new-york-jets-vs-pittsburgh-steelers-at-metlife-stadium-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-southeast-polk-hoco-25-they-not-like-us-football-class-5a-2012-2024-helmet-t-shirt/",
-    "https://dreameshirt.com/product/official-becky-hammon-wearing-mivp-the-conversation-starter-new-t-shirt/",
-    "https://dreameshirt.com/product/official-kinda-fit-kinda-fat-making-gainz-both-ways-est-2017-graphic-t-shirt/",
-    "https://dreameshirt.com/product/official-oklahoma-sooners-vs-michigan-wolverines-boomer-sooner-9-6-2025-score-24-13-t-shirt/",
-    "https://dreameshirt.com/product/official-the-devil-went-down-to-starkville-and-left-a-loser-mississippi-state-bulldogs-defeats-arizona-state-sun-devils-t-shirt/",
-    "https://dreameshirt.com/product/official-santana-moss-washington-commanders-nfl-football-retired-player-classic-caricature-signature-t-shirt/",
-    "https://dreameshirt.com/product/official-billy-strings-and-bryan-sutton-with-royal-masat-on-tour-september-2025-11-12-boone-nc-poster-t-shirt/"
+    "https://dreameshirt.com/product/official-tennessee-titans-vs-denver-broncos-at-mile-high-season-kickoff-september-7-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-san-francisco-49ers-win-seattle-seahawks-2025-nfl-season-kickoff-forever-faithful-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-f1-max-victory-at-round-16-2025-italian-grand-prix-at-monza-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-rory-mcilroy-victory-at-the-amgen-irish-open-dp-world-tour-signature-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-pittsburgh-steelers-tomlinisms-the-standard-is-the-standard-iron-sharpens-iron-we-dont-live-in-our-fears-t-shirt/",
+    "https://dreameshirt.com/product/official-my-precious-i-see-no-differences-philadelphia-phillies-mlb-meme-t-shirt/",
+    "https://dreameshirt.com/product/official-mississippi-state-bulldogs-vs-arizona-state-score-24-20-starkville-vs-everybody-game-2-hotel-hail-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-las-vegas-raiders-win-new-england-patriots-2025-2026-raiders-were-coming-painting-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-just-bill-jacory-croskey-merritt-washington-commanders-nfl-football-caricature-t-shirt/",
+    "https://dreameshirt.com/product/official-jayden-daniels-washington-commanders-vs-new-york-giants-final-score-21-6-fox-nfl-poster-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/official-wyatt-flores-tour-boise-id-09-07-2025-shirt/",
@@ -117,16 +117,16 @@
     "https://serenashirt.com/product/chicago-cubs-sammy-sosa-fila-21-baseball-shirt/"
   ],
   "fanaticity.com": [
-    "https://fanaticity.com/product/your-wide-behind-wont-save-you-this-time-shirt/",
-    "https://fanaticity.com/product/woody-cowboy-disney-toy-story-shirt/",
-    "https://fanaticity.com/product/will-run-my-mouth-ringer-shirt/",
-    "https://fanaticity.com/product/wednesday-girls-poster-shirt/",
-    "https://fanaticity.com/product/waylon-jennings-dont-be-nobody-else-but-you-shirt/",
-    "https://fanaticity.com/product/washington-commanders-him-another-word-to-describe-jayden-daniels-shirt/",
-    "https://fanaticity.com/product/travis-kelce-smacked-by-chargers-shirt/",
-    "https://fanaticity.com/product/travis-kelce-oitenta-e-sete-1960-shirt/",
-    "https://fanaticity.com/product/the-austin-chronicle-hot-sauce-festival-2025-shirt/",
-    "https://fanaticity.com/product/that-was-in-my-hands-phillies-karen-meme-shirt/"
+    "https://fanaticity.com/product/vintage-robert-crumb-twas-ever-thus-says-mr-natural-graphic-shirt/",
+    "https://fanaticity.com/product/union-peak-festival-sept-5-6-2025-various-venues-in-copper-mountain-co-poster-shirt/",
+    "https://fanaticity.com/product/trumpkin-spice-and-everything-ice-liberal-fall-halloween-shirt/",
+    "https://fanaticity.com/product/trains-pumpkin-halloween-shirt/",
+    "https://fanaticity.com/product/the-teskey-brothers-sep-29-2025-pappy-harriets-indoor-stage-pioneertown-ca-poster-shirt/",
+    "https://fanaticity.com/product/the-offspring-west-valley-city-ut-utah-first-credit-union-amphitheatre-september-6-2025-tour-poster-shirt/",
+    "https://fanaticity.com/product/the-cabinet-of-dr-caligari-classic-horror-graphic-shirt/",
+    "https://fanaticity.com/product/tedeschi-trucks-band-mansfield-ma-tour-06-sep-2025-xfinity-center-mansfield-ma-poster-shirt/",
+    "https://fanaticity.com/product/suwannee-hulaween-2025-spirit-of-the-suwannee-music-park-oct-30-nov-2-2025-poster-shirt/",
+    "https://fanaticity.com/product/still-cant-beat-michigan-baseball-shirt/"
   ],
   "legendusashirt.com": [
     "https://legendusashirt.com/product/witch-we-intend-to-cause-havoc-san-francisco-ca-sep-06-2025-t-shirt/",
@@ -153,9 +153,7 @@
     "https://teehandus.com/product/virginia-tech-hokies-colosseum-oht-military-shirt/"
   ],
   "thefunnyt.com": [
-    "https://thefunnyt.com/product/chargers-player-slapped-travis-kelce-in-the-face-shirt/",
-    "https://thefunnyt.com/product/the-devil-went-down-to-starkville-and-left-a-loser-shirt/",
-    "https://thefunnyt.com/product/ball-is-not-a-state-shirt/"
+    "https://thefunnyt.com/product/pat-murphy-pocket-quesadillas-shirt/"
   ],
   "uscraftedtees.com": [
     "https://uscraftedtees.com/product/original-half-moon-bay-jerrys-middle-finger-2025-poster-t-shirts/",
@@ -206,15 +204,15 @@
     "https://teleteeshirt.com/product/maxx-crosby-and-geno-smith-step-brothers-t-shirt/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/the-ralph-thank-you-for-the-memories-1973-2025-buffalo-bills-shirt/",
-    "https://teeslocal.com/product/the-ralph-farewell-tour-stadium-orchard-park-ny-where-else-would-you-rather-be-buffalo-football-shirt/",
-    "https://teeslocal.com/product/the-farewell-stadium-tour-rich-ralph-new-era-highmark-1973-2025-shirt/",
-    "https://teeslocal.com/product/skeleton-floral-ribcage-pumpkins-spooky-season-halloween-shirt/",
-    "https://teeslocal.com/product/ralph-wilson-stadium-farewell-ride-1973-2025-iconic-style-retro-shirt/",
-    "https://teeslocal.com/product/phillies-karen-x-mr-burns-point-home-run-theft-funy-shirt/",
-    "https://teeslocal.com/product/phillies-karen-home-run-that-dall-lampte-noan-me-yo-tuntmfuon-dat-ha-demians-efay-shirt/",
-    "https://teeslocal.com/product/mr-brightside-buffalo-bills-football-nfl-art-shirt/",
-    "https://teeslocal.com/product/preppy-ghost-boo-leopard-spooky-coquette-happy-halloween-shirt/",
-    "https://teeslocal.com/product/labubu-holding-go-bill-flag-hey-ey-ey-ey-let_s-go-buffalo-shirt/"
+    "https://teeslocal.com/product/dallas-cowboys-football-skull-vintage-shirt/",
+    "https://teeslocal.com/product/buffalo-bills-b-lo-logo-winter-2025-shirt/",
+    "https://teeslocal.com/product/king-henry-derrick-henry-baltimore-football-shirt/",
+    "https://teeslocal.com/product/jordan-love-micah-parsons-2025-presidents-shirt/",
+    "https://teeslocal.com/product/lady-gaga-mayhem-ball-world-tour-little-monsters-skeleton-shirt/",
+    "https://teeslocal.com/product/lady-gaga-the-mayhem-ball-tour-date-2025-shirt/",
+    "https://teeslocal.com/product/peace-love-and-touchdowns-green-bay-jordan-love-football-shirt/",
+    "https://teeslocal.com/product/three-days-grace-breaking-benjamin-90s-vintage-shirt/",
+    "https://teeslocal.com/product/three-days-grace-breaking-benjamin-with-return-to-dust-shirt/",
+    "https://teeslocal.com/product/twenty-one-pilots-breach-tour-2025-shirt/"
   ]
 }
