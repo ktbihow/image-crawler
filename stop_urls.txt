@@ -172,24 +172,28 @@
     "https://capitoneshirt.com/product/snow-removal-team-we-leave-no-trace-behind-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/queensland-bulls-benson-and-hedges-sheffield-shield-champion-shirt/",
-    "https://clickoneshirt.com/product/vanguards-most-wanted-we-expect-exotic-drops-clan-shirt/",
-    "https://clickoneshirt.com/product/horse-almost-forgot-its-all-for-fun-shirt/",
-    "https://clickoneshirt.com/product/im-spiraling-shirt/",
-    "https://clickoneshirt.com/product/qb1-underwhelming-12m-shirt/",
-    "https://clickoneshirt.com/product/trevor-etienne-and-travis-etienne-jr-nfl-etienne-1-23-shirt/"
+    "https://clickoneshirt.com/product/washington-commanders-x-cobra-g-i-joe-shirt/",
+    "https://clickoneshirt.com/product/virginia-tech-hokies-blacksburg-fighting-gobblers-1872-mascot-shirt/",
+    "https://clickoneshirt.com/product/unplug-your-carbon-monoxide-detector-sarcastic-shirt/",
+    "https://clickoneshirt.com/product/tommy-devito-hand-gesture-celebration-shirt/",
+    "https://clickoneshirt.com/product/tampa-bay-buccaneers-vs-atlanta-falcons-season-opener-2025-comic-shirt/",
+    "https://clickoneshirt.com/product/tampa-bay-buccaneers-vs-atlanta-falcons-football-lover-graphic-shirt/",
+    "https://clickoneshirt.com/product/spongebomb-squarepants-animation-parody-shirt/",
+    "https://clickoneshirt.com/product/soecial-agent-zero-powherpuff-girls-cartoon-character-twinkle-shirt/",
+    "https://clickoneshirt.com/product/scooby-jew-doo-and-shaggy-rogers-parody-cartoon-character-shirt/",
+    "https://clickoneshirt.com/product/san-francisco-49ers-vs-seattle-seahawks-week-1-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/joe-bonamassa-blues-mad-hatter-t-shirts/",
-    "https://teleteeshirt.com/product/holy-sinner-god-bless-the-sinners-club-sunfaded-t-shirts/",
-    "https://teleteeshirt.com/product/genesis-nursery-cryme-t-shirts/",
-    "https://teleteeshirt.com/product/freddie-mercury-freddie-crown-t-shirts/",
-    "https://teleteeshirt.com/product/flaming-pan-metropolitan-and-gourmet-t-shirts/",
-    "https://teleteeshirt.com/product/farm-aid-2024-wood-cut-guitar-t-shirts/",
-    "https://teleteeshirt.com/product/farm-aid-2023-september-noblesville-indiana-festival-logo-t-shirts/",
-    "https://teleteeshirt.com/product/farm-aid-2023-noblesville-indiana-waterways-guitar-t-shirts/",
-    "https://teleteeshirt.com/product/farm-aid-2022-raleigh-nc-guitar-vines-t-shirts/",
-    "https://teleteeshirt.com/product/farm-aid-2021-september-25-hartford-ct-concert-logo-t-shirts/"
+    "https://teleteeshirt.com/product/the-red-clay-strays-concert-sept-07-2025-saint-louis-music-park-t-shirts/",
+    "https://teleteeshirt.com/product/tennessee-volunteers-college-gameday-live-from-knoxville-tn-sept-13-2025-t-shirts/",
+    "https://teleteeshirt.com/product/south-florida-bulls-vs-florida-gators-2025-score-statement-made-t-shirts/",
+    "https://teleteeshirt.com/product/sample-industries-rodeo-t-shirts/",
+    "https://teleteeshirt.com/product/max-diaz-fall-tour-2025-dates-t-shirts/",
+    "https://teleteeshirt.com/product/philadelphia-eagles-flip-the-birds-philly-t-shirts/",
+    "https://teleteeshirt.com/product/jesse-malin-silver-manhattan-new-york-city-tour-2025-t-shirts/",
+    "https://teleteeshirt.com/product/dj-hybrid-eat-sleep-jungle-tour-dates-japan-thailand-nz-aus-2025-t-shirts/",
+    "https://teleteeshirt.com/product/laura-farms-dirty-dually-4020-t-shirts/",
+    "https://teleteeshirt.com/product/blackcraft-cult-create-your-own-future-manifest-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/we-do-not-care-club-dragoncon-chapter-shirt/",
