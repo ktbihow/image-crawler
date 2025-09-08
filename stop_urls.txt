@@ -12,16 +12,7 @@
     "https://geekteesus.com/product/rip-giorgio-armani-1934-2025-portrait-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/you-gotta-billieve-buffalo-bills-beat-baltimore-ravens-shirt/",
-    "https://techteesusa.com/product/wnba-pay-kyle-schwarber-wehat-he-is-owed-shirt/",
-    "https://techteesusa.com/product/washington-nationals-davey-johnson-1943-2025-shirt/",
-    "https://techteesusa.com/product/washington-commanders-ring-of-fame-shirt/",
-    "https://techteesusa.com/product/washington-commanders-deebo-samuel-1-raise-hail-shirt/",
-    "https://techteesusa.com/product/toppers-platoon-philadelphia-phillies-shirt/",
-    "https://techteesusa.com/product/the-washing-commanders-take-control-of-the-new-york-giants-shirt/",
-    "https://techteesusa.com/product/the-sugar-edwin-diaz-shoe-game-neon-shirt/",
-    "https://techteesusa.com/product/the-philadelphia-eagles-spit-out-their-first-win-of-the-season-defeat-dallas-cowboys-shirt/",
-    "https://techteesusa.com/product/the-san-francisco-49ers-fly-home-with-a-win-beat-seattle-seahawks-shirt/"
+    "https://techteesusa.com/product/nothing-really-dies-you-just-stop-experiencing-the-time-in-which-they-live-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/circle-the-wagons-oklahoma-sooners-shirt/",
@@ -141,12 +132,16 @@
     "https://legendusashirt.com/product/starset-ad-astra-infinitum-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/dragon-con-blood-donor-shirt/",
-    "https://teehandus.com/product/do-you-even-lift-shirt/",
-    "https://teehandus.com/product/cigarettes-and-alcohol-cats-shirt/",
-    "https://teehandus.com/product/brennan-lee-mulligan-retro-shirt/",
-    "https://teehandus.com/product/asking-alexandria-we-wont-stop-until-we-burn-this-to-the-ground-shirt/",
-    "https://teehandus.com/product/children-of-the-trails-shirt/"
+    "https://teehandus.com/product/oasis-live-25-toronto-rogers-stadium-2025-shirt/",
+    "https://teehandus.com/product/oasis-live-25-dublin-shirt/",
+    "https://teehandus.com/product/nickel-silver-vinyl-lizard-chemistry-shirt/",
+    "https://teehandus.com/product/nacho-average-dad-corny-cheesy-and-proud-shirt/",
+    "https://teehandus.com/product/muscle-car-bodybuilder-explosion-hemorrhoid-conqueror-shirt/",
+    "https://teehandus.com/product/mother-should-trust-the-government-shirt/",
+    "https://teehandus.com/product/lynn-benfield-vintage-portrait-collage-shirt/",
+    "https://teehandus.com/product/luke-baldwin-season-7-vr-shirt/",
+    "https://teehandus.com/product/let-creative-juices-flow-shirt/",
+    "https://teehandus.com/product/la-dispute-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/e-eosso-davide-tardozzi-shirt/"
