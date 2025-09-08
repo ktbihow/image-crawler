@@ -31,7 +31,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python crawler-image.py
 
-      # Thay đổi ở đây
+      # Các bước gửi log Telegram giữ nguyên
       - name: Send Log Content to Telegram
         if: always()
         env:
@@ -43,6 +43,42 @@ jobs:
           -d chat_id=$TELEGRAM_CHAT_ID \
           -d text="${LOG_CONTENT}" || echo "Lỗi khi gửi nội dung log!"
 
+      # ----- THAY ĐỔI BẮT ĐẦU TỪ ĐÂY -----
+
+      - name: Check for changes
+        id: check_changes # <-- Đặt ID cho bước này để tham chiếu output
+        run: |
+          git add *.txt
+          if ! git diff --staged --quiet; then
+            echo "Có thay đổi, tiến hành commit và trigger."
+            echo "changes_exist=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Không có thay đổi nào."
+            echo "changes_exist=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit & push results
+        # Chỉ chạy khi bước check_changes có output 'changes_exist=true'
+        if: success() && steps.check_changes.outputs.changes_exist == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update URLs [skip ci]"
+          git push
+
+      - name: Trigger generator workflow
+        # Chỉ chạy khi bước check_changes có output 'changes_exist=true'
+        if: success() && steps.check_changes.outputs.changes_exist == 'true'
+        run: |
+          curl -X POST \
+          -H "Authorization: token ${{ secrets.KTBHUB_PAT }}" \
+          -H "Accept: application/vnd.github.v3+json" \
+          https://api.github.com/repos/ktbhub/ktb-image/dispatches \
+          -d '{"event_type":"new_image_available"}'
+
+      # ----- KẾT THÚC THAY ĐỔI -----
+
+      # Các bước gửi tin nhắn thành công/thất bại giữ nguyên
       - name: Send Success Message to Telegram
         if: success()
         uses: appleboy/telegram-action@master
@@ -58,20 +94,3 @@ jobs:
           to: ${{ secrets.TELEGRAM_CHAT_ID }}
           token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           message: "❌ KTB Image Crawl - Fail."
-
-      - name: Commit & push results
-        if: success()
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add *.txt
-          git commit -m "Update URLs [skip ci]" || echo "No changes to commit"
-          git push
-      - name: Trigger generator workflow
-        if: success()
-        run: |
-          curl -X POST \
-          -H "Authorization: token ${{ secrets.KTBHUB_PAT }}" \
-          -H "Accept: application/vnd.github.v3+json" \
-          https://api.github.com/repos/ktbhub/ktb-image/dispatches \
-          -d '{"event_type":"new_image_available"}'
