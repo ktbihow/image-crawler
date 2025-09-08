@@ -31,7 +31,6 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python crawler-image.py
 
-      # Các bước gửi log Telegram giữ nguyên
       - name: Send Log Content to Telegram
         if: always()
         env:
@@ -39,14 +38,13 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           LOG_CONTENT=$(cat crawl-log.txt)
+          TRUNCATED_LOG=$(echo "$LOG_CONTENT" | head -c 4000)
           curl -s -X POST https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage \
           -d chat_id=$TELEGRAM_CHAT_ID \
-          -d text="${LOG_CONTENT}" || echo "Lỗi khi gửi nội dung log!"
-
-      # ----- THAY ĐỔI BẮT ĐẦU TỪ ĐÂY -----
+          -d text="${TRUNCATED_LOG}" || echo "Lỗi khi gửi nội dung log!"
 
       - name: Check for changes
-        id: check_changes # <-- Đặt ID cho bước này để tham chiếu output
+        id: check_changes
         run: |
           git add *.txt
           if ! git diff --staged --quiet; then
@@ -58,7 +56,6 @@ jobs:
           fi
 
       - name: Commit & push results
-        # Chỉ chạy khi bước check_changes có output 'changes_exist=true'
         if: success() && steps.check_changes.outputs.changes_exist == 'true'
         run: |
           git config user.name "github-actions[bot]"
@@ -66,26 +63,52 @@ jobs:
           git commit -m "Update URLs [skip ci]"
           git push
 
-      - name: Trigger generator workflow
-        # Chỉ chạy khi bước check_changes có output 'changes_exist=true'
+      # ----- BƯỚC KÍCH HOẠT ĐÃ ĐƯỢC THAY THẾ -----
+      - name: Check status and trigger generator workflow
         if: success() && steps.check_changes.outputs.changes_exist == 'true'
+        id: trigger_generator # Đặt ID để lấy output cho Telegram
+        env:
+          GH_TOKEN: ${{ secrets.KTBHUB_PAT }} # Sử dụng PAT cho repo ktb-image
+          TARGET_OWNER: 'ktbhub'
+          TARGET_REPO: 'ktb-image'
+          TARGET_WORKFLOW: 'auto-generate.yml' # <-- THAY TÊN FILE WORKFLOW CỦA REPO ĐÍCH
         run: |
-          curl -X POST \
-          -H "Authorization: token ${{ secrets.KTBHUB_PAT }}" \
-          -H "Accept: application/vnd.github.v3+json" \
-          https://api.github.com/repos/ktbhub/ktb-image/dispatches \
-          -d '{"event_type":"new_image_available"}'
+          echo "Checking status of '${TARGET_WORKFLOW}' in ${TARGET_OWNER}/${TARGET_REPO}..."
 
+          in_progress_runs=$(gh run list \
+            --repo "${TARGET_OWNER}/${TARGET_REPO}" \
+            --workflow "${TARGET_WORKFLOW}" \
+            --status "in_progress" \
+            --status "queued" \
+            --limit 1 \
+            --json databaseId)
+
+          if [[ "$in_progress_runs" != "[]" ]]; then
+            echo "Generator workflow is busy. Skipping trigger."
+            echo "triggered=skipped" >> "$GITHUB_OUTPUT"
+          else
+            echo "Generator workflow is idle. Triggering now..."
+            gh api \
+              --method POST \
+              -H "Accept: application/vnd.github+json" \
+              "/repos/${TARGET_OWNER}/${TARGET_REPO}/dispatches" \
+              -d '{"event_type":"new_image_available"}'
+            echo "Trigger dispatch sent."
+            echo "triggered=sent" >> "$GITHUB_OUTPUT"
+          fi
+      
       # ----- KẾT THÚC THAY ĐỔI -----
 
-      # Các bước gửi tin nhắn thành công/thất bại giữ nguyên
       - name: Send Success Message to Telegram
         if: success()
         uses: appleboy/telegram-action@master
         with:
           to: ${{ secrets.TELEGRAM_CHAT_ID }}
           token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          message: "✅ KTB Image Crawl - Done."
+          message: |
+            ✅ KTB Image Crawl - Done.
+            Changes detected: ${{ steps.check_changes.outputs.changes_exist }}
+            Generator trigger: ${{ steps.trigger_generator.outputs.triggered }}
 
       - name: Send Failure Message to Telegram
         if: failure()
