@@ -24,16 +24,16 @@
     "https://techteesusa.com/product/move-fast-and-break-chains-t-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/indiana-fever-2025-wnba-playoffs-shirt/",
-    "https://teeworksusa.com/product/jonas-brothers-september-6-2025-greetings-from-los-angeles-concert-tour-shirt/",
-    "https://teeworksusa.com/product/im-sorry-ms-jackson-i-am-four-eels-outkast-parody-funny-eels-men-in-trench-coat-shirt/",
-    "https://teeworksusa.com/product/i-squirt-on-juicy-wieners-funny-ketchup-hot-dog-wiener-shirt/",
-    "https://teeworksusa.com/product/horror-movie-characters-stalk-haunt-kill-hunt-halloween-hope-shirt/",
-    "https://teeworksusa.com/product/garbage-pail-kids-ball-hog-brenda-baseball-player-card-shirt/",
-    "https://teeworksusa.com/product/gm-bull-wearing-supreme-hoodie-and-pie-on-head-nft-shirt/",
-    "https://teeworksusa.com/product/football-is-a-contact-sport-graphic-shirt/",
-    "https://teeworksusa.com/product/east-nashville-tomato-garden-rabbit-shirt/",
-    "https://teeworksusa.com/product/east-nashville-tennessee-usa-37206-tomato-shirt/"
+    "https://teeworksusa.com/product/keep-calm-chicago-bear-down-2025-bear-wearing-beanie-shirt/",
+    "https://teeworksusa.com/product/its-me-and-my-4-hours-of-sleep-against-the-world-angry-skeleton-lightning-funny-shirt/",
+    "https://teeworksusa.com/product/keanu-btb-benton-pittsburgh-steelers-football-player-shirt/",
+    "https://teeworksusa.com/product/jacksonville-is-back-2025-jaguars-animal-wearing-hoodie-shirt/",
+    "https://teeworksusa.com/product/ill-blood-on-my-gore-tex-funny-gore-tex-pun-shirt/",
+    "https://teeworksusa.com/product/indianapolis-colts-in-honor-of-jim-for-the-boss-shirt/",
+    "https://teeworksusa.com/product/im-old-school-i-believe-in-respect-funny-mustache-man-sunglasses-shirt/",
+    "https://teeworksusa.com/product/i-live-for-battle-spartan-and-lion-fantasy-shirt/",
+    "https://teeworksusa.com/product/i-love-trump-because-he-pisses-off-the-people-shirt/",
+    "https://teeworksusa.com/product/hugo-bo22-ekitike-liverpool-soccer-football-player-funny-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-zach-bryan-2025-09-06-events-experience-notre-dame-shirt/",
@@ -172,28 +172,24 @@
     "https://capitoneshirt.com/product/snow-removal-team-we-leave-no-trace-behind-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/zoe-roarz-cant-get-right-shirt/",
-    "https://clickoneshirt.com/product/your-intuition-was-right-youre-crazy-shirt/",
-    "https://clickoneshirt.com/product/theyre-not-bad-at-texting-they-just-dont-like-you-shirt/",
-    "https://clickoneshirt.com/product/transformers-i-survived-byy-35-shirt/",
-    "https://clickoneshirt.com/product/try-solidarity-lavender-shirt/",
-    "https://clickoneshirt.com/product/you-can-overthink-about-the-good-stuff-too-cute-bear-shirt/",
-    "https://clickoneshirt.com/product/xena-warrior-princess-shirt/",
-    "https://clickoneshirt.com/product/washington-ring-of-fame-santana-moss-cowboy-killa-signature-shirt/",
-    "https://clickoneshirt.com/product/thanks-for-the-memories-shirt/",
-    "https://clickoneshirt.com/product/talking-shit-together-is-a-long-language-shirt/"
+    "https://clickoneshirt.com/product/queensland-bulls-benson-and-hedges-sheffield-shield-champion-shirt/",
+    "https://clickoneshirt.com/product/vanguards-most-wanted-we-expect-exotic-drops-clan-shirt/",
+    "https://clickoneshirt.com/product/horse-almost-forgot-its-all-for-fun-shirt/",
+    "https://clickoneshirt.com/product/im-spiraling-shirt/",
+    "https://clickoneshirt.com/product/qb1-underwhelming-12m-shirt/",
+    "https://clickoneshirt.com/product/trevor-etienne-and-travis-etienne-jr-nfl-etienne-1-23-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/vanellope-von-schweetz-eat-my-dust-t-shirts/",
-    "https://teleteeshirt.com/product/tod-and-copper-the-fox-and-the-hound-t-shirts/",
-    "https://teleteeshirt.com/product/the-princess-and-the-frog-louis-jazz-on-the-bayou-t-shirts-2/",
-    "https://teleteeshirt.com/product/the-little-mermaid-prince-erics-royal-sailing-academy-t-shirts/",
-    "https://teleteeshirt.com/product/selah-hes-gone-hes-gone-jesus-has-risen-t-shirts/",
-    "https://teleteeshirt.com/product/selah-big-apple-t-shirts-2/",
-    "https://teleteeshirt.com/product/sci-fi-fantasy-windy-t-shirts/",
-    "https://teleteeshirt.com/product/sci-fi-fantasy-pressure-points-t-shirts/",
-    "https://teleteeshirt.com/product/sci-fi-fantasy-2029-ad-t-shirts/",
-    "https://teleteeshirt.com/product/official-robin-hood-keep-your-chin-up-est-1973-t-shirts/"
+    "https://teleteeshirt.com/product/joe-bonamassa-blues-mad-hatter-t-shirts/",
+    "https://teleteeshirt.com/product/holy-sinner-god-bless-the-sinners-club-sunfaded-t-shirts/",
+    "https://teleteeshirt.com/product/genesis-nursery-cryme-t-shirts/",
+    "https://teleteeshirt.com/product/freddie-mercury-freddie-crown-t-shirts/",
+    "https://teleteeshirt.com/product/flaming-pan-metropolitan-and-gourmet-t-shirts/",
+    "https://teleteeshirt.com/product/farm-aid-2024-wood-cut-guitar-t-shirts/",
+    "https://teleteeshirt.com/product/farm-aid-2023-september-noblesville-indiana-festival-logo-t-shirts/",
+    "https://teleteeshirt.com/product/farm-aid-2023-noblesville-indiana-waterways-guitar-t-shirts/",
+    "https://teleteeshirt.com/product/farm-aid-2022-raleigh-nc-guitar-vines-t-shirts/",
+    "https://teleteeshirt.com/product/farm-aid-2021-september-25-hartford-ct-concert-logo-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/we-do-not-care-club-dragoncon-chapter-shirt/",

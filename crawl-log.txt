@@ -1,8 +1,8 @@
 --- Summary of Last Image Crawl ---
-Thời gian: 2025-09-08 13:50:37
+Thời gian: 2025-09-08 13:59:15
 geekteesus.com: 0 new URLs added. Total 205 URLs.
 techteesusa.com: 0 new URLs added. Total 500 URLs.
-teeworksusa.com: 103 new URLs added. Total 500 URLs.
+teeworksusa.com: 29 new URLs added. Total 500 URLs.
 meredpremium.com: 0 new URLs added. Total 336 URLs.
 berrylittles.com: 0 new URLs added. Total 47 URLs.
 dreameshirt.com: 0 new URLs added. Total 111 URLs.
@@ -16,6 +16,6 @@ teehandus.com: 0 new URLs added. Total 474 URLs.
 thefunnyt.com: 0 new URLs added. Total 30 URLs.
 uscraftedtees.com: 0 new URLs added. Total 368 URLs.
 capitoneshirt.com: 0 new URLs added. Total 500 URLs.
-clickoneshirt.com: 0 new URLs added. Total 500 URLs.
-teleteeshirt.com: 23 new URLs added. Total 500 URLs.
+clickoneshirt.com: 6 new URLs added. Total 500 URLs.
+teleteeshirt.com: 30 new URLs added. Total 500 URLs.
 teeslocal.com: 0 new URLs added. Total 340 URLs.
