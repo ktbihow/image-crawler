@@ -1,8 +1,8 @@
-name: KTB Image Crawl
+name: KTB Image Crawler
 
 on:
-  schedule:
-    - cron: "*/20 0-16 * * *"
+  repository_dispatch:
+    types: [new_product_available]
   workflow_dispatch:
 
 permissions:
