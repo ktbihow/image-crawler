@@ -12,28 +12,28 @@
     "https://geekteesus.com/product/rip-giorgio-armani-1934-2025-portrait-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/this-is-why-we-cant-have-nice-things-t-shirt/",
-    "https://techteesusa.com/product/rainbow-moustache-shirt/",
-    "https://techteesusa.com/product/caitlin-clark-wearing-indiana-fever-secondary-logo-shirt/",
-    "https://techteesusa.com/product/wnba-jam-atlanta-dream-brittney-griner-and-rhyne-howard-shirt/",
-    "https://techteesusa.com/product/youre-killin-me-smalls-philadelphia-phillies-x-the-sandlot-shirt/",
-    "https://techteesusa.com/product/7th-annual-jimmy-jab-games-champion-shirt/",
-    "https://techteesusa.com/product/raccoon-for-rocket-men-elon-musk-2028-new-america-party-shirt/",
-    "https://techteesusa.com/product/yes-they-are-real-shirt-2/",
-    "https://techteesusa.com/product/wait-if-youre-circling-back-and-im-touching-base-who-the-hell-is-monitoring-the-situation-shirt/",
-    "https://techteesusa.com/product/touchdown-kan-zuh-city-shirt/"
+    "https://techteesusa.com/product/give-nazis-a-platform-shirt/",
+    "https://techteesusa.com/product/what-the-frell-farscape-shirt/",
+    "https://techteesusa.com/product/these-pretzels-are-making-me-thirsty-x-seinfeld-shirt/",
+    "https://techteesusa.com/product/these-pretzels-are-making-me-thirsty-shirt/",
+    "https://techteesusa.com/product/the-simpsons-treehouse-of-horror-shirt/",
+    "https://techteesusa.com/product/the-rock-face-parody-shirt/",
+    "https://techteesusa.com/product/the-mortal-bunch-x-the-brady-bunch-shirt/",
+    "https://techteesusa.com/product/the-mandalorian-hunter-and-the-baby-x-the-adventures-of-tyrion-and-bronn-parody-shirt/",
+    "https://techteesusa.com/product/that-sounds-like-a-terrible-idea-count-me-in-shirt/",
+    "https://techteesusa.com/product/see-things-differently-owl-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/john-wick-yeah-i_m-thinking-i_m-back-movie-quote-shirt/",
-    "https://teeworksusa.com/product/wtf-is-a-kilometer-american-eagle-tank-and-burger-shirt/",
-    "https://teeworksusa.com/product/topo-chico-border-collie-dog-holding-a-bottle-shirt/",
-    "https://teeworksusa.com/product/the-judy-show-oversized-cartoon-shirt/",
-    "https://teeworksusa.com/product/scary-vintage-halloween-black-cat-face-with-green-eyes-shirt/",
-    "https://teeworksusa.com/product/osama-bin-liftin_-bodybuilder-funny-parody-shirt/",
-    "https://teeworksusa.com/product/one-piece-luffy-stained-glass-skull-and-crossbones-anime-manga-shirt/",
-    "https://teeworksusa.com/product/mott-the-hoople-all-the-young-dudes-album-cover-shirt/",
-    "https://teeworksusa.com/product/milwaukee-giannis-antetokounmpo-basketball-player-dunking-shirt/",
-    "https://teeworksusa.com/product/metcalf-d-k-4-football-player-on-fire-shirt/"
+    "https://teeworksusa.com/product/circle-the-wagons-oklahoma-sooners-shirt/",
+    "https://teeworksusa.com/product/wings-1979-back-to-the-egg-shirt/",
+    "https://teeworksusa.com/product/walsh-toilet-water-shirt/",
+    "https://teeworksusa.com/product/pilot-time-x-adventure-time-shirt/",
+    "https://teeworksusa.com/product/not-our-first-rodeo-baylor-bears-shirt/",
+    "https://teeworksusa.com/product/military-appreciation-day-mizzou-tiger-vs-mississippi-state-bulldogs-shirt/",
+    "https://teeworksusa.com/product/luke-baldwin-shirt/",
+    "https://teeworksusa.com/product/jr-motorsports-all-we-do-is-win-shirt/",
+    "https://teeworksusa.com/product/jonas-brothers-california-los-angeles-one-night-shirt/",
+    "https://teeworksusa.com/product/hook-em-horns-ricky-williams-texas-longhorns-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-vanderbilt-commodores-win-44-20-virginia-tech-poster-shirt/",
@@ -69,14 +69,16 @@
     "https://dreameshirt.com/product/official-billy-strings-and-bryan-sutton-with-royal-masat-on-tour-september-2025-11-12-boone-nc-poster-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-youre-a-gooner-im-a-goober-shirt/",
-    "https://teeextra.com/product/official-yes-im-old-but-i-saw-los-angeles-dodgers-sandy-koufax-don-drysdale-greatness-signatures-shirt/",
-    "https://teeextra.com/product/official-yes-im-old-but-i-saw-los-angeles-dodgers-dodgers-sandy-koufax-don-drysdale-maury-wills-greatness-signatures-shirt/",
-    "https://teeextra.com/product/official-wednesday-girls-witch-poster-shirt/",
-    "https://teeextra.com/product/official-jeff-goldblum-rhod-lil-alex-sexy-pose-jurassic-park-shirt/",
-    "https://teeextra.com/product/official-kansas-city-chiefs-patrick-mahomes-highlight-shirt/",
-    "https://teeextra.com/product/official-chris-brown-breezy-bowl-xx-international-stadium-series-2025-shirt/",
-    "https://teeextra.com/product/official-deadlock-cute-anime-girl-and-frankenstein-monster-shirt/"
+    "https://teeextra.com/product/official-wyatt-flores-tour-boise-id-09-07-2025-shirt/",
+    "https://teeextra.com/product/official-the-devils-duke-blue-devils-mascot-otx-shirt/",
+    "https://teeextra.com/product/official-the-brian-jonestown-massacre-september-27-2025-levitation-shirt/",
+    "https://teeextra.com/product/official-the-battle-of-alberta-shirt/",
+    "https://teeextra.com/product/official-super-duper-skateboards-shirt/",
+    "https://teeextra.com/product/official-sunami-yin-yang-shirt/",
+    "https://teeextra.com/product/official-spikes-joint-boycott-sals-shirt/",
+    "https://teeextra.com/product/official-sidney-crosby-the-eras-tour-shirt/",
+    "https://teeextra.com/product/official-78-lappen-hockey-shirt/",
+    "https://teeextra.com/product/official-bass-master-flip-fish-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/zb-fighting-irish-zach-bryan-shirt/",
@@ -103,16 +105,16 @@
     "https://nowbestshirt.com/product/if-they-aint-with-houston-texans-us-vs-the-world-tour-2-sided-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/franky-goes-pop-funny-halloween-shirt/",
-    "https://serenashirt.com/product/women-girls-trip-time-to-get-wicked-halloween-shirt/",
-    "https://serenashirt.com/product/listen-up-rizzlers-sigmas-show-what-they-know-no-cap-shirt/",
-    "https://serenashirt.com/product/philadelphia-eagles-jalen-hurts-how-bout-them-birds-ornament/",
-    "https://serenashirt.com/product/these-pretzels-are-making-me-thirsty-ornament/",
-    "https://serenashirt.com/product/auburn-tigers-jackson-arnold-11-stripe-ornament/",
-    "https://serenashirt.com/product/teair-tart-smacks-travis-kelce-ornament/",
-    "https://serenashirt.com/product/we-are-all-trembling-chihuahuas-in-gods-designer-handbag-ornament/",
-    "https://serenashirt.com/product/travis-kelce-smacked-by-teair-tart-ornament/",
-    "https://serenashirt.com/product/queers-for-israel-ornament/"
+    "https://serenashirt.com/product/what-about-5-inches-and-kind-shirt/",
+    "https://serenashirt.com/product/last-name-ever-first-name-gayest-classic-shirt/",
+    "https://serenashirt.com/product/derek-moneyberg-dont-stay-poor-painting-shirt/",
+    "https://serenashirt.com/product/cardi-b-bride-of-chucky-halloween-shirt/",
+    "https://serenashirt.com/product/wizard-conversations-to-me-are-turn-based-combat-i-make-a-concentration-saving-throw-at-the-start-of-every-turn-shirt/",
+    "https://serenashirt.com/product/wizard-im-being-reality-to-my-will-does-anybody-want-anything-shirt/",
+    "https://serenashirt.com/product/the-williamson-dad-god-is-the-greatest-shirt/",
+    "https://serenashirt.com/product/jonas-brothers-burnin-up-flames-shirt/",
+    "https://serenashirt.com/product/edgar-allan-poe-the-pit-and-the-pendulum-shirt/",
+    "https://serenashirt.com/product/chicago-cubs-sammy-sosa-fila-21-baseball-shirt/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/your-wide-behind-wont-save-you-this-time-shirt/",
@@ -127,16 +129,16 @@
     "https://fanaticity.com/product/that-was-in-my-hands-phillies-karen-meme-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/defunct-minnesota-kicks-soccer-t-shirt/",
-    "https://legendusashirt.com/product/colts-jim-irsay-for-the-boss-t-shirt/",
-    "https://legendusashirt.com/product/cat-powells-books-fiercely-independent-t-shirt/",
-    "https://legendusashirt.com/product/buffalo-bills-new-york-september-7-2025-t-shirt/",
-    "https://legendusashirt.com/product/bendy-gingerbread-t-shirt/",
-    "https://legendusashirt.com/product/blue-ox-truck-stop-t-shirt/",
-    "https://legendusashirt.com/product/be-aggressively-kind-t-shirt/",
-    "https://legendusashirt.com/product/aura-farming-meme-gen-alpha-slang-t-shirt/",
-    "https://legendusashirt.com/product/all-might-yall-might-t-shirt/",
-    "https://legendusashirt.com/product/arkansas-razorbacks-future-hog-2025-t-shirt/"
+    "https://legendusashirt.com/product/witch-we-intend-to-cause-havoc-san-francisco-ca-sep-06-2025-t-shirt/",
+    "https://legendusashirt.com/product/vivziepop-saint-fuckass-t-shirt/",
+    "https://legendusashirt.com/product/turkey-and-the-wolf-a-lil-crescent-city-connection-t-shirt/",
+    "https://legendusashirt.com/product/the-williamson-dad-god-is-the-greatest-t-shirt/",
+    "https://legendusashirt.com/product/the-vols-tennessee-volunteers-mascot-otx-t-shirt/",
+    "https://legendusashirt.com/product/the-republic-report-joshua-cummins-and-jon-goble-t-shirt/",
+    "https://legendusashirt.com/product/the-life-of-showboy-kansas-city-t-shirt/",
+    "https://legendusashirt.com/product/the-cocks-south-carolina-gamecocks-mascot-otx-t-shirt/",
+    "https://legendusashirt.com/product/spindlehorse-mob-life-t-shirt/",
+    "https://legendusashirt.com/product/starset-ad-astra-infinitum-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/nick-herbig-wearing-a-keeanu-benton-shirt/"
@@ -171,16 +173,16 @@
     "https://capitoneshirt.com/product/oatmeal-creme-pies-little-debbie-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/tiff-50-canada-flag-shirt/",
-    "https://clickoneshirt.com/product/the-world-is-my-ashtray-shirt/",
-    "https://clickoneshirt.com/product/teair-tart-slapped-travis-kelce-shirt/",
-    "https://clickoneshirt.com/product/teair-tart-slap-on-travis-kelce-shirt/",
-    "https://clickoneshirt.com/product/steven-universe-three-magical-guardians-of-the-universe-and-steven-shirt/",
-    "https://clickoneshirt.com/product/philly-karen-wanted-reward-poster-shirt/",
-    "https://clickoneshirt.com/product/oklahoma-sooners-vs-michigan-wolverines-rolled-em-shirt/",
-    "https://clickoneshirt.com/product/mr-neutered-beta-male-bad-son-give-her-my-balls-shirt/",
-    "https://clickoneshirt.com/product/meguru-bachira-blue-lock-anime-shirt/",
-    "https://clickoneshirt.com/product/martin-brundle-push-cool-cool-push-shirt/"
+    "https://clickoneshirt.com/product/wyoming-cowboys-girl-messy-bun-glasses-shirt/",
+    "https://clickoneshirt.com/product/utah-utes-girl-messy-bun-glasses-shirt/",
+    "https://clickoneshirt.com/product/texas-longhorns-girl-messy-bun-glasses-shirt/",
+    "https://clickoneshirt.com/product/teair-tart-better-than-kelce-shirt/",
+    "https://clickoneshirt.com/product/tame-impala-loser-9-3-shirt/",
+    "https://clickoneshirt.com/product/santa-clara-standard-cincinnati-football-2025-united-states-tour-shirt/",
+    "https://clickoneshirt.com/product/san-francisco-49ers-vs-seattle-seahawks-week-one-nfl-shirt/",
+    "https://clickoneshirt.com/product/san-francisco-49ers-vs-seattle-seahawks-who-will-score-the-first-td-shirt/",
+    "https://clickoneshirt.com/product/san-francisco-49ers-vs-seattle-seahawks-football-graphic-shirt/",
+    "https://clickoneshirt.com/product/san-francisco-49ers-vs-seattle-seahawks-2025-week-one-nfl-graphic-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/the-psyop-you-wanna-join-the-military-so-bad-t-shirts/",
@@ -195,15 +197,15 @@
     "https://teleteeshirt.com/product/maxx-crosby-and-geno-smith-step-brothers-t-shirt/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/taylor-and-travis-kansas-city-love-story-13-87-story-and-baby-she-said-yes-shirt/",
-    "https://teeslocal.com/product/sorry-i-cant-i-have-plans-with-the-mafia-buffalo-bills-football-nfl-2025-shirt/",
-    "https://teeslocal.com/product/sorry-i-cant-i-have-plans-with-the-changer-los-angeles-chargers-football-nfl-2025-shirt/",
-    "https://teeslocal.com/product/funny-ghost-buffalo-bills-go-bills-football-nfl-game-day-2025-shirt/",
-    "https://teeslocal.com/product/los-angeles-chargers-football-established-1960-gift-for-fans-shirt/",
-    "https://teeslocal.com/product/ghost-new-york-giants-football-nfl-game-day-2025-shirt/",
-    "https://teeslocal.com/product/skeleton-its-ok-im-on-500mg-of-fukitol-and-on-300mg-of-gosukadik-shirt/",
-    "https://teeslocal.com/product/skeletons-devil-my-best-friend-is-not-your-friend-idc-what-she-told-you-she-lies-a-little-sometimes-shirt/",
-    "https://teeslocal.com/product/to-be-woke-is-not-a-threat-its-a-calling-pope-leo-xiv-shirt/",
-    "https://teeslocal.com/product/the-kansas-city-chiefs-abbey-road-signatures-football-nfl-2025-shirt/"
+    "https://teeslocal.com/product/the-ralph-thank-you-for-the-memories-1973-2025-buffalo-bills-shirt/",
+    "https://teeslocal.com/product/the-ralph-farewell-tour-stadium-orchard-park-ny-where-else-would-you-rather-be-buffalo-football-shirt/",
+    "https://teeslocal.com/product/the-farewell-stadium-tour-rich-ralph-new-era-highmark-1973-2025-shirt/",
+    "https://teeslocal.com/product/skeleton-floral-ribcage-pumpkins-spooky-season-halloween-shirt/",
+    "https://teeslocal.com/product/ralph-wilson-stadium-farewell-ride-1973-2025-iconic-style-retro-shirt/",
+    "https://teeslocal.com/product/phillies-karen-x-mr-burns-point-home-run-theft-funy-shirt/",
+    "https://teeslocal.com/product/phillies-karen-home-run-that-dall-lampte-noan-me-yo-tuntmfuon-dat-ha-demians-efay-shirt/",
+    "https://teeslocal.com/product/mr-brightside-buffalo-bills-football-nfl-art-shirt/",
+    "https://teeslocal.com/product/preppy-ghost-boo-leopard-spooky-coquette-happy-halloween-shirt/",
+    "https://teeslocal.com/product/labubu-holding-go-bill-flag-hey-ey-ey-ey-let_s-go-buffalo-shirt/"
   ]
 }
