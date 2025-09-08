@@ -133,16 +133,8 @@
     "https://legendusashirt.com/product/im-the-problem-tour-25-torontoon-mg-two-sided-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/carmelo-anthony-denver-nuggets-nba-ultimate-player-gold-shirt/",
-    "https://teehandus.com/product/carmelo-anthony-new-york-knicks-nba-ultimate-player-shirt/",
-    "https://teehandus.com/product/carmelo-anthony-denver-nuggets-rookie-photo-name-and-number-shirt/",
-    "https://teehandus.com/product/detroit-lions-hws-height-weight-speed-shirt/",
-    "https://teehandus.com/product/luke-baldwin-smart-modified-tour-champion-24-shirt/",
-    "https://teehandus.com/product/miles-davis-kind-of-blue-so-what-freddie-freeloader-shirt/",
-    "https://teehandus.com/product/qb1-underwhelming-s12-m-shirt/",
-    "https://teehandus.com/product/travis-kelce-kansas-city-chiefs-oitenta-e-sete-shirt/",
-    "https://teehandus.com/product/west-virginia-mountaineers-throwback-retro-badge-script-shirt/",
-    "https://teehandus.com/product/us-navy-welcome-to-annapolis-shirt/"
+    "https://teehandus.com/product/elon-musk-raptor-engine-shirt/",
+    "https://teehandus.com/product/buffalo-bills-destiny-is-calling-me-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/e-eosso-davide-tardozzi-shirt/"
