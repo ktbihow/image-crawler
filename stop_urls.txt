@@ -60,16 +60,8 @@
     "https://berrylittles.com/product/official-blink-182-missionary-impossible-2025-tour-september-6-2025-bethel-woods-center-for-the-arts-in-bethel-ny-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-oregon-69-3-oklahoma-state-sep-6-2025-final-score-patrick-star-meme-t-shirt/",
-    "https://dreameshirt.com/product/official-georgia-bulldogs-defeat-austin-peay-governors-final-sorce-28-06-sep-6-2025-godawgs-t-shirt/",
-    "https://dreameshirt.com/product/official-ducati-2025-constructors-champions-marc-marquez-alex-marquez-alenta-motogp-t-shirt/",
-    "https://dreameshirt.com/product/official-baylor-bears-48-45-smu-mustangs-sep-6-2025-cfb-on-fox-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-philly-karen-hey-thats-my-ball-phillary-clinton-t-shirt/",
-    "https://dreameshirt.com/product/official-oklahoma-sooners-defeat-michigan-wolverines-we-rolled-em-t-shirt/",
-    "https://dreameshirt.com/product/official-nerds-aint-shit-french-mma-stronger-t-shirt/",
-    "https://dreameshirt.com/product/official-nascar-xfinity-2025-regular-season-champion-connor-zilisch-signature-t-shirt/",
-    "https://dreameshirt.com/product/official-holymountainprinting-outta-pocket-mlb-major-league-beatdown-logo-t-shirt/",
-    "https://dreameshirt.com/product/official-bowling-green-state-university-football-orange-pudge-the-cat-team-painting-t-shirt/"
+    "https://dreameshirt.com/product/official-buffalo-bandits-lacrosse-rest-in-peace-noah-snyder-2005-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-zac-blackerby-ball-is-not-a-state-auburn-tigers-football-painting-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/official-youre-a-gooner-im-a-goober-shirt/",
