@@ -141,7 +141,16 @@
     "https://legendusashirt.com/product/starset-ad-astra-infinitum-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/nick-herbig-wearing-a-keeanu-benton-shirt/"
+    "https://teehandus.com/product/zombie-vampire-mummy-werewolf-frankenstein-summerween-world-tour-2025-shirt/",
+    "https://teehandus.com/product/zombie-shift-survivor-nurse-halloween-shirt/",
+    "https://teehandus.com/product/zach-bryan-quittin-time-tour-2025-silhouette-shirt/",
+    "https://teehandus.com/product/witchy-pumpkin-black-cat-halloween-vintage-shirt/",
+    "https://teehandus.com/product/witch-please-im-on-island-time-shirt/",
+    "https://teehandus.com/product/wednesday-girls-poster-shirt/",
+    "https://teehandus.com/product/we-do-not-care-club-dragoncon-chapter-shirt/",
+    "https://teehandus.com/product/washington-ring-of-fame-santana-moss-cowboy-killa-signature-shirt/",
+    "https://teehandus.com/product/washington-commanders-raise-hail-names-shirt/",
+    "https://teehandus.com/product/virginia-tech-hokies-colosseum-oht-military-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/chargers-player-slapped-travis-kelce-in-the-face-shirt/",
