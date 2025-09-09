@@ -12,16 +12,16 @@
     "https://geekteesus.com/product/kj-anderson-canes-2027-commitment-auburn-tigers-football-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/wordcamp-ottawa-2019-canada-shirt/",
-    "https://techteesusa.com/product/will-do-chores-for-robux-shirt/",
-    "https://techteesusa.com/product/week-1-kickoff-chiefs-and-chargers-tonight-from-brazil-shirt/",
-    "https://techteesusa.com/product/this-is-not-normal-2025-shirt/",
-    "https://techteesusa.com/product/there-is-no-vaccine-against-stupidity-shirt/",
-    "https://techteesusa.com/product/stori-denali-chapter-shirt/",
-    "https://techteesusa.com/product/statue-of-liberty-enough-is-enough-shirt/",
-    "https://techteesusa.com/product/rfk-if-i-were-still-alive-id-be-in-trumps-cabinet-shirt/",
-    "https://techteesusa.com/product/no-more-invites-to-the-cookout-shirt/",
-    "https://techteesusa.com/product/move-fast-and-break-chains-t-shirt/"
+    "https://techteesusa.com/product/my-balls-itch-metal-shirt/",
+    "https://techteesusa.com/product/mississippi-state-bulldogs-football-no-vacancy-at-the-hotel-hail-shirt/",
+    "https://techteesusa.com/product/luke-baldwin-season-shirt/",
+    "https://techteesusa.com/product/lba-lower-back-ache-shirt/",
+    "https://techteesusa.com/product/jonas-brothers-burnin-up-flames-shirt/",
+    "https://techteesusa.com/product/jim-irsay-for-the-boss-indianapolis-colts-signature-shirt/",
+    "https://techteesusa.com/product/its-always-sunny-in-philadelphia-x-philadelphia-eagles-the-gang-wins-the-big-game-shirt/",
+    "https://techteesusa.com/product/indianapolis-colts-daniel-jones-and-the-team-of-destiny-shirt/",
+    "https://techteesusa.com/product/if-god-is-real-why-does-my-tummy-hurt-t-shirt/",
+    "https://techteesusa.com/product/i-may-be-gay-but-at-least-i-am-not-british-t-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/burn-responsibly-smokey-the-bear-grumpy-face-forest-fire-shirt/",
@@ -48,25 +48,28 @@
     "https://meredpremium.com/product/official-statement-made-south-florida-bulls-18-16-florida-gators-score-t-shirt/"
   ],
   "berrylittles.com": [
-    "https://berrylittles.com/product/official-carlos-alcaraz-dominant-tournament-us-open-champions-2022-2025-poster-t-shirt/",
-    "https://berrylittles.com/product/official-alex-marquez-alenta-race-against-the-family-bk8-gresini-racing-motogp-2025-poster-t-shirt/",
-    "https://berrylittles.com/product/official-miami-dolphins-vs-indianapolis-colts-lucas-oil-stadium-in-indianapolis-in-september-7th-2025-poster-t-shirt/",
-    "https://berrylittles.com/product/official-denver-broncos-vs-tennessee-titans-home-of-ener-empower-field-at-mile-high-in-denver-colorado-2025-poster-t-shirt/",
-    "https://berrylittles.com/product/official-blink-182-broadview-stage-at-saratoga-springs-ny-on-september-7-2025-t-shirt/",
-    "https://berrylittles.com/product/official-pat-murphy-pocket-quesadillas-the-man-likes-his-snacks-milwaukee-brewers-mlb-signature-t-shirt/",
-    "https://berrylittles.com/product/official-the-who-september-7-9-2025-the-song-is-over-the-north-american-farewell-tour-chicago-poster-t-shirt/"
+    "https://berrylittles.com/product/official-daniel-jones-indianapolis-colts-dime-time-nfl-football-signature-t-shirt/",
+    "https://berrylittles.com/product/official-josh-allen-buffalo-bills-win-probability-chart-down-15-with-4-05-left-9-7-2025-t-shirt/",
+    "https://berrylittles.com/product/official-aaron-rodgers-pittsburgh-steelers-nfl-flash-features-week-1-september-7-2025-t-shirt/",
+    "https://berrylittles.com/product/official-matt-prater-buffalo-bills-nfl-flash-features-week-1-september-7-2025-t-shirt/",
+    "https://berrylittles.com/product/official-micah-parsons-green-bay-packers-nfl-flash-features-week-1-september-7-2025-t-shirt/",
+    "https://berrylittles.com/product/official-poster-umphreys-mcgee-album-release-party-garcias-chicago-il-september-8-2025-t-shirt/",
+    "https://berrylittles.com/product/official-poster-the-hives-stubbs-austin-tx-september-8-2025-t-shirt/",
+    "https://berrylittles.com/product/official-notre-dame-fighting-irish-vs-texas-am-aggies-beat-em-again-mascots-t-shirt/",
+    "https://berrylittles.com/product/official-missouri-tigers-football-border-showdown-champs-mizzou-vs-kansas-score-42-31-september-6-2025-t-shirt/",
+    "https://berrylittles.com/product/official-alabama-vs-wisconsin-september-13th-2025-saban-field-at-bryant-denny-stadium-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-tennessee-titans-vs-denver-broncos-at-mile-high-season-kickoff-september-7-2025-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-san-francisco-49ers-win-seattle-seahawks-2025-nfl-season-kickoff-forever-faithful-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-f1-max-victory-at-round-16-2025-italian-grand-prix-at-monza-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-rory-mcilroy-victory-at-the-amgen-irish-open-dp-world-tour-signature-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-pittsburgh-steelers-tomlinisms-the-standard-is-the-standard-iron-sharpens-iron-we-dont-live-in-our-fears-t-shirt/",
-    "https://dreameshirt.com/product/official-my-precious-i-see-no-differences-philadelphia-phillies-mlb-meme-t-shirt/",
-    "https://dreameshirt.com/product/official-mississippi-state-bulldogs-vs-arizona-state-score-24-20-starkville-vs-everybody-game-2-hotel-hail-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-las-vegas-raiders-win-new-england-patriots-2025-2026-raiders-were-coming-painting-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-just-bill-jacory-croskey-merritt-washington-commanders-nfl-football-caricature-t-shirt/",
-    "https://dreameshirt.com/product/official-jayden-daniels-washington-commanders-vs-new-york-giants-final-score-21-6-fox-nfl-poster-t-shirt/"
+    "https://dreameshirt.com/product/official-minnesota-vikings-vs-chicago-bears-monday-nfl-espn-monday-night-football-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-chicago-bears-vs-minnesota-vikings-week-1-gameday-soldier-field-09-08-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-shoresy-fall-classic-2025-tour-new-metric-medium-11-24-12-14-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-slam-blood-orange-kiyan-anthony-and-carmelo-anthony-syracuse-orange-basketball-ncaa-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-one-of-hockeys-all-time-greats-rest-in-peace-ken-dryden-1947-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-still-in-the-neon-silverada-the-wilder-blue-12-12-hico-texas-12-19-san-antonio-texas-12-20-dallas-texas-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-a-wilhelm-scream-vs-canada-mmxxv-t-shirt/",
+    "https://dreameshirt.com/product/official-bears-vikings-mount-rushmore-the-best-four-dabears-obvious-t-shirt/",
+    "https://dreameshirt.com/product/official-indianapolis-colts-nfl-football-daniel-jones-and-the-team-of-destiny-t-shirt/",
+    "https://dreameshirt.com/product/official-cm-punk-best-in-the-world-chicago-made-wwe-2025-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/official-stuttgart-surge-2025-season-champions-shirt/",
@@ -119,16 +122,16 @@
     "https://fanaticity.com/product/suns-barkley-football-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/laura-farms-dirty-dually-4020-t-shirt/",
-    "https://legendusashirt.com/product/knitting-factory-boise-september-2025-poster-t-shirt/",
-    "https://legendusashirt.com/product/kentucky-wildcats-x-the-peanuts-winter-its-the-most-wonderful-time-of-the-year-2025-t-shirt/",
-    "https://legendusashirt.com/product/kansas-jayhawks-skyline-names-logo-thank-you-for-the-memories-2025-t-shirt/",
-    "https://legendusashirt.com/product/justin-bieber-swag-tour-2025-t-shirt/",
-    "https://legendusashirt.com/product/jonas-brothers-intuit-dome-los-angeles-ca-sep-06-2025-poster-t-shirt/",
-    "https://legendusashirt.com/product/jimmy-buffett-80th-anniversary-1946-2026-signature-thank-you-for-the-memories-t-shirt/",
-    "https://legendusashirt.com/product/jesse-malin-september-6-2025-gramercy-theatre-in-new-york-ny-t-shirt/",
-    "https://legendusashirt.com/product/wyoming-cowboys-x-the-peanuts-winter-its-the-most-wonderful-time-of-the-year-2025-t-shirt/",
-    "https://legendusashirt.com/product/weirdo-mosher-freak-magenta-t-shirt/"
+    "https://legendusashirt.com/product/missouri-football-beau-pribula-knows-t-shirt/",
+    "https://legendusashirt.com/product/missouri-football-beau-pribula-believe-t-shirt/",
+    "https://legendusashirt.com/product/mississippi-state-football-no-vacancy-at-the-hotel-hail-t-shirt/",
+    "https://legendusashirt.com/product/josh-allen-win-probability-chart-t-shirt/",
+    "https://legendusashirt.com/product/its-a-draft-vehicle-t-shirt/",
+    "https://legendusashirt.com/product/indianapolis-colts-for-the-boss-t-shirt/",
+    "https://legendusashirt.com/product/indiana-daniel-jones-and-the-team-of-destiny-t-shirt/",
+    "https://legendusashirt.com/product/impericon-festival-june-26-27-2026-leipzig-germany-poster-t-shirt/",
+    "https://legendusashirt.com/product/imagine-dragons-loom-world-tour-2025-poster-t-shirt/",
+    "https://legendusashirt.com/product/hundreds-of-beavers-live-revenge-of-the-beavers-tour-uk-ireland-2025-poster-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/elon-musk-raptor-engine-shirt/",
