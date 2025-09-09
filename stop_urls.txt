@@ -1,15 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/sao-paulo-game-2025-los-angeles-chargers-vs-kansas-city-chiefs-nfl-shirt/",
-    "https://geekteesus.com/product/jacksonville-jaguars-hometown-to-london-2025-shirt-png/",
-    "https://geekteesus.com/product/d10s-diego-maradona-argentina-national-team-portrait-shirt/",
-    "https://geekteesus.com/product/colorado-state-rams-csu-football-today-we-play-the-ram-play-2025-shirt/",
-    "https://geekteesus.com/product/cm-punk-chicago-cubs-best-in-the-world-shirt/",
-    "https://geekteesus.com/product/chris-brown-breezy-bowl-xx-international-stadium-series-2025-shirt/",
-    "https://geekteesus.com/product/caitlin-clark-shoot-like-a-girl-shirt/",
-    "https://geekteesus.com/product/chris-brown-breezy-bowl-xx-2025-shirt/",
-    "https://geekteesus.com/product/100-years-of-alabama-crimson-tide-football-trophy-shirt/",
-    "https://geekteesus.com/product/2025-nfl-international-games-shirt/"
+    "https://geekteesus.com/product/the-williamson-dad-god-is-the-greatest-shirt/",
+    "https://geekteesus.com/product/the-eyes-chico-they-never-lie-shirt/",
+    "https://geekteesus.com/product/saquon-barkley-cockroach-stomper-philadelphia-eagles-nfl-2025-shirt/",
+    "https://geekteesus.com/product/pittsburgh-steelers-nfl-our-kicker-is-serial-killer-shirt/",
+    "https://geekteesus.com/product/pitches-be-crazy-brash-seattle-mariners-shirt/",
+    "https://geekteesus.com/product/opening-day-is-better-than-opening-presents-shirt/",
+    "https://geekteesus.com/product/never-listen-be-a-man-shirt/",
+    "https://geekteesus.com/product/lamar-jackson-baltimore-ravens-quarterbacky-shirt/",
+    "https://geekteesus.com/product/military-appreciation-game-day-2025-mizzou-tigers-vs-mississippi-state-bulldogs-logo-shirt/",
+    "https://geekteesus.com/product/kj-anderson-canes-2027-commitment-auburn-tigers-football-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/wordcamp-ottawa-2019-canada-shirt/",
@@ -174,16 +174,16 @@
     "https://clickoneshirt.com/product/san-francisco-49ers-vs-seattle-seahawks-week-1-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/the-red-clay-strays-concert-sept-07-2025-saint-louis-music-park-t-shirts/",
-    "https://teleteeshirt.com/product/tennessee-volunteers-college-gameday-live-from-knoxville-tn-sept-13-2025-t-shirts/",
-    "https://teleteeshirt.com/product/south-florida-bulls-vs-florida-gators-2025-score-statement-made-t-shirts/",
-    "https://teleteeshirt.com/product/sample-industries-rodeo-t-shirts/",
-    "https://teleteeshirt.com/product/max-diaz-fall-tour-2025-dates-t-shirts/",
-    "https://teleteeshirt.com/product/philadelphia-eagles-flip-the-birds-philly-t-shirts/",
-    "https://teleteeshirt.com/product/jesse-malin-silver-manhattan-new-york-city-tour-2025-t-shirts/",
-    "https://teleteeshirt.com/product/dj-hybrid-eat-sleep-jungle-tour-dates-japan-thailand-nz-aus-2025-t-shirts/",
-    "https://teleteeshirt.com/product/laura-farms-dirty-dually-4020-t-shirts/",
-    "https://teleteeshirt.com/product/blackcraft-cult-create-your-own-future-manifest-t-shirts/"
+    "https://teleteeshirt.com/product/alex-morgan-forever-sep-07-2025-jersey-retirement-san-diego-wave-fc-t-shirts/",
+    "https://teleteeshirt.com/product/yoshinobu-yamamoto-roar-los-angeles-dodgers-t-shirts/",
+    "https://teleteeshirt.com/product/whirr-2025-tour-t-shirts/",
+    "https://teleteeshirt.com/product/what-if-we-kissed-in-the-government-cheese-caves-in-springfield-mo-over-1-5-billion-ibs-of-cheese-t-shirts/",
+    "https://teleteeshirt.com/product/trevor-henderson-nightmare-chorus-t-shirts/",
+    "https://teleteeshirt.com/product/trent-grisham-the-big-sleep-t-shirts/",
+    "https://teleteeshirt.com/product/shrek-lets-have-shrex-t-shirts/",
+    "https://teleteeshirt.com/product/santana-moss-washington-commanders-burgundy-retired-caricature-t-shirts/",
+    "https://teleteeshirt.com/product/sailor-moon-i-need-terrible-things-to-happen-to-powerful-people-t-shirts/",
+    "https://teleteeshirt.com/product/please-dont-let-me-buy-any-more-book-under-any-circumstances-ihave-too-many-i-havent-read-already-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/we-do-not-care-club-dragoncon-chapter-shirt/",
