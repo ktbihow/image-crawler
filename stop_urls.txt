@@ -118,16 +118,16 @@
     "https://fanaticity.com/product/suns-barkley-football-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/nfl-arizona-cardinals-happy-halloween-t-shirt/",
-    "https://legendusashirt.com/product/were-on-a-mission-from-da-pope-t-shirt/",
-    "https://legendusashirt.com/product/washington-ampersand-stars-t-shirt/",
-    "https://legendusashirt.com/product/umphreys-mcgee-september-8-2025-chicago-il-tour-poster-t-shirt/",
-    "https://legendusashirt.com/product/umphreys-mcgee-garcias-september-8-2025-chicago-il-tour-poster-t-shirt/",
-    "https://legendusashirt.com/product/two-piece-october-2025-poster-t-shirt/",
-    "https://legendusashirt.com/product/tv-on-the-radio-september-27-2025-austin-tx-tour-poster-t-shirt/",
-    "https://legendusashirt.com/product/trevor-henderson-nightmare-chorus-t-shirt/",
-    "https://legendusashirt.com/product/trampled-by-turtles-kemba-live-columbus-oh-09-13-2025-poster-t-shirt/",
-    "https://legendusashirt.com/product/the-metal-god-rob-halford-x-mfg-t-shirt/"
+    "https://legendusashirt.com/product/derrick-henry-raft-kings-t-shirt/",
+    "https://legendusashirt.com/product/department-of-war-established-flag-vintage-2025-t-shirt/",
+    "https://legendusashirt.com/product/denver-broncos-historic-waver-football-helmet-2025-t-shirt/",
+    "https://legendusashirt.com/product/chicago-football-legends-mount-rushmore-t-shirt/",
+    "https://legendusashirt.com/product/buffalo-bills-destiny-is-calling-me-t-shirt/",
+    "https://legendusashirt.com/product/boise-state-broncos-208-blue-print-t-shirt/",
+    "https://legendusashirt.com/product/benson-boone-american-heart-tour-2025-song-t-shirt/",
+    "https://legendusashirt.com/product/aborted-la-grande-mascarade-t-shirt/",
+    "https://legendusashirt.com/product/arkansas-vs-ole-miss-game-day-oxford-ms-sept-13-2025-t-shirt/",
+    "https://legendusashirt.com/product/aborted-global-flatline-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/msu-spartan-strong-shirt/",
@@ -173,16 +173,16 @@
     "https://clickoneshirt.com/product/pcp-makes-it-fun-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/alex-morgan-forever-sep-07-2025-jersey-retirement-san-diego-wave-fc-t-shirts/",
-    "https://teleteeshirt.com/product/yoshinobu-yamamoto-roar-los-angeles-dodgers-t-shirts/",
-    "https://teleteeshirt.com/product/whirr-2025-tour-t-shirts/",
-    "https://teleteeshirt.com/product/what-if-we-kissed-in-the-government-cheese-caves-in-springfield-mo-over-1-5-billion-ibs-of-cheese-t-shirts/",
-    "https://teleteeshirt.com/product/trevor-henderson-nightmare-chorus-t-shirts/",
-    "https://teleteeshirt.com/product/trent-grisham-the-big-sleep-t-shirts/",
-    "https://teleteeshirt.com/product/shrek-lets-have-shrex-t-shirts/",
-    "https://teleteeshirt.com/product/santana-moss-washington-commanders-burgundy-retired-caricature-t-shirts/",
-    "https://teleteeshirt.com/product/sailor-moon-i-need-terrible-things-to-happen-to-powerful-people-t-shirts/",
-    "https://teleteeshirt.com/product/please-dont-let-me-buy-any-more-book-under-any-circumstances-ihave-too-many-i-havent-read-already-t-shirts/"
+    "https://teleteeshirt.com/product/bo-baskoro-nothings-going-to-change-the-way-that-i-see-you-give-you-up-t-shirts-2/",
+    "https://teleteeshirt.com/product/blink-182-ufos-are-real-alien-fucking-exist-t-shirts/",
+    "https://teleteeshirt.com/product/blood-throne-arsonist-witch-t-shirts/",
+    "https://teleteeshirt.com/product/baby-bugs-love-letters-t-shirts/",
+    "https://teleteeshirt.com/product/baby-bugs-hey-bunny-t-shirts/",
+    "https://teleteeshirt.com/product/aryia-skull-knife-t-shirts/",
+    "https://teleteeshirt.com/product/aryia-i-love-goth-girls-t-shirts/",
+    "https://teleteeshirt.com/product/alexisonfire-legendary-classic-02-academy-brixton-2025-first-t-shirts/",
+    "https://teleteeshirt.com/product/acres-a-different-shade-of-misery-t-shirts/",
+    "https://teleteeshirt.com/product/adam-thielen-black-good-minnesota-vikings-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/today-im-wearing-a-lovely-shade-of-i-slept-like-shit-so-dont-piss-me-off-shirt/",
