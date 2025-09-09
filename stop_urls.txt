@@ -96,16 +96,10 @@
     "https://nowbestshirt.com/product/indianapolis-colts-2025-2025-nfl-schedule-2-sided-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/monster-high-group-lightning-shirt/",
-    "https://serenashirt.com/product/cow-you-cannot-overthink-shirt/",
-    "https://serenashirt.com/product/the-king-of-fighters-mai-shiranui-shirt/",
-    "https://serenashirt.com/product/darkstalkers-morrigan-aensland-shirt/",
-    "https://serenashirt.com/product/cat-how-your-email-finds-me-shirt/",
-    "https://serenashirt.com/product/supernatural-dean-winchester-shirt/",
-    "https://serenashirt.com/product/i-love-yy-hello-kitty-shirt/",
-    "https://serenashirt.com/product/halloween-ghost-with-black-cats-vintage-shirt/",
-    "https://serenashirt.com/product/bruce-lee-chuck-norris-shirt/",
-    "https://serenashirt.com/product/break-my-hole-not-my-heart-shirt/"
+    "https://serenashirt.com/product/bush-razorblade-suitcase-1997-tour-shirt/",
+    "https://serenashirt.com/product/supernatural-sam-winchester-shirt/",
+    "https://serenashirt.com/product/lalaloopsy-charlotte-charades-shirt/",
+    "https://serenashirt.com/product/the-great-noticing-shirt/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/youre-a-gooner-im-a-goober-shirt/",
@@ -183,27 +177,27 @@
     "https://clickoneshirt.com/product/pcp-makes-it-fun-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/justin-bieber-cats-in-cheap-sunglasses-t-shirts/",
-    "https://teleteeshirt.com/product/jonas-brothers-greetings-from-chula-vista-ca-04-sep-2025-t-shirts/",
-    "https://teleteeshirt.com/product/jakey-say-no-at-racism-t-shirts/",
-    "https://teleteeshirt.com/product/its-always-sunny-in-philadelphia-phillies-pay-homage-go-phils-t-shirts/",
-    "https://teleteeshirt.com/product/its-always-sunny-in-philadelphia-eagles-philly-t-shirts/",
-    "https://teleteeshirt.com/product/its-always-sunny-in-philadelphia-eagles-paddys-pub-philly-t-shirts/",
-    "https://teleteeshirt.com/product/honor-the-gift-comm-arts-creative-since-1988-t-shirts/",
-    "https://teleteeshirt.com/product/harvey-street-live-at-the-lincoln-theatre-raleigh-nc-tour-sept-19-2025-t-shirts/",
-    "https://teleteeshirt.com/product/greenteas-dubby-dinner-fall-tour-2025-poplar-union-london-t-shirts/",
-    "https://teleteeshirt.com/product/grateful-dead-masons-children-fairfax-ca-sept-6-2025-t-shirts/"
+    "https://teleteeshirt.com/product/darkman-x-ride-or-die-skull-t-shirts/",
+    "https://teleteeshirt.com/product/chicago-bears-popes-from-chicago-1-popes-from-green-bay-0-t-shirts/",
+    "https://teleteeshirt.com/product/coming-out-of-my-cage-and-ive-been-doin-just-fine-t-shirts/",
+    "https://teleteeshirt.com/product/blues-brothers-x-chicago-bears-were-on-a-mission-from-da-pope-t-shirts/",
+    "https://teleteeshirt.com/product/alison-wonderland-hell-contains-themes-of-horror-ghost-t-shirts/",
+    "https://teleteeshirt.com/product/bad-bunny-residencia-no-me-quiero-ir-de-aqui-t-shirts/",
+    "https://teleteeshirt.com/product/aliens-exist-i-was-chosen-hey-mom-theres-something-in-the-back-room-t-shirts/",
+    "https://teleteeshirt.com/product/alison-wonderland-ghost-you-were-warned-not-to-listen-t-shirts/",
+    "https://teleteeshirt.com/product/will-trade-racists-for-refugees-t-shirts-2/",
+    "https://teleteeshirt.com/product/varials-scars-for-you-to-remember-knife-t-shirts/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/today-im-wearing-a-lovely-shade-of-i-slept-like-shit-so-dont-piss-me-off-shirt/",
-    "https://teeslocal.com/product/stitch-you-think-i-give-a-fuck-about-who-doesnt-like-me-bitch-my-own-family-doesnt-like-me-shirt/",
-    "https://teeslocal.com/product/stitch-wearing-hoodie-im-sorry-my-resting-bitch-face-is-intimidating-im-actually-a-fucking-delight-shirt/",
-    "https://teeslocal.com/product/stitch-my-four-moods-1-i-need-coffee-2-i-need-a-nap-3-i-need-a-vacation-4-i-need-duct-tape-shirt/",
-    "https://teeslocal.com/product/stitch-and-lilo-strangers-think-im-quiet-my-friends-think-im-fun-best-friend-knows-im-insane-shirt/",
-    "https://teeslocal.com/product/stitch-im-a-bitch-beautiful-intelligent-thoughtful-caring-honest-with-a-low-bullshit-tolerance-shirt/",
-    "https://teeslocal.com/product/some-aunts-never-dreamed-they-would-be-so-cool-and-perfect-just-rockin-the-aunt-life-its-me-shirt/",
-    "https://teeslocal.com/product/snoppy-im-sorry-my-resting-bitch-face-is-intimidating-im-actually-a-fucking-delight-shirt/",
-    "https://teeslocal.com/product/snoopy-x-pink-panther-in-this-world-being-a-little-crazy-helps-to-keep-you-sane-shirt/",
-    "https://teeslocal.com/product/snoopy-streetwear-luxury-lv-dont-throw-my-past-in-my-face-i-know-what-the-fuck-i-did-shirt/"
+    "https://teeslocal.com/product/am-i-perfect-no-but-do-i-try-my-best-and-keep-a-positive-attitude-also-no-shirt/",
+    "https://teeslocal.com/product/cat-i-hate-it-when-i-am-singing-a-song-and-the-artist-gets-the-word-wrong-t-shirt/",
+    "https://teeslocal.com/product/dog-a-wise-married-man-once-said-nothing-shirt/",
+    "https://teeslocal.com/product/donkey-i-still-care-im-just-done-showing-it-shirt/",
+    "https://teeslocal.com/product/duck-online-shopping-for-3-hours-then-closing-all-tabs-shirt/",
+    "https://teeslocal.com/product/i-dont-know-i-just-work-here-dog-shirt/",
+    "https://teeslocal.com/product/i-am-not-mean-i-am-just-too-old-to-pretend-i-like-you-shirt/",
+    "https://teeslocal.com/product/i-hate-creating-shareholder-value-just-kidding-can-you-imagine-shirt/",
+    "https://teeslocal.com/product/free-chicago-bear-protest-vintage-shirt/",
+    "https://teeslocal.com/product/i-wasnt-listening-so-i-am-going-to-nod-smile-and-hope-for-the-best-t-shirt/"
   ]
 }
