@@ -36,16 +36,16 @@
     "https://teeworksusa.com/product/the-astrodome-houston-texas-shirt/"
   ],
   "meredpremium.com": [
-    "https://meredpremium.com/product/official-philadelphia-phillies-edmundo-sosa-bitches-love-sosa-shirt/",
-    "https://meredpremium.com/product/official-philadelphia-phillies-2025-everybody-hits-shirt/",
-    "https://meredpremium.com/product/official-notre-dame-fighting-irish-vs-texas-am-aggies-2025-gameday-showdown-football-t-shirt/",
-    "https://meredpremium.com/product/official-notre-dame-fighting-irish-beat-em-again-shirt/",
-    "https://meredpremium.com/product/official-nike-backyard-brawl-helmet-pitt-panthers-vs-west-virginia-rivalry-roadtrip-shirt/",
-    "https://meredpremium.com/product/official-nebraska-husker-volleyball-max-collegiate-shirt/",
-    "https://meredpremium.com/product/official-nebraska-cornhuskers-vs-houston-christian-2025-gameday-football-t-shirt/",
-    "https://meredpremium.com/product/official-missouri-tigers-victory-border-showdown-mizzou-42-31-kansas-shirt/",
-    "https://meredpremium.com/product/official-missouri-football-border-showdown-champions-42-31-ku-shirt/",
-    "https://meredpremium.com/product/official-michigan-wolverines-vs-central-michigan-chippewas-2025-gameday-showdown-football-t-shirt/"
+    "https://meredpremium.com/product/official-please-dont-let-me-buy-any-more-books-shirt/",
+    "https://meredpremium.com/product/official-pittsburgh-steelers-low-pulse-rate-our-kicker-is-a-serial-killer-shirt/",
+    "https://meredpremium.com/product/official-pitt-panthers-backyard-brawl-2025-shirt/",
+    "https://meredpremium.com/product/official-pitt-panthers-backyard-brawl-2025-matchup-vs-west-virginia-shirt/",
+    "https://meredpremium.com/product/official-philadelphia-phillies-ben-franklin-phils-fan-shirt/",
+    "https://meredpremium.com/product/official-philadelphia-go-birds-2025-shirt/",
+    "https://meredpremium.com/product/official-philadelphia-eagles-skull-i-hope-all-your-screams-come-true-shirt/",
+    "https://meredpremium.com/product/official-philadelphia-eagles-fukc-go-birds-t-shirt/",
+    "https://meredpremium.com/product/official-philadelphia-eagles-fuck-the-chiefs-go-birds-dickhead-shirt/",
+    "https://meredpremium.com/product/official-official-jourdanton-indians-vs-pleasanton-eagles-2025-highway-97-showdown-matchup-t-shirt/"
   ],
   "berrylittles.com": [
     "https://berrylittles.com/product/official-daniel-jones-indianapolis-colts-dime-time-nfl-football-signature-t-shirt/",
@@ -133,16 +133,16 @@
     "https://legendusashirt.com/product/the-metal-god-rob-halford-x-mfg-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/pregnant-ghost-dont-scare-me-i-might-pee-halloween-shirt/",
-    "https://teehandus.com/product/protestwahlen-tailliertes-shirt/",
-    "https://teehandus.com/product/queen-bitch-shirt/",
-    "https://teehandus.com/product/ralph-lauren-usa-ryder-cup-2025-shirt/",
-    "https://teehandus.com/product/rapper-drake-album-its-was-a-but-its-shirt/",
-    "https://teehandus.com/product/rare-be-rare-uncommon-different-shirt/",
-    "https://teehandus.com/product/red-flag-shirt/",
-    "https://teehandus.com/product/rick-and-morty-futurama-bojack-horseman-family-guy-american-dad-friends-shirt/",
-    "https://teehandus.com/product/seattle-mariners-etsy-witch-shirt/",
-    "https://teehandus.com/product/selena-forever-in-our-hearts-shirt/"
+    "https://teehandus.com/product/msu-spartan-strong-shirt/",
+    "https://teehandus.com/product/muscle-shoals-has-got-the-swampers-shirt/",
+    "https://teehandus.com/product/mush-squad-island-fungi-hawaii-shirt/",
+    "https://teehandus.com/product/musho-man-ohhh-yeah-shirt/",
+    "https://teehandus.com/product/mushroom-if-its-blue-in-im-chew-in-shirt/",
+    "https://teehandus.com/product/mushroom-we-can-all-grow-from-shit-shirt/",
+    "https://teehandus.com/product/mutt-cutts-mobile-pet-grooming-shirt/",
+    "https://teehandus.com/product/nah-vote-no-shirt/",
+    "https://teehandus.com/product/nc-state-wolfpack-basketball-5-days-5-scoops-shirt/",
+    "https://teehandus.com/product/never-underestimate-a-woman-cherokee-blood-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/e-eosso-davide-tardozzi-shirt/"
