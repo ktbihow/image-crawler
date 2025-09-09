@@ -24,16 +24,16 @@
     "https://techteesusa.com/product/of-course-i-am-gay-i-went-to-catholic-school-t-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/burn-responsibly-smokey-the-bear-grumpy-face-forest-fire-shirt/",
-    "https://teeworksusa.com/product/chicago-cubs-cm-punk-best-in-the-world-shirt/",
-    "https://teeworksusa.com/product/cheers-to-the-afterlife-skeleton-holding-beer-halloween-shirt/",
-    "https://teeworksusa.com/product/boonana-funny-peeling-banana-halloween-shirt/",
-    "https://teeworksusa.com/product/broncos-country-2025-denver-horse-wearing-hat-sunglasses-shirt/",
-    "https://teeworksusa.com/product/buffalo-bills-josh-allen-17-allen-allen-allen-allen-shirt/",
-    "https://teeworksusa.com/product/breathe-meditating-skeleton-yoga-funny-shirt/",
-    "https://teeworksusa.com/product/bills-mafia-2025-buffalo-wearing-beanie-sunglasses-shirt/",
-    "https://teeworksusa.com/product/big-truss-baltimore-raven-nation-2025-bird-wearing-beanie-sunglasses-shirt/",
-    "https://teeworksusa.com/product/austin-316-expect-no-mercy-stone-cold-wwe-shirt/"
+    "https://teeworksusa.com/product/you-are-foolish-to-think-that-your-actions-bear-no-consequences-shirt/",
+    "https://teeworksusa.com/product/wong-brothers-wash-and-fold-shirt/",
+    "https://teeworksusa.com/product/when-the-news-is-silent-the-streets-speak-the-truth-shirt/",
+    "https://teeworksusa.com/product/what-am-i-doing-here-axolotl-shirt/",
+    "https://teeworksusa.com/product/we-art-all-hounds-in-the-makers-blazing-chariot-shirt/",
+    "https://teeworksusa.com/product/vetion-old-school-apparel-shirt/",
+    "https://teeworksusa.com/product/true-stories-a-film-about-a-bunch-of-people-in-virgil-texas-shirt/",
+    "https://teeworksusa.com/product/the-weirdness-wasnt-a-phase-it-is-the-blueprint-of-my-soul-shirt/",
+    "https://teeworksusa.com/product/the-watchful-eyes-observe-every-silly-move-shirt/",
+    "https://teeworksusa.com/product/the-astrodome-houston-texas-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-zach-bryan-2025-09-06-events-experience-notre-dame-shirt/",
@@ -133,8 +133,16 @@
     "https://legendusashirt.com/product/the-metal-god-rob-halford-x-mfg-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/elon-musk-raptor-engine-shirt/",
-    "https://teehandus.com/product/buffalo-bills-destiny-is-calling-me-shirt/"
+    "https://teehandus.com/product/i-blame-ej-shirt/",
+    "https://teehandus.com/product/i-know-my-man-is-older-than-me-somebodys-gotta-take-care-of-the-elderly-shirt/",
+    "https://teehandus.com/product/i-see-the-struggle-in-your-face-and-i-know-how-it-feels-shirt/",
+    "https://teehandus.com/product/i-was-here-when-we-got-a-zouis-selfie-in-2025-shirt/",
+    "https://teehandus.com/product/im-a-crepe-im-a-weirdough-shirt/",
+    "https://teehandus.com/product/john-candy-an-argonaut-for-the-ages-shirt/",
+    "https://teehandus.com/product/jordan-love-all-you-need-is-green-bay-packers-shirt/",
+    "https://teehandus.com/product/jr-motorsports-all-we-do-is-win-shirt/",
+    "https://teehandus.com/product/katelyn-tarver-the-original-shirt/",
+    "https://teehandus.com/product/less-hate-more-tacos-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/e-eosso-davide-tardozzi-shirt/"
