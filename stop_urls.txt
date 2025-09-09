@@ -24,16 +24,10 @@
     "https://techteesusa.com/product/this-is-why-we-clash-jynxzi-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/cover-1-buffalo-bills-shirt/",
-    "https://teeworksusa.com/product/vikings-at-bears-minnesota-at-chicago-poster-shirt/",
-    "https://teeworksusa.com/product/ut-touchdown-tennessee-shirt/",
-    "https://teeworksusa.com/product/ut-tennessee-helmet-shirt/",
-    "https://teeworksusa.com/product/trevor-henderson-nightmare-chorus-shirt/",
-    "https://teeworksusa.com/product/the-williamson-dad-god-is-the-greatest-shirt/",
-    "https://teeworksusa.com/product/the-west-awakens-victory-or-death-shirt/",
-    "https://teeworksusa.com/product/the-retro-kentucky-buck-shirt/",
-    "https://teeworksusa.com/product/the-harlan-county-animal-control-shirt/",
-    "https://teeworksusa.com/product/the-beau-me-state-shirt/"
+    "https://teeworksusa.com/product/the-conjuring-last-rites-annabelle-shirt/",
+    "https://teeworksusa.com/product/pain-miami-hurricanes-shirt/",
+    "https://teeworksusa.com/product/no-vacancy-at-the-hotel-hail-shirt/",
+    "https://teeworksusa.com/product/jacory-croskey-merritt-washington-td-dance-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-we-run-this-state-ohio-bengals-17-16-browns-shirt/",
@@ -145,9 +139,7 @@
     "https://teehandus.com/product/shalom-alone-home-alone-shirt/"
   ],
   "thefunnyt.com": [
-    "https://thefunnyt.com/product/beat-em-again-shirt/",
-    "https://thefunnyt.com/product/derrick-henry-raft-kings-shirt/",
-    "https://thefunnyt.com/product/jim-irsay-for-the-boss-colts-shirt/"
+    "https://thefunnyt.com/product/eastons-fish-market-shirt/"
   ],
   "uscraftedtees.com": [
     "https://uscraftedtees.com/product/original-we-will-never-be-back-at-this-restaurant-the-staff-made-2025-shirt/",
