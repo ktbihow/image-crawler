@@ -12,16 +12,9 @@
     "https://geekteesus.com/product/kj-anderson-canes-2027-commitment-auburn-tigers-football-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/dirty-dually-4020-shirt/",
-    "https://techteesusa.com/product/washington-commanders-jayden-and-terry-and-deebo-and-ekeler-and-ertz-and-bill-shirt/",
-    "https://techteesusa.com/product/trevor-henderson-nightmare-chorus-horror-shirt/",
-    "https://techteesusa.com/product/the-office-parkour-hardcore-team-scranton-est-2009-shirt/",
-    "https://techteesusa.com/product/the-mystery-machine-scooby-doo-shirt/",
-    "https://techteesusa.com/product/the-caddie-network-europe-shirt/",
-    "https://techteesusa.com/product/snoopy-national-beagle-society-shirt/",
-    "https://techteesusa.com/product/simpsons-ralph-with-a-flute-up-his-nose-shirt/",
-    "https://techteesusa.com/product/queen-bitch-shirt/",
-    "https://techteesusa.com/product/of-course-i-am-gay-i-went-to-catholic-school-t-shirt/"
+    "https://techteesusa.com/product/bad-day-to-be-a-fridge-cig-shirt/",
+    "https://techteesusa.com/product/rat-brad-marchand-63-florida-panthers-shirt/",
+    "https://techteesusa.com/product/breanna-stewart-napheesa-collier-paige-bueckers-and-gabby-williams-indy-2025-wnba-all-stars-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/hotel-hail-no-vacancy-starkville-ms-mississippi-state-shirt/",
@@ -103,7 +96,16 @@
     "https://nowbestshirt.com/product/indianapolis-colts-2025-2025-nfl-schedule-2-sided-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/carnitas-y-gorditas-taco-love-shirt/"
+    "https://serenashirt.com/product/monster-high-group-lightning-shirt/",
+    "https://serenashirt.com/product/cow-you-cannot-overthink-shirt/",
+    "https://serenashirt.com/product/the-king-of-fighters-mai-shiranui-shirt/",
+    "https://serenashirt.com/product/darkstalkers-morrigan-aensland-shirt/",
+    "https://serenashirt.com/product/cat-how-your-email-finds-me-shirt/",
+    "https://serenashirt.com/product/supernatural-dean-winchester-shirt/",
+    "https://serenashirt.com/product/i-love-yy-hello-kitty-shirt/",
+    "https://serenashirt.com/product/halloween-ghost-with-black-cats-vintage-shirt/",
+    "https://serenashirt.com/product/bruce-lee-chuck-norris-shirt/",
+    "https://serenashirt.com/product/break-my-hole-not-my-heart-shirt/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/youre-a-gooner-im-a-goober-shirt/",
@@ -118,28 +120,28 @@
     "https://fanaticity.com/product/suns-barkley-football-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/derrick-henry-raft-kings-t-shirt/",
-    "https://legendusashirt.com/product/department-of-war-established-flag-vintage-2025-t-shirt/",
-    "https://legendusashirt.com/product/denver-broncos-historic-waver-football-helmet-2025-t-shirt/",
-    "https://legendusashirt.com/product/chicago-football-legends-mount-rushmore-t-shirt/",
-    "https://legendusashirt.com/product/buffalo-bills-destiny-is-calling-me-t-shirt/",
-    "https://legendusashirt.com/product/boise-state-broncos-208-blue-print-t-shirt/",
-    "https://legendusashirt.com/product/benson-boone-american-heart-tour-2025-song-t-shirt/",
-    "https://legendusashirt.com/product/aborted-la-grande-mascarade-t-shirt/",
-    "https://legendusashirt.com/product/arkansas-vs-ole-miss-game-day-oxford-ms-sept-13-2025-t-shirt/",
-    "https://legendusashirt.com/product/aborted-global-flatline-t-shirt/"
+    "https://legendusashirt.com/product/zach-bryan-notre-dame-stadium-2025-two-sided-shirt/",
+    "https://legendusashirt.com/product/yousuke-yukimatsu-north-america-tour-2025-two-sided-shirt/",
+    "https://legendusashirt.com/product/wednesday-season-2-edgar-allan-poe-skull-two-sided-shirt/",
+    "https://legendusashirt.com/product/vitriol-suffer-become-tour-2025-two-sided-shirt/",
+    "https://legendusashirt.com/product/threads-uniform-jackson-state-football-two-sided-shirt/",
+    "https://legendusashirt.com/product/kansas-city-chiefs-vs-los-angeles-chargers-sao-paulo-game-2025-two-sided-shirt/",
+    "https://legendusashirt.com/product/i-declare-war-bumper-sandwich-two-sided-shirt/",
+    "https://legendusashirt.com/product/diablos-rojos-del-mexico-lmb-bicampeones-2025-two-sided-shirt/",
+    "https://legendusashirt.com/product/detroit-tigers-first-responders-first-to-the-fight-two-sided-shirt/",
+    "https://legendusashirt.com/product/denver-broncos-x-bo-nix-two-sided-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/msu-spartan-strong-shirt/",
-    "https://teehandus.com/product/muscle-shoals-has-got-the-swampers-shirt/",
-    "https://teehandus.com/product/mush-squad-island-fungi-hawaii-shirt/",
-    "https://teehandus.com/product/musho-man-ohhh-yeah-shirt/",
-    "https://teehandus.com/product/mushroom-if-its-blue-in-im-chew-in-shirt/",
-    "https://teehandus.com/product/mushroom-we-can-all-grow-from-shit-shirt/",
-    "https://teehandus.com/product/mutt-cutts-mobile-pet-grooming-shirt/",
-    "https://teehandus.com/product/nah-vote-no-shirt/",
-    "https://teehandus.com/product/nc-state-wolfpack-basketball-5-days-5-scoops-shirt/",
-    "https://teehandus.com/product/never-underestimate-a-woman-cherokee-blood-shirt/"
+    "https://teehandus.com/product/you-left-the-rodi-on-shirt/",
+    "https://teehandus.com/product/you-got-a-problem-cowboy-shirt/",
+    "https://teehandus.com/product/wheel-of-life-hey-ive-been-here-before-shirt/",
+    "https://teehandus.com/product/trust-no-one-shirt/",
+    "https://teehandus.com/product/trick-your-treat-devils-eve-2007-shirt/",
+    "https://teehandus.com/product/swamp-anarchy-hops-not-cops-shirt/",
+    "https://teehandus.com/product/stay-sexy-and-dont-get-murdered-my-favorite-murder-shirt/",
+    "https://teehandus.com/product/skeleton-dance-get-your-creep-on-shirt/",
+    "https://teehandus.com/product/si-te-caigo-mal-aqui-hay-una-para-que-me-la-peles-shirt/",
+    "https://teehandus.com/product/shalom-alone-home-alone-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/e-eosso-davide-tardozzi-shirt/"
@@ -157,8 +159,16 @@
     "https://uscraftedtees.com/product/official-pain-of-truth-toast-to-coast-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/german-shepherd-whoever-said-technology-will-replace-paper-has-obviously-shirt/",
-    "https://capitoneshirt.com/product/chicago-flag-middle-finger-shirt/"
+    "https://capitoneshirt.com/product/annie-elise-true-crime-is-my-therapy-shirt/",
+    "https://capitoneshirt.com/product/washington-dc-taxation-without-representation-shirt/",
+    "https://capitoneshirt.com/product/skeleton-you-think-i-give-a-fuck-about-shirt/",
+    "https://capitoneshirt.com/product/skeleton-some-people-just-drain-the-fucking-nice-right-out-of-you-shirt/",
+    "https://capitoneshirt.com/product/relax-ill-just-be-a-minute-shirt/",
+    "https://capitoneshirt.com/product/pug-i-dont-live-my-life-to-please-anyone-shirt/",
+    "https://capitoneshirt.com/product/old-school-power-zrx-forever-ride-the-legend-shirt/",
+    "https://capitoneshirt.com/product/ohio-state-buckeyes-no-mascot-head-big-enough-4-your-legacy-shirt/",
+    "https://capitoneshirt.com/product/no-motorcycle-accident-can-stop-me-from-meeting-caitlyn-clark-shirt/",
+    "https://capitoneshirt.com/product/universal-drinking-game-take-a-drink-every-time-youre-not-happy-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/zenitsu-thunder-of-the-dead-blade-halloween-shirt/",
@@ -173,16 +183,16 @@
     "https://clickoneshirt.com/product/pcp-makes-it-fun-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/bo-baskoro-nothings-going-to-change-the-way-that-i-see-you-give-you-up-t-shirts-2/",
-    "https://teleteeshirt.com/product/blink-182-ufos-are-real-alien-fucking-exist-t-shirts/",
-    "https://teleteeshirt.com/product/blood-throne-arsonist-witch-t-shirts/",
-    "https://teleteeshirt.com/product/baby-bugs-love-letters-t-shirts/",
-    "https://teleteeshirt.com/product/baby-bugs-hey-bunny-t-shirts/",
-    "https://teleteeshirt.com/product/aryia-skull-knife-t-shirts/",
-    "https://teleteeshirt.com/product/aryia-i-love-goth-girls-t-shirts/",
-    "https://teleteeshirt.com/product/alexisonfire-legendary-classic-02-academy-brixton-2025-first-t-shirts/",
-    "https://teleteeshirt.com/product/acres-a-different-shade-of-misery-t-shirts/",
-    "https://teleteeshirt.com/product/adam-thielen-black-good-minnesota-vikings-t-shirts/"
+    "https://teleteeshirt.com/product/justin-bieber-cats-in-cheap-sunglasses-t-shirts/",
+    "https://teleteeshirt.com/product/jonas-brothers-greetings-from-chula-vista-ca-04-sep-2025-t-shirts/",
+    "https://teleteeshirt.com/product/jakey-say-no-at-racism-t-shirts/",
+    "https://teleteeshirt.com/product/its-always-sunny-in-philadelphia-phillies-pay-homage-go-phils-t-shirts/",
+    "https://teleteeshirt.com/product/its-always-sunny-in-philadelphia-eagles-philly-t-shirts/",
+    "https://teleteeshirt.com/product/its-always-sunny-in-philadelphia-eagles-paddys-pub-philly-t-shirts/",
+    "https://teleteeshirt.com/product/honor-the-gift-comm-arts-creative-since-1988-t-shirts/",
+    "https://teleteeshirt.com/product/harvey-street-live-at-the-lincoln-theatre-raleigh-nc-tour-sept-19-2025-t-shirts/",
+    "https://teleteeshirt.com/product/greenteas-dubby-dinner-fall-tour-2025-poplar-union-london-t-shirts/",
+    "https://teleteeshirt.com/product/grateful-dead-masons-children-fairfax-ca-sept-6-2025-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/today-im-wearing-a-lovely-shade-of-i-slept-like-shit-so-dont-piss-me-off-shirt/",
