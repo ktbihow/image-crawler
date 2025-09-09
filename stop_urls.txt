@@ -145,19 +145,21 @@
     "https://teehandus.com/product/shalom-alone-home-alone-shirt/"
   ],
   "thefunnyt.com": [
-    "https://thefunnyt.com/product/e-eosso-davide-tardozzi-shirt/"
+    "https://thefunnyt.com/product/beat-em-again-shirt/",
+    "https://thefunnyt.com/product/derrick-henry-raft-kings-shirt/",
+    "https://thefunnyt.com/product/jim-irsay-for-the-boss-colts-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/official-will-run-my-mouth-ringer-till-the-bitter-end-t-shirts/",
-    "https://uscraftedtees.com/product/official-title-fight-devil-t-shirts/",
-    "https://uscraftedtees.com/product/official-tiger-zac-blackerby-ball-is-not-a-state-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-spikes-joint-boycott-sals-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-somebody-in-rilo-kiley-loves-me-new-t-shirts/",
-    "https://uscraftedtees.com/product/official-salt-standing-against-legalized-tyranny-t-shirts/",
-    "https://uscraftedtees.com/product/official-perrie-album-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-rolled-em-pocket-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-not-our-first-rodeo-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-pain-of-truth-toast-to-coast-t-shirts/"
+    "https://uscraftedtees.com/product/original-we-will-never-be-back-at-this-restaurant-the-staff-made-2025-shirt/",
+    "https://uscraftedtees.com/product/original-trevor-henderson-nightmare-chorus-2025-shirt/",
+    "https://uscraftedtees.com/product/original-texas-am-aggies-home-of-the-12th-man-shirt/",
+    "https://uscraftedtees.com/product/original-the-callous-daoboys-someone-loves-me-2025-shirt/",
+    "https://uscraftedtees.com/product/original-sunday-world-we-are-paid-r2k-to-vote-anc-bi-election-in-jhb-shirt/",
+    "https://uscraftedtees.com/product/original-slut-pop-star-shirt/",
+    "https://uscraftedtees.com/product/original-san-francisco-49ers-unicorn-dabbing-shirt/",
+    "https://uscraftedtees.com/product/original-pokemons-25th-anniversary-shirt/",
+    "https://uscraftedtees.com/product/original-phillies-karen-cruella-de-phills-2025-shirt/",
+    "https://uscraftedtees.com/product/original-phasmophobia-prestige-ix-2025-shirt/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/we-believe-the-women-believe-the-epstein-victims-shirt/",
