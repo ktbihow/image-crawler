@@ -5,6 +5,7 @@ import os
 import json
 import re
 from datetime import datetime
+import pytz # Thêm thư viện pytz để xử lý múi giờ
 
 # Constants
 MAX_URLS = 500
@@ -426,9 +427,12 @@ if __name__ == "__main__":
         
     save_stop_urls(stop_urls_data)
 
+    vietnam_tz = pytz.timezone('Asia/Ho_Chi_Minh')
+    now_vietnam = datetime.now(vietnam_tz)
+
     with open("crawl-log.txt", "w", encoding="utf-8") as f:
         f.write("--- Summary of Last Image Crawl ---\n")
-        f.write(f"Thời gian: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        f.write(f"Thời gian: {now_vietnam.strftime('%Y-%m-%d %H:%M:%S')}\n")
         for domain, counts in urls_summary.items():
             f.write(f"{domain}: {counts['new_count']} new URLs added. Total {counts['total_count']} URLs.\n")
 
