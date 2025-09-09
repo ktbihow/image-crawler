@@ -23,7 +23,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 python-telegram-bot
+          pip install requests beautifulsoup4 python-telegram-bot pytz
 
       - name: Run crawler
         env:
