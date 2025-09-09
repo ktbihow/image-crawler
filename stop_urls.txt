@@ -1,20 +1,27 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/the-williamson-dad-god-is-the-greatest-shirt/",
-    "https://geekteesus.com/product/the-eyes-chico-they-never-lie-shirt/",
-    "https://geekteesus.com/product/saquon-barkley-cockroach-stomper-philadelphia-eagles-nfl-2025-shirt/",
-    "https://geekteesus.com/product/pittsburgh-steelers-nfl-our-kicker-is-serial-killer-shirt/",
-    "https://geekteesus.com/product/pitches-be-crazy-brash-seattle-mariners-shirt/",
-    "https://geekteesus.com/product/opening-day-is-better-than-opening-presents-shirt/",
-    "https://geekteesus.com/product/never-listen-be-a-man-shirt/",
-    "https://geekteesus.com/product/lamar-jackson-baltimore-ravens-quarterbacky-shirt/",
-    "https://geekteesus.com/product/military-appreciation-game-day-2025-mizzou-tigers-vs-mississippi-state-bulldogs-logo-shirt/",
-    "https://geekteesus.com/product/kj-anderson-canes-2027-commitment-auburn-tigers-football-shirt/"
+    "https://geekteesus.com/product/game-2-grambling-state-tigers-vs-ohio-state-buckeyes-2025-football-gameday-shirt/",
+    "https://geekteesus.com/product/indianapolis-dime-time-daniel-jones-indianapolis-colts-nfl-signature-shirt/",
+    "https://geekteesus.com/product/iowa-state-cyclones-vs-iowa-hawkeyes-cy-hawk-series-2025-trice-stadium-shirt/",
+    "https://geekteesus.com/product/jacory-croskey-merritt-washington-commanders-nfl-dance-shirt/",
+    "https://geekteesus.com/product/josh-allen-win-probability-chart-down-15-with-405-left-buffalo-bills-shirt/",
+    "https://geekteesus.com/product/jayden-terry-deebo-ekeler-ertz-bill-washington-ampersand-stars-shirt/",
+    "https://geekteesus.com/product/kiyan-anthony-and-carmelo-anthony-blood-orange-slam-cover-shirt/",
+    "https://geekteesus.com/product/mafia-szn-buffalo-bills-football-shirt/",
+    "https://geekteesus.com/product/minnesota-vikings-national-football-league-2025-nfl-shirt/",
+    "https://geekteesus.com/product/micah-parsons-green-bay-packers-nfl-flash-features-week-1-2025-photo-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/bad-day-to-be-a-fridge-cig-shirt/",
-    "https://techteesusa.com/product/rat-brad-marchand-63-florida-panthers-shirt/",
-    "https://techteesusa.com/product/breanna-stewart-napheesa-collier-paige-bueckers-and-gabby-williams-indy-2025-wnba-all-stars-shirt/"
+    "https://techteesusa.com/product/soad-avenged-sevenfold-2025-shirt/",
+    "https://techteesusa.com/product/shadow-the-hedgehog-and-rouge-the-bat-when-you-can-live-forever-what-do-you-live-for-shirt/",
+    "https://techteesusa.com/product/save-water-drink-tequila-shirt/",
+    "https://techteesusa.com/product/rudy-giuliani-graphic-shirt/",
+    "https://techteesusa.com/product/rochester-red-wings-deaf-culture-night-2025-shirt/",
+    "https://techteesusa.com/product/pitbull-x-buffalo-bills-football-parody-logo-shirt/",
+    "https://techteesusa.com/product/nazi-punks-fuck-off-pride-shirt/",
+    "https://techteesusa.com/product/new-york-mets-x-hocus-pocus-2025-shirt/",
+    "https://techteesusa.com/product/my-dog-thinks-im-cool-shirt-2/",
+    "https://techteesusa.com/product/mountain-dew-x-katamari-damacy-dewmocracy-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/hotel-hail-no-vacancy-starkville-ms-mississippi-state-shirt/",
@@ -165,39 +172,34 @@
     "https://capitoneshirt.com/product/universal-drinking-game-take-a-drink-every-time-youre-not-happy-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/zenitsu-thunder-of-the-dead-blade-halloween-shirt/",
-    "https://clickoneshirt.com/product/whos-afraid-of-little-old-me-you-should-be-shirt/",
-    "https://clickoneshirt.com/product/washington-commanders-vs-new-york-giants-nfl-gameday-shirt/",
-    "https://clickoneshirt.com/product/twenty-one-pilots-adventure-shirt/",
-    "https://clickoneshirt.com/product/this-chicago-bears-take-down-the-minnesota-vikings-on-monday-night-football-shirt/",
-    "https://clickoneshirt.com/product/the-real-g-spot-guinness-beer-shirt/",
-    "https://clickoneshirt.com/product/stfu-about-chicago-est-1837-shirt/",
-    "https://clickoneshirt.com/product/snoopy-fly-eagles-fly-eagles-happy-halloween-shirt/",
-    "https://clickoneshirt.com/product/pittsburgh-steelers-our-kicker-is-a-serial-killer-shirt-2/",
-    "https://clickoneshirt.com/product/pcp-makes-it-fun-shirt/"
+    "https://clickoneshirt.com/product/orin-dykae-ford-tiger-band-review-est-1957-shirt/",
+    "https://clickoneshirt.com/product/annunciation-catholic-church-shooting-minnesota-vikings-shirt/",
+    "https://clickoneshirt.com/product/las-vegas-aces-x-aja-mvp-2025-shirt/",
+    "https://clickoneshirt.com/product/cleveland-browns-taking-the-pound-across-the-pond-shirt/",
+    "https://clickoneshirt.com/product/ucf-knights-are-back-tour-2025-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/darkman-x-ride-or-die-skull-t-shirts/",
-    "https://teleteeshirt.com/product/chicago-bears-popes-from-chicago-1-popes-from-green-bay-0-t-shirts/",
-    "https://teleteeshirt.com/product/coming-out-of-my-cage-and-ive-been-doin-just-fine-t-shirts/",
-    "https://teleteeshirt.com/product/blues-brothers-x-chicago-bears-were-on-a-mission-from-da-pope-t-shirts/",
-    "https://teleteeshirt.com/product/alison-wonderland-hell-contains-themes-of-horror-ghost-t-shirts/",
-    "https://teleteeshirt.com/product/bad-bunny-residencia-no-me-quiero-ir-de-aqui-t-shirts/",
-    "https://teleteeshirt.com/product/aliens-exist-i-was-chosen-hey-mom-theres-something-in-the-back-room-t-shirts/",
-    "https://teleteeshirt.com/product/alison-wonderland-ghost-you-were-warned-not-to-listen-t-shirts/",
-    "https://teleteeshirt.com/product/will-trade-racists-for-refugees-t-shirts-2/",
-    "https://teleteeshirt.com/product/varials-scars-for-you-to-remember-knife-t-shirts/"
+    "https://teleteeshirt.com/product/valorant-champions-tour-2025-born-to-burn-riot-games-t-shirts/",
+    "https://teleteeshirt.com/product/the-black-angels-9-8-2025-aviator-nation-dreamland-in-malibu-ca-t-shirts/",
+    "https://teleteeshirt.com/product/the-beta-band-triangle-bee-t-shirts/",
+    "https://teleteeshirt.com/product/snoopy-the-peanuts-milwaukee-brewers-its-the-most-wonderful-time-of-the-year-walking-t-shirts/",
+    "https://teleteeshirt.com/product/the-beta-band-blocks-t-shirts-2/",
+    "https://teleteeshirt.com/product/rolling-loud-india-at-loud-park-kharghar-navi-mumbai-on-november-22-23-2025-t-shirts/",
+    "https://teleteeshirt.com/product/snoopy-and-friends-the-peanuts-toronto-blue-jays-its-the-most-wonderful-time-of-the-year-t-shirts/",
+    "https://teleteeshirt.com/product/reliqa-strike-t-shirts-2/",
+    "https://teleteeshirt.com/product/reliqa-what-a-beautiful-place-to-die-and-this-could-be-the-place-that-you-stay-forever-t-shirts/",
+    "https://teleteeshirt.com/product/radiohead-acid-minotaurs-t-shirts/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/am-i-perfect-no-but-do-i-try-my-best-and-keep-a-positive-attitude-also-no-shirt/",
-    "https://teeslocal.com/product/cat-i-hate-it-when-i-am-singing-a-song-and-the-artist-gets-the-word-wrong-t-shirt/",
-    "https://teeslocal.com/product/dog-a-wise-married-man-once-said-nothing-shirt/",
-    "https://teeslocal.com/product/donkey-i-still-care-im-just-done-showing-it-shirt/",
-    "https://teeslocal.com/product/duck-online-shopping-for-3-hours-then-closing-all-tabs-shirt/",
-    "https://teeslocal.com/product/i-dont-know-i-just-work-here-dog-shirt/",
-    "https://teeslocal.com/product/i-am-not-mean-i-am-just-too-old-to-pretend-i-like-you-shirt/",
-    "https://teeslocal.com/product/i-hate-creating-shareholder-value-just-kidding-can-you-imagine-shirt/",
-    "https://teeslocal.com/product/free-chicago-bear-protest-vintage-shirt/",
-    "https://teeslocal.com/product/i-wasnt-listening-so-i-am-going-to-nod-smile-and-hope-for-the-best-t-shirt/"
+    "https://teeslocal.com/product/sweater-rooster-fighter-pride-strength-feathers-arena-legend-champion-courage-glory-power-honor-victory-shirt/",
+    "https://teeslocal.com/product/sumo-stance-celebrate-being-solid-sarah-firth-celebrate-being-a-unit-shirt/",
+    "https://teeslocal.com/product/still-tippin-slow-loud-and-bangin-specialists-houston-tx-281-330-8004-shirt/",
+    "https://teeslocal.com/product/skeleton-wearing-leopard-prin-bow-im-not-just-a-im-also-a-bitch-shirt/",
+    "https://teeslocal.com/product/skeleton-dj-star-i-might-be-stubborn-and-opinionated-6-but-at-least-im-not-fake-shirt/",
+    "https://teeslocal.com/product/rooster-football-warrior-helmet-power-strength-pride-courage-champion-spirit-honor-legacy-victory-shirt/",
+    "https://teeslocal.com/product/red-rooster-cocky-by-nature-carolina-by-pride-shirt/",
+    "https://teeslocal.com/product/minion-ive-reached-an-age-when-my-train-of-thought-often-leaves-the-station-without-me-shirt/",
+    "https://teeslocal.com/product/minion-im-sory-i-slapped-you-but-it-seemed-like-youd-never-stop-talking-and-i-panicked-shirt/",
+    "https://teeslocal.com/product/lets-talk-about-mental-health-if-you-need-help-close-your-instagram-and-call-some-friends-text-shirt/"
   ]
 }
