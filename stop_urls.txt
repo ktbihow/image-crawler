@@ -72,26 +72,25 @@
     "https://dreameshirt.com/product/official-cm-punk-best-in-the-world-chicago-made-wwe-2025-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-were-on-a-mission-from-da-pope-blues-brothers-shirt/",
-    "https://teeextra.com/product/official-washington-ampersand-stars-jayden-terry-deebo-ekeler-ertz-bill-shirt/",
-    "https://teeextra.com/product/official-trevor-henderson-nightmare-chorus-shirt/",
-    "https://teeextra.com/product/official-treveyon-henderson-new-england-patriots-player-illustrative-pack-2025-shirt/",
-    "https://teeextra.com/product/official-the-smell-of-resistance-shirt/",
-    "https://teeextra.com/product/official-tennessee-volunteers-college-gameday-live-from-knoxville-shirt/",
-    "https://teeextra.com/product/official-tampa-bay-buccaneers-historic-waver-football-helmet-2025-shirt/",
-    "https://teeextra.com/product/official-smpl-rodeo-shirt/"
+    "https://teeextra.com/product/official-lizard-chemistry-vinyl-record-shirt/",
+    "https://teeextra.com/product/official-imagine-dragons-loom-south-american-2025-tour-shirt/",
+    "https://teeextra.com/product/official-harvey-street-with-the-band-solstice-raleigh-nc-sept-19-2025-shirt/",
+    "https://teeextra.com/product/official-evolve-skate-deathwish-yesterday-is-gone-shirt/",
+    "https://teeextra.com/product/official-e-eosso-davide-tardozzi-shirt-2/",
+    "https://teeextra.com/product/official-department-of-war-established-2025-shirt/",
+    "https://teeextra.com/product/official-cincinnati-bengals-fanatics-orange-2025-schedule-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/coors-light-dog-4th-of-july-shirt/",
-    "https://teespix.com/product/bo-nix-denver-broncos-shirt/",
-    "https://teespix.com/product/chicago-hates-nazis-shirt/",
-    "https://teespix.com/product/boycott-sals-shirt-2/",
-    "https://teespix.com/product/yacoub-floyd-i-cant-breed-shirt/",
-    "https://teespix.com/product/we-want-bama-score-florida-state-shirt/",
-    "https://teespix.com/product/washington-ampersand-stars-shirt/",
-    "https://teespix.com/product/university-of-manitoba-bisons-gold-and-blue-mascot-shirt/",
-    "https://teespix.com/product/uh-oh-tacos-mad-shirt/",
-    "https://teespix.com/product/trevor-henderson-nightmare-chorus-shirt/"
+    "https://teespix.com/product/zac-blackerby-auburn-tigers-ball-is-not-a-state-shirt/",
+    "https://teespix.com/product/washington-commanders-national-football-league-helmet-shirt/",
+    "https://teespix.com/product/trump-cant-handle-chicago-winters-shirt/",
+    "https://teespix.com/product/texas-rangers-viva-tejas-shirt-2/",
+    "https://teespix.com/product/teair-tart-slapped-travis-kelce-shirt/",
+    "https://teespix.com/product/spikes-joint-boycott-sals-shirt/",
+    "https://teespix.com/product/sorry-i-cant-i-have-plans-with-the-mafia-buffalo-bills-football-nfl-2025-shirt/",
+    "https://teespix.com/product/somebody-in-rilo-kiley-loves-me-shirt/",
+    "https://teespix.com/product/san-francisco-49ers-historic-prime-football-helmet-shirt/",
+    "https://teespix.com/product/philly-karen-wanted-reward-poster-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/oklahoma-beat-michigan-24-13-how-about-them-sooners-2-sided-shirt/",
@@ -106,16 +105,16 @@
     "https://nowbestshirt.com/product/indianapolis-colts-2025-2025-nfl-schedule-2-sided-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/treveyon-henderson-new-england-patriots-player-illustrative-pack-shirt/",
-    "https://serenashirt.com/product/aaron-rodgers-pittsburgh-steelers-nfl-flash-features-week-1-shirt/",
-    "https://serenashirt.com/product/jaxson-dart-new-york-giants-player-illustrative-pack-shirt/",
-    "https://serenashirt.com/product/micah-parsons-green-bay-packers-nfl-flash-features-week-1-shirt/",
-    "https://serenashirt.com/product/boise-state-broncos-stadium-football-shirt/",
-    "https://serenashirt.com/product/matt-prater-buffalo-bills-nfl-flash-features-week-1-shirt/",
-    "https://serenashirt.com/product/missouri-tigers-nfl-beau-pribula-knows-shirt/",
-    "https://serenashirt.com/product/missouri-tigers-beau-pribula-beaulieve-shirt/",
-    "https://serenashirt.com/product/indianapolis-colts-daniel-jones-and-the-team-of-destiny-shirt/",
-    "https://serenashirt.com/product/daniel-jones-indianapolis-colts-nfl-dime-time-shirt/"
+    "https://serenashirt.com/product/wizard-frog-its-not-my-fault-you-thought-that-i-was-normal-youve-had-more-than-enough-time-and-plenty-of-clues-to-figure-that-out-shirt/",
+    "https://serenashirt.com/product/wizard-frog-i-cast-insurance-fraud-shirt/",
+    "https://serenashirt.com/product/wizard-frog-its-not-my-fault-you-thought-that-i-was-normal-youre-had-more-than-enough-time-and-plenty-of-clues-to-figure-that-out-shirt/",
+    "https://serenashirt.com/product/sam-f-inspired-homage-shirt/",
+    "https://serenashirt.com/product/never-baguette-eiffel-shirt/",
+    "https://serenashirt.com/product/stay-i-want-it-july-comeback-good-things-we-ok-shirt/",
+    "https://serenashirt.com/product/everything-is-connected-shirt/",
+    "https://serenashirt.com/product/trevor-henderson-nightmare-chorus-shirt/",
+    "https://serenashirt.com/product/alexisonfire-dare-to-keep-kids-off-drugs-shirt/",
+    "https://serenashirt.com/product/derrick-henry-raft-kings-shirt/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/youre-a-gooner-im-a-goober-shirt/",
@@ -161,28 +160,19 @@
     "https://uscraftedtees.com/product/official-pain-of-truth-toast-to-coast-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/american-balled-eagle-shirt/",
-    "https://capitoneshirt.com/product/anti-political-political-club-shirt/",
-    "https://capitoneshirt.com/product/america-with-liberty-and-justice-for-all-all-shirt/",
-    "https://capitoneshirt.com/product/yoshinobu-yamamoto-tiger-roar-los-angeles-shirt/",
-    "https://capitoneshirt.com/product/treveyon-henderson-go-pats-running-patriots-shirt/",
-    "https://capitoneshirt.com/product/the-caddie-network-europe-shirt/",
-    "https://capitoneshirt.com/product/softball-hey-ump-you-need-to-check-your-voicemail-shirt/",
-    "https://capitoneshirt.com/product/skeleton-let-me-pour-you-a-tall-glass-of-get-the-fuck-over-it-shirt/",
-    "https://capitoneshirt.com/product/philadelphia-eagles-flip-the-birds-shirt/",
-    "https://capitoneshirt.com/product/odyssey-sims-jump-shot-indiana-fever-shirt/"
+    "https://capitoneshirt.com/product/wizard-its-not-my-fault-you-thought-that-i-was-normal-youve-had-more-than-enough-shirt/",
+    "https://capitoneshirt.com/product/wizard-its-not-my-fault-you-thought-that-i-was-normal-figure-that-out-shirt/",
+    "https://capitoneshirt.com/product/wizard-i-cast-insurance-fraud-shirt/",
+    "https://capitoneshirt.com/product/we-must-refuse-to-cooperate-with-injustice-shirt/",
+    "https://capitoneshirt.com/product/us-department-of-war-strength-honor-victory-shirt/",
+    "https://capitoneshirt.com/product/u-s-department-of-war-office-shirt/",
+    "https://capitoneshirt.com/product/the-rich-want-to-distract-us-with-a-culture-war-so-they-can-stop-a-class-war-shirt/",
+    "https://capitoneshirt.com/product/the-bible-predicted-that-christians-would-follow-a-false-prophet-shirt/",
+    "https://capitoneshirt.com/product/support-queer-owned-businesses-palantir-shirt/",
+    "https://capitoneshirt.com/product/sunflower-understanding-our-uncensored-history-will-make-a-greater-america-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/the-good-bad-stupid-pittsburgh-steelers-baltimore-ravens-and-cincinnati-bengals-shirt/",
-    "https://clickoneshirt.com/product/the-big-sleep-trent-grisham-new-york-yankees-shirt/",
-    "https://clickoneshirt.com/product/tac-boom-bat-shirt/",
-    "https://clickoneshirt.com/product/steve-smith-sr-ice-up-son-shirt/",
-    "https://clickoneshirt.com/product/skeleton-if-it-aint-broke-break-it-shirt/",
-    "https://clickoneshirt.com/product/roll-on-you-california-golden-bears-shirt/",
-    "https://clickoneshirt.com/product/pittsburgh-steelers-the-good-baltimore-ravens-the-bad-cleveland-browns-and-the-stupid-helmets-shirt/",
-    "https://clickoneshirt.com/product/pittsburgh-steelers-this-means-hope-this-means-justice-shirt/",
-    "https://clickoneshirt.com/product/philadelphia-football-pain-and-pleasure-are-never-far-apart-shirt/",
-    "https://clickoneshirt.com/product/pittsburgh-steelers-horror-movie-piss-on-cincinnati-bengals-baltimore-ravens-and-cleveland-browns-shirt/"
+    "https://clickoneshirt.com/product/the-life-of-a-showboy-kansas-city-chiefs-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/alex-morgan-forever-sep-07-2025-jersey-retirement-san-diego-wave-fc-t-shirts/",
