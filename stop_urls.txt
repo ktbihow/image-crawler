@@ -72,13 +72,14 @@
     "https://dreameshirt.com/product/official-cm-punk-best-in-the-world-chicago-made-wwe-2025-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-lizard-chemistry-vinyl-record-shirt/",
-    "https://teeextra.com/product/official-imagine-dragons-loom-south-american-2025-tour-shirt/",
-    "https://teeextra.com/product/official-harvey-street-with-the-band-solstice-raleigh-nc-sept-19-2025-shirt/",
-    "https://teeextra.com/product/official-evolve-skate-deathwish-yesterday-is-gone-shirt/",
-    "https://teeextra.com/product/official-e-eosso-davide-tardozzi-shirt-2/",
-    "https://teeextra.com/product/official-department-of-war-established-2025-shirt/",
-    "https://teeextra.com/product/official-cincinnati-bengals-fanatics-orange-2025-schedule-shirt/"
+    "https://teeextra.com/product/official-we-will-never-be-back-at-this-restaurant-the-staff-made-shirt/",
+    "https://teeextra.com/product/official-viva-la-raza-heavyweight-shirt/",
+    "https://teeextra.com/product/official-vameee-shirt/",
+    "https://teeextra.com/product/official-trump-cant-handle-chicago-winters-shirt/",
+    "https://teeextra.com/product/official-support-queer-owned-businesses-palantir-shirt/",
+    "https://teeextra.com/product/official-somebody-in-rilo-kiley-loves-me-new-shirt/",
+    "https://teeextra.com/product/official-popes-from-chicago-popes-from-green-bay-rivalry-shirt/",
+    "https://teeextra.com/product/official-ohsees-osees-mace-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/zac-blackerby-auburn-tigers-ball-is-not-a-state-shirt/",
@@ -105,16 +106,7 @@
     "https://nowbestshirt.com/product/indianapolis-colts-2025-2025-nfl-schedule-2-sided-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/wizard-frog-its-not-my-fault-you-thought-that-i-was-normal-youve-had-more-than-enough-time-and-plenty-of-clues-to-figure-that-out-shirt/",
-    "https://serenashirt.com/product/wizard-frog-i-cast-insurance-fraud-shirt/",
-    "https://serenashirt.com/product/wizard-frog-its-not-my-fault-you-thought-that-i-was-normal-youre-had-more-than-enough-time-and-plenty-of-clues-to-figure-that-out-shirt/",
-    "https://serenashirt.com/product/sam-f-inspired-homage-shirt/",
-    "https://serenashirt.com/product/never-baguette-eiffel-shirt/",
-    "https://serenashirt.com/product/stay-i-want-it-july-comeback-good-things-we-ok-shirt/",
-    "https://serenashirt.com/product/everything-is-connected-shirt/",
-    "https://serenashirt.com/product/trevor-henderson-nightmare-chorus-shirt/",
-    "https://serenashirt.com/product/alexisonfire-dare-to-keep-kids-off-drugs-shirt/",
-    "https://serenashirt.com/product/derrick-henry-raft-kings-shirt/"
+    "https://serenashirt.com/product/give-it-hell-brain-cancer-awareness-shirt/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/youre-a-gooner-im-a-goober-shirt/",
@@ -172,7 +164,16 @@
     "https://capitoneshirt.com/product/sunflower-understanding-our-uncensored-history-will-make-a-greater-america-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/the-life-of-a-showboy-kansas-city-chiefs-shirt/"
+    "https://clickoneshirt.com/product/zenitsu-thunder-of-the-dead-blade-halloween-shirt/",
+    "https://clickoneshirt.com/product/whos-afraid-of-little-old-me-you-should-be-shirt/",
+    "https://clickoneshirt.com/product/washington-commanders-vs-new-york-giants-nfl-gameday-shirt/",
+    "https://clickoneshirt.com/product/twenty-one-pilots-adventure-shirt/",
+    "https://clickoneshirt.com/product/this-chicago-bears-take-down-the-minnesota-vikings-on-monday-night-football-shirt/",
+    "https://clickoneshirt.com/product/the-real-g-spot-guinness-beer-shirt/",
+    "https://clickoneshirt.com/product/stfu-about-chicago-est-1837-shirt/",
+    "https://clickoneshirt.com/product/snoopy-fly-eagles-fly-eagles-happy-halloween-shirt/",
+    "https://clickoneshirt.com/product/pittsburgh-steelers-our-kicker-is-a-serial-killer-shirt-2/",
+    "https://clickoneshirt.com/product/pcp-makes-it-fun-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/alex-morgan-forever-sep-07-2025-jersey-retirement-san-diego-wave-fc-t-shirts/",
