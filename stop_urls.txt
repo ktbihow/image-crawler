@@ -24,16 +24,16 @@
     "https://techteesusa.com/product/this-is-why-we-clash-jynxzi-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/cincinnati-bengals-national-football-league-helmet-shirt/",
-    "https://teeworksusa.com/product/columbus-blue-jackets-eagle-military-rifle-night-vision-shirt/",
-    "https://teeworksusa.com/product/cleveland-browns-national-football-league-helmet-shirt/",
-    "https://teeworksusa.com/product/carolina-panthers-big-logo-blue-font-shirt/",
-    "https://teeworksusa.com/product/chicago-bears-national-football-league-helmet-shirt/",
-    "https://teeworksusa.com/product/buffalo-bills-national-football-league-helmet-shirt/",
-    "https://teeworksusa.com/product/bronco-country-denver-broncos-horse-military-night-vision-shirt/",
-    "https://teeworksusa.com/product/cle-till-i-die-xx-graphic-tee-shirt/",
-    "https://teeworksusa.com/product/cle-till-i-die-c-horns-logo-graphic-shirt/",
-    "https://teeworksusa.com/product/bo-is-my-orange-crush-denver-beer-can-football-shirt/"
+    "https://teeworksusa.com/product/cover-1-buffalo-bills-shirt/",
+    "https://teeworksusa.com/product/vikings-at-bears-minnesota-at-chicago-poster-shirt/",
+    "https://teeworksusa.com/product/ut-touchdown-tennessee-shirt/",
+    "https://teeworksusa.com/product/ut-tennessee-helmet-shirt/",
+    "https://teeworksusa.com/product/trevor-henderson-nightmare-chorus-shirt/",
+    "https://teeworksusa.com/product/the-williamson-dad-god-is-the-greatest-shirt/",
+    "https://teeworksusa.com/product/the-west-awakens-victory-or-death-shirt/",
+    "https://teeworksusa.com/product/the-retro-kentucky-buck-shirt/",
+    "https://teeworksusa.com/product/the-harlan-county-animal-control-shirt/",
+    "https://teeworksusa.com/product/the-beau-me-state-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-we-run-this-state-ohio-bengals-17-16-browns-shirt/",
