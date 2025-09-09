@@ -24,16 +24,16 @@
     "https://techteesusa.com/product/move-fast-and-break-chains-t-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/keep-calm-chicago-bear-down-2025-bear-wearing-beanie-shirt/",
-    "https://teeworksusa.com/product/its-me-and-my-4-hours-of-sleep-against-the-world-angry-skeleton-lightning-funny-shirt/",
-    "https://teeworksusa.com/product/keanu-btb-benton-pittsburgh-steelers-football-player-shirt/",
-    "https://teeworksusa.com/product/jacksonville-is-back-2025-jaguars-animal-wearing-hoodie-shirt/",
-    "https://teeworksusa.com/product/ill-blood-on-my-gore-tex-funny-gore-tex-pun-shirt/",
-    "https://teeworksusa.com/product/indianapolis-colts-in-honor-of-jim-for-the-boss-shirt/",
-    "https://teeworksusa.com/product/im-old-school-i-believe-in-respect-funny-mustache-man-sunglasses-shirt/",
-    "https://teeworksusa.com/product/i-live-for-battle-spartan-and-lion-fantasy-shirt/",
-    "https://teeworksusa.com/product/i-love-trump-because-he-pisses-off-the-people-shirt/",
-    "https://teeworksusa.com/product/hugo-bo22-ekitike-liverpool-soccer-football-player-funny-shirt/"
+    "https://teeworksusa.com/product/burn-responsibly-smokey-the-bear-grumpy-face-forest-fire-shirt/",
+    "https://teeworksusa.com/product/chicago-cubs-cm-punk-best-in-the-world-shirt/",
+    "https://teeworksusa.com/product/cheers-to-the-afterlife-skeleton-holding-beer-halloween-shirt/",
+    "https://teeworksusa.com/product/boonana-funny-peeling-banana-halloween-shirt/",
+    "https://teeworksusa.com/product/broncos-country-2025-denver-horse-wearing-hat-sunglasses-shirt/",
+    "https://teeworksusa.com/product/buffalo-bills-josh-allen-17-allen-allen-allen-allen-shirt/",
+    "https://teeworksusa.com/product/breathe-meditating-skeleton-yoga-funny-shirt/",
+    "https://teeworksusa.com/product/bills-mafia-2025-buffalo-wearing-beanie-sunglasses-shirt/",
+    "https://teeworksusa.com/product/big-truss-baltimore-raven-nation-2025-bird-wearing-beanie-sunglasses-shirt/",
+    "https://teeworksusa.com/product/austin-316-expect-no-mercy-stone-cold-wwe-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-zach-bryan-2025-09-06-events-experience-notre-dame-shirt/",
