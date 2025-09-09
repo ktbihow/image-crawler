@@ -36,16 +36,13 @@
     "https://teeworksusa.com/product/the-astrodome-houston-texas-shirt/"
   ],
   "meredpremium.com": [
-    "https://meredpremium.com/product/official-please-dont-let-me-buy-any-more-books-shirt/",
-    "https://meredpremium.com/product/official-pittsburgh-steelers-low-pulse-rate-our-kicker-is-a-serial-killer-shirt/",
-    "https://meredpremium.com/product/official-pitt-panthers-backyard-brawl-2025-shirt/",
-    "https://meredpremium.com/product/official-pitt-panthers-backyard-brawl-2025-matchup-vs-west-virginia-shirt/",
-    "https://meredpremium.com/product/official-philadelphia-phillies-ben-franklin-phils-fan-shirt/",
-    "https://meredpremium.com/product/official-philadelphia-go-birds-2025-shirt/",
-    "https://meredpremium.com/product/official-philadelphia-eagles-skull-i-hope-all-your-screams-come-true-shirt/",
-    "https://meredpremium.com/product/official-philadelphia-eagles-fukc-go-birds-t-shirt/",
-    "https://meredpremium.com/product/official-philadelphia-eagles-fuck-the-chiefs-go-birds-dickhead-shirt/",
-    "https://meredpremium.com/product/official-official-jourdanton-indians-vs-pleasanton-eagles-2025-highway-97-showdown-matchup-t-shirt/"
+    "https://meredpremium.com/product/official-we-run-this-state-ohio-bengals-17-16-browns-shirt/",
+    "https://meredpremium.com/product/official-were-on-a-mission-from-da-pope-blues-brothers-shirt/",
+    "https://meredpremium.com/product/official-washington-commanders-ampersand-stars-t-shirt/",
+    "https://meredpremium.com/product/official-trump-middle-finger-chicago-flag-shirt/",
+    "https://meredpremium.com/product/official-tennessee-volunteers-football-1998-national-champs-shirt/",
+    "https://meredpremium.com/product/official-tennessee-volunteers-big-orange-country-sports-shirt/",
+    "https://meredpremium.com/product/official-support-queer-owned-businesses-shirt/"
   ],
   "berrylittles.com": [
     "https://berrylittles.com/product/official-daniel-jones-indianapolis-colts-dime-time-nfl-football-signature-t-shirt/",
