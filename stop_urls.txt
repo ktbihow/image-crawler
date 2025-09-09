@@ -24,16 +24,16 @@
     "https://techteesusa.com/product/this-is-why-we-clash-jynxzi-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/beware-of-broncos-angry-shark-and-horse-head-logo-shirt/",
-    "https://teeworksusa.com/product/baseball-extreme-sport-shirt/",
-    "https://teeworksusa.com/product/bear-bones-skull-bear-ears-and-crossbones-shirt/",
-    "https://teeworksusa.com/product/ballknower-mostly-sports-football-graphic-logo-shirt/",
-    "https://teeworksusa.com/product/b-m-hex-gang-halloween-graphic-shirt/",
-    "https://teeworksusa.com/product/baltimore-orioles-bird-military-rifle-night-vision-shirt/",
-    "https://teeworksusa.com/product/amon-ra-egyptian-god-holding-football-sticks-player-number-14-shirt/",
-    "https://teeworksusa.com/product/americas-team-cowboys-football-military-rocket-launcher-shirt/",
-    "https://teeworksusa.com/product/amon-ra-st-brown-detroit-lions-player-graphic-shirt/",
-    "https://teeworksusa.com/product/allen-17-buffalo-bills-football-player-back-view-illustration-shirt/"
+    "https://teeworksusa.com/product/cincinnati-bengals-national-football-league-helmet-shirt/",
+    "https://teeworksusa.com/product/columbus-blue-jackets-eagle-military-rifle-night-vision-shirt/",
+    "https://teeworksusa.com/product/cleveland-browns-national-football-league-helmet-shirt/",
+    "https://teeworksusa.com/product/carolina-panthers-big-logo-blue-font-shirt/",
+    "https://teeworksusa.com/product/chicago-bears-national-football-league-helmet-shirt/",
+    "https://teeworksusa.com/product/buffalo-bills-national-football-league-helmet-shirt/",
+    "https://teeworksusa.com/product/bronco-country-denver-broncos-horse-military-night-vision-shirt/",
+    "https://teeworksusa.com/product/cle-till-i-die-xx-graphic-tee-shirt/",
+    "https://teeworksusa.com/product/cle-till-i-die-c-horns-logo-graphic-shirt/",
+    "https://teeworksusa.com/product/bo-is-my-orange-crush-denver-beer-can-football-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-we-run-this-state-ohio-bengals-17-16-browns-shirt/",
@@ -109,16 +109,16 @@
     "https://serenashirt.com/product/the-great-noticing-shirt/"
   ],
   "fanaticity.com": [
-    "https://fanaticity.com/product/the-well-is-deep-dan-campbell-laser-eyes-detroit-lions-football-shirt/",
-    "https://fanaticity.com/product/sabah-fc-bank-respublika-shirt/",
-    "https://fanaticity.com/product/oregon-duck-football-mascot-x-logo-shirt/",
-    "https://fanaticity.com/product/mikes-muscle-gym-train-to-failure-or-become-one-shirt/",
-    "https://fanaticity.com/product/obey-tunein-2-curious-feeling-sensory-exploration-shirt/",
-    "https://fanaticity.com/product/beat-em-again-notre-dame-fighting-irish-vs-mississippi-state-bulldogs-shirt/",
-    "https://fanaticity.com/product/marco-the-bison-mascot-marshall-university-in-huntington-amazing-herd-shirt/",
-    "https://fanaticity.com/product/hobbit-day-no-admittance-except-on-party-business-september-22nd-2025-shirt/",
-    "https://fanaticity.com/product/john-candy-an-argonaut-for-the-ages-shirt/",
-    "https://fanaticity.com/product/chicago-bears-football-mascot-city-skyline-shirt/"
+    "https://fanaticity.com/product/fishers-tigers-rumble-in-the-jungle-tigers-vs-lions-football-shirt/",
+    "https://fanaticity.com/product/fck-becky-swain-shirt/",
+    "https://fanaticity.com/product/eric-martin-unleashed-unplugged-with-david-cotterill-shirt/",
+    "https://fanaticity.com/product/donkey-kong-dk-bananza-shirt/",
+    "https://fanaticity.com/product/dog-frenchie-coffee-happiness-shirt/",
+    "https://fanaticity.com/product/disney-donald-duck-three-peat-colorado-avalanche-shirt/",
+    "https://fanaticity.com/product/derpy-tiger-and-sussy-from-kpop-demon-hunters-in-japanese-ukiyo-e-style-shirt/",
+    "https://fanaticity.com/product/deep-purple-57-years-1968-2025-thank-you-for-the-memories-signatures-shirt/",
+    "https://fanaticity.com/product/dandadan-cursed-speed-shirt/",
+    "https://fanaticity.com/product/cuse-orange-syracuse-basketball-mascot-vintage-shirt/"
   ],
   "legendusashirt.com": [
     "https://legendusashirt.com/product/zach-bryan-notre-dame-stadium-2025-two-sided-shirt/",
