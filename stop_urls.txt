@@ -85,16 +85,7 @@
     "https://teespix.com/product/trump-chicago-hates-nazis-shirt/"
   ],
   "nowbestshirt.com": [
-    "https://nowbestshirt.com/product/oklahoma-beat-michigan-24-13-how-about-them-sooners-2-sided-shirt/",
-    "https://nowbestshirt.com/product/nassourdine-imavov-the-sniper-2025-ufc-paris-2-sided-shirt/",
-    "https://nowbestshirt.com/product/go-blue-pony-up-smu-mustangs-2025-ncaa-football-2-sided-shirt/",
-    "https://nowbestshirt.com/product/caio-borralho-2025-ufc-fight-night-paris-2-sided-shirt/",
-    "https://nowbestshirt.com/product/jr-motorsports-official-team-all-we-do-is-win-been-there-won-that-2-sided-shirt/",
-    "https://nowbestshirt.com/product/west-virginia-football-2025-mountaineers-nation-schedule-2-sided-shirt/",
-    "https://nowbestshirt.com/product/minnesota-vikings-2025-2025-nfl-schedule-2-sided-shirt/",
-    "https://nowbestshirt.com/product/maryland-terrapins-2025-fear-the-furtle-schedule-2-sided-shirt/",
-    "https://nowbestshirt.com/product/kansas-city-chiefs-2025-2025-nfl-schedule-2-sided-shirt/",
-    "https://nowbestshirt.com/product/indianapolis-colts-2025-2025-nfl-schedule-2-sided-shirt/"
+    "https://nowbestshirt.com/product/make-chicago-great-again-trump-chicago-bears-2-sided-shirt/"
   ],
   "serenashirt.com": [
     "https://serenashirt.com/product/bush-razorblade-suitcase-1997-tour-shirt/",
@@ -115,16 +106,16 @@
     "https://fanaticity.com/product/cuse-orange-syracuse-basketball-mascot-vintage-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/chain-cult-mexico-colombia-oct-nov-2025-t-shirt/",
-    "https://legendusashirt.com/product/family-dollar-the-grinch-hallothanksmas-2025-t-shirt/",
-    "https://legendusashirt.com/product/eric-church-vintage-wash-eagle-2025-t-shirt/",
-    "https://legendusashirt.com/product/eric-church-free-the-machine-tour-2025-skull-t-shirt/",
-    "https://legendusashirt.com/product/dwarves-the-27-club-in-ottawa-canada-sep-11-2025-t-shirt/",
-    "https://legendusashirt.com/product/doordash-your-slop-bowl-get-extra-guac-t-shirt/",
-    "https://legendusashirt.com/product/doordash-the-grinch-hallothanksmas-2025-t-shirt/",
-    "https://legendusashirt.com/product/dollar-tree-x-baby-yoda-witch-halloween-2025-t-shirt/",
-    "https://legendusashirt.com/product/dollar-tree-the-grinch-hallothanksmas-2025-t-shirt/",
-    "https://legendusashirt.com/product/dollar-general-x-baby-yoda-witch-halloween-2025-t-shirt/"
+    "https://legendusashirt.com/product/wendys-x-baby-yoda-witch-halloween-2025-t-shirt/",
+    "https://legendusashirt.com/product/walmart-the-grinch-hallothanksmas-2025-t-shirt/",
+    "https://legendusashirt.com/product/walgreens-the-grinch-hallothanksmas-2025-t-shirt/",
+    "https://legendusashirt.com/product/usps-the-grinch-hallothanksmas-2025-t-shirt/",
+    "https://legendusashirt.com/product/ups-the-grinch-hallothanksmas-2025-t-shirt/",
+    "https://legendusashirt.com/product/tyson-foods-the-grinch-hallothanksmas-2025-t-shirt/",
+    "https://legendusashirt.com/product/the-home-depot-the-grinch-hallothanksmas-2025-t-shirt/",
+    "https://legendusashirt.com/product/the-common-thread-tour-leeds-university-union-in-leeds-uk-10-26-2025-t-shirt/",
+    "https://legendusashirt.com/product/texas-roadhouse-x-baby-yoda-witch-halloween-2025-t-shirt/",
+    "https://legendusashirt.com/product/target-the-grinch-hallothanksmas-2025-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/you-left-the-rodi-on-shirt/",
