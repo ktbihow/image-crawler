@@ -130,7 +130,8 @@
     "https://teehandus.com/product/shalom-alone-home-alone-shirt/"
   ],
   "thefunnyt.com": [
-    "https://thefunnyt.com/product/crenshaw-slauson-overhill-la-brea-la-cienega-hoodie/"
+    "https://thefunnyt.com/product/new-york-inner-city-sports-division-shirt/",
+    "https://thefunnyt.com/product/sur-la-mer-sailboat-sweatshirt/"
   ],
   "uscraftedtees.com": [
     "https://uscraftedtees.com/product/original-we-will-never-be-back-at-this-restaurant-the-staff-made-2025-shirt/",
