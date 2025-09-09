@@ -1,15 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/aaron-rodgers-player-pittsburgh-steelers-nfl-vintage-shirt/",
-    "https://geekteesus.com/product/2025-boomer-sooner-oklahoma-sooners-vs-michigan-wolverines-24-13-score-shirt/",
-    "https://geekteesus.com/product/2025-cy-hawk-trophy-champions-iowa-state-cyclones-16-13-iowa-hawkeyes-football-shirt/",
-    "https://geekteesus.com/product/alexisonfire-dare-to-keep-kids-off-drugs-shirt/",
-    "https://geekteesus.com/product/aaron-rodgers-pittsburgh-steelers-nfl-flash-features-week-1-2025-photo-shirt/",
-    "https://geekteesus.com/product/baltimore-ravens-4th-down-and-fuck-it-go-ravens-logo-shirt/",
-    "https://geekteesus.com/product/beau-pribula-believe-missouri-tigers-football-shirt/",
-    "https://geekteesus.com/product/beau-pribula-knows-missouri-tigers-football-shirt/",
-    "https://geekteesus.com/product/bucky-irving-to-the-pylon-tampa-bay-buccaneers-nfl-shirt/",
-    "https://geekteesus.com/product/bull-seye-jaxson-dart-new-york-giants-nfl-big-blue-2025-shirt/"
+    "https://geekteesus.com/product/zach-bryan-notre-dame-fighting-irish-stadium-2025-shirt/",
+    "https://geekteesus.com/product/the-boss-jim-irsay-2025-indianapolis-colts-for-the-boss-signature-shirt/",
+    "https://geekteesus.com/product/so-mos-rams-somos-familia-los-angeles-rams-nfl-shirt/",
+    "https://geekteesus.com/product/raider-power-texas-tech-red-raiders-vs-oregon-state-beavers-2025-beat-the-beavers-gameday-shirt/",
+    "https://geekteesus.com/product/indiana-hoosiers-stadium-ball-nation-college-football-2025-shirt/",
+    "https://geekteesus.com/product/missouri-tigers-noah-gilion-fight-and-win-osteosarcoma-cancer-2025-shirt/",
+    "https://geekteesus.com/product/minnesota-vikings-warm-up-annunciation-shirt/",
+    "https://geekteesus.com/product/chicago-bears-warm-up-annunciation-2025-shirt/",
+    "https://geekteesus.com/product/fightin-taters-idaho-vandals-football-2025-logo-shirt/",
+    "https://geekteesus.com/product/auburn-tigers-2025-football-season-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/you-know-im-not-dead-shirt/",
@@ -24,16 +24,16 @@
     "https://techteesusa.com/product/this-is-why-we-clash-jynxzi-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/hotel-hail-no-vacancy-starkville-ms-mississippi-state-shirt/",
-    "https://teeworksusa.com/product/hey-ump-you-need-to-check-your-voicemail-funny-softball-quote-shirt/",
-    "https://teeworksusa.com/product/i-kicked-the-keg-at-dominics-tavern-chicken-shirt/",
-    "https://teeworksusa.com/product/im-pretty-than-a-mf-ho3s-be-lookin-okay-shirt/",
-    "https://teeworksusa.com/product/im-feeling-gassy-mr-incredible-funny-meme-shirt/",
-    "https://teeworksusa.com/product/i-lips-red-ty-lipstick-shirt/",
-    "https://teeworksusa.com/product/jahmyr-anzalone-williams-goff-st-brown-hutchinson-laporta-detroit-lions-players-list-shirt/",
-    "https://teeworksusa.com/product/jacory-croskey-merritt-football-player-duo-graphic-shirt/",
-    "https://teeworksusa.com/product/its-a-mafia-thing-buffalo-bills-shirt/",
-    "https://teeworksusa.com/product/josh-down-15-with-405-left-9-7-25-football-chart-quote-shirt/"
+    "https://teeworksusa.com/product/beware-of-broncos-angry-shark-and-horse-head-logo-shirt/",
+    "https://teeworksusa.com/product/baseball-extreme-sport-shirt/",
+    "https://teeworksusa.com/product/bear-bones-skull-bear-ears-and-crossbones-shirt/",
+    "https://teeworksusa.com/product/ballknower-mostly-sports-football-graphic-logo-shirt/",
+    "https://teeworksusa.com/product/b-m-hex-gang-halloween-graphic-shirt/",
+    "https://teeworksusa.com/product/baltimore-orioles-bird-military-rifle-night-vision-shirt/",
+    "https://teeworksusa.com/product/amon-ra-egyptian-god-holding-football-sticks-player-number-14-shirt/",
+    "https://teeworksusa.com/product/americas-team-cowboys-football-military-rocket-launcher-shirt/",
+    "https://teeworksusa.com/product/amon-ra-st-brown-detroit-lions-player-graphic-shirt/",
+    "https://teeworksusa.com/product/allen-17-buffalo-bills-football-player-back-view-illustration-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-we-run-this-state-ohio-bengals-17-16-browns-shirt/",
@@ -79,16 +79,16 @@
     "https://teeextra.com/product/official-ohsees-osees-mace-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/msu-bulldogs-no-vacancy-at-the-hotel-hail-t-shirt/",
-    "https://teespix.com/product/washington-commanders-ampersand-stars-t-shirt/",
-    "https://teespix.com/product/mississippi-state-bulldogs-starkville-vs-everybody-shirt-2/",
-    "https://teespix.com/product/daniel-jones-indianapolis-colts-dime-timet-shirt/",
-    "https://teespix.com/product/philadelphia-eagles-fukc-go-birds-t-shirt/",
-    "https://teespix.com/product/fukc-go-texans-t-shirt/",
-    "https://teespix.com/product/fukc-go-bills-t-shirt/",
-    "https://teespix.com/product/missouri-tigers-beau-pribula-believe-shirt/",
-    "https://teespix.com/product/fukc-go-raiders-t-shirt/",
-    "https://teespix.com/product/missouri-tigers-beau-pribula-knows-shirt/"
+    "https://teespix.com/product/starkville-vs-everybody-msu-bulldogs-t-shirt/",
+    "https://teespix.com/product/isaac-teslaa-detroit-lions-what-a-catch-shirt/",
+    "https://teespix.com/product/hockey-finder-fall-into-superior-2025-tournament-t-shirt/",
+    "https://teespix.com/product/burrow-higgins-chase-cincinnati-bengals-rule-the-jungle-shirt/",
+    "https://teespix.com/product/alabama-crimson-tide-vs-wisconsin-badgers-2025-gameday-september-13th-t-shirt/",
+    "https://teespix.com/product/chris-boswell-our-kicker-is-a-serial-t-shirt/",
+    "https://teespix.com/product/chris-boswell-low-pulse-rate-shirt/",
+    "https://teespix.com/product/alabama-crimson-tide-vs-louisiana-monroe-2025-gameday-sept-6-t-shirt/",
+    "https://teespix.com/product/notre-dame-fighting-irish-beat-em-again-shirt/",
+    "https://teespix.com/product/trump-chicago-hates-nazis-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/oklahoma-beat-michigan-24-13-how-about-them-sooners-2-sided-shirt/",
@@ -109,16 +109,16 @@
     "https://serenashirt.com/product/the-great-noticing-shirt/"
   ],
   "fanaticity.com": [
-    "https://fanaticity.com/product/youre-a-gooner-im-a-goober-shirt/",
-    "https://fanaticity.com/product/youve-gotta-fight-for-your-right-to-party-shirt/",
-    "https://fanaticity.com/product/where-my-dawgs-at-northern-illinois-vs-mississippi-state-game-day-2025-shirt/",
-    "https://fanaticity.com/product/twenty-one-pilots-adventure-time-shirt/",
-    "https://fanaticity.com/product/trumpkin-spice-and-everything-ice-halloween-pumpkin-shirt/",
-    "https://fanaticity.com/product/the-teskey-brothers-wolf-trap-vienna-09-10-2025-tour-shirt/",
-    "https://fanaticity.com/product/texas-am-vs-arkansas-donald-w-reynolds-razorback-stadium-game-game-day-2025-shirt/",
-    "https://fanaticity.com/product/tart-better-than-kelce-shirt/",
-    "https://fanaticity.com/product/swift-smacks-travis-kelce-shirt/",
-    "https://fanaticity.com/product/suns-barkley-football-shirt/"
+    "https://fanaticity.com/product/the-well-is-deep-dan-campbell-laser-eyes-detroit-lions-football-shirt/",
+    "https://fanaticity.com/product/sabah-fc-bank-respublika-shirt/",
+    "https://fanaticity.com/product/oregon-duck-football-mascot-x-logo-shirt/",
+    "https://fanaticity.com/product/mikes-muscle-gym-train-to-failure-or-become-one-shirt/",
+    "https://fanaticity.com/product/obey-tunein-2-curious-feeling-sensory-exploration-shirt/",
+    "https://fanaticity.com/product/beat-em-again-notre-dame-fighting-irish-vs-mississippi-state-bulldogs-shirt/",
+    "https://fanaticity.com/product/marco-the-bison-mascot-marshall-university-in-huntington-amazing-herd-shirt/",
+    "https://fanaticity.com/product/hobbit-day-no-admittance-except-on-party-business-september-22nd-2025-shirt/",
+    "https://fanaticity.com/product/john-candy-an-argonaut-for-the-ages-shirt/",
+    "https://fanaticity.com/product/chicago-bears-football-mascot-city-skyline-shirt/"
   ],
   "legendusashirt.com": [
     "https://legendusashirt.com/product/zach-bryan-notre-dame-stadium-2025-two-sided-shirt/",
@@ -160,16 +160,16 @@
     "https://uscraftedtees.com/product/official-pain-of-truth-toast-to-coast-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/put-your-titty-up-adele-shirt/",
-    "https://capitoneshirt.com/product/night-of-the-living-dinos-halloween-shirt/",
-    "https://capitoneshirt.com/product/pride-native-american-no-one-is-illegal-on-stolen-land-shirt/",
-    "https://capitoneshirt.com/product/native-american-my-ancestors-didnt-cross-borders-crossed-them-since-1492-shirt/",
-    "https://capitoneshirt.com/product/native-american-i-wear-orange-for-every-stolen-native-child-shirt/",
-    "https://capitoneshirt.com/product/mummys-mirror-maze-will-you-escape-halloween-shirt/",
-    "https://capitoneshirt.com/product/money-man-lies-politicians-are-the-problem-shirt/",
-    "https://capitoneshirt.com/product/long-haired-freaky-people-need-not-apply-shirt/",
-    "https://capitoneshirt.com/product/lord-of-the-rings-the-shadow-takes-shape-in-the-darkness-shirt/",
-    "https://capitoneshirt.com/product/jokes-on-you-i-like-getting-my-ass-beat-shirt/"
+    "https://capitoneshirt.com/product/we-believe-the-women-believe-the-epstein-victims-shirt/",
+    "https://capitoneshirt.com/product/union-pirate-bye-bye-byerou-bayrou-shirt/",
+    "https://capitoneshirt.com/product/there-is-only-one-shade-of-orange-shirt/",
+    "https://capitoneshirt.com/product/uncle-trump-i-want-you-to-forget-about-the-epstein-list-shirt/",
+    "https://capitoneshirt.com/product/the-drum-connects-our-heart-to-the-heartbeat-of-mother-earth-shirt/",
+    "https://capitoneshirt.com/product/tennessee-volunteers-nuck-fico-fuck-nico-shirt/",
+    "https://capitoneshirt.com/product/tennessee-volunteers-get-your-corn-from-a-jar-shirt/",
+    "https://capitoneshirt.com/product/tennessee-volunteers-big-rick-barnes-energy-shirt/",
+    "https://capitoneshirt.com/product/tennessee-vols-r865y-top-rocky-top-shirt/",
+    "https://capitoneshirt.com/product/tennessee-vols-lindsey-nelson-yell-some-stadium-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/you-left-the-rodi-on-shirt/",
