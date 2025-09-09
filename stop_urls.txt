@@ -63,14 +63,14 @@
     "https://dreameshirt.com/product/official-poster-harvey-street-september-19-2025-lincoln-theatre-the-band-solstice-raleigh-nc-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-we-will-never-be-back-at-this-restaurant-the-staff-made-shirt/",
-    "https://teeextra.com/product/official-viva-la-raza-heavyweight-shirt/",
-    "https://teeextra.com/product/official-vameee-shirt/",
-    "https://teeextra.com/product/official-trump-cant-handle-chicago-winters-shirt/",
-    "https://teeextra.com/product/official-support-queer-owned-businesses-palantir-shirt/",
-    "https://teeextra.com/product/official-somebody-in-rilo-kiley-loves-me-new-shirt/",
-    "https://teeextra.com/product/official-popes-from-chicago-popes-from-green-bay-rivalry-shirt/",
-    "https://teeextra.com/product/official-ohsees-osees-mace-shirt/"
+    "https://teeextra.com/product/official-wwii-adolf-hitler-european-tour-design-1939-1945-shirt/",
+    "https://teeextra.com/product/official-wilson-springs-hotel-with-tan-and-sober-oct-11-2025-richmond-va-shirt/",
+    "https://teeextra.com/product/official-will-trade-racists-for-refugees-shirt/",
+    "https://teeextra.com/product/official-tv-on-the-radio-september-27-2025-palmer-events-center-in-austin-tx-shirt/",
+    "https://teeextra.com/product/official-thomas-x-grasso-tugboat-roundup-2025-waterford-ny-shirt/",
+    "https://teeextra.com/product/official-the-hives-austin-tx-9-8-2025-shirt/",
+    "https://teeextra.com/product/official-the-brothers-comatose-dec-31-2025-grass-valley-ca-shirt/",
+    "https://teeextra.com/product/official-the-boogiedown-music-festival-2025-driftless-yuba-wisconsin-september-11-13-2025-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/starkville-vs-everybody-msu-bulldogs-t-shirt/",
@@ -115,16 +115,16 @@
     "https://fanaticity.com/product/cuse-orange-syracuse-basketball-mascot-vintage-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/zach-bryan-notre-dame-stadium-2025-two-sided-shirt/",
-    "https://legendusashirt.com/product/yousuke-yukimatsu-north-america-tour-2025-two-sided-shirt/",
-    "https://legendusashirt.com/product/wednesday-season-2-edgar-allan-poe-skull-two-sided-shirt/",
-    "https://legendusashirt.com/product/vitriol-suffer-become-tour-2025-two-sided-shirt/",
-    "https://legendusashirt.com/product/threads-uniform-jackson-state-football-two-sided-shirt/",
-    "https://legendusashirt.com/product/kansas-city-chiefs-vs-los-angeles-chargers-sao-paulo-game-2025-two-sided-shirt/",
-    "https://legendusashirt.com/product/i-declare-war-bumper-sandwich-two-sided-shirt/",
-    "https://legendusashirt.com/product/diablos-rojos-del-mexico-lmb-bicampeones-2025-two-sided-shirt/",
-    "https://legendusashirt.com/product/detroit-tigers-first-responders-first-to-the-fight-two-sided-shirt/",
-    "https://legendusashirt.com/product/denver-broncos-x-bo-nix-two-sided-shirt/"
+    "https://legendusashirt.com/product/chain-cult-mexico-colombia-oct-nov-2025-t-shirt/",
+    "https://legendusashirt.com/product/family-dollar-the-grinch-hallothanksmas-2025-t-shirt/",
+    "https://legendusashirt.com/product/eric-church-vintage-wash-eagle-2025-t-shirt/",
+    "https://legendusashirt.com/product/eric-church-free-the-machine-tour-2025-skull-t-shirt/",
+    "https://legendusashirt.com/product/dwarves-the-27-club-in-ottawa-canada-sep-11-2025-t-shirt/",
+    "https://legendusashirt.com/product/doordash-your-slop-bowl-get-extra-guac-t-shirt/",
+    "https://legendusashirt.com/product/doordash-the-grinch-hallothanksmas-2025-t-shirt/",
+    "https://legendusashirt.com/product/dollar-tree-x-baby-yoda-witch-halloween-2025-t-shirt/",
+    "https://legendusashirt.com/product/dollar-tree-the-grinch-hallothanksmas-2025-t-shirt/",
+    "https://legendusashirt.com/product/dollar-general-x-baby-yoda-witch-halloween-2025-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/you-left-the-rodi-on-shirt/",
@@ -139,7 +139,7 @@
     "https://teehandus.com/product/shalom-alone-home-alone-shirt/"
   ],
   "thefunnyt.com": [
-    "https://thefunnyt.com/product/eastons-fish-market-shirt/"
+    "https://thefunnyt.com/product/crenshaw-slauson-overhill-la-brea-la-cienega-hoodie/"
   ],
   "uscraftedtees.com": [
     "https://uscraftedtees.com/product/original-we-will-never-be-back-at-this-restaurant-the-staff-made-2025-shirt/",
@@ -178,16 +178,16 @@
     "https://clickoneshirt.com/product/the-cost-of-tariffs-never-forget-the-enablers-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/valorant-champions-tour-2025-born-to-burn-riot-games-t-shirts/",
-    "https://teleteeshirt.com/product/the-black-angels-9-8-2025-aviator-nation-dreamland-in-malibu-ca-t-shirts/",
-    "https://teleteeshirt.com/product/the-beta-band-triangle-bee-t-shirts/",
-    "https://teleteeshirt.com/product/snoopy-the-peanuts-milwaukee-brewers-its-the-most-wonderful-time-of-the-year-walking-t-shirts/",
-    "https://teleteeshirt.com/product/the-beta-band-blocks-t-shirts-2/",
-    "https://teleteeshirt.com/product/rolling-loud-india-at-loud-park-kharghar-navi-mumbai-on-november-22-23-2025-t-shirts/",
-    "https://teleteeshirt.com/product/snoopy-and-friends-the-peanuts-toronto-blue-jays-its-the-most-wonderful-time-of-the-year-t-shirts/",
-    "https://teleteeshirt.com/product/reliqa-strike-t-shirts-2/",
-    "https://teleteeshirt.com/product/reliqa-what-a-beautiful-place-to-die-and-this-could-be-the-place-that-you-stay-forever-t-shirts/",
-    "https://teleteeshirt.com/product/radiohead-acid-minotaurs-t-shirts/"
+    "https://teleteeshirt.com/product/utah-utes-am-i-salt-lake-city-ut-builtin-the-mountains-university-paint-t-shirts/",
+    "https://teleteeshirt.com/product/the-smashing-machine-real-american-hero-t-shirts/",
+    "https://teleteeshirt.com/product/the-hives-forever-north-american-world-tour-2025-t-shirts/",
+    "https://teleteeshirt.com/product/simple-plan-houston-texas-tour-2025-van-rocket-t-shirts/",
+    "https://teleteeshirt.com/product/semper-fi-halloween-t-shirts/",
+    "https://teleteeshirt.com/product/minilla-x-video-20xx-mech-vhs-t-shirts/",
+    "https://teleteeshirt.com/product/mike-squires-the-clean-team-world-clean-up-crew-t-shirts/",
+    "https://teleteeshirt.com/product/king-of-sports-new-japan-pro-wrestling-unaffiliated-circle-t-shirts/",
+    "https://teleteeshirt.com/product/kayla-malec-extra-credit-slut-t-shirts/",
+    "https://teleteeshirt.com/product/kayla-malec-draft-me-daddy-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/sweater-rooster-fighter-pride-strength-feathers-arena-legend-champion-courage-glory-power-honor-victory-shirt/",
