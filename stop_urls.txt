@@ -36,16 +36,16 @@
     "https://teeworksusa.com/product/the-astrodome-houston-texas-shirt/"
   ],
   "meredpremium.com": [
-    "https://meredpremium.com/product/official-zach-bryan-2025-09-06-events-experience-notre-dame-shirt/",
-    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-greatness-pittsburgh-steelers-players-shirt/",
-    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-greatness-san-francisco-49ers-players-shirt/",
-    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-greatness-las-vegas-raiders-players-shirt/",
-    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-greatness-green-bay-packers-players-shirt/",
-    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-greatness-dallas-cowboys-players-shirt/",
-    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-greatness-buffalo-bills-players-shirt/",
-    "https://meredpremium.com/product/official-this-is-how-we-beat-michigan-wolverines-2025-oklahoma-24-13-michigan-shirt/",
-    "https://meredpremium.com/product/official-this-is-my-philly-karen-halloween-shirt/",
-    "https://meredpremium.com/product/official-statement-made-south-florida-bulls-18-16-florida-gators-score-t-shirt/"
+    "https://meredpremium.com/product/official-philadelphia-phillies-edmundo-sosa-bitches-love-sosa-shirt/",
+    "https://meredpremium.com/product/official-philadelphia-phillies-2025-everybody-hits-shirt/",
+    "https://meredpremium.com/product/official-notre-dame-fighting-irish-vs-texas-am-aggies-2025-gameday-showdown-football-t-shirt/",
+    "https://meredpremium.com/product/official-notre-dame-fighting-irish-beat-em-again-shirt/",
+    "https://meredpremium.com/product/official-nike-backyard-brawl-helmet-pitt-panthers-vs-west-virginia-rivalry-roadtrip-shirt/",
+    "https://meredpremium.com/product/official-nebraska-husker-volleyball-max-collegiate-shirt/",
+    "https://meredpremium.com/product/official-nebraska-cornhuskers-vs-houston-christian-2025-gameday-football-t-shirt/",
+    "https://meredpremium.com/product/official-missouri-tigers-victory-border-showdown-mizzou-42-31-kansas-shirt/",
+    "https://meredpremium.com/product/official-missouri-football-border-showdown-champions-42-31-ku-shirt/",
+    "https://meredpremium.com/product/official-michigan-wolverines-vs-central-michigan-chippewas-2025-gameday-showdown-football-t-shirt/"
   ],
   "berrylittles.com": [
     "https://berrylittles.com/product/official-daniel-jones-indianapolis-colts-dime-time-nfl-football-signature-t-shirt/",
@@ -106,7 +106,7 @@
     "https://nowbestshirt.com/product/indianapolis-colts-2025-2025-nfl-schedule-2-sided-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/give-it-hell-brain-cancer-awareness-shirt/"
+    "https://serenashirt.com/product/carnitas-y-gorditas-taco-love-shirt/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/youre-a-gooner-im-a-goober-shirt/",
@@ -133,16 +133,16 @@
     "https://legendusashirt.com/product/the-metal-god-rob-halford-x-mfg-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/i-blame-ej-shirt/",
-    "https://teehandus.com/product/i-know-my-man-is-older-than-me-somebodys-gotta-take-care-of-the-elderly-shirt/",
-    "https://teehandus.com/product/i-see-the-struggle-in-your-face-and-i-know-how-it-feels-shirt/",
-    "https://teehandus.com/product/i-was-here-when-we-got-a-zouis-selfie-in-2025-shirt/",
-    "https://teehandus.com/product/im-a-crepe-im-a-weirdough-shirt/",
-    "https://teehandus.com/product/john-candy-an-argonaut-for-the-ages-shirt/",
-    "https://teehandus.com/product/jordan-love-all-you-need-is-green-bay-packers-shirt/",
-    "https://teehandus.com/product/jr-motorsports-all-we-do-is-win-shirt/",
-    "https://teehandus.com/product/katelyn-tarver-the-original-shirt/",
-    "https://teehandus.com/product/less-hate-more-tacos-shirt/"
+    "https://teehandus.com/product/pregnant-ghost-dont-scare-me-i-might-pee-halloween-shirt/",
+    "https://teehandus.com/product/protestwahlen-tailliertes-shirt/",
+    "https://teehandus.com/product/queen-bitch-shirt/",
+    "https://teehandus.com/product/ralph-lauren-usa-ryder-cup-2025-shirt/",
+    "https://teehandus.com/product/rapper-drake-album-its-was-a-but-its-shirt/",
+    "https://teehandus.com/product/rare-be-rare-uncommon-different-shirt/",
+    "https://teehandus.com/product/red-flag-shirt/",
+    "https://teehandus.com/product/rick-and-morty-futurama-bojack-horseman-family-guy-american-dad-friends-shirt/",
+    "https://teehandus.com/product/seattle-mariners-etsy-witch-shirt/",
+    "https://teehandus.com/product/selena-forever-in-our-hearts-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/e-eosso-davide-tardozzi-shirt/"
@@ -160,16 +160,8 @@
     "https://uscraftedtees.com/product/official-pain-of-truth-toast-to-coast-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/wizard-its-not-my-fault-you-thought-that-i-was-normal-youve-had-more-than-enough-shirt/",
-    "https://capitoneshirt.com/product/wizard-its-not-my-fault-you-thought-that-i-was-normal-figure-that-out-shirt/",
-    "https://capitoneshirt.com/product/wizard-i-cast-insurance-fraud-shirt/",
-    "https://capitoneshirt.com/product/we-must-refuse-to-cooperate-with-injustice-shirt/",
-    "https://capitoneshirt.com/product/us-department-of-war-strength-honor-victory-shirt/",
-    "https://capitoneshirt.com/product/u-s-department-of-war-office-shirt/",
-    "https://capitoneshirt.com/product/the-rich-want-to-distract-us-with-a-culture-war-so-they-can-stop-a-class-war-shirt/",
-    "https://capitoneshirt.com/product/the-bible-predicted-that-christians-would-follow-a-false-prophet-shirt/",
-    "https://capitoneshirt.com/product/support-queer-owned-businesses-palantir-shirt/",
-    "https://capitoneshirt.com/product/sunflower-understanding-our-uncensored-history-will-make-a-greater-america-shirt/"
+    "https://capitoneshirt.com/product/german-shepherd-whoever-said-technology-will-replace-paper-has-obviously-shirt/",
+    "https://capitoneshirt.com/product/chicago-flag-middle-finger-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/zenitsu-thunder-of-the-dead-blade-halloween-shirt/",
