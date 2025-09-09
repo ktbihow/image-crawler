@@ -24,16 +24,16 @@
     "https://techteesusa.com/product/of-course-i-am-gay-i-went-to-catholic-school-t-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/cool-tretes-fun-time-penguin-cute-shirt/",
-    "https://teeworksusa.com/product/daniel-jones-and-the-team-of-destiny-new-york-giants-movie-parody-shirt/",
-    "https://teeworksusa.com/product/committed-panthers-ferrum-college-william-tomlinson-baseball-shirt/",
-    "https://teeworksusa.com/product/cute-happy-smiling-melting-smore-shirt/",
-    "https://teeworksusa.com/product/dk-metcalf-cartoon-football-player-graphic-shirt/",
-    "https://teeworksusa.com/product/deebo-samuel-unstoppable-football-player-reaching-for-pylon-shirt/",
-    "https://teeworksusa.com/product/deandre-hopkins-10-wide-receiver-football-player-shirt/",
-    "https://teeworksusa.com/product/dime-time-daniel-jones-17-new-york-giants-player-shirt/",
-    "https://teeworksusa.com/product/deep-3nd-gloria-the-lord-exalt-his-let-us-together-psalm-343-vintage-shirt/",
-    "https://teeworksusa.com/product/ed-lasso-ed-oliver-buffalo-bills-shirt/"
+    "https://teeworksusa.com/product/hotel-hail-no-vacancy-starkville-ms-mississippi-state-shirt/",
+    "https://teeworksusa.com/product/hey-ump-you-need-to-check-your-voicemail-funny-softball-quote-shirt/",
+    "https://teeworksusa.com/product/i-kicked-the-keg-at-dominics-tavern-chicken-shirt/",
+    "https://teeworksusa.com/product/im-pretty-than-a-mf-ho3s-be-lookin-okay-shirt/",
+    "https://teeworksusa.com/product/im-feeling-gassy-mr-incredible-funny-meme-shirt/",
+    "https://teeworksusa.com/product/i-lips-red-ty-lipstick-shirt/",
+    "https://teeworksusa.com/product/jahmyr-anzalone-williams-goff-st-brown-hutchinson-laporta-detroit-lions-players-list-shirt/",
+    "https://teeworksusa.com/product/jacory-croskey-merritt-football-player-duo-graphic-shirt/",
+    "https://teeworksusa.com/product/its-a-mafia-thing-buffalo-bills-shirt/",
+    "https://teeworksusa.com/product/josh-down-15-with-405-left-9-7-25-football-chart-quote-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-we-run-this-state-ohio-bengals-17-16-browns-shirt/",
