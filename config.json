@@ -142,5 +142,13 @@
         "url": "https://collectionpostertour.com/",
         "replacements": {"-t-shirt-shirt.jpg": ["-t-shirt-poster-portrait.jpg"]},
         "source_type": "api"
+    },
+    {
+        "url": "https://neoteeco.com/",
+        "source_type": "api"
+    },
+    {
+        "url": "https://newshirtstore.com/",
+        "source_type": "api"
     }
 ]
