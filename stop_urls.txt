@@ -51,16 +51,8 @@
     "https://berrylittles.com/product/official-alabama-vs-wisconsin-september-13th-2025-saban-field-at-bryant-denny-stadium-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-raiders-20-13-patriots-commitment-to-excellence-just-win-baby-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-rollins-lynch-lee-punk-wrestlepalooza-indianapolis-saturday-september-20-espn-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-section-viii-athletics-nassau-county-game-day-cheerleading-championships-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-nine-inch-nails-september-6-2025-bridgestone-arena-nashville-tn-concert-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-greenteas-dubby-dinner-fall-tour-september-2025-poplar-union-london-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-chattanooga-lookouts-bluegrass-night-concert-september-6-2025-att-field-chattanooga-tn-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-jonas-brothers-fall-tour-september-4-2025-chula-vista-ca-t-shirt/",
-    "https://dreameshirt.com/product/official-san-diego-wave-fc-alex-morgan-jersey-retirement-september-7-2025-signature-graphic-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-lsdream-360-chicago-il-nye-2025-december-31-aon-grand-ballroom-at-navy-pier-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-harvey-street-september-19-2025-lincoln-theatre-the-band-solstice-raleigh-nc-t-shirt/"
+    "https://dreameshirt.com/product/official-cal-raleigh-for-mvp-seattle-mariners-mlb-2025-painting-t-shirt/",
+    "https://dreameshirt.com/product/official-fsu-florida-state-seminoles-football-tommy-castellanos-tommy-football-signature-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/official-wwii-adolf-hitler-european-tour-design-1939-1945-shirt/",
