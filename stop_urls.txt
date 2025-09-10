@@ -22,7 +22,7 @@
     "https://techteesusa.com/product/no-therapy-generation-x-just-trauma-and-saturday-cartoons-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/philippines-2025-vmwc-serve-like-bolts-shirt/"
+    "https://teeworksusa.com/product/the-tony-danza-tapdance-extravaganza-eat-brains-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-we-run-this-state-ohio-bengals-17-16-browns-shirt/",
@@ -106,16 +106,16 @@
     "https://legendusashirt.com/product/cal-raleigh-for-mvp-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/cute-vampire-chilling-shirt/",
-    "https://teehandus.com/product/daniel-jones-indianapolis-colts-dime-time-signature-shirt/",
-    "https://teehandus.com/product/daniel-jones-indianapolis-colts-team-of-destiny-shirt/",
-    "https://teehandus.com/product/deandre-hopkins-baltimore-ravens-one-handed-shirt/",
-    "https://teehandus.com/product/deebo-samuel-washington-commander-unstoppable-shirt/",
-    "https://teehandus.com/product/dear-world-we-hate-him-too-shirt-2/",
-    "https://teehandus.com/product/dennis-andersons-grave-digger-1997-shirt/",
-    "https://teehandus.com/product/department-of-war-est-2025-shirt/",
-    "https://teehandus.com/product/detroit-for-life-sport-team-logo-shirt/",
-    "https://teehandus.com/product/dont-ask-the-fbi-why-they-never-found-the-guy-who-skyjuacked-a-plane-in-oregon-shirt/"
+    "https://teehandus.com/product/a-juice-box-saved-my-life-shirt/",
+    "https://teehandus.com/product/aaron-rodgers-pittsburgh-steelers-nfl-flash-features-week-1-shirt/",
+    "https://teehandus.com/product/aaron-rodgers-pittsburgh-steelers-vintage-shirt/",
+    "https://teehandus.com/product/adolis-garcia-texas-rangers-and-micah-parsons-dallas-cowboys-skyline-city-signatures-shirt/",
+    "https://teehandus.com/product/ashton-jeanty-las-vegas-raiders-celebration-shirt/",
+    "https://teehandus.com/product/baddies-super-mario-bros-mushroom-heist-shirt/",
+    "https://teehandus.com/product/baker-mayfield-mike-evans-chris-godwin-step-brothers-shirt/",
+    "https://teehandus.com/product/beau-pribula-missouri-tigers-football-believe-shirt/",
+    "https://teehandus.com/product/beau-pribula-missouri-tigers-football-knows-shirt/",
+    "https://teehandus.com/product/black-death-european-tour-1347-1351-shirt-2/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/annunciation-shirt/",
