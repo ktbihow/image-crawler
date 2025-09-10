@@ -66,7 +66,14 @@
     "https://dreameshirt.com/product/official-poster-st-paul-and-the-broken-bones-avondale-brewing-company-in-birmingham-al-october-17-2025-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-wwii-adolf-hitler-european-tour-design-1939-1945-shirt-2/"
+    "https://teeextra.com/product/official-the-lumineers-tla-automatic-world-tour-2025-shirt/",
+    "https://teeextra.com/product/official-the-brian-and-jones-towin-with-massacre-nov-4-2025-slo-brew-in-san-luis-obispo-ca-shirt/",
+    "https://teeextra.com/product/official-south-florida-bulls-bucked-miami-miami-hurricanes-shirt/",
+    "https://teeextra.com/product/official-radio-free-alice-shirt/",
+    "https://teeextra.com/product/official-new-york-mets-hyper-local-refresh-shea-stadium-2025-shirt/",
+    "https://teeextra.com/product/official-more-like-butt-gers-shirt/",
+    "https://teeextra.com/product/official-melvins-and-redd-kross-9-18-2025-madison-wi-shirt/",
+    "https://teeextra.com/product/official-kitchen-dwellers-denver-colorado-jan-24-2026-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/my-ideal-weight-josh-allen-on-top-of-me-shirt/",
@@ -102,7 +109,16 @@
     "https://fanaticity.com/product/tedeschi-trucks-band-tour-chicago-il-sep-09-2025-poster-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/official-annie-elise-true-crime-is-my-therapy-shirt/"
+    "https://legendusashirt.com/product/chipocalypse-now-chicago-department-of-war-trump-2025-t-shirt/",
+    "https://legendusashirt.com/product/the-lumineers-tla-automatic-world-tour-2025-t-shirt/",
+    "https://legendusashirt.com/product/the-brian-and-jones-towin-with-massacre-nov-4-2025-slo-brew-in-san-luis-obispo-ca-t-shirt/",
+    "https://legendusashirt.com/product/south-florida-bulls-bucked-miami-miami-hurricanes-t-shirt/",
+    "https://legendusashirt.com/product/radio-free-alice-t-shirt/",
+    "https://legendusashirt.com/product/new-york-mets-hyper-local-refresh-shea-stadium-2025-t-shirt/",
+    "https://legendusashirt.com/product/more-like-butt-gers-t-shirt/",
+    "https://legendusashirt.com/product/melvins-and-redd-kross-9-18-2025-madison-wi-t-shirt/",
+    "https://legendusashirt.com/product/kitchen-dwellers-denver-colorado-jan-24-2026-t-shirt/",
+    "https://legendusashirt.com/product/iryna-zarutska-white-people-we-do-not-need-to-live-like-this-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/modern-rockstars-hotter-than-hell-shirt/",
@@ -117,19 +133,20 @@
     "https://teehandus.com/product/buble-the-water-cooler-kills-shirt/"
   ],
   "thefunnyt.com": [
-    "https://thefunnyt.com/product/its-always-sunny-in-phillies-pay-homage-shirt/"
+    "https://thefunnyt.com/product/mystery-wrestling-its-the-best-thing-shirt/",
+    "https://thefunnyt.com/product/mystery-wrestling-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/official-ew-chicago-meme-2025-shirt/",
-    "https://uscraftedtees.com/product/official-doctor-who-cyberman-you-will-become-like-us-2025-shirt/",
-    "https://uscraftedtees.com/product/official-didnt-go-to-brit-school-2025-shirt/",
-    "https://uscraftedtees.com/product/official-dead-and-company-golden-gate-park-wine-san-francisco-2025-shirt/",
-    "https://uscraftedtees.com/product/official-david-van-hemelryck-destitution-article-68-de-la-constitution-shirt/",
-    "https://uscraftedtees.com/product/official-crow-f-caw-f-2025-shirt/",
-    "https://uscraftedtees.com/product/official-buffalo-destiny-is-calling-me-2025-shirt/",
-    "https://uscraftedtees.com/product/official-breach-faces-twenty-one-pilots-2025-shirt/",
-    "https://uscraftedtees.com/product/official-brain-dead-x-godzilla-hedorah-2025-shirt/",
-    "https://uscraftedtees.com/product/official-bloodline-we-can-think-for-ourselves-middle-ground-shirt/"
+    "https://uscraftedtees.com/product/official-radio-free-alice-2025-shirt/",
+    "https://uscraftedtees.com/product/official-malcolm-todd-north-america-europe-2025-shirt/",
+    "https://uscraftedtees.com/product/official-gojira-erde-demon-tour-2025-shirt/",
+    "https://uscraftedtees.com/product/official-dear-jeffrey-happy-50th-joel-2025-shirt/",
+    "https://uscraftedtees.com/product/official-d2-postin-wear-pants-do-crimes-2025-shirt/",
+    "https://uscraftedtees.com/product/official-beat-em-again-2025-shirt/",
+    "https://uscraftedtees.com/product/official-tom-smith-uk-and-ireland-tour-25-poster-shirt/",
+    "https://uscraftedtees.com/product/official-the-brian-and-jones-towing-with-massacre-nov-4-2025-slo-brew-in-san-luis-obispo-ca-poster-shirt/",
+    "https://uscraftedtees.com/product/official-tedeschi-trucks-band-chicago-illinois-2025-venue-poster-shirt/",
+    "https://uscraftedtees.com/product/official-riki-live-tour-october-2025-poster-shirt/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/yeah-im-in-bangin-exquisite-latina-asses-shirt/",
@@ -156,16 +173,16 @@
     "https://clickoneshirt.com/product/reel-man-fishing-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/zach-bryan-x-michigan-wolverines-the-quittin-time-tour-2025-stadium-t-shirts/",
-    "https://teleteeshirt.com/product/washington-commanders-the-the-hogs-thank-you-for-the-memories-road-abbey-signatures-t-shirts/",
-    "https://teleteeshirt.com/product/usf-south-florida-bulls-im-just-here-to-watch-herlin-perry-jr-t-shirts/",
-    "https://teleteeshirt.com/product/twenty-one-pilots-breach-faces-t-shirts/",
-    "https://teleteeshirt.com/product/tom-smith-uk-and-ireland-tour-2025-dates-t-shirts/",
-    "https://teleteeshirt.com/product/the-virginia-tech-hokies-1892-2026-135th-anniversary-season-enter-sandman-thank-you-for-the-memories-road-abbey-signatures-t-shirts/",
-    "https://teleteeshirt.com/product/the-texas-longhorns-1906-2025-120th-anniversary-season-hook-em-horns-thank-you-for-the-memories-abbey-road-signatures-t-shirts/",
-    "https://teleteeshirt.com/product/the-penn-state-nittany-lions-140th-anniversary-season-1887-2026-we-are-penn-state-thank-you-for-the-memories-road-abbey-signatures-t-shirts/",
-    "https://teleteeshirt.com/product/the-paper-kites-if-you-go-there-i-hope-you-find-it-uk-europe-tour-2026-dates-t-shirts/",
-    "https://teleteeshirt.com/product/the-mountain-goats-denim-collage-t-shirts/"
+    "https://teleteeshirt.com/product/winnie-the-pooh-happy-hunnyween-halloween-t-shirts/",
+    "https://teleteeshirt.com/product/us-open-tennis-championships-new-york-city-2025-stars-stripes-racquet-american-flag-t-shirts/",
+    "https://teleteeshirt.com/product/twisted-thread-samurai-skull-t-shirts/",
+    "https://teleteeshirt.com/product/tomorrowland-butterfly-live-today-love-unite-forever-t-shirts/",
+    "https://teleteeshirt.com/product/this-is-hell-self-titled-t-shirts/",
+    "https://teleteeshirt.com/product/the-tcu-horned-frogs-1896-2025-130th-anniversary-season-riff-ram-bah-zoo-thank-you-for-the-memories-road-abbey-signatures-t-shirts/",
+    "https://teleteeshirt.com/product/the-spirit-of-jack-daniels-thoughts-on-bowling-its-icy-in-december-spirit-t-shirts/",
+    "https://teleteeshirt.com/product/the-phantom-menace-darth-maul-sith-lord-t-shirts/",
+    "https://teleteeshirt.com/product/the-mountain-goats-we-do-it-different-on-the-west-coast-t-shirts/",
+    "https://teleteeshirt.com/product/the-mountain-goats-shield-thebes-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/hell-is-a-teenage-girl-heart-blazing-fire-shirt/",
@@ -214,16 +231,16 @@
     "https://lovingsquad.com/product/hi-im-dhula-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/vinatge-f-caw-f-crow-under-moon-halloween-shirt/",
-    "https://designatshop.com/product/the-beau-me-state-beau-pribula-9-missouri-tigers-shirt/",
-    "https://designatshop.com/product/top-cat-cincinnati-bengals-top-gun-shirt/",
-    "https://designatshop.com/product/stew-york-breanna-stewart-stewie-short-sleeved-ny-liberty-shirt/",
-    "https://designatshop.com/product/st-josh-allen-buffalo-bills-17-mvp-shirt/",
-    "https://designatshop.com/product/snoopy-holding-flag-philadelphia-philly-football-go-birds-shirt/",
-    "https://designatshop.com/product/sounders-fc-been-there-won-that-shirt/",
-    "https://designatshop.com/product/snoopy-dog-skeleton-happy-halloween-shirt/",
-    "https://designatshop.com/product/skeleton-fdt-some-men-improve-the-world-feminist-shirt/",
-    "https://designatshop.com/product/philly-baseball-phantic-you-judge-from-the-shore-but-you-have-never-sunk-shirt/"
+    "https://designatshop.com/product/baby-yoda-and-chicken-i-was-taught-to-think-before-i-act-so-if-i-smack-the-stupidity-out-of-you-shirt/",
+    "https://designatshop.com/product/baby-yoda-be-careful-im-not-sure-which-me-i-am-today-you-have-been-warned-shirt/",
+    "https://designatshop.com/product/baby-yoda-in-my-family-we-dont-try-to-hide-the-crazy-we-pass-it-down-from-generation-to-generation-shirt/",
+    "https://designatshop.com/product/baby-yoda-mentally-im-just-a-corner-of-a-fitted-sheet-that-keeps-popping-off-shirt-2/",
+    "https://designatshop.com/product/baby-yoda-middle-finger-im-not-always-a-dick-just-kidding-go-fuck-yourself-shirt/",
+    "https://designatshop.com/product/baby-yoda-middle-finger-you-curse-too-much-bitch-you-breathe-too-much-shut-the-fuck-up-shirt/",
+    "https://designatshop.com/product/bengal-jim-9-and-friends-tiger-the-roar-2025-schedule-shirt/",
+    "https://designatshop.com/product/curtains-jalen-ramsey-ball-dispute-called-game-nflpa-shirt/",
+    "https://designatshop.com/product/farting-unicorn-roses-are-red-shit-is-brown-shut-the-fuck-up-and-sit-the-fuck-down-shirt/",
+    "https://designatshop.com/product/flank-em-and-spank-em-sun-tzu-the-art-of-war-shirt/"
   ],
   "arjomany.com": [
     "https://arjomany.com/product/tomorrowland-butterfly-live-today-t-shirt/",
