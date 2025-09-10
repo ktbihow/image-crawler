@@ -112,16 +112,16 @@
     "https://legendusashirt.com/product/cal-raleigh-for-mvp-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/horny-24-7-shirt/",
-    "https://teehandus.com/product/i-do-not-have-a-catchphrase-shirt-2/",
-    "https://teehandus.com/product/i-new-message-from-the-mossad-shirt/",
-    "https://teehandus.com/product/i-talk-i-smile-i-laugh-too-but-be-careful-when-im-silent-wolf-shirt/",
-    "https://teehandus.com/product/im-not-stupid-i-just-havent-slept-in-10-years-shirt/",
-    "https://teehandus.com/product/its-always-sunny-in-phillies-pay-homage-shirt/",
-    "https://teehandus.com/product/justice-for-ukrainian-iryna-zarutska-shirt/",
-    "https://teehandus.com/product/its-not-rael-shirt/",
-    "https://teehandus.com/product/keir-starmer-wanker-shirt/",
-    "https://teehandus.com/product/mason-67-ice-cream-shirt/"
+    "https://teehandus.com/product/save-a-horse-ride-a-cowboy-2025-shirt/",
+    "https://teehandus.com/product/sounders-fc-been-there-won-that-shirt/",
+    "https://teehandus.com/product/shun-akiyama-shirt/",
+    "https://teehandus.com/product/spider-man-create-a-pepper-shirt/",
+    "https://teehandus.com/product/spooky-goose-on-the-loose-halloween-shirt/",
+    "https://teehandus.com/product/ted-dibiase-ted-dibiase-retro-shirt/",
+    "https://teehandus.com/product/that-not-gaga-its-playgirl-shirt/",
+    "https://teehandus.com/product/the-pitt-season-one-lighting-crew-shirt/",
+    "https://teehandus.com/product/the-snack-zone-shirt/",
+    "https://teehandus.com/product/toronto-blue-jays-shhh-logo-parody-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/annunciation-shirt/",
@@ -142,16 +142,16 @@
     "https://uscraftedtees.com/product/original-phasmophobia-prestige-ix-2025-shirt/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/denny-hamlin-300-race-winner-world-wide-technology-shirt/",
-    "https://capitoneshirt.com/product/christian-nationalism-is-just-white-supremacy-in-bible-drag-shirt/",
-    "https://capitoneshirt.com/product/christian-mccaffrey-running-san-francisco-49ers-shirt/",
-    "https://capitoneshirt.com/product/dear-jeffrey-happy-50th-joel-shirt/",
-    "https://capitoneshirt.com/product/dangelo-ponds-5-stripe-indiana-football-shirt/",
-    "https://capitoneshirt.com/product/cats-are-not-just-cats-theyre-sanity-happiness-best-friends-shirt/",
-    "https://capitoneshirt.com/product/cartevious-norton-90s-triple-player-south-florida-shirt/",
-    "https://capitoneshirt.com/product/d2-postin-wear-pants-do-crimes-shirt/",
-    "https://capitoneshirt.com/product/cam-skattebo-angry-runs-helmet-fire-ny-giants-shirt/",
-    "https://capitoneshirt.com/product/cincinnati-bengals-open-in-orange-shirt/"
+    "https://capitoneshirt.com/product/poopoo-butt-pizza-hut-parody-halloween-shirt/",
+    "https://capitoneshirt.com/product/josh-allen-masterpiece-triple-player-shirt/",
+    "https://capitoneshirt.com/product/phillies-karen-dont-take-my-ball-parody-shirt/",
+    "https://capitoneshirt.com/product/philadelphia-eagles-paddys-pub-shirt/",
+    "https://capitoneshirt.com/product/josh-allen-faith-buffalo-bills-shirt/",
+    "https://capitoneshirt.com/product/join-or-die-snake-dont-trust-the-government-shirt/",
+    "https://capitoneshirt.com/product/pete-and-eldas-the-shores-famous-carmens-pizzeria-shirt/",
+    "https://capitoneshirt.com/product/jd-i-dont-give-a-shit-what-you-call-it-vance-shirt/",
+    "https://capitoneshirt.com/product/pcp-makes-it-fun-shirt/",
+    "https://capitoneshirt.com/product/jayden-daniels-masterpiece-triple-player-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/wear-pants-do-crimes-shirt/",
@@ -166,16 +166,16 @@
     "https://clickoneshirt.com/product/reel-man-fishing-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/smoke-wake-up-supa-tour-2025-dates-t-shirts/",
-    "https://teleteeshirt.com/product/texas-am-aggies-vs-tennessee-volunteers-smokin-em-mascot-t-shirts/",
-    "https://teleteeshirt.com/product/surf-addict-t-shirts/",
-    "https://teleteeshirt.com/product/shred-kelly-horizon-t-shirts/",
-    "https://teleteeshirt.com/product/rutgers-more-like-butt-gers-amiright-guys-t-shirts/",
-    "https://teleteeshirt.com/product/pinocchio-and-jiminy-cricket-nothing-can-hold-me-down-85th-anniversary-t-shirts/",
-    "https://teleteeshirt.com/product/pierce-the-veil-san-diego-california-u-s-flag-t-shirts/",
-    "https://teleteeshirt.com/product/pierce-the-veil-darling-youll-be-ok-hold-on-til-may-t-shirts/",
-    "https://teleteeshirt.com/product/pierce-the-veil-misadventures-robot-t-shirts/",
-    "https://teleteeshirt.com/product/official-winnie-the-pooh-bear-hunny-farm-t-shirts/"
+    "https://teleteeshirt.com/product/a-loss-for-words-these-past-20th-anniversary-tiger-t-shirts/",
+    "https://teleteeshirt.com/product/winnie-the-pooh-oh-bother-t-shirts/",
+    "https://teleteeshirt.com/product/winnie-the-pooh-and-piglet-nobody-can-be-uncheered-with-a-balloon-t-shirts/",
+    "https://teleteeshirt.com/product/winnie-the-pooh-and-pals-its-always-better-together-t-shirts/",
+    "https://teleteeshirt.com/product/the-hives-eyes-t-shirts/",
+    "https://teleteeshirt.com/product/texas-am-aggies-thats-how-the-aggies-roll-tractor-t-shirts/",
+    "https://teleteeshirt.com/product/the-godfather-vito-iuter-t-shirts/",
+    "https://teleteeshirt.com/product/texas-am-aggies-whoop-farmers-fight-gig-em-aggies-drawn-collage-t-shirts/",
+    "https://teleteeshirt.com/product/the-harley-davidson-milwaukee-wisconsin-mandarin-motorcycle-since-1903-t-shirts/",
+    "https://teleteeshirt.com/product/andrew-bird-the-mysterious-production-of-eggs-est-2004-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/the-cool-s-birthday-card-donald-trump-signature-shirt/",
@@ -226,28 +226,24 @@
     "https://lovingsquad.com/product/shut-up-cris-collinsworth-buffalo-football-fan-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/world-fuckin-champs-philadelphia-philly-eagles-shirt/",
-    "https://designatshop.com/product/travis-kelce-smacked-by-teair-tart-shirt/",
-    "https://designatshop.com/product/trump-puppet-of-putin-holding-epstein-release-the-files-shirt/",
-    "https://designatshop.com/product/the-one-piece-is-real-law-kid-luffy-nfl-shirt/",
-    "https://designatshop.com/product/the-cool-s-birthday-card-donald-trump-signature-shirt/",
-    "https://designatshop.com/product/snoopy-detroit-lions-logo-vintage-nfl-2025-shirt/",
-    "https://designatshop.com/product/teair-tart-smacks-travis-kelce-parental-advisory-shirt/",
-    "https://designatshop.com/product/release-the-damn-epestein-files-cracker-barrel-logo-shirt/",
-    "https://designatshop.com/product/release-the-files-no-more-secrets-epstein-birthday-shirt/",
-    "https://designatshop.com/product/philadelphia-eagles-phillies-phanatic-hittin-dingers-shirt/"
+    "https://designatshop.com/product/im-starting-to-think-i-will-never-be-old-enough-to-know-better-t-shirt/",
+    "https://designatshop.com/product/gnome-stuck-between-idk-idc-idgaf-happy-fall-shirt/",
+    "https://designatshop.com/product/horse-there-are-two-ways-to-be-fooled-t-shirt/",
+    "https://designatshop.com/product/gnomie-im-not-crazy-im-just-special-no-wait-maybe-i-am-crazy-hold-on-shirt/",
+    "https://designatshop.com/product/gnome-im-not-clumsy-just-the-floor-hates-me-the-table-chairs-are-bullies-and-the-walls-shirt/",
+    "https://designatshop.com/product/dog-tyler-youre-high-on-my-bittin-list-shirt/",
+    "https://designatshop.com/product/german-shepherd-ghost-halloween-shirt/",
+    "https://designatshop.com/product/carlos-alcaraz-blond-hair-parental-advisory-shirt/",
+    "https://designatshop.com/product/f-caw-f-black-crow-gothic-shirt/",
+    "https://designatshop.com/product/cork-on-the-court-wimbledon-2025-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/the-palmer-squares-beach-squad-shirt-2025/",
-    "https://arjomany.com/product/the-mountain-goats-sea-monster-ivory-merch/",
-    "https://arjomany.com/product/the-big-three-sutter-health-park-2025-t-shirt/",
-    "https://arjomany.com/product/poppy-zinc-bear-trap-2025-merch/",
-    "https://arjomany.com/product/its-always-sunny-in-philadelphia-x-phillies-pay-homage-tee/",
-    "https://arjomany.com/product/its-always-sunny-in-philadelphia-x-eagles-tee/",
-    "https://arjomany.com/product/its-always-sunny-in-philadelphia-x-eagles-flipadelphia-paddys-pub-tee/",
-    "https://arjomany.com/product/hangman-adam-unhappy-trails-tee/",
-    "https://arjomany.com/product/doctor-who-embroidered-mr-ring-a-ding-merch/",
-    "https://arjomany.com/product/doctor-who-embroidered-dugga-doo-shirt-new/"
+    "https://arjomany.com/product/tomorrowland-butterfly-live-today-t-shirt/",
+    "https://arjomany.com/product/tomorrowland-butterfly-live-today-t-shirt-limited/",
+    "https://arjomany.com/product/tomorrowland-butterfly-live-today-t-shirt-2025/",
+    "https://arjomany.com/product/tomorrowland-butterfly-live-today-merch/",
+    "https://arjomany.com/product/tomorrowland-butterfly-live-today-2025-merch/",
+    "https://arjomany.com/product/2025-tomorrowland-butterfly-live-today-t-shirt/"
   ],
   "collectionpostertour.com": [
     "https://collectionpostertour.com/product/zerb-south-north-america-tour-2025-poster/",
