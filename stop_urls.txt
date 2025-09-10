@@ -1,15 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/zach-bryan-notre-dame-fighting-irish-stadium-2025-shirt/",
-    "https://geekteesus.com/product/the-boss-jim-irsay-2025-indianapolis-colts-for-the-boss-signature-shirt/",
-    "https://geekteesus.com/product/so-mos-rams-somos-familia-los-angeles-rams-nfl-shirt/",
-    "https://geekteesus.com/product/raider-power-texas-tech-red-raiders-vs-oregon-state-beavers-2025-beat-the-beavers-gameday-shirt/",
-    "https://geekteesus.com/product/indiana-hoosiers-stadium-ball-nation-college-football-2025-shirt/",
-    "https://geekteesus.com/product/missouri-tigers-noah-gilion-fight-and-win-osteosarcoma-cancer-2025-shirt/",
-    "https://geekteesus.com/product/minnesota-vikings-warm-up-annunciation-shirt/",
-    "https://geekteesus.com/product/chicago-bears-warm-up-annunciation-2025-shirt/",
-    "https://geekteesus.com/product/fightin-taters-idaho-vandals-football-2025-logo-shirt/",
-    "https://geekteesus.com/product/auburn-tigers-2025-football-season-shirt/"
+    "https://geekteesus.com/product/new-york-jets-warm-up-annunciation-shirt/",
+    "https://geekteesus.com/product/new-york-giants-warm-up-annunciation-shirt/",
+    "https://geekteesus.com/product/tennessee-titans-warm-up-annunciation-shirt/",
+    "https://geekteesus.com/product/new-england-patriots-warm-up-annunciation-shirt/",
+    "https://geekteesus.com/product/buffalo-bills-warm-up-annunciation-shirt/",
+    "https://geekteesus.com/product/baltimore-ravens-warm-up-annunciation-shirt/",
+    "https://geekteesus.com/product/los-angeles-rams-warm-up-annunciation-shirt/",
+    "https://geekteesus.com/product/washington-commanders-warm-up-annunciation-shirt/",
+    "https://geekteesus.com/product/jacksonville-jaguars-warm-up-annunciation-shirt/",
+    "https://geekteesus.com/product/dallas-cowboys-warm-up-annunciation-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/you-know-im-not-dead-shirt/",
@@ -164,16 +164,16 @@
     "https://clickoneshirt.com/product/the-cost-of-tariffs-never-forget-the-enablers-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/utah-utes-am-i-salt-lake-city-ut-builtin-the-mountains-university-paint-t-shirts/",
-    "https://teleteeshirt.com/product/the-smashing-machine-real-american-hero-t-shirts/",
-    "https://teleteeshirt.com/product/the-hives-forever-north-american-world-tour-2025-t-shirts/",
-    "https://teleteeshirt.com/product/simple-plan-houston-texas-tour-2025-van-rocket-t-shirts/",
-    "https://teleteeshirt.com/product/semper-fi-halloween-t-shirts/",
-    "https://teleteeshirt.com/product/minilla-x-video-20xx-mech-vhs-t-shirts/",
-    "https://teleteeshirt.com/product/mike-squires-the-clean-team-world-clean-up-crew-t-shirts/",
-    "https://teleteeshirt.com/product/king-of-sports-new-japan-pro-wrestling-unaffiliated-circle-t-shirts/",
-    "https://teleteeshirt.com/product/kayla-malec-extra-credit-slut-t-shirts/",
-    "https://teleteeshirt.com/product/kayla-malec-draft-me-daddy-t-shirts/"
+    "https://teleteeshirt.com/product/cam-skattebo-new-york-giants-angry-runs-player-t-shirts/",
+    "https://teleteeshirt.com/product/blues-clues-all-blues-no-clues-t-shirts/",
+    "https://teleteeshirt.com/product/the-return-of-the-department-of-war-est-2025-eagle-american-flag-t-shirts/",
+    "https://teleteeshirt.com/product/the-hives-nulla-salus-sine-t-shirts/",
+    "https://teleteeshirt.com/product/tales-of-the-re-animator-the-headless-doctor-pulp-novel-t-shirts/",
+    "https://teleteeshirt.com/product/south-florida-bulls-usf-south-florida-vs-everybody-t-shirts/",
+    "https://teleteeshirt.com/product/southside-trump-t-shirts/",
+    "https://teleteeshirt.com/product/philadelphia-eagles-the-gang-wins-the-big-game-philly-t-shirts/",
+    "https://teleteeshirt.com/product/official-jeremy-clarkson-stuck-farmer-t-shirts/",
+    "https://teleteeshirt.com/product/nude-project-by-artists-for-artists-mediterranean-hedonism-and-urban-resilience-cassanova-since-2019-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/sweater-rooster-fighter-pride-strength-feathers-arena-legend-champion-courage-glory-power-honor-victory-shirt/",
