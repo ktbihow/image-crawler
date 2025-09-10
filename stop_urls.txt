@@ -12,16 +12,16 @@
     "https://geekteesus.com/product/dallas-cowboys-warm-up-annunciation-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/dear-jeffrey-happy-50th-joel-shirt/",
-    "https://techteesusa.com/product/d2-postin-wear-pants-do-crimes-shirt/",
-    "https://techteesusa.com/product/annunciation-be-kind-be-respectful-be-inclusive-be-my-best-self-be-brave-shirt/",
-    "https://techteesusa.com/product/cincinnati-bearcats-x-garage-beer-2025-shirt/",
-    "https://techteesusa.com/product/annunciation-logo-shirt/",
-    "https://techteesusa.com/product/at-first-i-will-break-but-then-i-will-blossom-shirt/",
-    "https://techteesusa.com/product/chicago-hates-nazis-shirt/",
-    "https://techteesusa.com/product/cal-raleigh-for-mvp-seattle-mariners-baseball-shirt/",
-    "https://techteesusa.com/product/cole-eiserman-boston-university-terriers-mens-ice-hockey-2025-2026-captains-shirt/",
-    "https://techteesusa.com/product/i-love-my-golden-retriever-shark-shirt/"
+    "https://techteesusa.com/product/wild-jigglypuff-appeared-shirt/",
+    "https://techteesusa.com/product/viva-la-raza-shirt/",
+    "https://techteesusa.com/product/university-of-nebraska-husker-football-memorial-stadium-lincoln-ne-shirt/",
+    "https://techteesusa.com/product/trumps-alleged-birthday-doodle-to-epstein-there-must-be-more-to-life-than-having-everything-signature-shirt/",
+    "https://techteesusa.com/product/trump-cant-handle-chicago-winters-shirt/",
+    "https://techteesusa.com/product/tommy-football-florida-state-seminoles-football-tommy-castellanos-signature-shirt/",
+    "https://techteesusa.com/product/tokyo-disney-resort-shirt/",
+    "https://techteesusa.com/product/think-outside-the-jar-brain-shirt/",
+    "https://techteesusa.com/product/things-ron-johnson-has-done-to-piss-me-off-shirt/",
+    "https://techteesusa.com/product/someone-loves-me-madison-shirt-2/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/the-conjuring-last-rites-annabelle-shirt/",
@@ -71,25 +71,31 @@
     "https://teeextra.com/product/official-the-boogiedown-music-festival-2025-driftless-yuba-wisconsin-september-11-13-2025-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/you-dont-know-a-die-hard-fan-until-you-meet-a-bills-fan-shirt/",
-    "https://teespix.com/product/wnba-is-greater-than-nba-shirt/",
-    "https://teespix.com/product/usf-football-south-florida-vs-everybody-shirt/",
-    "https://teespix.com/product/trump-is-everything-we-teach-our-children-not-to-be-shirt/",
-    "https://teespix.com/product/tackle-breast-cancer-chiefs-logo-shirt/",
-    "https://teespix.com/product/steelers-support-the-empire-since-1933-shirt/",
-    "https://teespix.com/product/spooky-grinch-cowboys-season-halloween-shirt/",
-    "https://teespix.com/product/sons-of-steel-pittsburgh-shirt/",
-    "https://teespix.com/product/snoopy-i-need-to-go-on-medication-so-i-can-slap-shirt/",
-    "https://teespix.com/product/snoopy-i-dont-need-to-fit-in-i-am-custom-made-shirt/"
+    "https://teespix.com/product/stitchs-surf-shack-when-youre-here-youre-ohana-shirt/",
+    "https://teespix.com/product/somebody-in-rilo-kiley-loves-me-new-shirt/",
+    "https://teespix.com/product/shut-up-cris-collinsworth-shirt-2/",
+    "https://teespix.com/product/philadelphia-eagles-flip-the-birds-football-mascot-shirt/",
+    "https://teespix.com/product/original-wwii-adolf-hitler-european-tour-design-1939-1945-shirt/",
+    "https://teespix.com/product/original-wilson-springs-hotel-with-tan-and-sober-oct-11-2025-richmond-va-shirt/",
+    "https://teespix.com/product/original-the-black-angels-aviator-nation-dreamland-tour-2025-shirt/",
+    "https://teespix.com/product/new-york-knick-new-game-day-series-2025-ecf-campaign-nba-shirt/",
+    "https://teespix.com/product/mustangs-1-heart-shirt/",
+    "https://teespix.com/product/more-like-butt-gers-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/make-chicago-great-again-trump-chicago-bears-2-sided-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/bush-razorblade-suitcase-1997-tour-shirt/",
-    "https://serenashirt.com/product/supernatural-sam-winchester-shirt/",
-    "https://serenashirt.com/product/lalaloopsy-charlotte-charades-shirt/",
-    "https://serenashirt.com/product/the-great-noticing-shirt/"
+    "https://serenashirt.com/product/eastons-fish-market-shirt/",
+    "https://serenashirt.com/product/eat-sleep-notice-repeat-shirt/",
+    "https://serenashirt.com/product/say-no-to-digital-id-shirt/",
+    "https://serenashirt.com/product/crenshaw-slauson-overhill-la-brea-la-cienega-shirt/",
+    "https://serenashirt.com/product/sur-la-mer-sailboat-shirt/",
+    "https://serenashirt.com/product/playboi-carti-x-asuka-anime-shirt/",
+    "https://serenashirt.com/product/chad-powers-wearing-200-number-shirt/",
+    "https://serenashirt.com/product/protect-white-people-we-do-not-need-to-live-like-this-shirt/",
+    "https://serenashirt.com/product/penomeco-hab-angst-shirt/",
+    "https://serenashirt.com/product/kung-fu-kenny-bednarek-legacy-collage-shirt/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/utah-man-am-i-salt-lake-city-ut-university-of-utah-shirt/",
@@ -144,16 +150,16 @@
     "https://capitoneshirt.com/product/tennessee-vols-lindsey-nelson-yell-some-stadium-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/saquon-barkley-masterpiece-graphic-signature-shirt/",
-    "https://clickoneshirt.com/product/salty-detroit-football-signature-shirt/",
-    "https://clickoneshirt.com/product/red-flag-shirt/",
-    "https://clickoneshirt.com/product/qb1-j-j-mccarthy-minnesota-vikings-shirt/",
-    "https://clickoneshirt.com/product/purdue-university-cradle-of-astronauts-shirt/",
-    "https://clickoneshirt.com/product/phanatic-philadelphia-baseball-bryce-harper-got-dog-la-vista-baby-shirt/",
-    "https://clickoneshirt.com/product/parkour-hardcore-team-est-2009-scranton-logo-retro-shirt/",
-    "https://clickoneshirt.com/product/mystery-wrestling-shirt/",
-    "https://clickoneshirt.com/product/mississippi-state-bulldogs-football-no-vacancy-at-the-hotel-hail-shirt/",
-    "https://clickoneshirt.com/product/micah-parsons-one-of-one-shirt/"
+    "https://clickoneshirt.com/product/wear-pants-do-crimes-shirt/",
+    "https://clickoneshirt.com/product/under-attack-parody-shirt/",
+    "https://clickoneshirt.com/product/tulane-green-wave-vs-ole-miss-rebels-game-day-2025-vintage-shirt/",
+    "https://clickoneshirt.com/product/tommy-castellanos-tommy-fsu-football-signature-shirt/",
+    "https://clickoneshirt.com/product/the-blues-brothers-shirt/",
+    "https://clickoneshirt.com/product/texas-am-aggies-est-1876-mascot-vintage-shirt/",
+    "https://clickoneshirt.com/product/taco-sombrero-mexico-vs-sushi-japan-soccer-shirt/",
+    "https://clickoneshirt.com/product/support-queer-owned-businesses-palantir-rainbow-flag-shirt/",
+    "https://clickoneshirt.com/product/shut-up-cris-collinsworth-buffalo-bills-shirt/",
+    "https://clickoneshirt.com/product/reel-man-fishing-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/cam-skattebo-new-york-giants-angry-runs-player-t-shirts/",
@@ -216,15 +222,15 @@
     "https://lovingsquad.com/product/shut-up-cris-collinsworth-buffalo-football-fan-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/tart-better-than-kelce-taylor-vs-travis-kelce-shirt/",
-    "https://designatshop.com/product/sur-la-mer-sailboat-shirt/",
-    "https://designatshop.com/product/syndrome-down-money-up-shirt/",
-    "https://designatshop.com/product/saquon-barkley-philadelphia-eagles-onto-the-next-go-birds-shirt/",
-    "https://designatshop.com/product/sea-dogs-grateful-dead-portland-dead-head-shirt/",
-    "https://designatshop.com/product/philadelphia-eagles-phillies-phanatic-holding-lombardi-trophy-super-bowl-shirt/",
-    "https://designatshop.com/product/philadelphia-phillies-nick-castellanos-nasty-casty-nfl-shirt/",
-    "https://designatshop.com/product/las-vegas-aces-bank-on-womens-sports-shirt/",
-    "https://designatshop.com/product/matt-prater-kaboom-buffalo-bills-nfl-shirt/",
-    "https://designatshop.com/product/eagle-philadelphia-eagles-paint-funny-shirt/"
+    "https://designatshop.com/product/world-fuckin-champs-philadelphia-philly-eagles-shirt/",
+    "https://designatshop.com/product/travis-kelce-smacked-by-teair-tart-shirt/",
+    "https://designatshop.com/product/trump-puppet-of-putin-holding-epstein-release-the-files-shirt/",
+    "https://designatshop.com/product/the-one-piece-is-real-law-kid-luffy-nfl-shirt/",
+    "https://designatshop.com/product/the-cool-s-birthday-card-donald-trump-signature-shirt/",
+    "https://designatshop.com/product/snoopy-detroit-lions-logo-vintage-nfl-2025-shirt/",
+    "https://designatshop.com/product/teair-tart-smacks-travis-kelce-parental-advisory-shirt/",
+    "https://designatshop.com/product/release-the-damn-epestein-files-cracker-barrel-logo-shirt/",
+    "https://designatshop.com/product/release-the-files-no-more-secrets-epstein-birthday-shirt/",
+    "https://designatshop.com/product/philadelphia-eagles-phillies-phanatic-hittin-dingers-shirt/"
   ]
 }
