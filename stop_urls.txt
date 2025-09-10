@@ -12,28 +12,23 @@
     "https://geekteesus.com/product/dallas-cowboys-warm-up-annunciation-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/welcome-to-the-schlitt-show-new-york-yankees-signature-shirt/",
-    "https://techteesusa.com/product/type-schlitt-cam-schlittler-new-york-yankees-signature-shirt/",
-    "https://techteesusa.com/product/treveyon-henderson-new-england-patriots-football-celebration-shirt/",
-    "https://techteesusa.com/product/top-cat-cincy-football-x-top-gun-logo-parody-shirt/",
-    "https://techteesusa.com/product/the-world-is-yours-scarface-shirt/",
-    "https://techteesusa.com/product/the-ohio-state-buckeyes-band-abbey-road-shirt/",
-    "https://techteesusa.com/product/the-jaguar-13-shirt/",
-    "https://techteesusa.com/product/talkin-giants-vs-the-world-shirt/",
-    "https://techteesusa.com/product/talkin-giants-race-car-new-york-football-shirt/",
-    "https://techteesusa.com/product/syracuse-orange-cuse-orange-vintage-shirt/"
+    "https://techteesusa.com/product/ray-houghton-and-terry-phelan-subbuteo-shirt/",
+    "https://techteesusa.com/product/wnba-jam-los-angeles-sparks-kelsey-plum-and-cameron-brink-shirt/",
+    "https://techteesusa.com/product/the-peanuts-boston-sports-teams-crossing-forever-not-just-when-we-win-shirt/",
+    "https://techteesusa.com/product/a-i-cant-replace-me-because-i-dont-do-anything-shirt/",
+    "https://techteesusa.com/product/air-will-be-bud-dog-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/toronto-raptors-skeleton-dinosaur-basketball-city-fan-shirt/",
-    "https://teeworksusa.com/product/thug-it-out-skeleton-lifting-weights-bodybuilding-swoleville-shirt/",
-    "https://teeworksusa.com/product/the-weeknd-after-hours-til-dawn-tour-alien-planet-shirt/",
-    "https://teeworksusa.com/product/washington-skeleton-wizard-holding-basketball-in-dark-fantasy-shirt/",
-    "https://teeworksusa.com/product/utah-skeleton-basketball-player-with-bears-nba-fan-shirt/",
-    "https://teeworksusa.com/product/skinny-puppy-industrial-band-dark-gothic-creature-art-shirt/",
-    "https://teeworksusa.com/product/support-human-artists-no-ai-shirt/",
-    "https://teeworksusa.com/product/the-fixer-comic-book-style-flame-logo-shirt/",
-    "https://teeworksusa.com/product/skeleton-laughing-holding-a-steaming-coffee-cup-shirt/",
-    "https://teeworksusa.com/product/san-antonio-skeleton-cowboy-holding-lasso-and-basketball-shirt/"
+    "https://teeworksusa.com/product/indiana-pacers-basketball-tyrese-haliburton-portrait-graphic-shirt/",
+    "https://teeworksusa.com/product/im-not-gay-but-20-is-20-funny-sarcastic-quote-shirt/",
+    "https://teeworksusa.com/product/google-boobs-trust-me-skull-funny-sarcastic-goth-shirt/",
+    "https://teeworksusa.com/product/donald-trump-morgan-wallen-luke-combs-legend-the-outlaw-tour-shirt/",
+    "https://teeworksusa.com/product/godmother-of-the-bee-day-girl-cute-bee-honeycomb-shirt/",
+    "https://teeworksusa.com/product/distractible-ship-of-theseus-mark-rober-blueprint-drawing-shirt/",
+    "https://teeworksusa.com/product/department-of-war-eagle-with-american-flag-and-guns-shirt/",
+    "https://teeworksusa.com/product/club-world-cup-25-fifa-seattle-washington-space-needle-shirt/",
+    "https://teeworksusa.com/product/day-of-the-dead-aztec-skeleton-on-a-bicycle-shirt/",
+    "https://teeworksusa.com/product/club-world-cup-25-fifa-global-soccer-tournament-champion-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-you-dont-know-a-buffalo-bills-die-hard-fan-until-you-meet-a-bills-fan-shirt/",
@@ -180,16 +175,14 @@
     "https://teleteeshirt.com/product/the-mountain-goats-denim-collage-t-shirts/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/the-cool-s-birthday-card-donald-trump-signature-shirt/",
-    "https://teeslocal.com/product/jeffrey-birthday-book-pedophile-resign-now-you-sick-fuck-anti-trump-funny-shirt/",
-    "https://teeslocal.com/product/epstein-trump-birthday-message-signature-funny-shirt/",
-    "https://teeslocal.com/product/peter-griffin-it-seems-today-birthday-card-your-family-guy-shirt/",
-    "https://teeslocal.com/product/no-more-secrets-release-the-files-epstein-birthday-message-shirt/",
-    "https://teeslocal.com/product/nobody-wants-this-noah-adam-brody-matzah-ballers-3-shirt/",
-    "https://teeslocal.com/product/normal-heartbeat-deceased-heartbeat-heartbeat-watching-mariners-shirt/",
-    "https://teeslocal.com/product/normal-heartbeat-deceased-heartbeat-heartbeat-watching-packers-nfl-shirt/",
-    "https://teeslocal.com/product/normal-heartbeat-deceased-heartbeat-heartbeat-watching-rays-shirt/",
-    "https://teeslocal.com/product/normal-heartbeat-deceased-heartbeat-heartbeat-watching-rangers-nfl-shirt/"
+    "https://teeslocal.com/product/hell-is-a-teenage-girl-heart-blazing-fire-shirt/",
+    "https://teeslocal.com/product/trivium-heavy-metal-band-playing-on-stage-with-flames-dark-demon-hands-vintage-shirt/",
+    "https://teeslocal.com/product/punk-bass-player-inspired-by-rogue-from-the-x-men-shirt/",
+    "https://teeslocal.com/product/tiger-tacocat-spelled-backwards-is-tacocat-go-team-shirt/",
+    "https://teeslocal.com/product/unicorn-chef-bitchcraft-the-art-of-pissing-people-off-by-telling-them-the-truth-shirt/",
+    "https://teeslocal.com/product/josh-allen-number-17-quarterback-throwing-and-celebrating-football-action-sports-shirt/",
+    "https://teeslocal.com/product/tony-santillan-bend-the-knee-strikeout-pitcher-baseball-sports-shirt/",
+    "https://teeslocal.com/product/cam-skattebo-new-york-giants-homage-angry-runs-player-nfl-shirt/"
   ],
   "melonashirt.com": [
     "https://melonashirt.com/product/official-wildcats-east-high-drama-club-shirts/",
