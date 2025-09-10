@@ -65,16 +65,16 @@
     "https://teeextra.com/product/official-wwii-adolf-hitler-european-tour-design-1939-1945-shirt-2/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/new-york-mets-met-busters-shirt/",
-    "https://teespix.com/product/mystery-wrestling-shirt/",
-    "https://teespix.com/product/micah-parsons-1of1-one-of-one-shirt/",
-    "https://teespix.com/product/major-league-chicken-kicker-t-shirt/",
-    "https://teespix.com/product/los-angeles-dodgers-rams-mashup-logo-shirt/",
-    "https://teespix.com/product/justin-jefferson-masterpiece-shirt/",
-    "https://teespix.com/product/josh-allen-masterpiece-shirt/",
-    "https://teespix.com/product/jayden-daniels-masterpiece-shirt/",
-    "https://teespix.com/product/jaxson-dart-new-york-giants-bullseye-player-pack-t-shirt/",
-    "https://teespix.com/product/jalen-ramsey-called-game-shirt-2/"
+    "https://teespix.com/product/my-ideal-weight-josh-allen-on-top-of-me-shirt/",
+    "https://teespix.com/product/halloween-hocus-pocus-x-buffalo-bills-no-1-shirt/",
+    "https://teespix.com/product/rutgers-more-like-butt-gers-shirt/",
+    "https://teespix.com/product/denny-hamlin-2025-enjoy-illinois-300-race-winner-t-shirt/",
+    "https://teespix.com/product/usf-football-bucked-miami-shirt/",
+    "https://teespix.com/product/our-kicker-is-a-serial-killer-steelers-shirt/",
+    "https://teespix.com/product/raider-power-2025-texas-tech-vs-oregon-gameday-football-t-shirt/",
+    "https://teespix.com/product/university-of-nebraska-husker-football-max-collegiate-shirt/",
+    "https://teespix.com/product/zero-ducks-off-road-cracker-barrel-parody-t-shirt/",
+    "https://teespix.com/product/fsu-football-tommy-castellanos-tommy-football-shirt-2/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/make-chicago-great-again-trump-chicago-bears-2-sided-shirt/"
@@ -86,16 +86,16 @@
     "https://serenashirt.com/product/minnesota-vikings-nfl-j-j-mccarthy-justin-jefferson-9186-shirt/"
   ],
   "fanaticity.com": [
-    "https://fanaticity.com/product/your-token-your-vision-our-boost-shirt/",
-    "https://fanaticity.com/product/the-man-with-no-strings-shirt/",
-    "https://fanaticity.com/product/sydney-shaffer-single-season-home-run-record-delaware-blue-hens-safety-baseball-shirt/",
-    "https://fanaticity.com/product/snoopy-and-woodstock-x-mountain-dew-pumpkin-halloween-shirt/",
-    "https://fanaticity.com/product/shining-star-never-give-up-shirt/",
-    "https://fanaticity.com/product/shut-up-and-grind-the-tape-shirt/",
-    "https://fanaticity.com/product/brampton-fire-fighters-shirt/",
-    "https://fanaticity.com/product/sanderson-hocus-pocus-buffalo-bills-football-x-halloween-shirt/",
-    "https://fanaticity.com/product/delaney-mcdaniel-all-time-assists-record-delaware-blue-hens-safety-lacrosse-shirt/",
-    "https://fanaticity.com/product/kahlil-ali-first-career-touchdown-delaware-blue-hens-safety-football-shirt/"
+    "https://fanaticity.com/product/zero-ducks-off-road-cracker-barrel-parody-shirt/",
+    "https://fanaticity.com/product/wilson-springs-hotel-with-tan-and-sober-richmond-va-on-october-11-2025-poster-shirt/",
+    "https://fanaticity.com/product/wear-pants-do-crimes-shirt/",
+    "https://fanaticity.com/product/university-of-northern-iowa-panthers-logo-shirt/",
+    "https://fanaticity.com/product/university-of-iowa-hawkeyes-logo-shirt/",
+    "https://fanaticity.com/product/the-hives-sept-09-2025-houston-tx-house-of-blues-concert-poster-shirt/",
+    "https://fanaticity.com/product/the-hives-austin-9-8-25-shirt/",
+    "https://fanaticity.com/product/than-india-shirt/",
+    "https://fanaticity.com/product/the-hives-2025-eyes-shirt/",
+    "https://fanaticity.com/product/tedeschi-trucks-band-tour-chicago-il-sep-09-2025-poster-shirt/"
   ],
   "legendusashirt.com": [
     "https://legendusashirt.com/product/tennessee-volunteers-vs-georgia-bulldogs-college-gameday-knoxville-tn-sept-13-2025-t-shirt/",
@@ -140,16 +140,16 @@
     "https://uscraftedtees.com/product/original-phasmophobia-prestige-ix-2025-shirt/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/tomato-in-a-world-full-of-romas-be-an-heirloom-shirt/",
-    "https://capitoneshirt.com/product/south-park-kfc-mmmkayfc-drugs-are-bad-chicken-is-good-shirt/",
-    "https://capitoneshirt.com/product/roger-williams-providence-rhode-island-national-memorial-shirt/",
-    "https://capitoneshirt.com/product/phillies-karen-the-ballhogger-shirt/",
-    "https://capitoneshirt.com/product/phillies-karen-jaws-parody-shirt/",
-    "https://capitoneshirt.com/product/phillies-karen-diamond-drama-queen-sharing-never-heard-of-it-shirt/",
-    "https://capitoneshirt.com/product/phillies-karen-cheryl-wagner-grinch-shirt/",
-    "https://capitoneshirt.com/product/phillies-karen-baseball-my-precious-shirt/",
-    "https://capitoneshirt.com/product/phillies-citizens-bank-park-please-do-not-steal-foul-balls-from-children-shirt/",
-    "https://capitoneshirt.com/product/nosferatu-nosferagu-traditional-ragu-halloween-shirt/"
+    "https://capitoneshirt.com/product/yeah-im-in-bangin-exquisite-latina-asses-shirt/",
+    "https://capitoneshirt.com/product/wanted-reward-phillies-karen-shirt/",
+    "https://capitoneshirt.com/product/virginia-old-dominion-state-shirt/",
+    "https://capitoneshirt.com/product/tomato-east-nashville-a-uniter-not-a-divider-shirt/",
+    "https://capitoneshirt.com/product/shaquille-oneal-shaqer-barrel-shirt/",
+    "https://capitoneshirt.com/product/phillies-karen-starter-pack-thats-my-ball-shirt/",
+    "https://capitoneshirt.com/product/phillies-karen-give-me-your-ball-shirt/",
+    "https://capitoneshirt.com/product/phillies-baseball-karen-old-cunt-store-cracker-barrel-shirt/",
+    "https://capitoneshirt.com/product/nosferatu-nosferagu-pasta-sauce-garlic-free-halloween-shirt/",
+    "https://capitoneshirt.com/product/newscum-destroyed-california-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/wear-pants-do-crimes-shirt/",
