@@ -22,7 +22,7 @@
     "https://techteesusa.com/product/no-therapy-generation-x-just-trauma-and-saturday-cartoons-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/the-conjuring-last-rites-annabelle-shirt/"
+    "https://teeworksusa.com/product/draymond-green-punch-basketball-player-pun-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-you-dont-know-a-buffalo-bills-die-hard-fan-until-you-meet-a-bills-fan-shirt/",
@@ -181,20 +181,28 @@
     "https://teeslocal.com/product/normal-heartbeat-deceased-heartbeat-heartbeat-watching-rangers-nfl-shirt/"
   ],
   "melonashirt.com": [
-    "https://melonashirt.com/product/official-south-florida-bulls-usf-bucked-miami-hurricanes-mascot-shirts/",
-    "https://melonashirt.com/product/official-ralph-lauren-2025-usa-ryder-cup-shirts/",
-    "https://melonashirt.com/product/official-poppy-zinc-bear-trap-09-2025-tour-shirts/",
-    "https://melonashirt.com/product/official-mickey-mouse-and-friends-class-of-1928-shirts/",
-    "https://melonashirt.com/product/official-noah-gilion-fight-and-win-cancer-shirts/",
-    "https://melonashirt.com/product/official-enny-hamlin-checkered-flag-sports-2025-enjoy-illinois-300-race-winner-shirts/",
-    "https://melonashirt.com/product/official-benson-boone-american-heart-world-tour-uk-eu-2025-shirts/",
-    "https://melonashirt.com/product/official-chip-n-dale-trouble-making-tradition-est-1943-shirts/",
-    "https://melonashirt.com/product/official-bourbon-and-beyond-5k-louisville-ky-sep-13-2025-shirts/",
-    "https://melonashirt.com/product/official-cal-raleigh-for-mvp-seattle-mariners-shirts/"
+    "https://melonashirt.com/product/official-wildcats-east-high-drama-club-shirts/",
+    "https://melonashirt.com/product/official-shop-window-honolulu-aloha-got-soul-shirts/",
+    "https://melonashirt.com/product/official-national-bohemian-140th-anniversary-logo-shirts/",
+    "https://melonashirt.com/product/official-kei-truck-aloha-got-soul-live-in-japan-shirts/",
+    "https://melonashirt.com/product/official-drip-cafe-x-ags-honolulu-collab-serving-you-coffee-serving-you-beats-shirts/",
+    "https://melonashirt.com/product/official-benson-boone-american-heart-football-shirts/",
+    "https://melonashirt.com/product/official-honolulu-aloha-got-soul-shirts/",
+    "https://melonashirt.com/product/official-iuter-by-ruben-spelta-italians-shirts/",
+    "https://melonashirt.com/product/official-brother-noland-pacific-bad-boy-shirts/",
+    "https://melonashirt.com/product/official-vulvodynia-uk-tour-2024-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/herrera-tx-district-23-texas-2026-shirt/",
-    "https://dalatshirt.com/product/an-american-werewolf-in-london-shirt-2/"
+    "https://dalatshirt.com/product/you-dont-know-a-die-hard-fan-until-you-meet-a-buffalo-bills-fan-football-shirt/",
+    "https://dalatshirt.com/product/walt-disney-studios-park-shirt/",
+    "https://dalatshirt.com/product/tis-the-season-to-be-a-kansas-city-chiefs-thanksgiving-shirt/",
+    "https://dalatshirt.com/product/the-kansas-city-chiefs-4x-super-bowl-champions-thank-you-for-the-memories-signatures-shirt/",
+    "https://dalatshirt.com/product/taco-tuesday-cinco-de-mayo-shirt/",
+    "https://dalatshirt.com/product/tackle-breast-cancer-kansas-city-chiefs-heartbeat-awareness-shirt/",
+    "https://dalatshirt.com/product/sticker-mule-logo-shirt/",
+    "https://dalatshirt.com/product/star-wars-x-pittsburgh-steelers-support-the-empire-since-1933-shirt/",
+    "https://dalatshirt.com/product/shun-akiyama-graphic-shirt/",
+    "https://dalatshirt.com/product/santana-moss-washington-commanders-signature-cartoon-shirt/"
   ],
   "lovingsquad.com": [
     "https://lovingsquad.com/product/you-drive-me-insane-car-shirt/",
@@ -221,16 +229,16 @@
     "https://designatshop.com/product/philadelphia-eagles-phillies-phanatic-hittin-dingers-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/the-palmer-squares-beach-squad-merch/",
-    "https://arjomany.com/product/its-always-sunny-in-philadelphia-x-phillies-pay-homage-shirt/",
-    "https://arjomany.com/product/its-always-sunny-in-philadelphia-x-eagles-shirt/",
-    "https://arjomany.com/product/its-always-sunny-in-philadelphia-x-eagles-flipadelphia-paddys-pub-shirt/",
-    "https://arjomany.com/product/cincinnati-open-in-orange-2025-shirt/",
-    "https://arjomany.com/product/stirling-sports-las-vegas-raiders-t-shirt/",
-    "https://arjomany.com/product/slam-kiyan-carmelo-anthony-t-shirt/",
-    "https://arjomany.com/product/joshua-mensah-chopp-tee/",
-    "https://arjomany.com/product/its-always-sunny-in-philadelphia-x-eagles-the-big-game-shirt/",
-    "https://arjomany.com/product/internet-today-la-bullies-t-shirt/"
+    "https://arjomany.com/product/the-palmer-squares-beach-squad-shirt-2025/",
+    "https://arjomany.com/product/the-mountain-goats-sea-monster-ivory-merch/",
+    "https://arjomany.com/product/the-big-three-sutter-health-park-2025-t-shirt/",
+    "https://arjomany.com/product/poppy-zinc-bear-trap-2025-merch/",
+    "https://arjomany.com/product/its-always-sunny-in-philadelphia-x-phillies-pay-homage-tee/",
+    "https://arjomany.com/product/its-always-sunny-in-philadelphia-x-eagles-tee/",
+    "https://arjomany.com/product/its-always-sunny-in-philadelphia-x-eagles-flipadelphia-paddys-pub-tee/",
+    "https://arjomany.com/product/hangman-adam-unhappy-trails-tee/",
+    "https://arjomany.com/product/doctor-who-embroidered-mr-ring-a-ding-merch/",
+    "https://arjomany.com/product/doctor-who-embroidered-dugga-doo-shirt-new/"
   ],
   "collectionpostertour.com": [
     "https://collectionpostertour.com/product/zerb-south-north-america-tour-2025-poster/",
@@ -252,15 +260,11 @@
     "https://neoteeco.com/product/moe-35-years-poster-at-the-capitol-theatre-in-port-chester-ny-on-october-11-2025-anniversary-tour-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/tennessee-titans-football-helmet-distressed-design-shirt/",
-    "https://newshirtstore.com/product/sunday-est-1987-social-club-i-just-hope-both-teams-have-fun-t-shirt/",
-    "https://newshirtstore.com/product/syracuse-coed-naked-football-first-down-and-skin-to-go-t-shirt/",
-    "https://newshirtstore.com/product/skeleton-wearing-leopard-prin-bow-im-not-just-a-im-also-a-bitch-shirt/",
-    "https://newshirtstore.com/product/sweater-rooster-fighter-pride-strength-feathers-arena-legend-champion-courage-glory-power-honor-victory-shirt/",
-    "https://newshirtstore.com/product/slam-cover-kiyan-carmelo-anthony-shirt/",
-    "https://newshirtstore.com/product/skeleton-dj-star-i-might-be-stubborn-and-opinionated-6-but-at-least-im-not-fake-shirt/",
-    "https://newshirtstore.com/product/snoopy-fly-eagles-fly-eagles-happy-halloween-shirt/",
-    "https://newshirtstore.com/product/stfu-about-chicago-est-1837-shirt/",
-    "https://newshirtstore.com/product/red-rooster-cocky-by-nature-carolina-by-pride-shirt/"
+    "https://newshirtstore.com/product/ace-of-spades-skull-card-shirt/",
+    "https://newshirtstore.com/product/angry-bird-helmet-and-patch-eye-shirt/",
+    "https://newshirtstore.com/product/across-five-aprils-caught-in-the-moment-never-wanted-it-to-stop-eye-t-shirt/",
+    "https://newshirtstore.com/product/aliens-exist-i-was-chosen-hey-mom-theres-something-in-the-back-room-t-shirt/",
+    "https://newshirtstore.com/product/adown-hitler-shirt/",
+    "https://newshirtstore.com/product/a-film-by-kirk-shirt/"
   ]
 }
