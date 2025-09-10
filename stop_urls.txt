@@ -1,22 +1,39 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/new-york-jets-warm-up-annunciation-shirt/",
-    "https://geekteesus.com/product/new-york-giants-warm-up-annunciation-shirt/",
-    "https://geekteesus.com/product/tennessee-titans-warm-up-annunciation-shirt/",
-    "https://geekteesus.com/product/new-england-patriots-warm-up-annunciation-shirt/",
-    "https://geekteesus.com/product/buffalo-bills-warm-up-annunciation-shirt/",
-    "https://geekteesus.com/product/baltimore-ravens-warm-up-annunciation-shirt/",
-    "https://geekteesus.com/product/los-angeles-rams-warm-up-annunciation-shirt/",
-    "https://geekteesus.com/product/washington-commanders-warm-up-annunciation-shirt/",
-    "https://geekteesus.com/product/jacksonville-jaguars-warm-up-annunciation-shirt/",
-    "https://geekteesus.com/product/dallas-cowboys-warm-up-annunciation-shirt/"
+    "https://geekteesus.com/product/iryna-zarutska-wearing-zepeddies-pizzeria-shirt/",
+    "https://geekteesus.com/product/indianapolis-colts-nfl-2025-shirt/",
+    "https://geekteesus.com/product/eric-wood-buffalo-bills-ja17-velveteen-plush-mvp-quarterback-shirt/",
+    "https://geekteesus.com/product/east-carolina-pirates-ncaa-american-flag-jolly-roger-shirt/",
+    "https://geekteesus.com/product/department-of-war-est-2025-shirt/",
+    "https://geekteesus.com/product/destiny-is-calling-me-buffalo-bills-stadium-shirt/",
+    "https://geekteesus.com/product/curtains-jalen-ramsey-pittsburgh-steelers-football-signature-called-game-shirt/",
+    "https://geekteesus.com/product/cooper-dejean-philadelphia-eagles-nfl-signature-shirt/",
+    "https://geekteesus.com/product/boujee-ghost-san-francisco-giants-baseball-2025-t-shirt/",
+    "https://geekteesus.com/product/boujee-ghost-oakland-athletics-baseball-2025-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/i-got-my-ass-ate-on-the-severed-floor-of-lumon-shirt/",
-    "https://techteesusa.com/product/crunchwrap-slut-shirt/"
+    "https://techteesusa.com/product/minnesota-lynx-2025-wnba-playoffs-logo-t-shirt/",
+    "https://techteesusa.com/product/the-only-dangerous-minority-is-the-rich-t-shirt/",
+    "https://techteesusa.com/product/run-the-damn-ball-t-shirt/",
+    "https://techteesusa.com/product/milwaukees-world-famous-pocket-pancakes-t-shirt/",
+    "https://techteesusa.com/product/i-came-i-saw-i-left-early-shirt/",
+    "https://techteesusa.com/product/squid-game-we-are-not-horses-we-are-humans-shirt/",
+    "https://techteesusa.com/product/youre-killin-me-smalls-detroit-tigers-x-the-sandlot-shirt/",
+    "https://techteesusa.com/product/beavis-and-butt-head-freak-science-xperiments-shirt/",
+    "https://techteesusa.com/product/asuka-germany-anime-shirt/",
+    "https://techteesusa.com/product/i-am-unconcerned-about-the-question-of-free-will-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/original-las-vegas-aces-aja-wilson-mvp-the-conversation-starter-shirt/"
+    "https://teeworksusa.com/product/pug-if-fell-out-a-screw-loose-it-fell-out-shirt/",
+    "https://teeworksusa.com/product/pug-i-fart-because-its-the-only-gas-i-can-afford-shirt/",
+    "https://teeworksusa.com/product/peanuts-x-american-red-cross-sleep-get-a-good-nights-sleep-shirt/",
+    "https://teeworksusa.com/product/peanuts-x-american-red-cross-hydrate-drink-an-extra-16-oz-of-water-shirt/",
+    "https://teeworksusa.com/product/peanuts-x-american-red-cross-get-ready-to-donate-shirt/",
+    "https://teeworksusa.com/product/peanuts-x-american-red-cross-eat-a-healthy-meal-with-iron-rich-foods-like-eggs-meat-and-spinach-shirt/",
+    "https://teeworksusa.com/product/owl-nerds-of-the-forest-shirt/",
+    "https://teeworksusa.com/product/husky-you-cant-fix-stupid-but-you-can-numb-it-with-a-2x4-shirt/",
+    "https://teeworksusa.com/product/husky-sometimes-i-wonder-if-im-in-a-bad-mood-or-if-everyone-around-me-is-just-stupid-shirt/",
+    "https://teeworksusa.com/product/husky-if-fell-out-a-screw-loose-it-fell-out-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-you-dont-know-a-buffalo-bills-die-hard-fan-until-you-meet-a-bills-fan-shirt/",
@@ -89,16 +106,7 @@
     "https://fanaticity.com/product/tedeschi-trucks-band-tour-chicago-il-sep-09-2025-poster-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/tennessee-volunteers-vs-georgia-bulldogs-college-gameday-knoxville-tn-sept-13-2025-t-shirt/",
-    "https://legendusashirt.com/product/tennessee-volunteers-vs-georgia-bulldogs-2025-college-gameday-t-shirt/",
-    "https://legendusashirt.com/product/max-keplers-wearing-pay-homage-t-shirt/",
-    "https://legendusashirt.com/product/lsu-tigers-game-day-chance-of-purple-reign-always-t-shirt/",
-    "https://legendusashirt.com/product/its-always-sunny-in-phillies-pay-homage-t-shirt/",
-    "https://legendusashirt.com/product/jj-mccarthy-and-justin-jefferson-jj2jj-t-shirt/",
-    "https://legendusashirt.com/product/indiana-hoosiers-vs-illinois-fighting-illini-bloomington-in-sept-20-2025-t-shirt/",
-    "https://legendusashirt.com/product/fsu-football-tommy-castellanos-tommy-football-t-shirt/",
-    "https://legendusashirt.com/product/eat-sleep-notice-repeat-t-shirt/",
-    "https://legendusashirt.com/product/cal-raleigh-for-mvp-t-shirt/"
+    "https://legendusashirt.com/product/official-annie-elise-true-crime-is-my-therapy-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/modern-rockstars-hotter-than-hell-shirt/",
@@ -113,20 +121,19 @@
     "https://teehandus.com/product/buble-the-water-cooler-kills-shirt/"
   ],
   "thefunnyt.com": [
-    "https://thefunnyt.com/product/hot-sexy-shirt/",
-    "https://thefunnyt.com/product/hot-sexy-baby-tee/"
+    "https://thefunnyt.com/product/justice-for-iryna-zarutska-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/original-we-will-never-be-back-at-this-restaurant-the-staff-made-2025-shirt/",
-    "https://uscraftedtees.com/product/original-trevor-henderson-nightmare-chorus-2025-shirt/",
-    "https://uscraftedtees.com/product/original-texas-am-aggies-home-of-the-12th-man-shirt/",
-    "https://uscraftedtees.com/product/original-the-callous-daoboys-someone-loves-me-2025-shirt/",
-    "https://uscraftedtees.com/product/original-sunday-world-we-are-paid-r2k-to-vote-anc-bi-election-in-jhb-shirt/",
-    "https://uscraftedtees.com/product/original-slut-pop-star-shirt/",
-    "https://uscraftedtees.com/product/original-san-francisco-49ers-unicorn-dabbing-shirt/",
-    "https://uscraftedtees.com/product/original-pokemons-25th-anniversary-shirt/",
-    "https://uscraftedtees.com/product/original-phillies-karen-cruella-de-phills-2025-shirt/",
-    "https://uscraftedtees.com/product/original-phasmophobia-prestige-ix-2025-shirt/"
+    "https://uscraftedtees.com/product/official-ew-chicago-meme-2025-shirt/",
+    "https://uscraftedtees.com/product/official-doctor-who-cyberman-you-will-become-like-us-2025-shirt/",
+    "https://uscraftedtees.com/product/official-didnt-go-to-brit-school-2025-shirt/",
+    "https://uscraftedtees.com/product/official-dead-and-company-golden-gate-park-wine-san-francisco-2025-shirt/",
+    "https://uscraftedtees.com/product/official-david-van-hemelryck-destitution-article-68-de-la-constitution-shirt/",
+    "https://uscraftedtees.com/product/official-crow-f-caw-f-2025-shirt/",
+    "https://uscraftedtees.com/product/official-buffalo-destiny-is-calling-me-2025-shirt/",
+    "https://uscraftedtees.com/product/official-breach-faces-twenty-one-pilots-2025-shirt/",
+    "https://uscraftedtees.com/product/official-brain-dead-x-godzilla-hedorah-2025-shirt/",
+    "https://uscraftedtees.com/product/official-bloodline-we-can-think-for-ourselves-middle-ground-shirt/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/yeah-im-in-bangin-exquisite-latina-asses-shirt/",
@@ -199,16 +206,16 @@
     "https://dalatshirt.com/product/bruno-fernandes-milf-man-i-love-fernandes-manchester-united-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/yeah-yeah-we-know-i-hate-when-drake-raps-shirt/",
-    "https://lovingsquad.com/product/were-just-two-fish-souls-swimming-in-a-fish-bowl-shirt/",
-    "https://lovingsquad.com/product/usf-bulls-i-helped-expose-fraudulence-september-9-2025-in-the-college-football-ap-poll-shirt/",
-    "https://lovingsquad.com/product/twin-with-two-bars-graphic-shirt/",
-    "https://lovingsquad.com/product/trey-amos-cornerback-washington-commanders-santana-moss-signature-shirt/",
-    "https://lovingsquad.com/product/top-cat-cincy-football-shirt/",
-    "https://lovingsquad.com/product/tigers-kansas-jayhawks-2025-border-showdown-champions-sept-6th-2025-memorial-stadium-mo-shirt/",
-    "https://lovingsquad.com/product/tis-the-season-to-be-a-kansas-city-chiefs-shirt/",
-    "https://lovingsquad.com/product/the-tony-danza-tapdance-extravaganza-eat-brains-poster-shirt/",
-    "https://lovingsquad.com/product/the-life-of-a-showgirl-taylor-signature-poster-shirt/"
+    "https://lovingsquad.com/product/ole-miss-rebels-triangle-vintage-shirt/",
+    "https://lovingsquad.com/product/oklahoma-state-cowboys-triangle-vintage-shirt/",
+    "https://lovingsquad.com/product/ohio-state-buckeyes-triangle-vintage-shirt/",
+    "https://lovingsquad.com/product/no-one-is-illegal-on-stolen-land-fuck-ice-shirt/",
+    "https://lovingsquad.com/product/new-york-mets-hyper-local-refresh-shirt/",
+    "https://lovingsquad.com/product/new-york-inner-city-sports-division-shirt/",
+    "https://lovingsquad.com/product/nc-state-wolfpack-triangle-vintage-shirt/",
+    "https://lovingsquad.com/product/minnesota-vikings-ready-for-war-shirt/",
+    "https://lovingsquad.com/product/minnesota-vikings-jj-mccarthy-where-would-you-rather-be-shirt/",
+    "https://lovingsquad.com/product/michigan-wolverines-triangle-vintage-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/vinatge-f-caw-f-crow-under-moon-halloween-shirt/",
