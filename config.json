@@ -15,7 +15,7 @@
         "url": "https://teeworksusa.com/",
         "selector": "div.product-images img",
         "source_type": "product-list",
-        "replacements": ["-Posters-black.jpg", "-Posters-white.jpg", "-White-poster.jpg", "-white-poster.jpg", "-poster.jpg", "-unisex-t-shirt.jpg"],
+        "replacements": ["-Posters-black.jpg", "-Posters-white.jpg", "-White-poster.jpg", "-white-poster.jpg", "-poster.jpg", "-Mug-and-Ornament.jpg"],
         "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teeworksusa.com", "prefix_length": 9 }
     },
     {
