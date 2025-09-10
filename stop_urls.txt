@@ -65,12 +65,16 @@
     "https://teeextra.com/product/official-wwii-adolf-hitler-european-tour-design-1939-1945-shirt-2/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/zero-ducks-off-road-cracker-barrel-parody-shirt/",
-    "https://teespix.com/product/trump-putin-dog-shirt/",
-    "https://teespix.com/product/true-crime-is-my-therapy-shirt/",
-    "https://teespix.com/product/thomas-x-grasso-tugboat-roundup-2025-waterford-ny-shirt/",
-    "https://teespix.com/product/support-queer-owned-businesses-palantir-rainbow-flag-shirt/",
-    "https://teespix.com/product/streamer-university-est-2025-shirt/"
+    "https://teespix.com/product/new-york-mets-met-busters-shirt/",
+    "https://teespix.com/product/mystery-wrestling-shirt/",
+    "https://teespix.com/product/micah-parsons-1of1-one-of-one-shirt/",
+    "https://teespix.com/product/major-league-chicken-kicker-t-shirt/",
+    "https://teespix.com/product/los-angeles-dodgers-rams-mashup-logo-shirt/",
+    "https://teespix.com/product/justin-jefferson-masterpiece-shirt/",
+    "https://teespix.com/product/josh-allen-masterpiece-shirt/",
+    "https://teespix.com/product/jayden-daniels-masterpiece-shirt/",
+    "https://teespix.com/product/jaxson-dart-new-york-giants-bullseye-player-pack-t-shirt/",
+    "https://teespix.com/product/jalen-ramsey-called-game-shirt-2/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/make-chicago-great-again-trump-chicago-bears-2-sided-shirt/"
@@ -136,16 +140,16 @@
     "https://uscraftedtees.com/product/original-phasmophobia-prestige-ix-2025-shirt/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/rhyne-howard-post-moves-atlanta-dream-shirt/",
-    "https://capitoneshirt.com/product/national-baseball-hall-of-fame-logo-shirt/",
-    "https://capitoneshirt.com/product/milwaukee-baseball-jesus-made-shirt/",
-    "https://capitoneshirt.com/product/maisie-boesiger-portrait-nebraska-volleyball-shirt/",
-    "https://capitoneshirt.com/product/if-incompetence-had-a-mascot-it-would-wear-a-stupid-red-hat-shirt/",
-    "https://capitoneshirt.com/product/cam-coleman-superstar-pose-auburn-football-signature-shirt/",
-    "https://capitoneshirt.com/product/you-dont-know-a-buffalo-bills-die-hard-fan-until-you-meet-a-bills-fan-shirt/",
-    "https://capitoneshirt.com/product/with-all-due-respect-go-intercourse-yourself-shirt/",
-    "https://capitoneshirt.com/product/will-do-weird-stuff-for-free-drinks-details-available-upon-request-shirt/",
-    "https://capitoneshirt.com/product/when-people-fear-the-government-there-is-tyranny-when-the-government-fears-shirt/"
+    "https://capitoneshirt.com/product/tomato-in-a-world-full-of-romas-be-an-heirloom-shirt/",
+    "https://capitoneshirt.com/product/south-park-kfc-mmmkayfc-drugs-are-bad-chicken-is-good-shirt/",
+    "https://capitoneshirt.com/product/roger-williams-providence-rhode-island-national-memorial-shirt/",
+    "https://capitoneshirt.com/product/phillies-karen-the-ballhogger-shirt/",
+    "https://capitoneshirt.com/product/phillies-karen-jaws-parody-shirt/",
+    "https://capitoneshirt.com/product/phillies-karen-diamond-drama-queen-sharing-never-heard-of-it-shirt/",
+    "https://capitoneshirt.com/product/phillies-karen-cheryl-wagner-grinch-shirt/",
+    "https://capitoneshirt.com/product/phillies-karen-baseball-my-precious-shirt/",
+    "https://capitoneshirt.com/product/phillies-citizens-bank-park-please-do-not-steal-foul-balls-from-children-shirt/",
+    "https://capitoneshirt.com/product/nosferatu-nosferagu-traditional-ragu-halloween-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/wear-pants-do-crimes-shirt/",
