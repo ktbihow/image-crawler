@@ -166,16 +166,16 @@
     "https://clickoneshirt.com/product/reel-man-fishing-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/cam-skattebo-new-york-giants-angry-runs-player-t-shirts/",
-    "https://teleteeshirt.com/product/blues-clues-all-blues-no-clues-t-shirts/",
-    "https://teleteeshirt.com/product/the-return-of-the-department-of-war-est-2025-eagle-american-flag-t-shirts/",
-    "https://teleteeshirt.com/product/the-hives-nulla-salus-sine-t-shirts/",
-    "https://teleteeshirt.com/product/tales-of-the-re-animator-the-headless-doctor-pulp-novel-t-shirts/",
-    "https://teleteeshirt.com/product/south-florida-bulls-usf-south-florida-vs-everybody-t-shirts/",
-    "https://teleteeshirt.com/product/southside-trump-t-shirts/",
-    "https://teleteeshirt.com/product/philadelphia-eagles-the-gang-wins-the-big-game-philly-t-shirts/",
-    "https://teleteeshirt.com/product/official-jeremy-clarkson-stuck-farmer-t-shirts/",
-    "https://teleteeshirt.com/product/nude-project-by-artists-for-artists-mediterranean-hedonism-and-urban-resilience-cassanova-since-2019-t-shirts/"
+    "https://teleteeshirt.com/product/smoke-wake-up-supa-tour-2025-dates-t-shirts/",
+    "https://teleteeshirt.com/product/texas-am-aggies-vs-tennessee-volunteers-smokin-em-mascot-t-shirts/",
+    "https://teleteeshirt.com/product/surf-addict-t-shirts/",
+    "https://teleteeshirt.com/product/shred-kelly-horizon-t-shirts/",
+    "https://teleteeshirt.com/product/rutgers-more-like-butt-gers-amiright-guys-t-shirts/",
+    "https://teleteeshirt.com/product/pinocchio-and-jiminy-cricket-nothing-can-hold-me-down-85th-anniversary-t-shirts/",
+    "https://teleteeshirt.com/product/pierce-the-veil-san-diego-california-u-s-flag-t-shirts/",
+    "https://teleteeshirt.com/product/pierce-the-veil-darling-youll-be-ok-hold-on-til-may-t-shirts/",
+    "https://teleteeshirt.com/product/pierce-the-veil-misadventures-robot-t-shirts/",
+    "https://teleteeshirt.com/product/official-winnie-the-pooh-bear-hunny-farm-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/the-cool-s-birthday-card-donald-trump-signature-shirt/",
@@ -269,15 +269,15 @@
     "https://neoteeco.com/product/moe-35-years-poster-at-the-capitol-theatre-in-port-chester-ny-on-october-11-2025-anniversary-tour-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/purdue-cradle-of-astronauts-astronaut-sitting-shirt/",
-    "https://newshirtstore.com/product/raza-runs-america-retro-style-shirt/",
-    "https://newshirtstore.com/product/pokemon-cider-and-donuts-shirt/",
-    "https://newshirtstore.com/product/pierce-the-veil-halloween-gothic-bat-t-shirt/",
-    "https://newshirtstore.com/product/radiohead-acid-minotaurs-t-shirt/",
-    "https://newshirtstore.com/product/philadelphia-eagles-im-an-eagles-fan-now-and-forever-philly-t-shirt/",
-    "https://newshirtstore.com/product/many-eyes-im-striking-every-nerve-until-i-hit-the-deepest-one-staring-at-the-void-with-my-sunglasses-on-t-shirt/",
-    "https://newshirtstore.com/product/notice-me-senpai-anime-shirt/",
-    "https://newshirtstore.com/product/psspria-two-pairs-of-hands-lines-shirt/",
-    "https://newshirtstore.com/product/may-the-sports-be-with-you-t-shirt/"
+    "https://newshirtstore.com/product/wristmeetrazor-replica-of-a-strange-love-morta-t-shirt/",
+    "https://newshirtstore.com/product/tyler-reddick-23xi-racing-car-shirt/",
+    "https://newshirtstore.com/product/who-are-you-calling-imaginary-rainbow-star-gaphic-shirt/",
+    "https://newshirtstore.com/product/yolanda-adams-better-than-gold-t-shirt/",
+    "https://newshirtstore.com/product/vetion-old-school-apparel-shirt/",
+    "https://newshirtstore.com/product/youve-got-this-victory-peace-hand-sign-shirt/",
+    "https://newshirtstore.com/product/wristmeetrazor-faces-t-shirt/",
+    "https://newshirtstore.com/product/tiah-mai-ayton-champion-comics-shirt/",
+    "https://newshirtstore.com/product/vrsty-space-skull-t-shirt/",
+    "https://newshirtstore.com/product/your-city-runs-on-dunkin-donuts-shirt/"
   ]
 }
