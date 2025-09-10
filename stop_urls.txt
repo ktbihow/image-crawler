@@ -22,7 +22,7 @@
     "https://techteesusa.com/product/no-therapy-generation-x-just-trauma-and-saturday-cartoons-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/weve-been-priced-out-statue-of-liberty-shirt/"
+    "https://teeworksusa.com/product/philippines-2025-vmwc-serve-like-bolts-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-we-run-this-state-ohio-bengals-17-16-browns-shirt/",
@@ -56,14 +56,7 @@
     "https://dreameshirt.com/product/official-hungry-every-rep-every-meal-every-stage-kinda-fit-kinda-fat-graphic-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-will-trade-racists-for-refugees-shirt-2/",
-    "https://teeextra.com/product/official-texas-tech-red-raiders-vs-oregon-state-beavers-gameday-showdown-shirt/",
-    "https://teeextra.com/product/official-tennessee-volunteers-vs-georgia-bulldogs-college-gameday-knoxville-tn-sept-13-2025-shirt/",
-    "https://teeextra.com/product/official-tennessee-volunteers-vs-georgia-bulldogs-2025-college-gameday-shirt/",
-    "https://teeextra.com/product/official-notre-dame-fighting-irish-vs-texas-am-aggies-gameday-showdown-shirt/",
-    "https://teeextra.com/product/official-missouri-tigers-vs-kansas-jayhawks-42-31-september-6-2025-border-showdown-champs-mizzou-shirt/",
-    "https://teeextra.com/product/official-nebraska-cornhuskers-vs-houston-christian-gameday-showdown-shirt/",
-    "https://teeextra.com/product/official-michigan-wolverines-vs-central-michigan-chippewas-gameday-showdown-shirt/"
+    "https://teeextra.com/product/official-wwii-adolf-hitler-european-tour-design-1939-1945-shirt-2/"
   ],
   "teespix.com": [
     "https://teespix.com/product/zero-ducks-off-road-cracker-barrel-parody-shirt/",
@@ -113,16 +106,16 @@
     "https://legendusashirt.com/product/cal-raleigh-for-mvp-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/adele-dazeem-ravioli-master-brian-robert-jones-shirt/",
-    "https://teehandus.com/product/alabama-crimson-tide-girl-messy-bun-glasses-shirt/",
-    "https://teehandus.com/product/always-open-jalen-hurts-aj-brown-philadelphia-eagles-shirt/",
-    "https://teehandus.com/product/anti-trump-you-cant-fix-stupid-but-the-hats-sure-make-it-easy-to-identify-shirt/",
-    "https://teehandus.com/product/arkansas-razorbacks-girl-messy-bun-glasses-shirt/",
-    "https://teehandus.com/product/appalachian-state-mountaineers-girl-messy-bun-glasses-shirt/",
-    "https://teehandus.com/product/auburn-tigers-girl-messy-bun-glasses-shirt/",
-    "https://teehandus.com/product/bigfoot-spooky-season-halloween-shirt/",
-    "https://teehandus.com/product/bram-stokers-original-dracula-shirt/",
-    "https://teehandus.com/product/bunny-be-soft-but-stay-sharp-shirt/"
+    "https://teehandus.com/product/cute-vampire-chilling-shirt/",
+    "https://teehandus.com/product/daniel-jones-indianapolis-colts-dime-time-signature-shirt/",
+    "https://teehandus.com/product/daniel-jones-indianapolis-colts-team-of-destiny-shirt/",
+    "https://teehandus.com/product/deandre-hopkins-baltimore-ravens-one-handed-shirt/",
+    "https://teehandus.com/product/deebo-samuel-washington-commander-unstoppable-shirt/",
+    "https://teehandus.com/product/dear-world-we-hate-him-too-shirt-2/",
+    "https://teehandus.com/product/dennis-andersons-grave-digger-1997-shirt/",
+    "https://teehandus.com/product/department-of-war-est-2025-shirt/",
+    "https://teehandus.com/product/detroit-for-life-sport-team-logo-shirt/",
+    "https://teehandus.com/product/dont-ask-the-fbi-why-they-never-found-the-guy-who-skyjuacked-a-plane-in-oregon-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/annunciation-shirt/",
