@@ -12,11 +12,11 @@
     "https://geekteesus.com/product/dallas-cowboys-warm-up-annunciation-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/ray-houghton-and-terry-phelan-subbuteo-shirt/",
-    "https://techteesusa.com/product/wnba-jam-los-angeles-sparks-kelsey-plum-and-cameron-brink-shirt/",
-    "https://techteesusa.com/product/the-peanuts-boston-sports-teams-crossing-forever-not-just-when-we-win-shirt/",
-    "https://techteesusa.com/product/a-i-cant-replace-me-because-i-dont-do-anything-shirt/",
-    "https://techteesusa.com/product/air-will-be-bud-dog-shirt/"
+    "https://techteesusa.com/product/indianapolis-skyline-3-team-indianapolis-colts-indiana-fever-indiana-pacers-shirt/",
+    "https://techteesusa.com/product/michigan-wolverines-2025-ncaa-mens-gymnastics-national-champions-shirt/",
+    "https://techteesusa.com/product/trans-women-are-just-retarded-fags-shirt/",
+    "https://techteesusa.com/product/the-peanuts-ohio-state-buckeyes-2024-football-national-champs-shirt/",
+    "https://techteesusa.com/product/ireland-bound-iowa-state-cyclones-football-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/indiana-pacers-basketball-tyrese-haliburton-portrait-graphic-shirt/",
@@ -85,16 +85,16 @@
     "https://serenashirt.com/product/minnesota-vikings-nfl-j-j-mccarthy-justin-jefferson-9186-shirt/"
   ],
   "fanaticity.com": [
-    "https://fanaticity.com/product/utah-man-am-i-salt-lake-city-ut-university-of-utah-shirt/",
-    "https://fanaticity.com/product/umphreys-mcgee-sept-08-2025-concert-garcias-chicago-poster-shirt/",
-    "https://fanaticity.com/product/uh-oh-tacos-mad-anti-trump-shirt/",
-    "https://fanaticity.com/product/two-piece-september-2025-poster-shirt/",
-    "https://fanaticity.com/product/trevor-henderson-nightmare-chorus-shirt/",
-    "https://fanaticity.com/product/tiger-the-most-precious-shirt/",
-    "https://fanaticity.com/product/the-secret-sisters-tour-nashville-tn-09-09-2025-poster-shirt/",
-    "https://fanaticity.com/product/the-red-flags-podcast-the-red-pony-club-2025-shirt/",
-    "https://fanaticity.com/product/the-killing-of-iryna-zarutska-never-happened-shirt/",
-    "https://fanaticity.com/product/the-hives-stubbs-stubbs-waller-creek-amphitheater-in-austin-september-8-2025-event-poster-shirt/"
+    "https://fanaticity.com/product/your-token-your-vision-our-boost-shirt/",
+    "https://fanaticity.com/product/the-man-with-no-strings-shirt/",
+    "https://fanaticity.com/product/sydney-shaffer-single-season-home-run-record-delaware-blue-hens-safety-baseball-shirt/",
+    "https://fanaticity.com/product/snoopy-and-woodstock-x-mountain-dew-pumpkin-halloween-shirt/",
+    "https://fanaticity.com/product/shining-star-never-give-up-shirt/",
+    "https://fanaticity.com/product/shut-up-and-grind-the-tape-shirt/",
+    "https://fanaticity.com/product/brampton-fire-fighters-shirt/",
+    "https://fanaticity.com/product/sanderson-hocus-pocus-buffalo-bills-football-x-halloween-shirt/",
+    "https://fanaticity.com/product/delaney-mcdaniel-all-time-assists-record-delaware-blue-hens-safety-lacrosse-shirt/",
+    "https://fanaticity.com/product/kahlil-ali-first-career-touchdown-delaware-blue-hens-safety-football-shirt/"
   ],
   "legendusashirt.com": [
     "https://legendusashirt.com/product/tennessee-volunteers-vs-georgia-bulldogs-college-gameday-knoxville-tn-sept-13-2025-t-shirt/",
