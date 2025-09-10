@@ -12,11 +12,8 @@
     "https://geekteesus.com/product/dallas-cowboys-warm-up-annunciation-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/indianapolis-skyline-3-team-indianapolis-colts-indiana-fever-indiana-pacers-shirt/",
-    "https://techteesusa.com/product/michigan-wolverines-2025-ncaa-mens-gymnastics-national-champions-shirt/",
-    "https://techteesusa.com/product/trans-women-are-just-retarded-fags-shirt/",
-    "https://techteesusa.com/product/the-peanuts-ohio-state-buckeyes-2024-football-national-champs-shirt/",
-    "https://techteesusa.com/product/ireland-bound-iowa-state-cyclones-football-shirt/"
+    "https://techteesusa.com/product/i-got-my-ass-ate-on-the-severed-floor-of-lumon-shirt/",
+    "https://techteesusa.com/product/crunchwrap-slut-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/indiana-pacers-basketball-tyrese-haliburton-portrait-graphic-shirt/",
