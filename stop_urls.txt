@@ -1,15 +1,13 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/wit-it-ashton-jeanty-las-vegas-raiders-nfl-signature-graphic-shirt/",
-    "https://geekteesus.com/product/wnba-is-greater-than-nba-logo-shirt/",
-    "https://geekteesus.com/product/unban-duskblade-minhal-m-camer-shirt/",
-    "https://geekteesus.com/product/ufos-are-real-alien-fucking-exist-blink-182-shirt/",
-    "https://geekteesus.com/product/true-crime-is-my-therapy-shirt/",
-    "https://geekteesus.com/product/toledo-rockets-football-helmet-shirt/",
-    "https://geekteesus.com/product/the-pittsburgh-steelers-6-time-super-bowl-champions-thank-you-for-the-memories-signature-shirt/",
-    "https://geekteesus.com/product/the-new-york-giants-4-time-super-bowl-champions-thank-you-for-the-memories-signature-shirt/",
-    "https://geekteesus.com/product/sweetness-34-walter-payton-chicago-bears-nfl-signature-shirt/",
-    "https://geekteesus.com/product/south-florida-vs-everybody-south-florida-bulls-football-shirt/"
+    "https://geekteesus.com/product/notre-dame-fighting-irish-beat-em-again-texas-am-aggies-mascot-2025-t-shirt/",
+    "https://geekteesus.com/product/what-a-catch-isaac-teslaa-detroit-lions-nfl-signature-graphic-shirt/",
+    "https://geekteesus.com/product/trump-cant-handle-chicago-winters-shirt/",
+    "https://geekteesus.com/product/trains-pumpkin-halloween-2025-shirt/",
+    "https://geekteesus.com/product/tommy-castellanos-tommy-football-florida-state-seminoles-nfl-signature-shirt/",
+    "https://geekteesus.com/product/sunday-world-we-are-paid-r2k-to-vote-anc-bi-election-in-jhb-shirt/",
+    "https://geekteesus.com/product/rule-the-jungle-joe-burrow-cincinnati-bengals-nfl-signature-graphic-shirt/",
+    "https://geekteesus.com/product/prime-pizza-delivering-freshness-t-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/texas-longhorns-vs-mississippi-state-bulldogs-game-day-2025-t-shirt/",
@@ -133,7 +131,7 @@
     "https://teehandus.com/product/buble-the-water-cooler-kills-shirt/"
   ],
   "thefunnyt.com": [
-    "https://thefunnyt.com/product/weve-been-priced-out-shirt/"
+    "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
   ],
   "uscraftedtees.com": [
     "https://uscraftedtees.com/product/official-trump-chipocalypse-now-chicago-shirt/",
