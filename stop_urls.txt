@@ -22,7 +22,7 @@
     "https://techteesusa.com/product/no-therapy-generation-x-just-trauma-and-saturday-cartoons-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/draymond-green-punch-basketball-player-pun-shirt/"
+    "https://teeworksusa.com/product/paradise-queens-ny-baseball-skull-sunglasses-rose-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-you-dont-know-a-buffalo-bills-die-hard-fan-until-you-meet-a-bills-fan-shirt/",
@@ -47,16 +47,16 @@
     "https://berrylittles.com/product/official-bucked-miami-south-florida-bulls-vs-miami-hurricanes-painting-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-usf-bulls-vs-miami-hurricanes-september-13-2025-in-miami-gardens-fl-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-boston-red-sox-welcome-to-the-majors-connelly-early-late-game-early-start-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-milwaukee-brewers-baseball-rhys-hoskins-rhys-is-back-signature-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-do-not-run-from-your-problems-they-are-faster-than-you-think-they-will-follow-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-new-york-mets-alumni-classic-shea-stadium-vs-citi-field-logo-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-blink-182-gilford-nh-tour-on-september-9-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-cam-flowers-c4-western-kentucky-hilltoppers-football-ncaa-illustrated-t-shirt/",
-    "https://dreameshirt.com/product/official-detroit-lions-football-nfl-salty-players-signatures-t-shirt/",
-    "https://dreameshirt.com/product/official-helloween-into-the-sun-giants-monsters-painting-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-hungry-every-rep-every-meal-every-stage-kinda-fit-kinda-fat-graphic-t-shirt/"
+    "https://dreameshirt.com/product/official-pittsburgh-steelers-vs-seattle-seahawks-home-opener-2025-season-on-september-14-acrisure-stadium-pennsylvania-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-everyone-loves-womens-rugby-pittsburgh-forge-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-i-helped-expose-fraudulent-september-9-2025-usf-bulls-69-in-the-college-football-ap-poll-t-shirt/",
+    "https://dreameshirt.com/product/official-delaware-ncaa-football-kyre-duplessis-catch-of-the-year-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-dave-matthews-band-live-trax-vol-71-ameris-bank-amphitheatre-alpharetta-georgia-t-shirt/",
+    "https://dreameshirt.com/product/official-auburn-tigers-football-ncaa-cam-coleman-superstar-pose-signature-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-giovannie-and-the-hired-guns-september-12-13-2025-gruene-hall-concert-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-hobo-johnson-and-the-lovemakers-2025-peach-scone-8-year-3-month-anniversary-tour-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-courtney-barnett-event-october-02-2025-joshua-tree-retreat-center-joshua-tree-ca-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-st-paul-and-the-broken-bones-avondale-brewing-company-in-birmingham-al-october-17-2025-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/official-wwii-adolf-hitler-european-tour-design-1939-1945-shirt-2/"
@@ -193,16 +193,16 @@
     "https://melonashirt.com/product/official-vulvodynia-uk-tour-2024-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/you-dont-know-a-die-hard-fan-until-you-meet-a-buffalo-bills-fan-football-shirt/",
-    "https://dalatshirt.com/product/walt-disney-studios-park-shirt/",
-    "https://dalatshirt.com/product/tis-the-season-to-be-a-kansas-city-chiefs-thanksgiving-shirt/",
-    "https://dalatshirt.com/product/the-kansas-city-chiefs-4x-super-bowl-champions-thank-you-for-the-memories-signatures-shirt/",
-    "https://dalatshirt.com/product/taco-tuesday-cinco-de-mayo-shirt/",
-    "https://dalatshirt.com/product/tackle-breast-cancer-kansas-city-chiefs-heartbeat-awareness-shirt/",
-    "https://dalatshirt.com/product/sticker-mule-logo-shirt/",
-    "https://dalatshirt.com/product/star-wars-x-pittsburgh-steelers-support-the-empire-since-1933-shirt/",
-    "https://dalatshirt.com/product/shun-akiyama-graphic-shirt/",
-    "https://dalatshirt.com/product/santana-moss-washington-commanders-signature-cartoon-shirt/"
+    "https://dalatshirt.com/product/adolf-hitler-european-tour-1939-1945-t-shirts/",
+    "https://dalatshirt.com/product/all-you-need-is-jordan-love-green-bay-packers-signature-t-shirts/",
+    "https://dalatshirt.com/product/alice-in-niceadult-t-shirts/",
+    "https://dalatshirt.com/product/audrey-totter-drift-t-shirts/",
+    "https://dalatshirt.com/product/arrow-island-choosing-gods-way-t-shirts/",
+    "https://dalatshirt.com/product/bird-caw-caw-t-shirts/",
+    "https://dalatshirt.com/product/ben-grimm-in-japanese-sumi-e-style-t-shirts/",
+    "https://dalatshirt.com/product/bee-only-got-a-bit-o-money-t-shirts/",
+    "https://dalatshirt.com/product/beastie-boys-elephants-t-shirts/",
+    "https://dalatshirt.com/product/bruno-fernandes-milf-man-i-love-fernandes-manchester-united-t-shirts/"
   ],
   "lovingsquad.com": [
     "https://lovingsquad.com/product/you-drive-me-insane-car-shirt/",
@@ -260,11 +260,15 @@
     "https://neoteeco.com/product/moe-35-years-poster-at-the-capitol-theatre-in-port-chester-ny-on-october-11-2025-anniversary-tour-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/ace-of-spades-skull-card-shirt/",
-    "https://newshirtstore.com/product/angry-bird-helmet-and-patch-eye-shirt/",
-    "https://newshirtstore.com/product/across-five-aprils-caught-in-the-moment-never-wanted-it-to-stop-eye-t-shirt/",
-    "https://newshirtstore.com/product/aliens-exist-i-was-chosen-hey-mom-theres-something-in-the-back-room-t-shirt/",
-    "https://newshirtstore.com/product/adown-hitler-shirt/",
-    "https://newshirtstore.com/product/a-film-by-kirk-shirt/"
+    "https://newshirtstore.com/product/kfc-kentucky-fried-curry-shirt/",
+    "https://newshirtstore.com/product/king-of-chingasos-bandana-joe-t-shirt/",
+    "https://newshirtstore.com/product/kayla-malec-draft-me-daddy-t-shirt/",
+    "https://newshirtstore.com/product/kali-uchis-sincerely-angel-watching-over-me-tour-2025-t-shirt/",
+    "https://newshirtstore.com/product/iuter-museum-t-shirt/",
+    "https://newshirtstore.com/product/jade-novah-8th-wonder-t-shirt/",
+    "https://newshirtstore.com/product/inspirit-drop-the-hammer-t-shirt/",
+    "https://newshirtstore.com/product/jeffrey-nothing-bloody-knife-t-shirt/",
+    "https://newshirtstore.com/product/jefferson-starship-its-about-time-t-shirt/",
+    "https://newshirtstore.com/product/iuter-heavyweight-gear-for-everybody-since-2002-t-shirt/"
   ]
 }
