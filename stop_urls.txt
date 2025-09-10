@@ -16,16 +16,7 @@
     "https://techteesusa.com/product/crunchwrap-slut-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/indiana-pacers-basketball-tyrese-haliburton-portrait-graphic-shirt/",
-    "https://teeworksusa.com/product/im-not-gay-but-20-is-20-funny-sarcastic-quote-shirt/",
-    "https://teeworksusa.com/product/google-boobs-trust-me-skull-funny-sarcastic-goth-shirt/",
-    "https://teeworksusa.com/product/donald-trump-morgan-wallen-luke-combs-legend-the-outlaw-tour-shirt/",
-    "https://teeworksusa.com/product/godmother-of-the-bee-day-girl-cute-bee-honeycomb-shirt/",
-    "https://teeworksusa.com/product/distractible-ship-of-theseus-mark-rober-blueprint-drawing-shirt/",
-    "https://teeworksusa.com/product/department-of-war-eagle-with-american-flag-and-guns-shirt/",
-    "https://teeworksusa.com/product/club-world-cup-25-fifa-seattle-washington-space-needle-shirt/",
-    "https://teeworksusa.com/product/day-of-the-dead-aztec-skeleton-on-a-bicycle-shirt/",
-    "https://teeworksusa.com/product/club-world-cup-25-fifa-global-soccer-tournament-champion-shirt/"
+    "https://teeworksusa.com/product/original-las-vegas-aces-aja-wilson-mvp-the-conversation-starter-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-you-dont-know-a-buffalo-bills-die-hard-fan-until-you-meet-a-bills-fan-shirt/",
@@ -122,10 +113,8 @@
     "https://teehandus.com/product/buble-the-water-cooler-kills-shirt/"
   ],
   "thefunnyt.com": [
-    "https://thefunnyt.com/product/annunciation-shirt/",
-    "https://thefunnyt.com/product/dont-stop-talking-about-palestine-shirt/",
-    "https://thefunnyt.com/product/pls-do-not-give-me-a-cigarette-no-matter-what-i-say-shirt/",
-    "https://thefunnyt.com/product/200-number-shirt/"
+    "https://thefunnyt.com/product/hot-sexy-shirt/",
+    "https://thefunnyt.com/product/hot-sexy-baby-tee/"
   ],
   "uscraftedtees.com": [
     "https://uscraftedtees.com/product/original-we-will-never-be-back-at-this-restaurant-the-staff-made-2025-shirt/",
@@ -210,16 +199,16 @@
     "https://dalatshirt.com/product/bruno-fernandes-milf-man-i-love-fernandes-manchester-united-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/you-drive-me-insane-car-shirt/",
-    "https://lovingsquad.com/product/wls-music-radio-89-animal-stories-newsteam-shirt/",
-    "https://lovingsquad.com/product/wholesome-gilmore-girls-flag-shirt/",
-    "https://lovingsquad.com/product/west-virginia-university-mountaineers-throwback-shirt/",
-    "https://lovingsquad.com/product/washington-star-commanders-commanders-pro-football-buzz-lightyear-shirt/",
-    "https://lovingsquad.com/product/the-ralph-thank-you-for-the-memories-1973-2025-buffalo-bills-shirt/",
-    "https://lovingsquad.com/product/spooky-ghosts-halloween-shirt/",
-    "https://lovingsquad.com/product/sorry-i-cant-i-have-plans-with-the-mafia-buffalo-bills-football-nfl-2025-shirt/",
-    "https://lovingsquad.com/product/skeleton-its-ok-im-on-500mg-of-fukitol-and-on-300mg-of-gosukadik-shirt/",
-    "https://lovingsquad.com/product/shut-up-cris-collinsworth-buffalo-football-fan-shirt/"
+    "https://lovingsquad.com/product/yeah-yeah-we-know-i-hate-when-drake-raps-shirt/",
+    "https://lovingsquad.com/product/were-just-two-fish-souls-swimming-in-a-fish-bowl-shirt/",
+    "https://lovingsquad.com/product/usf-bulls-i-helped-expose-fraudulence-september-9-2025-in-the-college-football-ap-poll-shirt/",
+    "https://lovingsquad.com/product/twin-with-two-bars-graphic-shirt/",
+    "https://lovingsquad.com/product/trey-amos-cornerback-washington-commanders-santana-moss-signature-shirt/",
+    "https://lovingsquad.com/product/top-cat-cincy-football-shirt/",
+    "https://lovingsquad.com/product/tigers-kansas-jayhawks-2025-border-showdown-champions-sept-6th-2025-memorial-stadium-mo-shirt/",
+    "https://lovingsquad.com/product/tis-the-season-to-be-a-kansas-city-chiefs-shirt/",
+    "https://lovingsquad.com/product/the-tony-danza-tapdance-extravaganza-eat-brains-poster-shirt/",
+    "https://lovingsquad.com/product/the-life-of-a-showgirl-taylor-signature-poster-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/vinatge-f-caw-f-crow-under-moon-halloween-shirt/",
