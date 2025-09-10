@@ -12,16 +12,16 @@
     "https://geekteesus.com/product/dallas-cowboys-warm-up-annunciation-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/wild-jigglypuff-appeared-shirt/",
-    "https://techteesusa.com/product/viva-la-raza-shirt/",
-    "https://techteesusa.com/product/university-of-nebraska-husker-football-memorial-stadium-lincoln-ne-shirt/",
-    "https://techteesusa.com/product/trumps-alleged-birthday-doodle-to-epstein-there-must-be-more-to-life-than-having-everything-signature-shirt/",
-    "https://techteesusa.com/product/trump-cant-handle-chicago-winters-shirt/",
-    "https://techteesusa.com/product/tommy-football-florida-state-seminoles-football-tommy-castellanos-signature-shirt/",
-    "https://techteesusa.com/product/tokyo-disney-resort-shirt/",
-    "https://techteesusa.com/product/think-outside-the-jar-brain-shirt/",
-    "https://techteesusa.com/product/things-ron-johnson-has-done-to-piss-me-off-shirt/",
-    "https://techteesusa.com/product/someone-loves-me-madison-shirt-2/"
+    "https://techteesusa.com/product/unprecedented-times-the-world-needs-your-rage-shirt/",
+    "https://techteesusa.com/product/tunnel-to-canada-shirt/",
+    "https://techteesusa.com/product/true-detective-was-a-documentary-shirt/",
+    "https://techteesusa.com/product/true-crime-is-my-therapy-shirt/",
+    "https://techteesusa.com/product/the-kingdom-of-dreams-and-magic-tokyo-disneyland-shirt/",
+    "https://techteesusa.com/product/south-florida-vs-everybody-south-florida-bulls-football-shirt/",
+    "https://techteesusa.com/product/snoopy-browns-welcome-to-the-pound-shirt/",
+    "https://techteesusa.com/product/slay-the-patriarchy-shirt/",
+    "https://techteesusa.com/product/sergei-fedorov-detroit-red-wings-hockey-91-banner-shirt/",
+    "https://techteesusa.com/product/saquon-barkley-philadelphia-eagles-football-masterpiece-signature-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/the-conjuring-last-rites-annabelle-shirt/",
@@ -71,16 +71,12 @@
     "https://teeextra.com/product/official-the-boogiedown-music-festival-2025-driftless-yuba-wisconsin-september-11-13-2025-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/stitchs-surf-shack-when-youre-here-youre-ohana-shirt/",
-    "https://teespix.com/product/somebody-in-rilo-kiley-loves-me-new-shirt/",
-    "https://teespix.com/product/shut-up-cris-collinsworth-shirt-2/",
-    "https://teespix.com/product/philadelphia-eagles-flip-the-birds-football-mascot-shirt/",
-    "https://teespix.com/product/original-wwii-adolf-hitler-european-tour-design-1939-1945-shirt/",
-    "https://teespix.com/product/original-wilson-springs-hotel-with-tan-and-sober-oct-11-2025-richmond-va-shirt/",
-    "https://teespix.com/product/original-the-black-angels-aviator-nation-dreamland-tour-2025-shirt/",
-    "https://teespix.com/product/new-york-knick-new-game-day-series-2025-ecf-campaign-nba-shirt/",
-    "https://teespix.com/product/mustangs-1-heart-shirt/",
-    "https://teespix.com/product/more-like-butt-gers-shirt/"
+    "https://teespix.com/product/zero-ducks-off-road-cracker-barrel-parody-shirt/",
+    "https://teespix.com/product/trump-putin-dog-shirt/",
+    "https://teespix.com/product/true-crime-is-my-therapy-shirt/",
+    "https://teespix.com/product/thomas-x-grasso-tugboat-roundup-2025-waterford-ny-shirt/",
+    "https://teespix.com/product/support-queer-owned-businesses-palantir-rainbow-flag-shirt/",
+    "https://teespix.com/product/streamer-university-est-2025-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/make-chicago-great-again-trump-chicago-bears-2-sided-shirt/"
@@ -110,10 +106,16 @@
     "https://fanaticity.com/product/the-hives-stubbs-stubbs-waller-creek-amphitheater-in-austin-september-8-2025-event-poster-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/its-in-weavers-may-not-be-in-pittsburgh-dna-t-shirt/",
-    "https://legendusashirt.com/product/its-in-webbs-may-not-be-in-pittsburgh-dna-t-shirt/",
-    "https://legendusashirt.com/product/its-in-webers-may-not-be-in-pittsburgh-dna-t-shirt/",
-    "https://legendusashirt.com/product/its-in-websters-may-not-be-in-pittsburgh-dna-t-shirt/"
+    "https://legendusashirt.com/product/skull-x-houston-texans-houston-stand-united-texans-stand-united-t-shirt/",
+    "https://legendusashirt.com/product/skull-x-green-bay-packers-go-pack-go-t-shirt/",
+    "https://legendusashirt.com/product/skull-x-detroit-lions-roar-to-victory-t-shirt/",
+    "https://legendusashirt.com/product/skull-x-denver-broncos-go-broncos-country-t-shirt/",
+    "https://legendusashirt.com/product/skull-x-dallas-cowboys-i-hope-all-your-dreams-come-true-t-shirt/",
+    "https://legendusashirt.com/product/skull-x-cleveland-browns-i-hope-all-your-dreams-come-true-t-shirt/",
+    "https://legendusashirt.com/product/skull-x-cincinnati-bengals-i-hope-all-your-dreams-come-true-t-shirt/",
+    "https://legendusashirt.com/product/skull-x-chicago-bears-i-hope-all-your-dreams-come-true-t-shirt/",
+    "https://legendusashirt.com/product/texas-am-aggies-btho-tennessee-t-shirt/",
+    "https://legendusashirt.com/product/texas-am-aggies-btho-lsu-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/american-red-cross-blood-donation-snoopy-shirt/",
@@ -232,5 +234,53 @@
     "https://designatshop.com/product/release-the-damn-epestein-files-cracker-barrel-logo-shirt/",
     "https://designatshop.com/product/release-the-files-no-more-secrets-epstein-birthday-shirt/",
     "https://designatshop.com/product/philadelphia-eagles-phillies-phanatic-hittin-dingers-shirt/"
+  ],
+  "arjomany.com": [
+    "https://arjomany.com/product/the-palmer-squares-beach-squad-merch/",
+    "https://arjomany.com/product/its-always-sunny-in-philadelphia-x-phillies-pay-homage-shirt/",
+    "https://arjomany.com/product/its-always-sunny-in-philadelphia-x-eagles-shirt/",
+    "https://arjomany.com/product/its-always-sunny-in-philadelphia-x-eagles-flipadelphia-paddys-pub-shirt/",
+    "https://arjomany.com/product/cincinnati-open-in-orange-2025-shirt/",
+    "https://arjomany.com/product/stirling-sports-las-vegas-raiders-t-shirt/",
+    "https://arjomany.com/product/slam-kiyan-carmelo-anthony-t-shirt/",
+    "https://arjomany.com/product/joshua-mensah-chopp-tee/",
+    "https://arjomany.com/product/its-always-sunny-in-philadelphia-x-eagles-the-big-game-shirt/",
+    "https://arjomany.com/product/internet-today-la-bullies-t-shirt/"
+  ],
+  "collectionpostertour.com": [
+    "https://collectionpostertour.com/product/phish-jan-28-31-2026-moon-palace-cancun-mx-concert-poster/",
+    "https://collectionpostertour.com/product/emancipator-nov-21-22-2025-portland-or-concert-poster/",
+    "https://collectionpostertour.com/product/yusuf-cat-stevens-sept-8-2025-bristol-uk-concert-poster/",
+    "https://collectionpostertour.com/product/yusuf-cat-stevens-sept-6-2025-cambridge-uk-concert-poster/",
+    "https://collectionpostertour.com/product/wiife-fall-tour-2025-poster/",
+    "https://collectionpostertour.com/product/tom-smith-uk-ireland-tour-2025-poster/",
+    "https://collectionpostertour.com/product/the-hives-forever-forever-the-hives-september-2025-signed-poster/",
+    "https://collectionpostertour.com/product/the-family-battenberg-spider-rock-forever-tour-2025-poster/",
+    "https://collectionpostertour.com/product/tedeschi-trucks-band-sept-9-2025-chicago-il-concert-poster/",
+    "https://collectionpostertour.com/product/taking-back-sunday-december-10-13-2025-concert-poster/"
+  ],
+  "neoteeco.com": [
+    "https://neoteeco.com/product/grateful-dead-skeletons-60th-sky-tie-dye-tee/",
+    "https://neoteeco.com/product/all-things-go-nyc-2025-lineup-nyc-racing-team-lineup-all-over-print-long-sleeve/",
+    "https://neoteeco.com/product/all-things-go-nyc-2025-lineup-blue-clouds-nyc-lineup-all-over-print-hoodie/",
+    "https://neoteeco.com/product/widespread-panic-poster-at-allianz-amphitheater-in-richmond-virginia-on-september-12-2025-conscious-alliance-bear-artwork-unisex-t-shirt/",
+    "https://neoteeco.com/product/the-black-angels-live-show-music-poster-at-aviator-nation-dreamland-in-malibu-california-on-september-8-2025-desert-daze-artwork-unisex-t-shirt/",
+    "https://neoteeco.com/product/st-paul-and-the-broken-bones-poster-at-the-caverns-in-grundy-county-tennessee-on-september-21-2025-stained-glass-artwork-unisex-t-shirt/",
+    "https://neoteeco.com/product/paul-mccartney-wings-watercolor-two-sides-unisex-t-shirt/",
+    "https://neoteeco.com/product/odyssey-sims-indiana-fever-3500-career-points-wnba-basketball-2025-poster-milestone-celebration-artwork-unisex-t-shirt/",
+    "https://neoteeco.com/product/kyle-schwarber-philadelphia-phillies-poster-50-home-runs-2025-season-record-highlight-unisex-t-shirt/",
+    "https://neoteeco.com/product/kyle-schwarber-philadelphia-phillies-poster-50-home-runs-2025-season-achievement-highlight-unisex-t-shirt/"
+  ],
+  "newshirtstore.com": [
+    "https://newshirtstore.com/product/year-of-the-cute-snake-shirt/",
+    "https://newshirtstore.com/product/wwe-rhea-ripley-tarot-card-shirt/",
+    "https://newshirtstore.com/product/yellowstone-national-park-vintage-hiking-camping-shirt/",
+    "https://newshirtstore.com/product/you-can-take-the-girl-out-of-ohio-but-you-cant-take-the-oh-io-out-of-the-girl-shirt/",
+    "https://newshirtstore.com/product/wtf-is-a-kilometer-american-eagle-tank-and-burger-shirt/",
+    "https://newshirtstore.com/product/welcome-to-the-creepy-circus-halloween-shirt/",
+    "https://newshirtstore.com/product/zenless-zone-zero-phaethon-shirt/",
+    "https://newshirtstore.com/product/wu-tang-bills-mafia-mashup-buffalo-bills-hip-hop-football-shirt/",
+    "https://newshirtstore.com/product/walters-neighborhood-watch-shirt/",
+    "https://newshirtstore.com/product/wnba-is-greater-than-nba-t-shirt/"
   ]
 }
