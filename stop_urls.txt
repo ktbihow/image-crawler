@@ -12,14 +12,16 @@
     "https://geekteesus.com/product/dallas-cowboys-warm-up-annunciation-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/annunciation-be-kind-be-respectful-be-inclusive-be-my-best-self-be-brave-two-sided-shirt/",
-    "https://techteesusa.com/product/aj-lee-love-bites-back-two-sided-shirt/",
-    "https://techteesusa.com/product/go-to-hell-shirt/",
-    "https://techteesusa.com/product/alligator-alcatraz-everglades-florida-welcomes-you-shirt/",
-    "https://techteesusa.com/product/youre-killin-me-smalls-texas-rangers-x-the-sandlot-shirt/",
-    "https://techteesusa.com/product/metroid-breaking-the-barrier-upgrading-you-get-shirt/",
-    "https://techteesusa.com/product/zack-wickham-wearing-daddy-daddycita-shirt/",
-    "https://techteesusa.com/product/no-therapy-generation-x-just-trauma-and-saturday-cartoons-shirt/"
+    "https://techteesusa.com/product/you-in-the-lycra-shirt/",
+    "https://techteesusa.com/product/the-only-dangerous-minority-is-the-rich-shirt-2/",
+    "https://techteesusa.com/product/the-government-cannot-stop-me-from-being-silly-and-whimsical-gooose-shirt/",
+    "https://techteesusa.com/product/springtime-magic-shirt/",
+    "https://techteesusa.com/product/south-florida-bulls-vs-miami-hurricanes-enough-of-the-bull-shirt/",
+    "https://techteesusa.com/product/south-florida-bulls-vs-miami-hurricanes-bucked-miami-shirt/",
+    "https://techteesusa.com/product/south-florida-bulls-vs-miami-hurricanes-bucked-miami-shirt-front/",
+    "https://techteesusa.com/product/south-florida-bulls-and-miami-hurricanes-mascot-shirt/",
+    "https://techteesusa.com/product/snoopy-to-read-or-not-to-read-shirt/",
+    "https://techteesusa.com/product/slam-kiyan-and-carmelo-anthony-blood-orange-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/paradise-queens-ny-baseball-skull-sunglasses-rose-shirt/",
@@ -112,16 +114,16 @@
     "https://legendusashirt.com/product/cal-raleigh-for-mvp-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/save-a-horse-ride-a-cowboy-2025-shirt/",
-    "https://teehandus.com/product/sounders-fc-been-there-won-that-shirt/",
-    "https://teehandus.com/product/shun-akiyama-shirt/",
-    "https://teehandus.com/product/spider-man-create-a-pepper-shirt/",
-    "https://teehandus.com/product/spooky-goose-on-the-loose-halloween-shirt/",
-    "https://teehandus.com/product/ted-dibiase-ted-dibiase-retro-shirt/",
-    "https://teehandus.com/product/that-not-gaga-its-playgirl-shirt/",
-    "https://teehandus.com/product/the-pitt-season-one-lighting-crew-shirt/",
-    "https://teehandus.com/product/the-snack-zone-shirt/",
-    "https://teehandus.com/product/toronto-blue-jays-shhh-logo-parody-shirt/"
+    "https://teehandus.com/product/modern-rockstars-hotter-than-hell-shirt/",
+    "https://teehandus.com/product/the-dead-are-among-us-zombies-shirt/",
+    "https://teehandus.com/product/green-apple-juice-fruit-shirt/",
+    "https://teehandus.com/product/1993-pdga-professional-disc-golf-world-championships-shirt/",
+    "https://teehandus.com/product/annibyniaeth-rhyl-march-for-independence-shirt/",
+    "https://teehandus.com/product/b-a-johnston-we-were-the-greatest-show-on-earth-shirt/",
+    "https://teehandus.com/product/barton-fink-vinatge-shirt/",
+    "https://teehandus.com/product/blink-182-gilford-nh-2025-shirt/",
+    "https://teehandus.com/product/blur-a-very-big-house-in-the-country-shirt/",
+    "https://teehandus.com/product/buble-the-water-cooler-kills-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/annunciation-shirt/",
@@ -142,16 +144,16 @@
     "https://uscraftedtees.com/product/original-phasmophobia-prestige-ix-2025-shirt/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/poopoo-butt-pizza-hut-parody-halloween-shirt/",
-    "https://capitoneshirt.com/product/josh-allen-masterpiece-triple-player-shirt/",
-    "https://capitoneshirt.com/product/phillies-karen-dont-take-my-ball-parody-shirt/",
-    "https://capitoneshirt.com/product/philadelphia-eagles-paddys-pub-shirt/",
-    "https://capitoneshirt.com/product/josh-allen-faith-buffalo-bills-shirt/",
-    "https://capitoneshirt.com/product/join-or-die-snake-dont-trust-the-government-shirt/",
-    "https://capitoneshirt.com/product/pete-and-eldas-the-shores-famous-carmens-pizzeria-shirt/",
-    "https://capitoneshirt.com/product/jd-i-dont-give-a-shit-what-you-call-it-vance-shirt/",
-    "https://capitoneshirt.com/product/pcp-makes-it-fun-shirt/",
-    "https://capitoneshirt.com/product/jayden-daniels-masterpiece-triple-player-shirt/"
+    "https://capitoneshirt.com/product/rhyne-howard-post-moves-atlanta-dream-shirt/",
+    "https://capitoneshirt.com/product/national-baseball-hall-of-fame-logo-shirt/",
+    "https://capitoneshirt.com/product/milwaukee-baseball-jesus-made-shirt/",
+    "https://capitoneshirt.com/product/maisie-boesiger-portrait-nebraska-volleyball-shirt/",
+    "https://capitoneshirt.com/product/if-incompetence-had-a-mascot-it-would-wear-a-stupid-red-hat-shirt/",
+    "https://capitoneshirt.com/product/cam-coleman-superstar-pose-auburn-football-signature-shirt/",
+    "https://capitoneshirt.com/product/you-dont-know-a-buffalo-bills-die-hard-fan-until-you-meet-a-bills-fan-shirt/",
+    "https://capitoneshirt.com/product/with-all-due-respect-go-intercourse-yourself-shirt/",
+    "https://capitoneshirt.com/product/will-do-weird-stuff-for-free-drinks-details-available-upon-request-shirt/",
+    "https://capitoneshirt.com/product/when-people-fear-the-government-there-is-tyranny-when-the-government-fears-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/wear-pants-do-crimes-shirt/",
@@ -166,16 +168,16 @@
     "https://clickoneshirt.com/product/reel-man-fishing-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/a-loss-for-words-these-past-20th-anniversary-tiger-t-shirts/",
-    "https://teleteeshirt.com/product/winnie-the-pooh-oh-bother-t-shirts/",
-    "https://teleteeshirt.com/product/winnie-the-pooh-and-piglet-nobody-can-be-uncheered-with-a-balloon-t-shirts/",
-    "https://teleteeshirt.com/product/winnie-the-pooh-and-pals-its-always-better-together-t-shirts/",
-    "https://teleteeshirt.com/product/the-hives-eyes-t-shirts/",
-    "https://teleteeshirt.com/product/texas-am-aggies-thats-how-the-aggies-roll-tractor-t-shirts/",
-    "https://teleteeshirt.com/product/the-godfather-vito-iuter-t-shirts/",
-    "https://teleteeshirt.com/product/texas-am-aggies-whoop-farmers-fight-gig-em-aggies-drawn-collage-t-shirts/",
-    "https://teleteeshirt.com/product/the-harley-davidson-milwaukee-wisconsin-mandarin-motorcycle-since-1903-t-shirts/",
-    "https://teleteeshirt.com/product/andrew-bird-the-mysterious-production-of-eggs-est-2004-t-shirts/"
+    "https://teleteeshirt.com/product/zach-bryan-x-michigan-wolverines-the-quittin-time-tour-2025-stadium-t-shirts/",
+    "https://teleteeshirt.com/product/washington-commanders-the-the-hogs-thank-you-for-the-memories-road-abbey-signatures-t-shirts/",
+    "https://teleteeshirt.com/product/usf-south-florida-bulls-im-just-here-to-watch-herlin-perry-jr-t-shirts/",
+    "https://teleteeshirt.com/product/twenty-one-pilots-breach-faces-t-shirts/",
+    "https://teleteeshirt.com/product/tom-smith-uk-and-ireland-tour-2025-dates-t-shirts/",
+    "https://teleteeshirt.com/product/the-virginia-tech-hokies-1892-2026-135th-anniversary-season-enter-sandman-thank-you-for-the-memories-road-abbey-signatures-t-shirts/",
+    "https://teleteeshirt.com/product/the-texas-longhorns-1906-2025-120th-anniversary-season-hook-em-horns-thank-you-for-the-memories-abbey-road-signatures-t-shirts/",
+    "https://teleteeshirt.com/product/the-penn-state-nittany-lions-140th-anniversary-season-1887-2026-we-are-penn-state-thank-you-for-the-memories-road-abbey-signatures-t-shirts/",
+    "https://teleteeshirt.com/product/the-paper-kites-if-you-go-there-i-hope-you-find-it-uk-europe-tour-2026-dates-t-shirts/",
+    "https://teleteeshirt.com/product/the-mountain-goats-denim-collage-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/the-cool-s-birthday-card-donald-trump-signature-shirt/",
@@ -226,16 +228,16 @@
     "https://lovingsquad.com/product/shut-up-cris-collinsworth-buffalo-football-fan-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/im-starting-to-think-i-will-never-be-old-enough-to-know-better-t-shirt/",
-    "https://designatshop.com/product/gnome-stuck-between-idk-idc-idgaf-happy-fall-shirt/",
-    "https://designatshop.com/product/horse-there-are-two-ways-to-be-fooled-t-shirt/",
-    "https://designatshop.com/product/gnomie-im-not-crazy-im-just-special-no-wait-maybe-i-am-crazy-hold-on-shirt/",
-    "https://designatshop.com/product/gnome-im-not-clumsy-just-the-floor-hates-me-the-table-chairs-are-bullies-and-the-walls-shirt/",
-    "https://designatshop.com/product/dog-tyler-youre-high-on-my-bittin-list-shirt/",
-    "https://designatshop.com/product/german-shepherd-ghost-halloween-shirt/",
-    "https://designatshop.com/product/carlos-alcaraz-blond-hair-parental-advisory-shirt/",
-    "https://designatshop.com/product/f-caw-f-black-crow-gothic-shirt/",
-    "https://designatshop.com/product/cork-on-the-court-wimbledon-2025-shirt/"
+    "https://designatshop.com/product/vinatge-f-caw-f-crow-under-moon-halloween-shirt/",
+    "https://designatshop.com/product/the-beau-me-state-beau-pribula-9-missouri-tigers-shirt/",
+    "https://designatshop.com/product/top-cat-cincinnati-bengals-top-gun-shirt/",
+    "https://designatshop.com/product/stew-york-breanna-stewart-stewie-short-sleeved-ny-liberty-shirt/",
+    "https://designatshop.com/product/st-josh-allen-buffalo-bills-17-mvp-shirt/",
+    "https://designatshop.com/product/snoopy-holding-flag-philadelphia-philly-football-go-birds-shirt/",
+    "https://designatshop.com/product/sounders-fc-been-there-won-that-shirt/",
+    "https://designatshop.com/product/snoopy-dog-skeleton-happy-halloween-shirt/",
+    "https://designatshop.com/product/skeleton-fdt-some-men-improve-the-world-feminist-shirt/",
+    "https://designatshop.com/product/philly-baseball-phantic-you-judge-from-the-shore-but-you-have-never-sunk-shirt/"
   ],
   "arjomany.com": [
     "https://arjomany.com/product/tomorrowland-butterfly-live-today-t-shirt/",
