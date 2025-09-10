@@ -1,15 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/iryna-zarutska-wearing-zepeddies-pizzeria-shirt/",
-    "https://geekteesus.com/product/indianapolis-colts-nfl-2025-shirt/",
-    "https://geekteesus.com/product/eric-wood-buffalo-bills-ja17-velveteen-plush-mvp-quarterback-shirt/",
-    "https://geekteesus.com/product/east-carolina-pirates-ncaa-american-flag-jolly-roger-shirt/",
-    "https://geekteesus.com/product/department-of-war-est-2025-shirt/",
-    "https://geekteesus.com/product/destiny-is-calling-me-buffalo-bills-stadium-shirt/",
-    "https://geekteesus.com/product/curtains-jalen-ramsey-pittsburgh-steelers-football-signature-called-game-shirt/",
-    "https://geekteesus.com/product/cooper-dejean-philadelphia-eagles-nfl-signature-shirt/",
-    "https://geekteesus.com/product/boujee-ghost-san-francisco-giants-baseball-2025-t-shirt/",
-    "https://geekteesus.com/product/boujee-ghost-oakland-athletics-baseball-2025-shirt/"
+    "https://geekteesus.com/product/snoopy-san-diego-padres-mlb-pumpkin-halloween-peanuts-cartoon-2025-shirt/",
+    "https://geekteesus.com/product/snoopy-oakland-athletics-mlb-pumpkin-halloween-peanuts-cartoon-2025-shirt/",
+    "https://geekteesus.com/product/snoopy-pittsburgh-pirates-mlb-pumpkin-halloween-peanuts-cartoon-2025-shirt/",
+    "https://geekteesus.com/product/snoopy-los-angeles-dodgers-mlb-pumpkin-halloween-peanuts-cartoon-2025-shirt/",
+    "https://geekteesus.com/product/snoopy-cincinnati-reds-mlb-pumpkin-halloween-peanuts-cartoon-2025-shirt/",
+    "https://geekteesus.com/product/snoopy-boston-red-sox-mlb-pumpkin-halloween-peanuts-cartoon-2025-shirt/",
+    "https://geekteesus.com/product/snoopy-baltimore-orioles-mlb-pumpkin-halloween-peanuts-cartoon-2025-shirt/",
+    "https://geekteesus.com/product/smokey-tennessee-volunteers-military-rifle-night-vision-college-football-mascot-shirt/",
+    "https://geekteesus.com/product/skeleton-cam-skattebo-new-york-giants-mlb-angry-runs-2025-shirt/",
+    "https://geekteesus.com/product/sergei-fedorov-91-detroit-red-wings-nhl-1990-2003-banner-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/minnesota-lynx-2025-wnba-playoffs-logo-t-shirt/",
@@ -24,16 +24,12 @@
     "https://techteesusa.com/product/i-am-unconcerned-about-the-question-of-free-will-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/pug-if-fell-out-a-screw-loose-it-fell-out-shirt/",
-    "https://teeworksusa.com/product/pug-i-fart-because-its-the-only-gas-i-can-afford-shirt/",
-    "https://teeworksusa.com/product/peanuts-x-american-red-cross-sleep-get-a-good-nights-sleep-shirt/",
-    "https://teeworksusa.com/product/peanuts-x-american-red-cross-hydrate-drink-an-extra-16-oz-of-water-shirt/",
-    "https://teeworksusa.com/product/peanuts-x-american-red-cross-get-ready-to-donate-shirt/",
-    "https://teeworksusa.com/product/peanuts-x-american-red-cross-eat-a-healthy-meal-with-iron-rich-foods-like-eggs-meat-and-spinach-shirt/",
-    "https://teeworksusa.com/product/owl-nerds-of-the-forest-shirt/",
-    "https://teeworksusa.com/product/husky-you-cant-fix-stupid-but-you-can-numb-it-with-a-2x4-shirt/",
-    "https://teeworksusa.com/product/husky-sometimes-i-wonder-if-im-in-a-bad-mood-or-if-everyone-around-me-is-just-stupid-shirt/",
-    "https://teeworksusa.com/product/husky-if-fell-out-a-screw-loose-it-fell-out-shirt/"
+    "https://teeworksusa.com/product/wizard-of-boz-vintage-shirt/",
+    "https://teeworksusa.com/product/snoopy-philadelphia-fly-eagles-fly-halloween-shirt/",
+    "https://teeworksusa.com/product/rich-aucoin-synthetic-shirt/",
+    "https://teeworksusa.com/product/pug-you-cant-fix-stupid-but-you-can-numb-it-with-a-2x4-shirt/",
+    "https://teeworksusa.com/product/pug-sometimes-i-wonder-if-im-in-a-bad-mood-or-if-everyone-around-me-is-just-stupid-shirt/",
+    "https://teeworksusa.com/product/hangman-adam-page-unhappy-trails-2025-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-you-dont-know-a-buffalo-bills-die-hard-fan-until-you-meet-a-bills-fan-shirt/",
@@ -121,7 +117,7 @@
     "https://teehandus.com/product/buble-the-water-cooler-kills-shirt/"
   ],
   "thefunnyt.com": [
-    "https://thefunnyt.com/product/justice-for-iryna-zarutska-shirt/"
+    "https://thefunnyt.com/product/its-always-sunny-in-phillies-pay-homage-shirt/"
   ],
   "uscraftedtees.com": [
     "https://uscraftedtees.com/product/official-ew-chicago-meme-2025-shirt/",
@@ -206,16 +202,16 @@
     "https://dalatshirt.com/product/bruno-fernandes-milf-man-i-love-fernandes-manchester-united-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/ole-miss-rebels-triangle-vintage-shirt/",
-    "https://lovingsquad.com/product/oklahoma-state-cowboys-triangle-vintage-shirt/",
-    "https://lovingsquad.com/product/ohio-state-buckeyes-triangle-vintage-shirt/",
-    "https://lovingsquad.com/product/no-one-is-illegal-on-stolen-land-fuck-ice-shirt/",
-    "https://lovingsquad.com/product/new-york-mets-hyper-local-refresh-shirt/",
-    "https://lovingsquad.com/product/new-york-inner-city-sports-division-shirt/",
-    "https://lovingsquad.com/product/nc-state-wolfpack-triangle-vintage-shirt/",
-    "https://lovingsquad.com/product/minnesota-vikings-ready-for-war-shirt/",
-    "https://lovingsquad.com/product/minnesota-vikings-jj-mccarthy-where-would-you-rather-be-shirt/",
-    "https://lovingsquad.com/product/michigan-wolverines-triangle-vintage-shirt/"
+    "https://lovingsquad.com/product/rutgers-more-like-butt-gers-amiright-guy-shirt/",
+    "https://lovingsquad.com/product/rip-big-guy-real-gs-move-in-silence-like-lasagna-shirt/",
+    "https://lovingsquad.com/product/philadelphia-eagles-snoopy-joe-cool-bird-gang-shirt/",
+    "https://lovingsquad.com/product/mona-lisa-is-kinda-a-baddie-shirt/",
+    "https://lovingsquad.com/product/palestinian-liberation-is-collective-liberation-shirt-2/",
+    "https://lovingsquad.com/product/kansas-city-chiefs-ring-season-taylors-version-travis-shirt/",
+    "https://lovingsquad.com/product/jamaica-no-problem-shirt/",
+    "https://lovingsquad.com/product/i-found-room-46-and-all-i-got-was-this-lousy-shirt/",
+    "https://lovingsquad.com/product/how-bout-those-kansas-city-chiefs-shirt/",
+    "https://lovingsquad.com/product/hi-im-dhula-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/vinatge-f-caw-f-crow-under-moon-halloween-shirt/",
