@@ -94,16 +94,16 @@
     "https://serenashirt.com/product/the-great-noticing-shirt/"
   ],
   "fanaticity.com": [
-    "https://fanaticity.com/product/fishers-tigers-rumble-in-the-jungle-tigers-vs-lions-football-shirt/",
-    "https://fanaticity.com/product/fck-becky-swain-shirt/",
-    "https://fanaticity.com/product/eric-martin-unleashed-unplugged-with-david-cotterill-shirt/",
-    "https://fanaticity.com/product/donkey-kong-dk-bananza-shirt/",
-    "https://fanaticity.com/product/dog-frenchie-coffee-happiness-shirt/",
-    "https://fanaticity.com/product/disney-donald-duck-three-peat-colorado-avalanche-shirt/",
-    "https://fanaticity.com/product/derpy-tiger-and-sussy-from-kpop-demon-hunters-in-japanese-ukiyo-e-style-shirt/",
-    "https://fanaticity.com/product/deep-purple-57-years-1968-2025-thank-you-for-the-memories-signatures-shirt/",
-    "https://fanaticity.com/product/dandadan-cursed-speed-shirt/",
-    "https://fanaticity.com/product/cuse-orange-syracuse-basketball-mascot-vintage-shirt/"
+    "https://fanaticity.com/product/utah-man-am-i-salt-lake-city-ut-university-of-utah-shirt/",
+    "https://fanaticity.com/product/umphreys-mcgee-sept-08-2025-concert-garcias-chicago-poster-shirt/",
+    "https://fanaticity.com/product/uh-oh-tacos-mad-anti-trump-shirt/",
+    "https://fanaticity.com/product/two-piece-september-2025-poster-shirt/",
+    "https://fanaticity.com/product/trevor-henderson-nightmare-chorus-shirt/",
+    "https://fanaticity.com/product/tiger-the-most-precious-shirt/",
+    "https://fanaticity.com/product/the-secret-sisters-tour-nashville-tn-09-09-2025-poster-shirt/",
+    "https://fanaticity.com/product/the-red-flags-podcast-the-red-pony-club-2025-shirt/",
+    "https://fanaticity.com/product/the-killing-of-iryna-zarutska-never-happened-shirt/",
+    "https://fanaticity.com/product/the-hives-stubbs-stubbs-waller-creek-amphitheater-in-austin-september-8-2025-event-poster-shirt/"
   ],
   "legendusashirt.com": [
     "https://legendusashirt.com/product/wendys-x-baby-yoda-witch-halloween-2025-t-shirt/",
@@ -118,20 +118,14 @@
     "https://legendusashirt.com/product/target-the-grinch-hallothanksmas-2025-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/you-left-the-rodi-on-shirt/",
-    "https://teehandus.com/product/you-got-a-problem-cowboy-shirt/",
-    "https://teehandus.com/product/wheel-of-life-hey-ive-been-here-before-shirt/",
-    "https://teehandus.com/product/trust-no-one-shirt/",
-    "https://teehandus.com/product/trick-your-treat-devils-eve-2007-shirt/",
-    "https://teehandus.com/product/swamp-anarchy-hops-not-cops-shirt/",
-    "https://teehandus.com/product/stay-sexy-and-dont-get-murdered-my-favorite-murder-shirt/",
-    "https://teehandus.com/product/skeleton-dance-get-your-creep-on-shirt/",
-    "https://teehandus.com/product/si-te-caigo-mal-aqui-hay-una-para-que-me-la-peles-shirt/",
-    "https://teehandus.com/product/shalom-alone-home-alone-shirt/"
+    "https://teehandus.com/product/american-red-cross-blood-donation-snoopy-shirt/",
+    "https://teehandus.com/product/da-pope-chicago-bears-fan-shirt/"
   ],
   "thefunnyt.com": [
-    "https://thefunnyt.com/product/new-york-inner-city-sports-division-shirt/",
-    "https://thefunnyt.com/product/sur-la-mer-sailboat-sweatshirt/"
+    "https://thefunnyt.com/product/annunciation-shirt/",
+    "https://thefunnyt.com/product/dont-stop-talking-about-palestine-shirt/",
+    "https://thefunnyt.com/product/pls-do-not-give-me-a-cigarette-no-matter-what-i-say-shirt/",
+    "https://thefunnyt.com/product/200-number-shirt/"
   ],
   "uscraftedtees.com": [
     "https://uscraftedtees.com/product/original-we-will-never-be-back-at-this-restaurant-the-staff-made-2025-shirt/",
