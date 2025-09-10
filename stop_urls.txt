@@ -112,16 +112,16 @@
     "https://legendusashirt.com/product/cal-raleigh-for-mvp-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/a-juice-box-saved-my-life-shirt/",
-    "https://teehandus.com/product/aaron-rodgers-pittsburgh-steelers-nfl-flash-features-week-1-shirt/",
-    "https://teehandus.com/product/aaron-rodgers-pittsburgh-steelers-vintage-shirt/",
-    "https://teehandus.com/product/adolis-garcia-texas-rangers-and-micah-parsons-dallas-cowboys-skyline-city-signatures-shirt/",
-    "https://teehandus.com/product/ashton-jeanty-las-vegas-raiders-celebration-shirt/",
-    "https://teehandus.com/product/baddies-super-mario-bros-mushroom-heist-shirt/",
-    "https://teehandus.com/product/baker-mayfield-mike-evans-chris-godwin-step-brothers-shirt/",
-    "https://teehandus.com/product/beau-pribula-missouri-tigers-football-believe-shirt/",
-    "https://teehandus.com/product/beau-pribula-missouri-tigers-football-knows-shirt/",
-    "https://teehandus.com/product/black-death-european-tour-1347-1351-shirt-2/"
+    "https://teehandus.com/product/horny-24-7-shirt/",
+    "https://teehandus.com/product/i-do-not-have-a-catchphrase-shirt-2/",
+    "https://teehandus.com/product/i-new-message-from-the-mossad-shirt/",
+    "https://teehandus.com/product/i-talk-i-smile-i-laugh-too-but-be-careful-when-im-silent-wolf-shirt/",
+    "https://teehandus.com/product/im-not-stupid-i-just-havent-slept-in-10-years-shirt/",
+    "https://teehandus.com/product/its-always-sunny-in-phillies-pay-homage-shirt/",
+    "https://teehandus.com/product/justice-for-ukrainian-iryna-zarutska-shirt/",
+    "https://teehandus.com/product/its-not-rael-shirt/",
+    "https://teehandus.com/product/keir-starmer-wanker-shirt/",
+    "https://teehandus.com/product/mason-67-ice-cream-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/annunciation-shirt/",
@@ -142,16 +142,16 @@
     "https://uscraftedtees.com/product/original-phasmophobia-prestige-ix-2025-shirt/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/we-believe-the-women-believe-the-epstein-victims-shirt/",
-    "https://capitoneshirt.com/product/union-pirate-bye-bye-byerou-bayrou-shirt/",
-    "https://capitoneshirt.com/product/there-is-only-one-shade-of-orange-shirt/",
-    "https://capitoneshirt.com/product/uncle-trump-i-want-you-to-forget-about-the-epstein-list-shirt/",
-    "https://capitoneshirt.com/product/the-drum-connects-our-heart-to-the-heartbeat-of-mother-earth-shirt/",
-    "https://capitoneshirt.com/product/tennessee-volunteers-nuck-fico-fuck-nico-shirt/",
-    "https://capitoneshirt.com/product/tennessee-volunteers-get-your-corn-from-a-jar-shirt/",
-    "https://capitoneshirt.com/product/tennessee-volunteers-big-rick-barnes-energy-shirt/",
-    "https://capitoneshirt.com/product/tennessee-vols-r865y-top-rocky-top-shirt/",
-    "https://capitoneshirt.com/product/tennessee-vols-lindsey-nelson-yell-some-stadium-shirt/"
+    "https://capitoneshirt.com/product/denny-hamlin-300-race-winner-world-wide-technology-shirt/",
+    "https://capitoneshirt.com/product/christian-nationalism-is-just-white-supremacy-in-bible-drag-shirt/",
+    "https://capitoneshirt.com/product/christian-mccaffrey-running-san-francisco-49ers-shirt/",
+    "https://capitoneshirt.com/product/dear-jeffrey-happy-50th-joel-shirt/",
+    "https://capitoneshirt.com/product/dangelo-ponds-5-stripe-indiana-football-shirt/",
+    "https://capitoneshirt.com/product/cats-are-not-just-cats-theyre-sanity-happiness-best-friends-shirt/",
+    "https://capitoneshirt.com/product/cartevious-norton-90s-triple-player-south-florida-shirt/",
+    "https://capitoneshirt.com/product/d2-postin-wear-pants-do-crimes-shirt/",
+    "https://capitoneshirt.com/product/cam-skattebo-angry-runs-helmet-fire-ny-giants-shirt/",
+    "https://capitoneshirt.com/product/cincinnati-bengals-open-in-orange-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/wear-pants-do-crimes-shirt/",
