@@ -109,16 +109,16 @@
     "https://fanaticity.com/product/tedeschi-trucks-band-tour-chicago-il-sep-09-2025-poster-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/chipocalypse-now-chicago-department-of-war-trump-2025-t-shirt/",
-    "https://legendusashirt.com/product/the-lumineers-tla-automatic-world-tour-2025-t-shirt/",
-    "https://legendusashirt.com/product/the-brian-and-jones-towin-with-massacre-nov-4-2025-slo-brew-in-san-luis-obispo-ca-t-shirt/",
-    "https://legendusashirt.com/product/south-florida-bulls-bucked-miami-miami-hurricanes-t-shirt/",
-    "https://legendusashirt.com/product/radio-free-alice-t-shirt/",
-    "https://legendusashirt.com/product/new-york-mets-hyper-local-refresh-shea-stadium-2025-t-shirt/",
-    "https://legendusashirt.com/product/more-like-butt-gers-t-shirt/",
-    "https://legendusashirt.com/product/melvins-and-redd-kross-9-18-2025-madison-wi-t-shirt/",
-    "https://legendusashirt.com/product/kitchen-dwellers-denver-colorado-jan-24-2026-t-shirt/",
-    "https://legendusashirt.com/product/iryna-zarutska-white-people-we-do-not-need-to-live-like-this-t-shirt/"
+    "https://legendusashirt.com/product/forever-a-new-york-yankees-win-or-lose-yesterday-today-tomorrow-forever-no-matter-what-heart-2025-t-shirt/",
+    "https://legendusashirt.com/product/forever-a-new-york-knicks-win-or-lose-yesterday-today-tomorrow-forever-no-matter-what-heart-2025-t-shirt/",
+    "https://legendusashirt.com/product/forever-a-minnesota-vikings-win-or-lose-yesterday-today-tomorrow-forever-no-matter-what-heart-2025-t-shirt/",
+    "https://legendusashirt.com/product/forever-a-kansas-city-chiefs-win-or-lose-yesterday-today-tomorrow-forever-no-matter-what-heart-2025-t-shirt/",
+    "https://legendusashirt.com/product/forever-a-indianapolis-colts-win-or-lose-yesterday-today-tomorrow-forever-no-matter-what-heart-2025-t-shirt/",
+    "https://legendusashirt.com/product/forever-a-houston-texans-win-or-lose-yesterday-today-tomorrow-forever-no-matter-what-heart-2025-t-shirt/",
+    "https://legendusashirt.com/product/forever-a-houston-astros-win-or-lose-yesterday-today-tomorrow-forever-no-matter-what-heart-2025-t-shirt/",
+    "https://legendusashirt.com/product/forever-a-green-bay-packers-win-or-lose-yesterday-today-tomorrow-forever-no-matter-what-heart-2025-t-shirt/",
+    "https://legendusashirt.com/product/yes-i-am-old-but-i-saw-unicorn-huskies-four-peat-national-champions-2013-2014-signatures-t-shirt/",
+    "https://legendusashirt.com/product/yes-i-am-old-but-i-saw-ucla-bruins-seven-peat-national-champions-1967-1973-signatures-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/modern-rockstars-hotter-than-hell-shirt/",
@@ -137,16 +137,8 @@
     "https://thefunnyt.com/product/mystery-wrestling-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/official-radio-free-alice-2025-shirt/",
-    "https://uscraftedtees.com/product/official-malcolm-todd-north-america-europe-2025-shirt/",
-    "https://uscraftedtees.com/product/official-gojira-erde-demon-tour-2025-shirt/",
-    "https://uscraftedtees.com/product/official-dear-jeffrey-happy-50th-joel-2025-shirt/",
-    "https://uscraftedtees.com/product/official-d2-postin-wear-pants-do-crimes-2025-shirt/",
-    "https://uscraftedtees.com/product/official-beat-em-again-2025-shirt/",
-    "https://uscraftedtees.com/product/official-tom-smith-uk-and-ireland-tour-25-poster-shirt/",
-    "https://uscraftedtees.com/product/official-the-brian-and-jones-towing-with-massacre-nov-4-2025-slo-brew-in-san-luis-obispo-ca-poster-shirt/",
-    "https://uscraftedtees.com/product/official-tedeschi-trucks-band-chicago-illinois-2025-venue-poster-shirt/",
-    "https://uscraftedtees.com/product/official-riki-live-tour-october-2025-poster-shirt/"
+    "https://uscraftedtees.com/product/official-trump-chipocalypse-now-chicago-shirt/",
+    "https://uscraftedtees.com/product/official-the-mountain-goats-sea-monster-ivory-tour-2025-shirt/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/yeah-im-in-bangin-exquisite-latina-asses-shirt/",
@@ -173,16 +165,16 @@
     "https://clickoneshirt.com/product/reel-man-fishing-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/winnie-the-pooh-happy-hunnyween-halloween-t-shirts/",
-    "https://teleteeshirt.com/product/us-open-tennis-championships-new-york-city-2025-stars-stripes-racquet-american-flag-t-shirts/",
-    "https://teleteeshirt.com/product/twisted-thread-samurai-skull-t-shirts/",
-    "https://teleteeshirt.com/product/tomorrowland-butterfly-live-today-love-unite-forever-t-shirts/",
-    "https://teleteeshirt.com/product/this-is-hell-self-titled-t-shirts/",
-    "https://teleteeshirt.com/product/the-tcu-horned-frogs-1896-2025-130th-anniversary-season-riff-ram-bah-zoo-thank-you-for-the-memories-road-abbey-signatures-t-shirts/",
-    "https://teleteeshirt.com/product/the-spirit-of-jack-daniels-thoughts-on-bowling-its-icy-in-december-spirit-t-shirts/",
-    "https://teleteeshirt.com/product/the-phantom-menace-darth-maul-sith-lord-t-shirts/",
-    "https://teleteeshirt.com/product/the-mountain-goats-we-do-it-different-on-the-west-coast-t-shirts/",
-    "https://teleteeshirt.com/product/the-mountain-goats-shield-thebes-t-shirts/"
+    "https://teleteeshirt.com/product/matt-prater-buffalo-bills-nfl-flash-features-week-1-t-shirts/",
+    "https://teleteeshirt.com/product/internet-today-la-bullies-t-shirts/",
+    "https://teleteeshirt.com/product/ghost-absolution-t-shirts/",
+    "https://teleteeshirt.com/product/dude-perfect-trick-shot-or-treat-pumpkin-skeleton-hands-halloween-t-shirts/",
+    "https://teleteeshirt.com/product/aaron-rodgers-pittsburgh-steelers-nfl-flash-features-week-1-t-shirts/",
+    "https://teleteeshirt.com/product/boise-state-broncos-208-t-shirts/",
+    "https://teleteeshirt.com/product/snowmass-balloon-festival-50th-annual-sept-12-14-2025-snowmass-village-co-t-shirts/",
+    "https://teleteeshirt.com/product/playboi-carti-x-asuka-langley-soryu-evangelion-t-shirts/",
+    "https://teleteeshirt.com/product/hangman-adam-page-unhappy-trails-desert-t-shirts/",
+    "https://teleteeshirt.com/product/grateful-shred-dec-5-2025-san-luis-obispo-ca-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/hell-is-a-teenage-girl-heart-blazing-fire-shirt/",
