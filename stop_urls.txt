@@ -1,14 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/justice-for-iryna-zarutska-shirt/",
-    "https://geekteesus.com/product/josh-allen-faith-buffalo-bills-nfl-portrait-shirt/",
-    "https://geekteesus.com/product/josh-allen-buffalo-bills-nfl-signature-masterpiece-graphic-shirt/",
-    "https://geekteesus.com/product/john-cena-wwe-2025-farewell-tour-the-last-time-is-now-never-give-up-never-seen-seventeen-shirt/",
-    "https://geekteesus.com/product/i-hate-when-drake-raps-drake-sings-too-much-shirt/",
-    "https://geekteesus.com/product/hispanic-heritage-mi-cultura-viva-en-mi-shirt/",
-    "https://geekteesus.com/product/fighting-south-carolina-gamecocks-logo-shirt/",
-    "https://geekteesus.com/product/erie-seawolves-2025-eastern-league-playoffs-collection-logo-shirt/",
-    "https://geekteesus.com/product/erie-seawolves-2025-eastern-league-playoff-performance-shirt/"
+    "https://geekteesus.com/product/wit-it-ashton-jeanty-las-vegas-raiders-nfl-signature-graphic-shirt/",
+    "https://geekteesus.com/product/wnba-is-greater-than-nba-logo-shirt/",
+    "https://geekteesus.com/product/unban-duskblade-minhal-m-camer-shirt/",
+    "https://geekteesus.com/product/ufos-are-real-alien-fucking-exist-blink-182-shirt/",
+    "https://geekteesus.com/product/true-crime-is-my-therapy-shirt/",
+    "https://geekteesus.com/product/toledo-rockets-football-helmet-shirt/",
+    "https://geekteesus.com/product/the-pittsburgh-steelers-6-time-super-bowl-champions-thank-you-for-the-memories-signature-shirt/",
+    "https://geekteesus.com/product/the-new-york-giants-4-time-super-bowl-champions-thank-you-for-the-memories-signature-shirt/",
+    "https://geekteesus.com/product/sweetness-34-walter-payton-chicago-bears-nfl-signature-shirt/",
+    "https://geekteesus.com/product/south-florida-vs-everybody-south-florida-bulls-football-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/texas-longhorns-vs-mississippi-state-bulldogs-game-day-2025-t-shirt/",
