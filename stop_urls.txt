@@ -22,7 +22,7 @@
     "https://techteesusa.com/product/no-therapy-generation-x-just-trauma-and-saturday-cartoons-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/paradise-queens-ny-baseball-skull-sunglasses-rose-shirt/"
+    "https://teeworksusa.com/product/the-conjuring-last-rites-annabelle-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-you-dont-know-a-buffalo-bills-die-hard-fan-until-you-meet-a-bills-fan-shirt/",
