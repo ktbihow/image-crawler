@@ -1,15 +1,14 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/snoopy-san-diego-padres-mlb-pumpkin-halloween-peanuts-cartoon-2025-shirt/",
-    "https://geekteesus.com/product/snoopy-oakland-athletics-mlb-pumpkin-halloween-peanuts-cartoon-2025-shirt/",
-    "https://geekteesus.com/product/snoopy-pittsburgh-pirates-mlb-pumpkin-halloween-peanuts-cartoon-2025-shirt/",
-    "https://geekteesus.com/product/snoopy-los-angeles-dodgers-mlb-pumpkin-halloween-peanuts-cartoon-2025-shirt/",
-    "https://geekteesus.com/product/snoopy-cincinnati-reds-mlb-pumpkin-halloween-peanuts-cartoon-2025-shirt/",
-    "https://geekteesus.com/product/snoopy-boston-red-sox-mlb-pumpkin-halloween-peanuts-cartoon-2025-shirt/",
-    "https://geekteesus.com/product/snoopy-baltimore-orioles-mlb-pumpkin-halloween-peanuts-cartoon-2025-shirt/",
-    "https://geekteesus.com/product/smokey-tennessee-volunteers-military-rifle-night-vision-college-football-mascot-shirt/",
-    "https://geekteesus.com/product/skeleton-cam-skattebo-new-york-giants-mlb-angry-runs-2025-shirt/",
-    "https://geekteesus.com/product/sergei-fedorov-91-detroit-red-wings-nhl-1990-2003-banner-shirt/"
+    "https://geekteesus.com/product/justice-for-iryna-zarutska-shirt/",
+    "https://geekteesus.com/product/josh-allen-faith-buffalo-bills-nfl-portrait-shirt/",
+    "https://geekteesus.com/product/josh-allen-buffalo-bills-nfl-signature-masterpiece-graphic-shirt/",
+    "https://geekteesus.com/product/john-cena-wwe-2025-farewell-tour-the-last-time-is-now-never-give-up-never-seen-seventeen-shirt/",
+    "https://geekteesus.com/product/i-hate-when-drake-raps-drake-sings-too-much-shirt/",
+    "https://geekteesus.com/product/hispanic-heritage-mi-cultura-viva-en-mi-shirt/",
+    "https://geekteesus.com/product/fighting-south-carolina-gamecocks-logo-shirt/",
+    "https://geekteesus.com/product/erie-seawolves-2025-eastern-league-playoffs-collection-logo-shirt/",
+    "https://geekteesus.com/product/erie-seawolves-2025-eastern-league-playoff-performance-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/texas-longhorns-vs-mississippi-state-bulldogs-game-day-2025-t-shirt/",
@@ -133,8 +132,7 @@
     "https://teehandus.com/product/buble-the-water-cooler-kills-shirt/"
   ],
   "thefunnyt.com": [
-    "https://thefunnyt.com/product/mystery-wrestling-its-the-best-thing-shirt/",
-    "https://thefunnyt.com/product/mystery-wrestling-shirt/"
+    "https://thefunnyt.com/product/weve-been-priced-out-shirt/"
   ],
   "uscraftedtees.com": [
     "https://uscraftedtees.com/product/official-trump-chipocalypse-now-chicago-shirt/",
@@ -165,16 +163,16 @@
     "https://clickoneshirt.com/product/reel-man-fishing-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/matt-prater-buffalo-bills-nfl-flash-features-week-1-t-shirts/",
-    "https://teleteeshirt.com/product/internet-today-la-bullies-t-shirts/",
-    "https://teleteeshirt.com/product/ghost-absolution-t-shirts/",
-    "https://teleteeshirt.com/product/dude-perfect-trick-shot-or-treat-pumpkin-skeleton-hands-halloween-t-shirts/",
-    "https://teleteeshirt.com/product/aaron-rodgers-pittsburgh-steelers-nfl-flash-features-week-1-t-shirts/",
-    "https://teleteeshirt.com/product/boise-state-broncos-208-t-shirts/",
-    "https://teleteeshirt.com/product/snowmass-balloon-festival-50th-annual-sept-12-14-2025-snowmass-village-co-t-shirts/",
-    "https://teleteeshirt.com/product/playboi-carti-x-asuka-langley-soryu-evangelion-t-shirts/",
-    "https://teleteeshirt.com/product/hangman-adam-page-unhappy-trails-desert-t-shirts/",
-    "https://teleteeshirt.com/product/grateful-shred-dec-5-2025-san-luis-obispo-ca-t-shirts/"
+    "https://teleteeshirt.com/product/super-magfest-2026-logo-t-shirts/",
+    "https://teleteeshirt.com/product/zerb-south-2-north-america-fall-tour-2025-dates-t-shirts/",
+    "https://teleteeshirt.com/product/official-matt-prater-buffalo-bills-nfl-flash-features-week-1-t-shirts/",
+    "https://teleteeshirt.com/product/official-neck-deep-cat-rat-t-shirts/",
+    "https://teleteeshirt.com/product/official-neck-deep-minnesota-tour-2025-t-shirts/",
+    "https://teleteeshirt.com/product/official-ghost-absolution-t-shirts/",
+    "https://teleteeshirt.com/product/smoulder-dream-quest-ends-t-shirts/",
+    "https://teleteeshirt.com/product/official-dude-perfect-trick-shot-or-treat-pumpkin-skeleton-hands-halloween-t-shirts/",
+    "https://teleteeshirt.com/product/neck-deep-brick-squad-t-shirts-2/",
+    "https://teleteeshirt.com/product/jerrys-middle-finger-sept-12-13-2025-old-princeton-landing-half-moon-bay-ca-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/hell-is-a-teenage-girl-heart-blazing-fire-shirt/",
@@ -199,16 +197,16 @@
     "https://melonashirt.com/product/official-vulvodynia-uk-tour-2024-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/adolf-hitler-european-tour-1939-1945-t-shirts/",
-    "https://dalatshirt.com/product/all-you-need-is-jordan-love-green-bay-packers-signature-t-shirts/",
-    "https://dalatshirt.com/product/alice-in-niceadult-t-shirts/",
-    "https://dalatshirt.com/product/audrey-totter-drift-t-shirts/",
-    "https://dalatshirt.com/product/arrow-island-choosing-gods-way-t-shirts/",
-    "https://dalatshirt.com/product/bird-caw-caw-t-shirts/",
-    "https://dalatshirt.com/product/ben-grimm-in-japanese-sumi-e-style-t-shirts/",
-    "https://dalatshirt.com/product/bee-only-got-a-bit-o-money-t-shirts/",
-    "https://dalatshirt.com/product/beastie-boys-elephants-t-shirts/",
-    "https://dalatshirt.com/product/bruno-fernandes-milf-man-i-love-fernandes-manchester-united-t-shirts/"
+    "https://dalatshirt.com/product/a-winning-tradition-marshall-university-thundering-herd-football-2025-t-shirts/",
+    "https://dalatshirt.com/product/a-warning-in-this-t-shirts-is-a-positive-beautiful-loving-intelligent-sensitive-talented-hard-working-t-shirts/",
+    "https://dalatshirt.com/product/betty-white-fck-aroun-find-out-t-shirts/",
+    "https://dalatshirt.com/product/born-to-die-limveld-is-a-heck-kill-em-all-2025-i-am-parry-man-bad-relics-t-shirts/",
+    "https://dalatshirt.com/product/college-gameday-georgia-bulldogs-vs-tennessee-volunteers-2025-t-shirts/",
+    "https://dalatshirt.com/product/cowboy-bull-riding-letth-do-t-shirts/",
+    "https://dalatshirt.com/product/college-gameday-georgia-bulldogs-vs-tennessee-volunteers-t-shirts/",
+    "https://dalatshirt.com/product/cracker-barrel-vampires-t-shirts/",
+    "https://dalatshirt.com/product/corey-heim-no-11-toyota-tundra-trd-pro-for-tricon-garage-t-shirts/",
+    "https://dalatshirt.com/product/deer-how-bout-a-hug-famous-last-words-colorado-t-shirts/"
   ],
   "lovingsquad.com": [
     "https://lovingsquad.com/product/rutgers-more-like-butt-gers-amiright-guy-shirt/",
