@@ -22,7 +22,7 @@
     "https://techteesusa.com/product/no-therapy-generation-x-just-trauma-and-saturday-cartoons-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/the-tony-danza-tapdance-extravaganza-eat-brains-shirt/"
+    "https://teeworksusa.com/product/blut-aus-nord-ethereal-horizons-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-we-run-this-state-ohio-bengals-17-16-browns-shirt/",
