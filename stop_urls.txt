@@ -12,16 +12,16 @@
     "https://geekteesus.com/product/sergei-fedorov-91-detroit-red-wings-nhl-1990-2003-banner-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/minnesota-lynx-2025-wnba-playoffs-logo-t-shirt/",
-    "https://techteesusa.com/product/the-only-dangerous-minority-is-the-rich-t-shirt/",
-    "https://techteesusa.com/product/run-the-damn-ball-t-shirt/",
-    "https://techteesusa.com/product/milwaukees-world-famous-pocket-pancakes-t-shirt/",
-    "https://techteesusa.com/product/i-came-i-saw-i-left-early-shirt/",
-    "https://techteesusa.com/product/squid-game-we-are-not-horses-we-are-humans-shirt/",
-    "https://techteesusa.com/product/youre-killin-me-smalls-detroit-tigers-x-the-sandlot-shirt/",
-    "https://techteesusa.com/product/beavis-and-butt-head-freak-science-xperiments-shirt/",
-    "https://techteesusa.com/product/asuka-germany-anime-shirt/",
-    "https://techteesusa.com/product/i-am-unconcerned-about-the-question-of-free-will-shirt/"
+    "https://techteesusa.com/product/texas-longhorns-vs-mississippi-state-bulldogs-game-day-2025-t-shirt/",
+    "https://techteesusa.com/product/tennessee-volunteers-vs-mississippi-state-bulldogs-game-day-2025-shirt/",
+    "https://techteesusa.com/product/mississippi-state-bulldogs-vs-texas-a-and-m-aggies-game-day-2025-shirt/",
+    "https://techteesusa.com/product/northern-illinois-vs-mississippi-state-bulldogs-game-day-2025-shirt/",
+    "https://techteesusa.com/product/mississippi-state-bulldogs-vs-southern-miss-game-day-2025-shirt/",
+    "https://techteesusa.com/product/mississippi-state-bulldogs-vs-missouri-tigers-game-day-2025-t-shirt/",
+    "https://techteesusa.com/product/mississippi-state-bulldogs-vs-ole-miss-rebels-game-day-2025-t-shirt/",
+    "https://techteesusa.com/product/arizona-state-sun-devils-vs-mississippi-state-bulldogs-game-day-2025-shirt/",
+    "https://techteesusa.com/product/mississippi-state-bulldogs-football-2025-card-shirt/",
+    "https://techteesusa.com/product/georgia-bulldogs-vs-mississippi-state-bulldogs-game-day-2025-t-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/wizard-of-boz-vintage-shirt/",
