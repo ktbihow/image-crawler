@@ -260,15 +260,12 @@
     "https://neoteeco.com/product/moe-35-years-poster-at-the-capitol-theatre-in-port-chester-ny-on-october-11-2025-anniversary-tour-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/kfc-kentucky-fried-curry-shirt/",
-    "https://newshirtstore.com/product/king-of-chingasos-bandana-joe-t-shirt/",
-    "https://newshirtstore.com/product/kayla-malec-draft-me-daddy-t-shirt/",
-    "https://newshirtstore.com/product/kali-uchis-sincerely-angel-watching-over-me-tour-2025-t-shirt/",
-    "https://newshirtstore.com/product/iuter-museum-t-shirt/",
-    "https://newshirtstore.com/product/jade-novah-8th-wonder-t-shirt/",
-    "https://newshirtstore.com/product/inspirit-drop-the-hammer-t-shirt/",
-    "https://newshirtstore.com/product/jeffrey-nothing-bloody-knife-t-shirt/",
-    "https://newshirtstore.com/product/jefferson-starship-its-about-time-t-shirt/",
-    "https://newshirtstore.com/product/iuter-heavyweight-gear-for-everybody-since-2002-t-shirt/"
+    "https://newshirtstore.com/product/lets-summon-the-dead-shirt/",
+    "https://newshirtstore.com/product/left-to-suffer-and-dying-forever-snake-t-shirt/",
+    "https://newshirtstore.com/product/lets-have-shrex-funny-shirt/",
+    "https://newshirtstore.com/product/kirk-cousins-atlanta-falcons-kirk-thuggins-8-bit-shirt/",
+    "https://newshirtstore.com/product/lets-skol-crazy-minnesota-vikings-football-shirt/",
+    "https://newshirtstore.com/product/k9-quilt-of-honor-dog-paw-shirt/",
+    "https://newshirtstore.com/product/kevin-devine-devine-intervention-t-shirt/"
   ]
 }
