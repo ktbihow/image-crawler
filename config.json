@@ -109,5 +109,38 @@
         "selector": "div.product-images img",
         "replacements": ["-hoodie.jpg", "-shirt.jpg"],
         "source_type": "product-list"
+    },
+    {
+        "url": "https://melonashirt.com/",
+        "replacements": {"-Shirts-shirt.webp": ["-Shirts-men-shirt.webp"]},
+        "source_type": "api",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.melonashirt.com", "prefix_length": 9 }
+    },
+    {
+        "url": "https://dalatshirt.com/",
+        "source_type": "api",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.dalatshirt.com.com", "prefix_length": 9 }
+    },
+    {
+        "url": "https://lovingsquad.com/",
+        "replacements": {"-Shirt.jpg": ["-T-shirt.jpg"]},
+        "source_type": "api",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.lovingsquad.com.com", "prefix_length": 9 }
+    },
+    {
+        "url": "https://arjomany.com/",
+        "replacements": {"-shirt-men.jpg": ["-shirt-poster.jpg"]},
+        "source_type": "api"
+    },
+    {
+        "url": "https://designatshop.com/",
+        "replacements": {"-shirt-men.jpg": ["-shirt-poster.jpg"]},
+        "source_type": "api",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.designatshop.com.com", "prefix_length": 9 }
+    },
+    {
+        "url": "https://collectionpostertour.com/",
+        "replacements": {"-t-shirt-shirt.jpg": ["-t-shirt-poster-portrait.jpg"]},
+        "source_type": "api"
     }
 ]
