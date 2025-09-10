@@ -12,22 +12,17 @@
     "https://geekteesus.com/product/dallas-cowboys-warm-up-annunciation-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/unprecedented-times-the-world-needs-your-rage-shirt/",
-    "https://techteesusa.com/product/tunnel-to-canada-shirt/",
-    "https://techteesusa.com/product/true-detective-was-a-documentary-shirt/",
-    "https://techteesusa.com/product/true-crime-is-my-therapy-shirt/",
-    "https://techteesusa.com/product/the-kingdom-of-dreams-and-magic-tokyo-disneyland-shirt/",
-    "https://techteesusa.com/product/south-florida-vs-everybody-south-florida-bulls-football-shirt/",
-    "https://techteesusa.com/product/snoopy-browns-welcome-to-the-pound-shirt/",
-    "https://techteesusa.com/product/slay-the-patriarchy-shirt/",
-    "https://techteesusa.com/product/sergei-fedorov-detroit-red-wings-hockey-91-banner-shirt/",
-    "https://techteesusa.com/product/saquon-barkley-philadelphia-eagles-football-masterpiece-signature-shirt/"
+    "https://techteesusa.com/product/annunciation-be-kind-be-respectful-be-inclusive-be-my-best-self-be-brave-two-sided-shirt/",
+    "https://techteesusa.com/product/aj-lee-love-bites-back-two-sided-shirt/",
+    "https://techteesusa.com/product/go-to-hell-shirt/",
+    "https://techteesusa.com/product/alligator-alcatraz-everglades-florida-welcomes-you-shirt/",
+    "https://techteesusa.com/product/youre-killin-me-smalls-texas-rangers-x-the-sandlot-shirt/",
+    "https://techteesusa.com/product/metroid-breaking-the-barrier-upgrading-you-get-shirt/",
+    "https://techteesusa.com/product/zack-wickham-wearing-daddy-daddycita-shirt/",
+    "https://techteesusa.com/product/no-therapy-generation-x-just-trauma-and-saturday-cartoons-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/the-conjuring-last-rites-annabelle-shirt/",
-    "https://teeworksusa.com/product/pain-miami-hurricanes-shirt/",
-    "https://teeworksusa.com/product/no-vacancy-at-the-hotel-hail-shirt/",
-    "https://teeworksusa.com/product/jacory-croskey-merritt-washington-td-dance-shirt/"
+    "https://teeworksusa.com/product/weve-been-priced-out-statue-of-liberty-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-we-run-this-state-ohio-bengals-17-16-browns-shirt/",
@@ -61,14 +56,14 @@
     "https://dreameshirt.com/product/official-hungry-every-rep-every-meal-every-stage-kinda-fit-kinda-fat-graphic-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-wwii-adolf-hitler-european-tour-design-1939-1945-shirt/",
-    "https://teeextra.com/product/official-wilson-springs-hotel-with-tan-and-sober-oct-11-2025-richmond-va-shirt/",
-    "https://teeextra.com/product/official-will-trade-racists-for-refugees-shirt/",
-    "https://teeextra.com/product/official-tv-on-the-radio-september-27-2025-palmer-events-center-in-austin-tx-shirt/",
-    "https://teeextra.com/product/official-thomas-x-grasso-tugboat-roundup-2025-waterford-ny-shirt/",
-    "https://teeextra.com/product/official-the-hives-austin-tx-9-8-2025-shirt/",
-    "https://teeextra.com/product/official-the-brothers-comatose-dec-31-2025-grass-valley-ca-shirt/",
-    "https://teeextra.com/product/official-the-boogiedown-music-festival-2025-driftless-yuba-wisconsin-september-11-13-2025-shirt/"
+    "https://teeextra.com/product/official-will-trade-racists-for-refugees-shirt-2/",
+    "https://teeextra.com/product/official-texas-tech-red-raiders-vs-oregon-state-beavers-gameday-showdown-shirt/",
+    "https://teeextra.com/product/official-tennessee-volunteers-vs-georgia-bulldogs-college-gameday-knoxville-tn-sept-13-2025-shirt/",
+    "https://teeextra.com/product/official-tennessee-volunteers-vs-georgia-bulldogs-2025-college-gameday-shirt/",
+    "https://teeextra.com/product/official-notre-dame-fighting-irish-vs-texas-am-aggies-gameday-showdown-shirt/",
+    "https://teeextra.com/product/official-missouri-tigers-vs-kansas-jayhawks-42-31-september-6-2025-border-showdown-champs-mizzou-shirt/",
+    "https://teeextra.com/product/official-nebraska-cornhuskers-vs-houston-christian-gameday-showdown-shirt/",
+    "https://teeextra.com/product/official-michigan-wolverines-vs-central-michigan-chippewas-gameday-showdown-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/zero-ducks-off-road-cracker-barrel-parody-shirt/",
@@ -106,20 +101,28 @@
     "https://fanaticity.com/product/the-hives-stubbs-stubbs-waller-creek-amphitheater-in-austin-september-8-2025-event-poster-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/skull-x-houston-texans-houston-stand-united-texans-stand-united-t-shirt/",
-    "https://legendusashirt.com/product/skull-x-green-bay-packers-go-pack-go-t-shirt/",
-    "https://legendusashirt.com/product/skull-x-detroit-lions-roar-to-victory-t-shirt/",
-    "https://legendusashirt.com/product/skull-x-denver-broncos-go-broncos-country-t-shirt/",
-    "https://legendusashirt.com/product/skull-x-dallas-cowboys-i-hope-all-your-dreams-come-true-t-shirt/",
-    "https://legendusashirt.com/product/skull-x-cleveland-browns-i-hope-all-your-dreams-come-true-t-shirt/",
-    "https://legendusashirt.com/product/skull-x-cincinnati-bengals-i-hope-all-your-dreams-come-true-t-shirt/",
-    "https://legendusashirt.com/product/skull-x-chicago-bears-i-hope-all-your-dreams-come-true-t-shirt/",
-    "https://legendusashirt.com/product/texas-am-aggies-btho-tennessee-t-shirt/",
-    "https://legendusashirt.com/product/texas-am-aggies-btho-lsu-t-shirt/"
+    "https://legendusashirt.com/product/tennessee-volunteers-vs-georgia-bulldogs-college-gameday-knoxville-tn-sept-13-2025-t-shirt/",
+    "https://legendusashirt.com/product/tennessee-volunteers-vs-georgia-bulldogs-2025-college-gameday-t-shirt/",
+    "https://legendusashirt.com/product/max-keplers-wearing-pay-homage-t-shirt/",
+    "https://legendusashirt.com/product/lsu-tigers-game-day-chance-of-purple-reign-always-t-shirt/",
+    "https://legendusashirt.com/product/its-always-sunny-in-phillies-pay-homage-t-shirt/",
+    "https://legendusashirt.com/product/jj-mccarthy-and-justin-jefferson-jj2jj-t-shirt/",
+    "https://legendusashirt.com/product/indiana-hoosiers-vs-illinois-fighting-illini-bloomington-in-sept-20-2025-t-shirt/",
+    "https://legendusashirt.com/product/fsu-football-tommy-castellanos-tommy-football-t-shirt/",
+    "https://legendusashirt.com/product/eat-sleep-notice-repeat-t-shirt/",
+    "https://legendusashirt.com/product/cal-raleigh-for-mvp-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/american-red-cross-blood-donation-snoopy-shirt/",
-    "https://teehandus.com/product/da-pope-chicago-bears-fan-shirt/"
+    "https://teehandus.com/product/adele-dazeem-ravioli-master-brian-robert-jones-shirt/",
+    "https://teehandus.com/product/alabama-crimson-tide-girl-messy-bun-glasses-shirt/",
+    "https://teehandus.com/product/always-open-jalen-hurts-aj-brown-philadelphia-eagles-shirt/",
+    "https://teehandus.com/product/anti-trump-you-cant-fix-stupid-but-the-hats-sure-make-it-easy-to-identify-shirt/",
+    "https://teehandus.com/product/arkansas-razorbacks-girl-messy-bun-glasses-shirt/",
+    "https://teehandus.com/product/appalachian-state-mountaineers-girl-messy-bun-glasses-shirt/",
+    "https://teehandus.com/product/auburn-tigers-girl-messy-bun-glasses-shirt/",
+    "https://teehandus.com/product/bigfoot-spooky-season-halloween-shirt/",
+    "https://teehandus.com/product/bram-stokers-original-dracula-shirt/",
+    "https://teehandus.com/product/bunny-be-soft-but-stay-sharp-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/annunciation-shirt/",
@@ -176,16 +179,16 @@
     "https://teleteeshirt.com/product/nude-project-by-artists-for-artists-mediterranean-hedonism-and-urban-resilience-cassanova-since-2019-t-shirts/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/sweater-rooster-fighter-pride-strength-feathers-arena-legend-champion-courage-glory-power-honor-victory-shirt/",
-    "https://teeslocal.com/product/sumo-stance-celebrate-being-solid-sarah-firth-celebrate-being-a-unit-shirt/",
-    "https://teeslocal.com/product/still-tippin-slow-loud-and-bangin-specialists-houston-tx-281-330-8004-shirt/",
-    "https://teeslocal.com/product/skeleton-wearing-leopard-prin-bow-im-not-just-a-im-also-a-bitch-shirt/",
-    "https://teeslocal.com/product/skeleton-dj-star-i-might-be-stubborn-and-opinionated-6-but-at-least-im-not-fake-shirt/",
-    "https://teeslocal.com/product/rooster-football-warrior-helmet-power-strength-pride-courage-champion-spirit-honor-legacy-victory-shirt/",
-    "https://teeslocal.com/product/red-rooster-cocky-by-nature-carolina-by-pride-shirt/",
-    "https://teeslocal.com/product/minion-ive-reached-an-age-when-my-train-of-thought-often-leaves-the-station-without-me-shirt/",
-    "https://teeslocal.com/product/minion-im-sory-i-slapped-you-but-it-seemed-like-youd-never-stop-talking-and-i-panicked-shirt/",
-    "https://teeslocal.com/product/lets-talk-about-mental-health-if-you-need-help-close-your-instagram-and-call-some-friends-text-shirt/"
+    "https://teeslocal.com/product/the-cool-s-birthday-card-donald-trump-signature-shirt/",
+    "https://teeslocal.com/product/jeffrey-birthday-book-pedophile-resign-now-you-sick-fuck-anti-trump-funny-shirt/",
+    "https://teeslocal.com/product/epstein-trump-birthday-message-signature-funny-shirt/",
+    "https://teeslocal.com/product/peter-griffin-it-seems-today-birthday-card-your-family-guy-shirt/",
+    "https://teeslocal.com/product/no-more-secrets-release-the-files-epstein-birthday-message-shirt/",
+    "https://teeslocal.com/product/nobody-wants-this-noah-adam-brody-matzah-ballers-3-shirt/",
+    "https://teeslocal.com/product/normal-heartbeat-deceased-heartbeat-heartbeat-watching-mariners-shirt/",
+    "https://teeslocal.com/product/normal-heartbeat-deceased-heartbeat-heartbeat-watching-packers-nfl-shirt/",
+    "https://teeslocal.com/product/normal-heartbeat-deceased-heartbeat-heartbeat-watching-rays-shirt/",
+    "https://teeslocal.com/product/normal-heartbeat-deceased-heartbeat-heartbeat-watching-rangers-nfl-shirt/"
   ],
   "melonashirt.com": [
     "https://melonashirt.com/product/official-zero-ducks-off-road-cracker-barrel-parody-shirts/",
