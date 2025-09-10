@@ -181,28 +181,20 @@
     "https://teeslocal.com/product/normal-heartbeat-deceased-heartbeat-heartbeat-watching-rangers-nfl-shirt/"
   ],
   "melonashirt.com": [
-    "https://melonashirt.com/product/official-zero-ducks-off-road-cracker-barrel-parody-shirts/",
-    "https://melonashirt.com/product/official-super-centennial-usa-250th-anniversary-shirts/",
-    "https://melonashirt.com/product/official-shut-up-cris-collinsworth-shirts/",
-    "https://melonashirt.com/product/official-phasmophobia-prestige-ii-shirts/",
-    "https://melonashirt.com/product/official-phasmophobia-ouija-board-shirts/",
-    "https://melonashirt.com/product/official-opry-imogene-willie-grand-ole-ory-100-years-shirts/",
-    "https://melonashirt.com/product/official-maryland-football-malik-washington-superstar-pose-shirts/",
-    "https://melonashirt.com/product/official-karen-kingsbury-bookstore-a-thousand-tomorrows-shirts/",
-    "https://melonashirt.com/product/official-ghost-rex-alchemist-the-alchemist-king-shirts/",
-    "https://melonashirt.com/product/official-fsu-football-tommy-castellanos-tommy-football-shirts/"
+    "https://melonashirt.com/product/official-south-florida-bulls-usf-bucked-miami-hurricanes-mascot-shirts/",
+    "https://melonashirt.com/product/official-ralph-lauren-2025-usa-ryder-cup-shirts/",
+    "https://melonashirt.com/product/official-poppy-zinc-bear-trap-09-2025-tour-shirts/",
+    "https://melonashirt.com/product/official-mickey-mouse-and-friends-class-of-1928-shirts/",
+    "https://melonashirt.com/product/official-noah-gilion-fight-and-win-cancer-shirts/",
+    "https://melonashirt.com/product/official-enny-hamlin-checkered-flag-sports-2025-enjoy-illinois-300-race-winner-shirts/",
+    "https://melonashirt.com/product/official-benson-boone-american-heart-world-tour-uk-eu-2025-shirts/",
+    "https://melonashirt.com/product/official-chip-n-dale-trouble-making-tradition-est-1943-shirts/",
+    "https://melonashirt.com/product/official-bourbon-and-beyond-5k-louisville-ky-sep-13-2025-shirts/",
+    "https://melonashirt.com/product/official-cal-raleigh-for-mvp-seattle-mariners-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/adolf-hitler-european-tour-1939-1945-t-shirts/",
-    "https://dalatshirt.com/product/all-you-need-is-jordan-love-green-bay-packers-signature-t-shirts/",
-    "https://dalatshirt.com/product/alice-in-niceadult-t-shirts/",
-    "https://dalatshirt.com/product/audrey-totter-drift-t-shirts/",
-    "https://dalatshirt.com/product/arrow-island-choosing-gods-way-t-shirts/",
-    "https://dalatshirt.com/product/bird-caw-caw-t-shirts/",
-    "https://dalatshirt.com/product/ben-grimm-in-japanese-sumi-e-style-t-shirts/",
-    "https://dalatshirt.com/product/bee-only-got-a-bit-o-money-t-shirts/",
-    "https://dalatshirt.com/product/beastie-boys-elephants-t-shirts/",
-    "https://dalatshirt.com/product/bruno-fernandes-milf-man-i-love-fernandes-manchester-united-t-shirts/"
+    "https://dalatshirt.com/product/herrera-tx-district-23-texas-2026-shirt/",
+    "https://dalatshirt.com/product/an-american-werewolf-in-london-shirt-2/"
   ],
   "lovingsquad.com": [
     "https://lovingsquad.com/product/you-drive-me-insane-car-shirt/",
