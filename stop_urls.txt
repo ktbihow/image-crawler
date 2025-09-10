@@ -22,7 +22,16 @@
     "https://techteesusa.com/product/no-therapy-generation-x-just-trauma-and-saturday-cartoons-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/the-conjuring-last-rites-annabelle-shirt/"
+    "https://teeworksusa.com/product/paradise-queens-ny-baseball-skull-sunglasses-rose-shirt/",
+    "https://teeworksusa.com/product/nyxx-suckafree-typography-graphic-shirt/",
+    "https://teeworksusa.com/product/micah-parsons-10f1-cowboys-football-player-shirt/",
+    "https://teeworksusa.com/product/please-please-please-let-me-get-what-i-want-vintage-shirt/",
+    "https://teeworksusa.com/product/oakland-raiders-afc-champions-2002-football-team-shirt/",
+    "https://teeworksusa.com/product/raiders-league-villains-football-players-vintage-shirt/",
+    "https://teeworksusa.com/product/rj-carrot-player-pun-cartoon-basketball-graphic-shirt/",
+    "https://teeworksusa.com/product/salty-signatures-football-sports-team-shirt/",
+    "https://teeworksusa.com/product/re-animator-movie-poster-horror-sci-fi-film-shirt/",
+    "https://teeworksusa.com/product/re-animator-mad-cat-with-syringes-drippy-liquid-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-you-dont-know-a-buffalo-bills-die-hard-fan-until-you-meet-a-bills-fan-shirt/",
@@ -260,12 +269,15 @@
     "https://neoteeco.com/product/moe-35-years-poster-at-the-capitol-theatre-in-port-chester-ny-on-october-11-2025-anniversary-tour-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/lets-summon-the-dead-shirt/",
-    "https://newshirtstore.com/product/left-to-suffer-and-dying-forever-snake-t-shirt/",
-    "https://newshirtstore.com/product/lets-have-shrex-funny-shirt/",
-    "https://newshirtstore.com/product/kirk-cousins-atlanta-falcons-kirk-thuggins-8-bit-shirt/",
-    "https://newshirtstore.com/product/lets-skol-crazy-minnesota-vikings-football-shirt/",
-    "https://newshirtstore.com/product/k9-quilt-of-honor-dog-paw-shirt/",
-    "https://newshirtstore.com/product/kevin-devine-devine-intervention-t-shirt/"
+    "https://newshirtstore.com/product/purdue-cradle-of-astronauts-astronaut-sitting-shirt/",
+    "https://newshirtstore.com/product/raza-runs-america-retro-style-shirt/",
+    "https://newshirtstore.com/product/pokemon-cider-and-donuts-shirt/",
+    "https://newshirtstore.com/product/pierce-the-veil-halloween-gothic-bat-t-shirt/",
+    "https://newshirtstore.com/product/radiohead-acid-minotaurs-t-shirt/",
+    "https://newshirtstore.com/product/philadelphia-eagles-im-an-eagles-fan-now-and-forever-philly-t-shirt/",
+    "https://newshirtstore.com/product/many-eyes-im-striking-every-nerve-until-i-hit-the-deepest-one-staring-at-the-void-with-my-sunglasses-on-t-shirt/",
+    "https://newshirtstore.com/product/notice-me-senpai-anime-shirt/",
+    "https://newshirtstore.com/product/psspria-two-pairs-of-hands-lines-shirt/",
+    "https://newshirtstore.com/product/may-the-sports-be-with-you-t-shirt/"
   ]
 }
