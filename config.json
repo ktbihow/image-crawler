@@ -106,7 +106,7 @@
     {
         "url": "https://teeslocal.com/",
         "selector": "div.product-images img",
-        "replacements": ["-hoodie.jpg", "-shirt.jpg"],
+        "replacements": ["-classic-mens.jpeg", "-hoodie-teeslocal.jpeg"],
         "source_type": "product-list"
     },
     {
