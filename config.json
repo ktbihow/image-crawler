@@ -13,9 +13,8 @@
     },
     {
         "url": "https://teeworksusa.com/",
-        "source_type": "prevnext",
-        "first_product_selector": ".elementor-element-26e4f04 a[href*='/product/']",
-        "next_product_selector": "div.product-prev a[href*='/product/']",
+        "selector": "div.product-images img",
+        "source_type": "product-list",
         "replacements": ["-Posters-black.jpg", "-Posters-white.jpg", "-White-poster.jpg", "-white-poster.jpg", "-poster.jpg", "-unisex-t-shirt.jpg"],
         "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teeworksusa.com", "prefix_length": 9 }
     },
