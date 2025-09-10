@@ -25,13 +25,16 @@
     "https://teeworksusa.com/product/blut-aus-nord-ethereal-horizons-shirt/"
   ],
   "meredpremium.com": [
-    "https://meredpremium.com/product/official-we-run-this-state-ohio-bengals-17-16-browns-shirt/",
-    "https://meredpremium.com/product/official-were-on-a-mission-from-da-pope-blues-brothers-shirt/",
-    "https://meredpremium.com/product/official-washington-commanders-ampersand-stars-t-shirt/",
-    "https://meredpremium.com/product/official-trump-middle-finger-chicago-flag-shirt/",
-    "https://meredpremium.com/product/official-tennessee-volunteers-football-1998-national-champs-shirt/",
-    "https://meredpremium.com/product/official-tennessee-volunteers-big-orange-country-sports-shirt/",
-    "https://meredpremium.com/product/official-support-queer-owned-businesses-shirt/"
+    "https://meredpremium.com/product/official-horror-characters-x-tyson-not-for-the-weak-halloween-shirt/",
+    "https://meredpremium.com/product/official-horror-characters-x-speedway-not-for-the-weak-halloween-shirt/",
+    "https://meredpremium.com/product/official-horror-characters-x-southwest-airlines-not-for-the-weak-halloween-shirt/",
+    "https://meredpremium.com/product/official-horror-characters-x-smithfield-not-for-the-weak-halloween-shirt/",
+    "https://meredpremium.com/product/official-horror-characters-x-siemens-not-for-the-weak-halloween-shirt/",
+    "https://meredpremium.com/product/official-horror-characters-x-sams-club-not-for-the-weak-halloween-shirt/",
+    "https://meredpremium.com/product/official-horror-characters-x-pizza-hut-not-for-the-weak-halloween-shirt/",
+    "https://meredpremium.com/product/official-horror-characters-x-pilot-flying-not-for-the-weak-halloween-shirt/",
+    "https://meredpremium.com/product/official-horror-characters-x-pets-mart-not-for-the-weak-halloween-shirt/",
+    "https://meredpremium.com/product/official-horror-characters-x-petco-not-for-the-weak-halloween-shirt/"
   ],
   "berrylittles.com": [
     "https://berrylittles.com/product/official-tennessee-volunteers-vs-georgia-bulldogs-september-13-2025-at-neyland-stadium-poster-t-shirt/",
@@ -244,39 +247,35 @@
     "https://arjomany.com/product/internet-today-la-bullies-t-shirt/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/phish-jan-28-31-2026-moon-palace-cancun-mx-concert-poster/",
-    "https://collectionpostertour.com/product/emancipator-nov-21-22-2025-portland-or-concert-poster/",
-    "https://collectionpostertour.com/product/yusuf-cat-stevens-sept-8-2025-bristol-uk-concert-poster/",
-    "https://collectionpostertour.com/product/yusuf-cat-stevens-sept-6-2025-cambridge-uk-concert-poster/",
-    "https://collectionpostertour.com/product/wiife-fall-tour-2025-poster/",
-    "https://collectionpostertour.com/product/tom-smith-uk-ireland-tour-2025-poster/",
-    "https://collectionpostertour.com/product/the-hives-forever-forever-the-hives-september-2025-signed-poster/",
-    "https://collectionpostertour.com/product/the-family-battenberg-spider-rock-forever-tour-2025-poster/",
-    "https://collectionpostertour.com/product/tedeschi-trucks-band-sept-9-2025-chicago-il-concert-poster/",
-    "https://collectionpostertour.com/product/taking-back-sunday-december-10-13-2025-concert-poster/"
+    "https://collectionpostertour.com/product/zerb-south-north-america-tour-2025-poster/",
+    "https://collectionpostertour.com/product/the-mountain-goats-august-11-2025-worcester-ma-concert-poster/",
+    "https://collectionpostertour.com/product/steep-canyon-rangers-fall-tour-2025-poster/",
+    "https://collectionpostertour.com/product/innings-festival-arizona-february-20-22-2026-concert-poster/",
+    "https://collectionpostertour.com/product/bob-vylan-november-december-2025-poster/",
+    "https://collectionpostertour.com/product/poppy-start-of-life-t-shirt/",
+    "https://collectionpostertour.com/product/poppy-end-of-you-t-shirt/",
+    "https://collectionpostertour.com/product/the-mountain-goats-sea-monster-t-shirt-2025/",
+    "https://collectionpostertour.com/product/poppy-zinc-bear-trap-t-shirt/",
+    "https://collectionpostertour.com/product/the-mountain-goats-sea-monster-t-shirt/"
   ],
   "neoteeco.com": [
-    "https://neoteeco.com/product/grateful-dead-skeletons-60th-sky-tie-dye-tee/",
-    "https://neoteeco.com/product/all-things-go-nyc-2025-lineup-nyc-racing-team-lineup-all-over-print-long-sleeve/",
-    "https://neoteeco.com/product/all-things-go-nyc-2025-lineup-blue-clouds-nyc-lineup-all-over-print-hoodie/",
-    "https://neoteeco.com/product/widespread-panic-poster-at-allianz-amphitheater-in-richmond-virginia-on-september-12-2025-conscious-alliance-bear-artwork-unisex-t-shirt/",
-    "https://neoteeco.com/product/the-black-angels-live-show-music-poster-at-aviator-nation-dreamland-in-malibu-california-on-september-8-2025-desert-daze-artwork-unisex-t-shirt/",
-    "https://neoteeco.com/product/st-paul-and-the-broken-bones-poster-at-the-caverns-in-grundy-county-tennessee-on-september-21-2025-stained-glass-artwork-unisex-t-shirt/",
-    "https://neoteeco.com/product/paul-mccartney-wings-watercolor-two-sides-unisex-t-shirt/",
-    "https://neoteeco.com/product/odyssey-sims-indiana-fever-3500-career-points-wnba-basketball-2025-poster-milestone-celebration-artwork-unisex-t-shirt/",
-    "https://neoteeco.com/product/kyle-schwarber-philadelphia-phillies-poster-50-home-runs-2025-season-record-highlight-unisex-t-shirt/",
-    "https://neoteeco.com/product/kyle-schwarber-philadelphia-phillies-poster-50-home-runs-2025-season-achievement-highlight-unisex-t-shirt/"
+    "https://neoteeco.com/product/blink-182-venue-tee-at-banknh-pavilion-in-gilford-nh-on-september-9-2025-tour-two-sides-unisex-t-shirt/",
+    "https://neoteeco.com/product/sp5der-x-adidas-superstar-collaboration-spring-summer-2026-logo-young-thugs-brand-x-adidas-three-stripes-partnership-unisex-t-shirt/",
+    "https://neoteeco.com/product/murder-by-death-show-at-the-van-buren-in-phoenix-az-on-november-1-2025-farewell-tour-artwork-home-decor-poster-canvas/",
+    "https://neoteeco.com/product/moe-35-years-poster-at-the-capitol-theatre-in-port-chester-ny-on-october-11-2025-anniversary-tour-artwork-home-decor-poster-canvas/",
+    "https://neoteeco.com/product/georgia-bulldogs-vs-tennessee-volunteers-football-matchup-at-neyland-stadium-on-september-13-2025-ncaa-college-football-matchup-highlight-home-decor-poster-canvas/",
+    "https://neoteeco.com/product/chiodos-alls-well-that-ends-well-20th-anniversary-tour-2025-with-hawthorne-heights-and-special-guests-artwork-home-decor-poster-canvas/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/year-of-the-cute-snake-shirt/",
-    "https://newshirtstore.com/product/wwe-rhea-ripley-tarot-card-shirt/",
-    "https://newshirtstore.com/product/yellowstone-national-park-vintage-hiking-camping-shirt/",
-    "https://newshirtstore.com/product/you-can-take-the-girl-out-of-ohio-but-you-cant-take-the-oh-io-out-of-the-girl-shirt/",
-    "https://newshirtstore.com/product/wtf-is-a-kilometer-american-eagle-tank-and-burger-shirt/",
-    "https://newshirtstore.com/product/welcome-to-the-creepy-circus-halloween-shirt/",
-    "https://newshirtstore.com/product/zenless-zone-zero-phaethon-shirt/",
-    "https://newshirtstore.com/product/wu-tang-bills-mafia-mashup-buffalo-bills-hip-hop-football-shirt/",
-    "https://newshirtstore.com/product/walters-neighborhood-watch-shirt/",
-    "https://newshirtstore.com/product/wnba-is-greater-than-nba-t-shirt/"
+    "https://newshirtstore.com/product/in-good-nature-look-in-the-mirror-eye-t-shirt/",
+    "https://newshirtstore.com/product/los-angeles-dodgers-disney-cartoon-character-mashup-shirt/",
+    "https://newshirtstore.com/product/j-j-mccarthy-minnesota-vikings-homage-purple-caricature-player-shirt/",
+    "https://newshirtstore.com/product/justin-jefferson-minnesota-viking-nfl-player-graphic-shirt/",
+    "https://newshirtstore.com/product/husky-dog-whoever-said-technology-will-replace-paper-shirt/",
+    "https://newshirtstore.com/product/let-the-dogs-out-angry-king-bulldog-mascot-from-a-cage-shirt/",
+    "https://newshirtstore.com/product/i-love-big-sacks-tight-ends-and-a-strong-d-shirt/",
+    "https://newshirtstore.com/product/i-gotta-thielen-minnesota-vikings-football-player-shirt/",
+    "https://newshirtstore.com/product/heart-attack-man-happy-graduation-from-the-gallows-t-shirt/",
+    "https://newshirtstore.com/product/golden-state-warriors-graphic-cartoon-shirt/"
   ]
 }
