@@ -12,28 +12,28 @@
     "https://geekteesus.com/product/dallas-cowboys-warm-up-annunciation-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/you-in-the-lycra-shirt/",
-    "https://techteesusa.com/product/the-only-dangerous-minority-is-the-rich-shirt-2/",
-    "https://techteesusa.com/product/the-government-cannot-stop-me-from-being-silly-and-whimsical-gooose-shirt/",
-    "https://techteesusa.com/product/springtime-magic-shirt/",
-    "https://techteesusa.com/product/south-florida-bulls-vs-miami-hurricanes-enough-of-the-bull-shirt/",
-    "https://techteesusa.com/product/south-florida-bulls-vs-miami-hurricanes-bucked-miami-shirt/",
-    "https://techteesusa.com/product/south-florida-bulls-vs-miami-hurricanes-bucked-miami-shirt-front/",
-    "https://techteesusa.com/product/south-florida-bulls-and-miami-hurricanes-mascot-shirt/",
-    "https://techteesusa.com/product/snoopy-to-read-or-not-to-read-shirt/",
-    "https://techteesusa.com/product/slam-kiyan-and-carmelo-anthony-blood-orange-shirt/"
+    "https://techteesusa.com/product/welcome-to-the-schlitt-show-new-york-yankees-signature-shirt/",
+    "https://techteesusa.com/product/type-schlitt-cam-schlittler-new-york-yankees-signature-shirt/",
+    "https://techteesusa.com/product/treveyon-henderson-new-england-patriots-football-celebration-shirt/",
+    "https://techteesusa.com/product/top-cat-cincy-football-x-top-gun-logo-parody-shirt/",
+    "https://techteesusa.com/product/the-world-is-yours-scarface-shirt/",
+    "https://techteesusa.com/product/the-ohio-state-buckeyes-band-abbey-road-shirt/",
+    "https://techteesusa.com/product/the-jaguar-13-shirt/",
+    "https://techteesusa.com/product/talkin-giants-vs-the-world-shirt/",
+    "https://techteesusa.com/product/talkin-giants-race-car-new-york-football-shirt/",
+    "https://techteesusa.com/product/syracuse-orange-cuse-orange-vintage-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/paradise-queens-ny-baseball-skull-sunglasses-rose-shirt/",
-    "https://teeworksusa.com/product/nyxx-suckafree-typography-graphic-shirt/",
-    "https://teeworksusa.com/product/micah-parsons-10f1-cowboys-football-player-shirt/",
-    "https://teeworksusa.com/product/please-please-please-let-me-get-what-i-want-vintage-shirt/",
-    "https://teeworksusa.com/product/oakland-raiders-afc-champions-2002-football-team-shirt/",
-    "https://teeworksusa.com/product/raiders-league-villains-football-players-vintage-shirt/",
-    "https://teeworksusa.com/product/rj-carrot-player-pun-cartoon-basketball-graphic-shirt/",
-    "https://teeworksusa.com/product/salty-signatures-football-sports-team-shirt/",
-    "https://teeworksusa.com/product/re-animator-movie-poster-horror-sci-fi-film-shirt/",
-    "https://teeworksusa.com/product/re-animator-mad-cat-with-syringes-drippy-liquid-shirt/"
+    "https://teeworksusa.com/product/toronto-raptors-skeleton-dinosaur-basketball-city-fan-shirt/",
+    "https://teeworksusa.com/product/thug-it-out-skeleton-lifting-weights-bodybuilding-swoleville-shirt/",
+    "https://teeworksusa.com/product/the-weeknd-after-hours-til-dawn-tour-alien-planet-shirt/",
+    "https://teeworksusa.com/product/washington-skeleton-wizard-holding-basketball-in-dark-fantasy-shirt/",
+    "https://teeworksusa.com/product/utah-skeleton-basketball-player-with-bears-nba-fan-shirt/",
+    "https://teeworksusa.com/product/skinny-puppy-industrial-band-dark-gothic-creature-art-shirt/",
+    "https://teeworksusa.com/product/support-human-artists-no-ai-shirt/",
+    "https://teeworksusa.com/product/the-fixer-comic-book-style-flame-logo-shirt/",
+    "https://teeworksusa.com/product/skeleton-laughing-holding-a-steaming-coffee-cup-shirt/",
+    "https://teeworksusa.com/product/san-antonio-skeleton-cowboy-holding-lasso-and-basketball-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-you-dont-know-a-buffalo-bills-die-hard-fan-until-you-meet-a-bills-fan-shirt/",
@@ -260,11 +260,13 @@
     "https://collectionpostertour.com/product/the-mountain-goats-sea-monster-t-shirt/"
   ],
   "neoteeco.com": [
-    "https://neoteeco.com/product/chiodos-alls-well-that-ends-well-20th-anniversary-tour-2025-with-hawthorne-heights-and-special-guests-artwork-two-sides-unisex-t-shirt/",
-    "https://neoteeco.com/product/queen-rhaenyra-targaryen-dark-royal-artwork-poster-house-of-the-dragon-fantasy-illustration-highlight-unisex-t-shirt/",
-    "https://neoteeco.com/product/georgia-bulldogs-vs-tennessee-volunteers-football-matchup-at-neyland-stadium-on-september-13-2025-ncaa-college-football-matchup-highlight-unisex-t-shirt/",
-    "https://neoteeco.com/product/murder-by-death-show-at-the-van-buren-in-phoenix-az-on-november-1-2025-farewell-tour-artwork-unisex-t-shirt/",
-    "https://neoteeco.com/product/moe-35-years-poster-at-the-capitol-theatre-in-port-chester-ny-on-october-11-2025-anniversary-tour-artwork-unisex-t-shirt/"
+    "https://neoteeco.com/product/san-francisco-49ers-deebo-samuel-unstoppable-nfl-football-highlight-unisex-t-shirt/",
+    "https://neoteeco.com/product/new-york-giants-daniel-jones-team-of-destiny-nfl-2025-football-unisex-t-shirt/",
+    "https://neoteeco.com/product/micah-parsons-green-bay-packers-jersey-tribute-september-7-2025-nfl-season-unisex-t-shirt/",
+    "https://neoteeco.com/product/missouri-tigers-beau-knows-long-sleeve-football-nfl-unisex-t-shirt/",
+    "https://neoteeco.com/product/missouri-tigers-border-showdown-champs-vs-kansas-jayhawks-nfl-september-6-2025-football-unisex-t-shirt/",
+    "https://neoteeco.com/product/buffalo-bills-drink-break-tables-win-repeat-football-fan-nfl-2025-unisex-t-shirt/",
+    "https://neoteeco.com/product/starkville-bulldogs-devil-went-down-and-left-a-loser-football-nfl-season-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
     "https://newshirtstore.com/product/wristmeetrazor-replica-of-a-strange-love-morta-t-shirt/",
