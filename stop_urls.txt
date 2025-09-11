@@ -1,13 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/notre-dame-fighting-irish-beat-em-again-texas-am-aggies-mascot-2025-t-shirt/",
-    "https://geekteesus.com/product/what-a-catch-isaac-teslaa-detroit-lions-nfl-signature-graphic-shirt/",
-    "https://geekteesus.com/product/trump-cant-handle-chicago-winters-shirt/",
-    "https://geekteesus.com/product/trains-pumpkin-halloween-2025-shirt/",
-    "https://geekteesus.com/product/tommy-castellanos-tommy-football-florida-state-seminoles-nfl-signature-shirt/",
-    "https://geekteesus.com/product/sunday-world-we-are-paid-r2k-to-vote-anc-bi-election-in-jhb-shirt/",
-    "https://geekteesus.com/product/rule-the-jungle-joe-burrow-cincinnati-bengals-nfl-signature-graphic-shirt/",
-    "https://geekteesus.com/product/prime-pizza-delivering-freshness-t-shirt/"
+    "https://geekteesus.com/product/thomas-x-grasso-tugboat-roundup-2025-waterford-ny-shirt-png/",
+    "https://geekteesus.com/product/oasis-cigarettes-and-alcohol-live-25-la-rose-bowl-stadium-shirt-png/",
+    "https://geekteesus.com/product/son-heung-min-x-los-angeles-dodgers-2025-signature-shirt-png/",
+    "https://geekteesus.com/product/boise-state-broncos-football-mental-health-matters-2025-shirt-png/",
+    "https://geekteesus.com/product/annunciation-catholic-church-shooting-minnesota-vikings-shirt-png/",
+    "https://geekteesus.com/product/zach-bryan-michigan-wolverines-tour-2025-t-shirt-png/",
+    "https://geekteesus.com/product/zach-bryan-michigan-stadium-2025-t-shirt-png/",
+    "https://geekteesus.com/product/uconn-huskies-mens-basketball-5x-national-champs-banners-t-shirt-png/",
+    "https://geekteesus.com/product/maryland-terrapins-2025-ncaa-football-t-shirt-png/",
+    "https://geekteesus.com/product/chicago-cubs-2025-aj-mendez-love-bites-back-2025-t-shirt-png/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-poster-nfl-pittsburgh-steelers-vs-seattle-seahawks-home-opener-at-acrisure-stadium-on-september-14-2025-here-we-go-t-shirt/",
@@ -16,16 +18,16 @@
     "https://orionshirt.com/product/official-nfl-pittsburgh-steelers-vs-seattle-seahawks-at-acrisure-stadium-on-september-14-2025-fan-gear-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/texas-longhorns-vs-mississippi-state-bulldogs-game-day-2025-t-shirt/",
-    "https://techteesusa.com/product/tennessee-volunteers-vs-mississippi-state-bulldogs-game-day-2025-shirt/",
-    "https://techteesusa.com/product/mississippi-state-bulldogs-vs-texas-a-and-m-aggies-game-day-2025-shirt/",
-    "https://techteesusa.com/product/northern-illinois-vs-mississippi-state-bulldogs-game-day-2025-shirt/",
-    "https://techteesusa.com/product/mississippi-state-bulldogs-vs-southern-miss-game-day-2025-shirt/",
-    "https://techteesusa.com/product/mississippi-state-bulldogs-vs-missouri-tigers-game-day-2025-t-shirt/",
-    "https://techteesusa.com/product/mississippi-state-bulldogs-vs-ole-miss-rebels-game-day-2025-t-shirt/",
-    "https://techteesusa.com/product/arizona-state-sun-devils-vs-mississippi-state-bulldogs-game-day-2025-shirt/",
-    "https://techteesusa.com/product/mississippi-state-bulldogs-football-2025-card-shirt/",
-    "https://techteesusa.com/product/georgia-bulldogs-vs-mississippi-state-bulldogs-game-day-2025-t-shirt/"
+    "https://techteesusa.com/product/unrivaled-expansion-club-hive-basketball-club-shirt/",
+    "https://techteesusa.com/product/unreleased-charlie-kirk-design-shirt/",
+    "https://techteesusa.com/product/radio-free-alice-repeat-shirt/",
+    "https://techteesusa.com/product/pray-for-charlie-kirk-47-shirt/",
+    "https://techteesusa.com/product/pray-for-charlie-kirk-shirt/",
+    "https://techteesusa.com/product/pls-do-not-give-me-a-cigarette-no-matter-what-i-say-shirt-2/",
+    "https://techteesusa.com/product/new-york-inner-city-sports-division-shirt/",
+    "https://techteesusa.com/product/never-forget-remember-her-iryna-zarutska-shirt/",
+    "https://techteesusa.com/product/i-wan-hollow-point-shirt/",
+    "https://techteesusa.com/product/dont-stop-talking-about-palestine-watermelon-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/wizard-of-boz-vintage-shirt/",
@@ -158,16 +160,16 @@
     "https://capitoneshirt.com/product/rest-in-peace-charlie-kirk-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/wear-pants-do-crimes-shirt/",
-    "https://clickoneshirt.com/product/under-attack-parody-shirt/",
-    "https://clickoneshirt.com/product/tulane-green-wave-vs-ole-miss-rebels-game-day-2025-vintage-shirt/",
-    "https://clickoneshirt.com/product/tommy-castellanos-tommy-fsu-football-signature-shirt/",
-    "https://clickoneshirt.com/product/the-blues-brothers-shirt/",
-    "https://clickoneshirt.com/product/texas-am-aggies-est-1876-mascot-vintage-shirt/",
-    "https://clickoneshirt.com/product/taco-sombrero-mexico-vs-sushi-japan-soccer-shirt/",
-    "https://clickoneshirt.com/product/support-queer-owned-businesses-palantir-rainbow-flag-shirt/",
-    "https://clickoneshirt.com/product/shut-up-cris-collinsworth-buffalo-bills-shirt/",
-    "https://clickoneshirt.com/product/reel-man-fishing-shirt/"
+    "https://clickoneshirt.com/product/only-jesus-can-save-us-warrior-angel-cross-christian-shirt/",
+    "https://clickoneshirt.com/product/old-age-used-to-be-all-in-my-head-now-its-in-my-joints-too-shirt/",
+    "https://clickoneshirt.com/product/mississippi-state-bulldogs-football-welcome-to-starkville-hand-drawn-campus-masot-shirt/",
+    "https://clickoneshirt.com/product/minesota-viking-football-skol-four-time-nfc-champions-helmet-shirt/",
+    "https://clickoneshirt.com/product/midnight-sun-tour-hot-and-sexy-shirt/",
+    "https://clickoneshirt.com/product/mcdonalds-grinch-just-waiting-for-halloween-goth-graphic-shirt/",
+    "https://clickoneshirt.com/product/maid-rite-milk-shakes-shirt/",
+    "https://clickoneshirt.com/product/lemonade-i-have-a-bad-relationship-with-my-dad-wanna-do-tequila-shots-shirt/",
+    "https://clickoneshirt.com/product/keir-starmer-wanker-shirt/",
+    "https://clickoneshirt.com/product/justin-jefferson-and-sam-darnold-minnesota-viking-football-step-brothers-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/trump-make-america-safe-again-t-shirts/",
