@@ -24,13 +24,19 @@
     "https://orionshirt.com/product/official-2025-blink-182-skateboard-bunny-graphic-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/saratoga-springs-racing-since-1863-shirt/",
-    "https://techteesusa.com/product/plus-44-silverstone-2025-shirt/",
-    "https://techteesusa.com/product/brent-burns-colorado-avalanche-lets-get-beard-colorado-shirt/",
-    "https://techteesusa.com/product/squid-game-masked-markers-shirt/"
+    "https://techteesusa.com/product/pittsburgh-steelers-steely-mcbeam-city-of-bridges-shirt/",
+    "https://techteesusa.com/product/pittsburgh-steelers-jack-lambert-the-man-of-steel-signature-shirt/",
+    "https://techteesusa.com/product/pittsburgh-steelers-football-club-historic-logo-shirt/",
+    "https://techteesusa.com/product/pittsburgh-steelers-2025-season-50th-anniversary-1975-2025-the-terrible-towel-2025-shirt/",
+    "https://techteesusa.com/product/outside-im-hootin-but-inside-im-hollerin-shirt/",
+    "https://techteesusa.com/product/oregon-ducks-spend-to-win-shirt/",
+    "https://techteesusa.com/product/opossum-be-rootin-be-tootin-be-shootin-shirt/",
+    "https://techteesusa.com/product/ohio-state-buckeyes-legend-lee-corso-graphic-shirt/",
+    "https://techteesusa.com/product/new-york-giants-national-football-league-crest-shirt/",
+    "https://techteesusa.com/product/my-dad-has-everything-except-a-pulse-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/jey-uso-yeet-palm-tree-shirt/"
+    "https://teeworksusa.com/product/nice-ajewdas-money-dollars-logo-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-voices-not-violence-charlie-kirk-1993-2025-shirt/",
@@ -69,9 +75,14 @@
     "https://dreameshirt.com/product/official-poster-frankie-and-the-witch-fingers-live-september-24-2025-atlanta-ga-usa-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-xl-badger-heavyweight-shirt/",
-    "https://teeextra.com/product/official-theo-lawrence-and-will-worden-sep-13-2025-sagebrush-austin-tx-shirt/",
-    "https://teeextra.com/product/official-the-view-season-29-shirt/"
+    "https://teeextra.com/product/official-legends-never-die-charlie-kirk-2025-shirt/",
+    "https://teeextra.com/product/official-lahgo-secretly-i-love-it-shirt/",
+    "https://teeextra.com/product/official-julia-hart-spooky-hart-kids-shirt/",
+    "https://teeextra.com/product/official-innings-festival-tempe-arizona-2026-at-tempe-beach-park-and-arts-park-full-lineup-on-february-20-22-2026-shirt/",
+    "https://teeextra.com/product/official-honor-the-fallen-september-11-american-flag-shirt/",
+    "https://teeextra.com/product/official-i-stand-with-charlie-kirk-rip-charlie-kirk-shirt/",
+    "https://teeextra.com/product/official-haim-i-quit-tour-2025-shirt/",
+    "https://teeextra.com/product/official-gamblers-vs-rattlers-professional-bull-riders-texas-cup-rivalry-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/freedom-fight-like-charlie-shirt/",
@@ -161,27 +172,28 @@
     "https://capitoneshirt.com/product/you-left-the-rodi-on-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/lancer-rpg-game-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/weve-been-priced-out-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/buffalo-bills-the-farewell-season-tour-1973-2025-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/spider-man-spidey-brick-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/moon-knight-white-batman-bruce-wayne-other-guy-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/wednesday-devils-memento-mori-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/carolina-hurricanes-margaritaville-night-2025-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/lets-get-whats-on-the-inside-out-2025-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/savage-sailor-frankenstein-halloween-two-sided-t-shirt/"
+    "https://clickoneshirt.com/product/iryna-zarutska-white-lives-matter-shirt/",
+    "https://clickoneshirt.com/product/iryna-zarutska-white-lives-matter-sdebate-this-diablo-macabre-shirt/",
+    "https://clickoneshirt.com/product/indianapolis-colts-football-pink-out-sparkling-heart-pink-ribbon-shirt/",
+    "https://clickoneshirt.com/product/im-going-nowhere-fast-fall-out-boy-shirt/",
+    "https://clickoneshirt.com/product/i-survived-the-ferguson-riots-of-2014-shirt/",
+    "https://clickoneshirt.com/product/i-love-smoking-rats-womens-rights-retro-graphic-shirt/",
+    "https://clickoneshirt.com/product/hey-who-turned-out-the-lights-space-exploration-and-death-comic-shirt/",
+    "https://clickoneshirt.com/product/hawk-tuah-spit-on-dak-thing-philadelphia-eagles-shirt/",
+    "https://clickoneshirt.com/product/harlowe-borderlands-4-game-character-classic-graffiti-style-shirt/",
+    "https://clickoneshirt.com/product/happy-couples-beware-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/cannibal-corpse-north-american-skull-maggot-2025-tour-dates-t-shirts/",
-    "https://teleteeshirt.com/product/charlie-kirk-we-the-people-most-important-document-protect-our-freedoms-est-1787-shirts/",
-    "https://teleteeshirt.com/product/cannibal-corpse-pitchfork-impalement-2025-tour-dates-t-shirts/",
-    "https://teleteeshirt.com/product/cannibal-corpse-north-american-graveside-tour-2025-dates-t-shirts/",
-    "https://teleteeshirt.com/product/cboystv-life-wide-open-ice-live-bait-ice-cold-beer-catch-big-fish-lure-fishing-shirts/",
-    "https://teleteeshirt.com/product/tomorrowland-glass-butterfly-t-shirts/",
-    "https://teleteeshirt.com/product/texas-am-aggies-sister-heart-t-shirts/",
-    "https://teleteeshirt.com/product/old-nick-x-haunted-toast-t-shirts/",
-    "https://teleteeshirt.com/product/old-nick-time-to-level-up-witch-hat-t-shirts/",
-    "https://teleteeshirt.com/product/old-nick-the-jersey-devil-t-shirts/"
+    "https://teleteeshirt.com/product/wwe-worlds-collide-wrestling-on-september-12-2025-with-aaa-lucha-libre-stars-t-shirts/",
+    "https://teleteeshirt.com/product/we-are-charlie-kirk-american-1993-2025-eagle-flag-t-shirts/",
+    "https://teleteeshirt.com/product/tony-two-chains-anthony-rizzo-44-chicago-cubs-t-shirts/",
+    "https://teleteeshirt.com/product/titvn-x-dark-watch-the-death-experience-tour-2025-t-shirts/",
+    "https://teleteeshirt.com/product/the-who-philadelphia-pennsylvania-2025-venue-at-wells-fargo-center-2025-eagle-t-shirts/",
+    "https://teleteeshirt.com/product/the-hives-dallas-texas-at-house-of-blues-on-september-10-2025-t-shirts/",
+    "https://teleteeshirt.com/product/the-dear-hunter-in-the-uk-and-europe-tour-2025-dates-t-shirts/",
+    "https://teleteeshirt.com/product/the-buffalo-bills-stomp-baltimore-ravens-bills-mafia-highmark-stadium-2025-mascot-t-shirts/",
+    "https://teleteeshirt.com/product/the-black-crowes-amorica-or-bust-stars-and-stripes-t-shirts/",
+    "https://teleteeshirt.com/product/teenage-mutant-ninja-turtles-chrome-alone-2-lost-in-new-jersey-logo-2025-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/nope-cat-kicking-the-crown-shirt/",
@@ -259,16 +271,15 @@
     "https://collectionpostertour.com/product/charlie-kirk-1993-2025-t-shirt/"
   ],
   "neoteeco.com": [
-    "https://neoteeco.com/product/wwe-worlds-collide-wrestling-poster-on-september-12-2025-with-aaa-lucha-libre-stars-unisex-t-shirt/",
-    "https://neoteeco.com/product/the-who-poster-at-wells-fargo-center-in-philadelphia-pa-on-august-21-2025-eagle-artwork-unisex-t-shirt/",
-    "https://neoteeco.com/product/system-of-a-down-poster-with-queens-of-the-stone-age-and-acid-bath-europe-tour-2025-artwork-unisex-t-shirt/",
-    "https://neoteeco.com/product/sierra-ferrell-poster-at-the-rooftop-at-pier-17-in-new-york-ny-on-september-6-2025-tour-artwork-unisex-t-shirt/",
-    "https://neoteeco.com/product/rip-charlie-kirk-tribute-memorial-poster-2025-conservative-movement-artwork-unisex-t-shirt/",
-    "https://neoteeco.com/product/rest-in-peace-charlie-kirk-unisex-t-shirt/",
-    "https://neoteeco.com/product/rest-in-peace-charlie-kirk-memorial-tribute-poster-2025-motivational-artwork-design-unisex-t-shirt/",
-    "https://neoteeco.com/product/official-teenage-mutant-ninja-turtles-chrome-alone-2-lost-in-new-jersey-new-logo-2025-unisex-t-shirt/",
-    "https://neoteeco.com/product/marvel-studios-thunderbolts-poster-the-new-avengers-disney-plus-artwork-unisex-t-shirt/",
-    "https://neoteeco.com/product/leon-bridges-and-charley-crockett-poster-the-crooner-and-the-cowboy-tour-2025-artwork-unisex-t-shirt/"
+    "https://neoteeco.com/product/tyler-perrys-beauty-in-black-netflix-series-poster-part-1-premiering-september-11-2025-unisexx-t-shirt/",
+    "https://neoteeco.com/product/rory-mcilroy-usa-ryder-cup-2025-golf-tournament-unisex-t-shirt/",
+    "https://neoteeco.com/product/nick-kurtz-oakland-athletics-30th-home-run-2025-mlb-unisex-t-shirt/",
+    "https://neoteeco.com/product/bad-bunny-debi-tirar-mas-fotos-world-tour-2025-2026-concert-two-sides-unisex-t-shirt/",
+    "https://neoteeco.com/product/aespa-the-6th-mini-album-rich-man-los-angeles-pop-up-september-2025-unisex-t-shirt/",
+    "https://neoteeco.com/product/tyler-perrys-beauty-in-black-netflix-series-poster-part-1-premiering-september-11-home-decor-poster-canvas/",
+    "https://neoteeco.com/product/nick-kurtz-oakland-athletics-30th-home-run-2025-mlb-home-decor-poster-canvas/",
+    "https://neoteeco.com/product/bad-bunny-debi-tirar-mas-fotos-world-tour-2025-2026-concert-home-decor-poster-canvas/",
+    "https://neoteeco.com/product/aespa-the-6th-mini-album-rich-man-los-angeles-pop-up-september-2025-home-decor-poster-canvas/"
   ],
   "newshirtstore.com": [
     "https://newshirtstore.com/product/zach-bryan-the-quittin-time-tour-2025-michigan-stadium-shirt/",
