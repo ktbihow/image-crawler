@@ -36,16 +36,16 @@
     "https://techteesusa.com/product/peace-will-win-fear-will-lose-lgbt-flag-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/ncaa-auburn-tigers-tide-snoopy-forever-not-just-when-we-win-shirt/",
-    "https://teeworksusa.com/product/ncaa-arkansas-razorbacks-tide-snoopy-forever-not-just-when-we-win-shirt/",
-    "https://teeworksusa.com/product/ncaa-alabama-crimson-tide-snoopy-forever-not-just-when-we-win-shirt/",
-    "https://teeworksusa.com/product/muuuuuuth-88-pittsburgh-steelers-football-fan-shirt/",
-    "https://teeworksusa.com/product/msnbc-matthew-dowd-fired-2025-shirt/",
-    "https://teeworksusa.com/product/men-at-work-2025-joshua-tree-desert-shirt/",
-    "https://teeworksusa.com/product/mccarthy-jj-mccarthy-michigan-wolverines-football-shirt/",
-    "https://teeworksusa.com/product/matthew-dowd-msnbc-fired-2025-shirt/",
-    "https://teeworksusa.com/product/marvel-doctor-doom-fuck-comic-villain-green-cape-illustration-shirt/",
-    "https://teeworksusa.com/product/make-ohio-state-buckeyes-great-again-special-shirt/"
+    "https://teeworksusa.com/product/youngboy-never-broke-again-graphic-shirt/",
+    "https://teeworksusa.com/product/yes-yes-perfect-i-wish-i-could-read-dog-playing-cards-poker-shirt/",
+    "https://teeworksusa.com/product/whirr-2025-tour-cartoon-shirt/",
+    "https://teeworksusa.com/product/violent-gentlemen-hockey-club-shirt-2/",
+    "https://teeworksusa.com/product/usj-hami-kuma-halloween-2025-shirt/",
+    "https://teeworksusa.com/product/toronto-blue-jays-logo-parody-shirt/",
+    "https://teeworksusa.com/product/thesicit-fantasy-character-music-abstract-shirt/",
+    "https://teeworksusa.com/product/the-wiener-hole-frankfurter-grab-a-frank-with-a-friend-shirt/",
+    "https://teeworksusa.com/product/the-thing-john-carpenter-cult-the-ultimate-in-alien-terror-man-is-the-warmest-place-to-hide-horror-movie-halloween-shirt/",
+    "https://teeworksusa.com/product/the-hives-dallas-texas-2025-poster-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-voices-not-violence-charlie-kirk-1993-2025-shirt/",
@@ -234,16 +234,16 @@
     "https://dalatshirt.com/product/deer-how-bout-a-hug-famous-last-words-colorado-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/unreleased-charlie-kirk-design-shirt/",
-    "https://lovingsquad.com/product/this-tshirt-was-also-used-as-a-cum-rag-shirt/",
-    "https://lovingsquad.com/product/the-universe-is-indifferent-to-your-suffering-shirt/",
-    "https://lovingsquad.com/product/the-real-ohio-mascot-logo-shirt/",
-    "https://lovingsquad.com/product/the-original-ohio-university-since-1804-logo-shirt/",
-    "https://lovingsquad.com/product/the-last-dance-hopkinsville-high-tiger-vs-christian-county-colonels-2025-end-of-an-era-shirt/",
-    "https://lovingsquad.com/product/sorry-i-was-super-weird-quiet-at-your-party-i-get-like-that-in-big-crowds-shirt/",
-    "https://lovingsquad.com/product/snoopy-and-woodstock-formula-1-seventy-five-years-shirt/",
-    "https://lovingsquad.com/product/snoopy-and-basketball-penn-quakers-logo-shirt/",
-    "https://lovingsquad.com/product/snoopy-woodstock-x-mountain-dew-halloween-ghost-shirt/"
+    "https://lovingsquad.com/product/dont-ask-what-happened-to-the-uss-liberty-on-june-8th-1967-shirt/",
+    "https://lovingsquad.com/product/do-it-lady-chit-tour-tiktok-graphic-shirt/",
+    "https://lovingsquad.com/product/cover-me-im-going-in-custom-graphic-shirt/",
+    "https://lovingsquad.com/product/charlie-kirk-voices-not-violence-1993-2025-shirt/",
+    "https://lovingsquad.com/product/charlie-kirk-signature-just-because-you-are-offended-doesnt-mean-you-are-right-shirt/",
+    "https://lovingsquad.com/product/charlie-kirk-never-surrender-shirt/",
+    "https://lovingsquad.com/product/charlie-kirk-justice-for-americas-turning-shirt/",
+    "https://lovingsquad.com/product/charlie-kirk-just-because-youre-offended-doesnt-mean-youre-right-shirt/",
+    "https://lovingsquad.com/product/charlie-kirk-i-love-ck-heart-shirt/",
+    "https://lovingsquad.com/product/charlie-kirk-blessed-is-the-man-who-remains-steadfast-under-trial-for-when-he-has-stood-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/toronto-blue-jays-comeback-kids-shirt/",
