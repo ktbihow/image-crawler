@@ -36,16 +36,16 @@
     "https://techteesusa.com/product/peace-will-win-fear-will-lose-lgbt-flag-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/im-not-clumsy-the-floor-just-hates-me-a-cute-panda-shirt/",
-    "https://teeworksusa.com/product/i-know-im-weird-but-sometimes-it-makes-you-laugh-funny-rooster-chicken-shirt/",
-    "https://teeworksusa.com/product/how-bout-those-kc-chiefs-shirt-2/",
-    "https://teeworksusa.com/product/history-moment-charlie-kirk-freedom-shirt/",
-    "https://teeworksusa.com/product/hardcore-tag-team-superstars-young-bucks-slick-nick-and-mr-instant-replay-bear-shirt/",
-    "https://teeworksusa.com/product/hangman-page-unhappy-trails-cowboy-on-a-horse-in-desert-vintage-shirt/",
-    "https://teeworksusa.com/product/gwi-ma-crew-spooky-creatures-graffiti-font-shirt/",
-    "https://teeworksusa.com/product/georgia-tech-gt-college-logo-shirt/",
-    "https://teeworksusa.com/product/charlie-kirk-they-shot-the-words-not-the-man-shirt/",
-    "https://teeworksusa.com/product/charlie-kirk-freedom-shirt/"
+    "https://teeworksusa.com/product/ncaa-auburn-tigers-tide-snoopy-forever-not-just-when-we-win-shirt/",
+    "https://teeworksusa.com/product/ncaa-arkansas-razorbacks-tide-snoopy-forever-not-just-when-we-win-shirt/",
+    "https://teeworksusa.com/product/ncaa-alabama-crimson-tide-snoopy-forever-not-just-when-we-win-shirt/",
+    "https://teeworksusa.com/product/muuuuuuth-88-pittsburgh-steelers-football-fan-shirt/",
+    "https://teeworksusa.com/product/msnbc-matthew-dowd-fired-2025-shirt/",
+    "https://teeworksusa.com/product/men-at-work-2025-joshua-tree-desert-shirt/",
+    "https://teeworksusa.com/product/mccarthy-jj-mccarthy-michigan-wolverines-football-shirt/",
+    "https://teeworksusa.com/product/matthew-dowd-msnbc-fired-2025-shirt/",
+    "https://teeworksusa.com/product/marvel-doctor-doom-fuck-comic-villain-green-cape-illustration-shirt/",
+    "https://teeworksusa.com/product/make-ohio-state-buckeyes-great-again-special-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-voices-not-violence-charlie-kirk-1993-2025-shirt/",
@@ -193,16 +193,9 @@
     "https://clickoneshirt.com/product/tennessee-volunteers-vs-georgia-bulldogs-nfl-2025-college-gameday-helmet-graphic-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/wwe-worlds-collide-wrestling-on-september-12-2025-with-aaa-lucha-libre-stars-t-shirts/",
-    "https://teleteeshirt.com/product/we-are-charlie-kirk-american-1993-2025-eagle-flag-t-shirts/",
-    "https://teleteeshirt.com/product/tony-two-chains-anthony-rizzo-44-chicago-cubs-t-shirts/",
-    "https://teleteeshirt.com/product/titvn-x-dark-watch-the-death-experience-tour-2025-t-shirts/",
-    "https://teleteeshirt.com/product/the-who-philadelphia-pennsylvania-2025-venue-at-wells-fargo-center-2025-eagle-t-shirts/",
-    "https://teleteeshirt.com/product/the-hives-dallas-texas-at-house-of-blues-on-september-10-2025-t-shirts/",
-    "https://teleteeshirt.com/product/the-dear-hunter-in-the-uk-and-europe-tour-2025-dates-t-shirts/",
-    "https://teleteeshirt.com/product/the-buffalo-bills-stomp-baltimore-ravens-bills-mafia-highmark-stadium-2025-mascot-t-shirts/",
-    "https://teleteeshirt.com/product/the-black-crowes-amorica-or-bust-stars-and-stripes-t-shirts/",
-    "https://teleteeshirt.com/product/teenage-mutant-ninja-turtles-chrome-alone-2-lost-in-new-jersey-logo-2025-t-shirts/"
+    "https://teleteeshirt.com/product/trisha-yearwood-the-mirror-t-shirts/",
+    "https://teleteeshirt.com/product/official-cardi-b-am-i-the-drama-magnet-heart-t-shirts/",
+    "https://teleteeshirt.com/product/aborted-the-necrotic-manifesto-t-shirts-3/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/nope-cat-kicking-the-crown-shirt/",
@@ -241,16 +234,16 @@
     "https://dalatshirt.com/product/deer-how-bout-a-hug-famous-last-words-colorado-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/charlie-kirk-they-shot-the-words-not-the-man-shirt/",
-    "https://lovingsquad.com/product/the-charlie-kirk-show-shirt/",
-    "https://lovingsquad.com/product/charlie-kirk-its-about-right-and-wrong-shirt/",
-    "https://lovingsquad.com/product/freedom-is-worth-fighting-for-rip-charlie-kirk-shirt/",
-    "https://lovingsquad.com/product/charlie-kirk-freedom-shirt/",
-    "https://lovingsquad.com/product/charlie-kirk-we-will-pick-up-where-he-left-off-shirt/",
-    "https://lovingsquad.com/product/charlie-kirk-is-my-hero-shirt/",
-    "https://lovingsquad.com/product/fight-like-charlie-kirk-freedom-shirt/",
-    "https://lovingsquad.com/product/rest-in-peace-charlie-kirk-shirt/",
-    "https://lovingsquad.com/product/charlie-kirk-great-american-patriot-shirt/"
+    "https://lovingsquad.com/product/unreleased-charlie-kirk-design-shirt/",
+    "https://lovingsquad.com/product/this-tshirt-was-also-used-as-a-cum-rag-shirt/",
+    "https://lovingsquad.com/product/the-universe-is-indifferent-to-your-suffering-shirt/",
+    "https://lovingsquad.com/product/the-real-ohio-mascot-logo-shirt/",
+    "https://lovingsquad.com/product/the-original-ohio-university-since-1804-logo-shirt/",
+    "https://lovingsquad.com/product/the-last-dance-hopkinsville-high-tiger-vs-christian-county-colonels-2025-end-of-an-era-shirt/",
+    "https://lovingsquad.com/product/sorry-i-was-super-weird-quiet-at-your-party-i-get-like-that-in-big-crowds-shirt/",
+    "https://lovingsquad.com/product/snoopy-and-woodstock-formula-1-seventy-five-years-shirt/",
+    "https://lovingsquad.com/product/snoopy-and-basketball-penn-quakers-logo-shirt/",
+    "https://lovingsquad.com/product/snoopy-woodstock-x-mountain-dew-halloween-ghost-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/toronto-blue-jays-comeback-kids-shirt/",
