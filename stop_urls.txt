@@ -1,15 +1,10 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/charlie-kirk-wearing-freedom-shirt/",
-    "https://geekteesus.com/product/huzzah-frog-knight-shirt/",
-    "https://geekteesus.com/product/radio-free-alice-repeat-shirt/",
-    "https://geekteesus.com/product/felix-auger-aliassime-tennis-shirt/",
-    "https://geekteesus.com/product/pray-for-charlie-kirk-47-shirt/",
-    "https://geekteesus.com/product/i-wan-hollow-point-shirt/",
-    "https://geekteesus.com/product/new-york-inner-city-sports-division-shirt/",
-    "https://geekteesus.com/product/pls-do-not-give-me-a-cigarette-no-matter-what-i-say-shirt/",
-    "https://geekteesus.com/product/unrivaled-expansion-club-hive-basketball-club-shirt/",
-    "https://geekteesus.com/product/anthony-rizzo-is-my-captain-forever-shirt/"
+    "https://geekteesus.com/product/liberty-sth-feel-priced-out-shirt-back/",
+    "https://geekteesus.com/product/unreleased-charlie-kirk-design-shirt/",
+    "https://geekteesus.com/product/never-forget-remember-her-iryna-zarutska-shirt/",
+    "https://geekteesus.com/product/pray-for-charlie-kirk-shirt/",
+    "https://geekteesus.com/product/dont-stop-talking-about-palestine-watermelon-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-stand-strong-in-honor-of-charlie-kirk-1993-2025-vintage-retro-t-shirt/",
