@@ -75,14 +75,13 @@
     "https://dreameshirt.com/product/official-poster-frankie-and-the-witch-fingers-live-september-24-2025-atlanta-ga-usa-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-buffalo-bills-dasher-dancer-prancer-vixen-allen-coleman-cook-blitzen-2025-shirt/",
-    "https://teeextra.com/product/official-buckle-up-buttercup-halloween-san-francisco-49ers-golden-state-warriors-you-just-flipped-my-witch-switch-2025-shirt/",
-    "https://teeextra.com/product/official-buckle-up-buttercup-halloween-new-york-giants-new-york-knicks-you-just-flipped-my-witch-switch-2025-shirt/",
-    "https://teeextra.com/product/official-alabama-crimson-tide-are-you-fall-o-ween-jesus-2025-shirt/",
-    "https://teeextra.com/product/official-boston-red-sox-never-give-up-fight-cancer-in-all-colors-2025-shirt/",
-    "https://teeextra.com/product/official-baltimore-ravens-skyline-names-thank-you-for-the-memories-2025-shirt/",
-    "https://teeextra.com/product/official-buckle-up-buttercup-halloween-chicago-bears-chicago-cubs-you-just-flipped-my-witch-switch-2025-shirt/",
-    "https://teeextra.com/product/official-buckle-up-buttercup-halloween-detroit-lions-detroit-tigers-you-just-flipped-my-witch-switch-2025-shirt/"
+    "https://teeextra.com/product/official-kansas-city-chiefs-yes-i-am-old-but-i-saw-liv-champions-chiefs-signatures-thank-you-for-the-memories-shirt/",
+    "https://teeextra.com/product/official-kansas-city-chiefs-sugar-skull-in-october-we-wear-pink-and-watch-halloween-2025-shirt/",
+    "https://teeextra.com/product/official-kansas-city-chiefs-all-time-greats-60th-1960-2025-4x-sb-champions-signatures-shirt/",
+    "https://teeextra.com/product/official-in-memory-of-bryan-braman-1987-2025-forever-an-eagle-forever-a-super-bowl-champions-thank-you-signature-shirt/",
+    "https://teeextra.com/product/official-i-just-want-to-watch-the-san-francisco-49ers-san-francisco-giants-and-ignore-all-of-my-old-man-problems-2025-shirt/",
+    "https://teeextra.com/product/official-i-just-want-to-watch-the-detroit-lions-detroit-tigers-and-ignore-all-of-my-old-man-problems-2025-shirt/",
+    "https://teeextra.com/product/official-i-just-want-to-watch-the-chicago-bears-chicago-cubs-and-ignore-all-of-my-old-man-problems-2025-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/freedom-fight-like-charlie-shirt/",
