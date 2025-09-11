@@ -1,0 +1,158 @@
+[
+    {
+        "url": "https://geekteesus.com/",
+        "selector": "div.product-images img",
+        "replacements": ["-Orament-X-Mas-2024.jpg", "-Ornament-poster-black.jpg", "-Orament-Christmas-den.jpg"],
+        "source_type": "product-list"
+    },
+    {
+        "url": "https://techteesusa.com/",
+        "selector": "div.product-images img",
+        "source_type": "product-list",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.techteesusa.com", "prefix_length": 9 }
+    },
+    {
+        "url": "https://teeworksusa.com/",
+        "selector": "div.product-images img",
+        "source_type": "product-list",
+        "replacements": ["-Posters-black.jpg", "-Posters-white.jpg", "-White-poster.jpg", "-white-poster.jpg", "-poster.jpg", "-Mug-and-Ornament.jpg"],
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teeworksusa.com", "prefix_length": 9 }
+    },
+    {
+        "url": "https://meredpremium.com/",
+        "source_type": "prevnext",
+        "first_product_selector": ".product-small a.woocommerce-LoopProduct-link",
+        "next_product_selector": "a:has(i.icon-angle-right)"
+    },
+    {
+        "url": "https://orionshirt.com/",
+        "source_type": "prevnext",
+        "first_product_selector": ".product-small a.woocommerce-LoopProduct-link",
+        "next_product_selector": "a:has(i.icon-angle-right)"
+    },
+    {
+        "url": "https://berrylittles.com/",
+        "source_type": "prevnext",
+        "first_product_selector": ".product-small a.woocommerce-LoopProduct-link",
+        "next_product_selector": "a:has(i.icon-angle-right)"
+    },
+    {
+        "url": "https://dreameshirt.com/",
+        "source_type": "prevnext",
+        "first_product_selector": ".product-small a.woocommerce-LoopProduct-link",
+        "next_product_selector": "a:has(i.icon-angle-right)"
+    },
+    {
+        "url": "https://teeextra.com/",
+        "selector": "div.product-images img",
+        "replacements": ["-Ornament.jpg", "-Shirt.jpg"],
+        "source_type": "product-list",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teeextra.com", "prefix_length": 9 }
+    },
+    {
+        "url": "https://eteeclothing.com/",
+        "selector": "div.product-images img",
+        "replacements": ["-sweater.webp", "-shirt.webp"],
+        "source_type": "product-list"
+    },
+    {
+        "url": "https://teespix.com/",
+        "source_type": "product-list",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teespix.com", "prefix_length": 9 }
+    },
+    {
+        "url": "https://nowbestshirt.com/",
+        "selector": "div.product-images img",
+        "replacements": ["-sweater.jpg", "-t-shirt.jpg"],
+        "source_type": "product-list",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.nowbestshirt.com", "prefix_length": 9 }
+    },
+    {
+        "url": "https://serenashirt.com/",
+        "selector": "div.product-images img",
+        "replacements": ["-ornament-Ornament.jpg", "-sweater.jpg", "-shirt.jpg"],
+        "source_type": "product-list",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.serenashirt.com", "prefix_length": 9 }
+    },
+    {
+        "url": "https://fanaticity.com/",
+        "source_type": "product-list"
+    },
+    {
+        "url": "https://legendusashirt.com/",
+        "selector": "div.product-images img",
+        "replacements": ["-Sweater.webp", "-Shirt.webp"],
+        "source_type": "product-list"
+    },
+    {
+        "url": "https://teehandus.com/",
+        "replacements": {"-t-shirt.jpg": ["-long-sleeve.jpg", "-sweater.jpg"]},
+        "source_type": "api"
+    },
+    {
+        "url": "https://uscraftedtees.com/",
+        "replacements": {"-Shirt.webp": ["-Poster.webp"]},
+        "source_type": "api"
+    },
+    {
+        "url": "https://capitoneshirt.com/",
+        "replacements": {"-shirt.webp": ["-sweater.webp"]},
+        "source_type": "api",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.capitoneshirt.com", "prefix_length": 9 }
+    },
+    {
+        "url": "https://clickoneshirt.com/",
+        "source_type": "api"
+    },
+    {
+        "url": "https://teleteeshirt.com/",
+        "source_type": "api"
+    },
+    {
+        "url": "https://teeslocal.com/",
+        "selector": "div.product-images img",
+        "replacements": ["-classic-mens.jpeg", "-hoodie-teeslocal.jpeg"],
+        "source_type": "product-list"
+    },
+    {
+        "url": "https://melonashirt.com/",
+        "replacements": {"-Shirts-shirt.webp": ["-Shirts-men-shirt.webp"]},
+        "source_type": "api",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.melonashirt.com", "prefix_length": 9 }
+    },
+    {
+        "url": "https://dalatshirt.com/",
+        "source_type": "api",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.dalatshirt.com.com", "prefix_length": 9 }
+    },
+    {
+        "url": "https://lovingsquad.com/",
+        "replacements": {"-Shirt.jpg": ["-T-shirt.jpg"]},
+        "source_type": "api",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.lovingsquad.com.com", "prefix_length": 9 }
+    },
+    {
+        "url": "https://arjomany.com/",
+        "replacements": {"-shirt-men.jpg": ["-shirt-poster.jpg"]},
+        "source_type": "api"
+    },
+    {
+        "url": "https://designatshop.com/",
+        "replacements": {"-shirt-men.jpg": ["-shirt-poster.jpg"]},
+        "source_type": "api",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.designatshop.com.com", "prefix_length": 9 }
+    },
+    {
+        "url": "https://collectionpostertour.com/",
+        "replacements": {"-t-shirt-shirt.jpg": ["-t-shirt-poster-portrait.jpg"]},
+        "source_type": "api"
+    },
+    {
+        "url": "https://neoteeco.com/",
+        "source_type": "api"
+    },
+    {
+        "url": "https://newshirtstore.com/",
+        "source_type": "api"
+    }
+]
