@@ -80,10 +80,16 @@
     "https://nowbestshirt.com/product/make-chicago-great-again-trump-chicago-bears-2-sided-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/skeleton-certified-bed-rotter-shirt/",
-    "https://serenashirt.com/product/its-finally-autism-shirt/",
-    "https://serenashirt.com/product/benson-boone-american-heart-world-eras-tour-2025-shirt/",
-    "https://serenashirt.com/product/minnesota-vikings-nfl-j-j-mccarthy-justin-jefferson-9186-shirt/"
+    "https://serenashirt.com/product/alec-anderson-buffalo-bills-lets-go-buffalo-shirt/",
+    "https://serenashirt.com/product/arcane-jinx-and-fishbones-shirt/",
+    "https://serenashirt.com/product/apple-pizza-star-miriam-shirt/",
+    "https://serenashirt.com/product/boo-please-pretend-im-not-here-shirt/",
+    "https://serenashirt.com/product/baltimore-orioles-park-at-camden-yards-stadium-retro-shirt/",
+    "https://serenashirt.com/product/cal-raleigh-seattle-mariners-mlb-cal-in-25-shirt/",
+    "https://serenashirt.com/product/cardi-b-i-mean-look-shirt/",
+    "https://serenashirt.com/product/chuck-norris-vs-bruce-lee-cartoon-shirt/",
+    "https://serenashirt.com/product/christian-mccaffrey-san-francisco-49ers-nfl-player-graphic-shirt/",
+    "https://serenashirt.com/product/chuck-you-chuck-norris-shirt/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/zero-ducks-off-road-cracker-barrel-parody-shirt/",
@@ -165,16 +171,16 @@
     "https://teleteeshirt.com/product/kyle-schwarber-50-schwarbombs-good-job-kyle-t-shirts/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/are-you-afraid-of-the-dark-ignite-the-flame-of-hope-horror-night-shirt/",
-    "https://teeslocal.com/product/are-you-afraid-of-the-dark-behind-the-door-of-horror-retro-shirt/",
-    "https://teeslocal.com/product/aaron-judge-cody-bellinger-new-york-yankees-signed-nfl-shirt/",
-    "https://teeslocal.com/product/are-you-afraid-of-the-dark-new-episone-the-tale-of-the-night-shift-as-part-of-the-snick-line-up-shirt/",
-    "https://teeslocal.com/product/bryce-harper-philadelphia-phillies-victory-celebration-signed-nfl-shirt/",
-    "https://teeslocal.com/product/greta-gremlins-after-midnite-smoking-drink-sitting-on-tv-horror-cartoon-shirt/",
-    "https://teeslocal.com/product/gizmo-gremlins-battleready-with-flaming-arrow-headband-boom-boom-vintage-shirt/",
-    "https://teeslocal.com/product/herbert-west-reanimator-scary-biological-drug-40th-anniversary-shirt/",
-    "https://teeslocal.com/product/i-got-my-858-at-granite-state-pittsburg-nh-shirt/",
-    "https://teeslocal.com/product/minion-kevin-and-stuart-its-officially-wear-a-sweater-in-the-morning-and-regret-it-shirt/"
+    "https://teeslocal.com/product/skid-row-florist-we-got-killer-buds-a-power-stem-nasty-thorns-and-were-usin-them-shirt/",
+    "https://teeslocal.com/product/seattle-mariners-julio-rodriguez-fireball-shirt/",
+    "https://teeslocal.com/product/uindy-vs-saginaw-valley-state-2024-ncaa-division-ii-baseball-super-regional-champion-shirt/",
+    "https://teeslocal.com/product/steely-dan-aja-album-shirt/",
+    "https://teeslocal.com/product/the-road-to-omaha-evansville-east-carolina-vcu-and-wake-forest-2024-ncaa-division-i-baseball-regional-champion-shirt/",
+    "https://teeslocal.com/product/earth-worms-making-soil-great-again-shirt/",
+    "https://teeslocal.com/product/accomplish-greatness-2024-acc-wrestling-championships-chapel-hill-nc-logo-shirt/",
+    "https://teeslocal.com/product/monkey-geezyworld-slumped-shirt/",
+    "https://teeslocal.com/product/teletech-teletegg-2024-shirt/",
+    "https://teeslocal.com/product/donald-trump-mug-shot-no-one-is-above-the-law-anti-trump-shirt/"
   ],
   "melonashirt.com": [
     "https://melonashirt.com/product/official-the-charlie-kirk-show-shirts/",
@@ -213,16 +219,16 @@
     "https://lovingsquad.com/product/charlie-kirk-great-american-patriot-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/stand-with-charlie-kirk-free-speech-support-shirt/",
-    "https://designatshop.com/product/rip-charlie-kirk-the-greatness-of-our-nation-lies-in-the-power-and-potential-of-its-individuals-shirt/",
-    "https://designatshop.com/product/rip-charlie-kirk-9-10-2025-shirt/",
-    "https://designatshop.com/product/rest-in-peace-png-american-patriot-in-memory-of-charlie-kirk-shirt/",
-    "https://designatshop.com/product/prove-me-wrong-justice-for-charlie-kirk-shirt/",
-    "https://designatshop.com/product/justice-for-charlie-kirk-support-american-values-shirt/",
-    "https://designatshop.com/product/justice-for-charlie-kirk-rest-in-peace-shirt/",
-    "https://designatshop.com/product/justice-for-charlie-kirk-freedom-shirt/",
-    "https://designatshop.com/product/i-miss-anthony-rizzo-shirt/",
-    "https://designatshop.com/product/justice-for-charlie-kirk-american-flag-shirt/"
+    "https://designatshop.com/product/a-true-patriot-charlie-kirk-pray-for-charlie-kirk-shirt-2/",
+    "https://designatshop.com/product/charlie-kirk-a-true-patriot-the-greatness-of-our-nation-lies-in-the-power-and-potential-of-individual-shirt/",
+    "https://designatshop.com/product/charlie-kirk-american-patriot-a-true-patriot-political-shirt/",
+    "https://designatshop.com/product/charlie-kirk-a-true-patriot-the-greatness-of-our-nation-lies-in-the-power-shirt-2/",
+    "https://designatshop.com/product/charlie-kirk-in-honor-of-charlie-kirk-shirt-2/",
+    "https://designatshop.com/product/charlie-kirk-quote-america-will-never-be-the-same-shirt/",
+    "https://designatshop.com/product/charlie-kirk-rip-its-all-about-jesus-stand-with-charlie-kirk-shirt/",
+    "https://designatshop.com/product/charlie-kirk-we-are-all-turning-point-shirt/",
+    "https://designatshop.com/product/its-about-right-and-wrong-charlie-kirk-quote-american-flag-shirt-2/",
+    "https://designatshop.com/product/in-loving-memory-charlie-kirk-1993-2025-shirt-2/"
   ],
   "arjomany.com": [
     "https://arjomany.com/product/chunky-mascots-stacking-heads-shirt/",
@@ -273,16 +279,15 @@
     "https://newshirtstore.com/product/the-simpsons-dont-blame-me-i-voted-for-kodos-t-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/lsu-vs-western-kentucky-game-day-2025-baton-rouge-louisiana-shirt/",
-    "https://eteeclothing.com/product/lsu-vs-vanderbilt-game-day-nashville-tn-oct-18-2025-shirt/",
-    "https://eteeclothing.com/product/lsu-vs-texas-am-game-day-oct-25-2025-shirt/",
-    "https://eteeclothing.com/product/lsu-vs-south-carolina-fried-chicken-tiger-stadium-game-day-2025-shirt/",
-    "https://eteeclothing.com/product/lsu-tigers-vs-alabama-crimson-tide-game-day-2025-shirt/",
-    "https://eteeclothing.com/product/king-butterfly-the-only-monarch-that-i-recognize-shirt/",
-    "https://eteeclothing.com/product/jesus-won-x-ole-miss-football-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/joey-bosa-chicago-bears-football-graphic-shirt/",
-    "https://eteeclothing.com/product/i-love-when-i-wake-up-in-the-morning-and-were-not-stuck-in-season-2-of-a-bad-orange-tinted-drama-shirt/",
-    "https://eteeclothing.com/product/i-am-no-man-human-rights-shirt/"
+    "https://eteeclothing.com/product/xl-badger-shirt/",
+    "https://eteeclothing.com/product/weve-been-priced-out-bright-orange-34650-261-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/snoopy-x-woodstock-nurse-boo-boo-crew-shirt/",
+    "https://eteeclothing.com/product/snoopy-another-cocoa-please-shirt/",
+    "https://eteeclothing.com/product/ole-miss-vs-lsu-game-day-oxford-ms-2025-shirt/",
+    "https://eteeclothing.com/product/ohio-state-buckeyes-saved-by-the-blood-of-jesus-won-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/new-york-liberty-weve-been-priced-out-bright-orange-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/minnesota-vikings-j-j-mccarthy-where-else-would-you-rather-be-signature-shirt/",
+    "https://eteeclothing.com/product/medusa-girls-will-be-girls-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-j-j-mccarthy-swag-head-shirt/",
