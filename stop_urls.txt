@@ -24,23 +24,28 @@
     "https://orionshirt.com/product/official-2025-blink-182-skateboard-bunny-graphic-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/philadelphia-eagles-national-football-league-crest-shirt/",
-    "https://techteesusa.com/product/paul-your-hands-up-kfan-shirt/",
-    "https://techteesusa.com/product/party-rock-is-not-in-the-house-tonight-cat-shirt/",
-    "https://techteesusa.com/product/oh-my-glob-adventure-time-shirt/",
-    "https://techteesusa.com/product/oakland-athletics-shea-langeliers-30-homer-season-shirt/",
-    "https://techteesusa.com/product/new-york-jets-national-football-league-crest-shirt/",
-    "https://techteesusa.com/product/mighty-morphin-power-rangers-chibi-shirt/",
-    "https://techteesusa.com/product/miami-hurricanes-unleash-the-hurricanes-shirt/",
-    "https://techteesusa.com/product/miami-hurricanes-pack-the-rock-shirt/",
-    "https://techteesusa.com/product/miami-hurricanes-football-100-seasons-1926-2025-shirt/"
+    "https://techteesusa.com/product/zack-baun-bald-eagle-philadelphia-eagles-shirt/",
+    "https://techteesusa.com/product/yugoslavia-basketball-92-shirt/",
+    "https://techteesusa.com/product/your-coworker-is-not-hot-theyre-just-within-10-ft-of-you-40-hrs-a-week-shirt/",
+    "https://techteesusa.com/product/yoshinobu-yamamoto-roar-los-angeles-dodgers-shirt/",
+    "https://techteesusa.com/product/we-got-this-bears-shirt/",
+    "https://techteesusa.com/product/vance-spafford-13-miami-hurricanes-shirt/",
+    "https://techteesusa.com/product/unrivaled-adding-breeze-basketball-club-and-hive-basketball-club-shirt/",
+    "https://techteesusa.com/product/two-six-philadelphia-eagles-shirt/",
+    "https://techteesusa.com/product/tommy-bahama-detroit-lions-football-shirt/",
+    "https://techteesusa.com/product/tnf-jayden-daniels-up-next-no-hes-up-now-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/my-roots-are-in-kentucky-state-map-roots-shirt/",
-    "https://teeworksusa.com/product/my-broom-broke-so-now-i-drive-a-camaro-irocz-halloween-witch-shirt/",
-    "https://teeworksusa.com/product/philadelphia-football-ghost-holding-pumpkin-and-flag-halloween-shirt/",
-    "https://teeworksusa.com/product/pray-for-charlie-kirk-stand-with-charlie-kirk-shirt/",
-    "https://teeworksusa.com/product/please-pretend-im-not-here-shirt/"
+    "https://teeworksusa.com/product/im-not-clumsy-the-floor-just-hates-me-a-cute-panda-shirt/",
+    "https://teeworksusa.com/product/i-know-im-weird-but-sometimes-it-makes-you-laugh-funny-rooster-chicken-shirt/",
+    "https://teeworksusa.com/product/how-bout-those-kc-chiefs-shirt-2/",
+    "https://teeworksusa.com/product/history-moment-charlie-kirk-freedom-shirt/",
+    "https://teeworksusa.com/product/hardcore-tag-team-superstars-young-bucks-slick-nick-and-mr-instant-replay-bear-shirt/",
+    "https://teeworksusa.com/product/hangman-page-unhappy-trails-cowboy-on-a-horse-in-desert-vintage-shirt/",
+    "https://teeworksusa.com/product/gwi-ma-crew-spooky-creatures-graffiti-font-shirt/",
+    "https://teeworksusa.com/product/georgia-tech-gt-college-logo-shirt/",
+    "https://teeworksusa.com/product/charlie-kirk-they-shot-the-words-not-the-man-shirt/",
+    "https://teeworksusa.com/product/charlie-kirk-freedom-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-voices-not-violence-charlie-kirk-1993-2025-shirt/",
@@ -176,16 +181,16 @@
     "https://capitoneshirt.com/product/you-left-the-rodi-on-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/roronoa-zoro-one-piece-pirate-hunter-anime-character-shirt/",
-    "https://clickoneshirt.com/product/ray-allen-world-tour-1996-draft-first-round-5th-pick-basketball-player-retro-graphic-shirt/",
-    "https://clickoneshirt.com/product/ralph-lauren-ryder-cup-2025-shirt/",
-    "https://clickoneshirt.com/product/radio-free-alice-shirt/",
-    "https://clickoneshirt.com/product/pongan-la-lupa-con-el-padre-luis-toro-shirt/",
-    "https://clickoneshirt.com/product/phillies-flipadelphia-paddys-pub-its-always-sunny-in-philadelphia-shirt/",
-    "https://clickoneshirt.com/product/pbs-npr-fdt-public-media-graphic-shirt/",
-    "https://clickoneshirt.com/product/paddys-pub-eagles-flipadelphia-its-always-sunny-in-philadelphia-shirt/",
-    "https://clickoneshirt.com/product/nosferatu-halloween-male-vampire-vintage-shirt/",
-    "https://clickoneshirt.com/product/national-baseball-hall-of-fame-wordmark-with-logo-shirt/"
+    "https://clickoneshirt.com/product/world-cup-2026-america-welcomes-the-world-funny-political-soccer-shirt/",
+    "https://clickoneshirt.com/product/words-are-indeed-stronger-than-bullets-charlie-kirk-shirt/",
+    "https://clickoneshirt.com/product/weapons-zach-cregger-2025-shirt/",
+    "https://clickoneshirt.com/product/utah-university-brand-history-logo-shirt/",
+    "https://clickoneshirt.com/product/turning-point-usa-shirt/",
+    "https://clickoneshirt.com/product/time-for-kickoff-so-you-need-to-football-shirt/",
+    "https://clickoneshirt.com/product/timeless-toni-storm-and-mina-shirakawa-intemporelle-shirt/",
+    "https://clickoneshirt.com/product/the-tenants-shirt/",
+    "https://clickoneshirt.com/product/the-only-monarch-that-i-recognize-shirt/",
+    "https://clickoneshirt.com/product/tennessee-volunteers-vs-georgia-bulldogs-nfl-2025-college-gameday-helmet-graphic-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/wwe-worlds-collide-wrestling-on-september-12-2025-with-aaa-lucha-libre-stars-t-shirts/",
