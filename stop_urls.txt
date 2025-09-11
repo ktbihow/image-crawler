@@ -18,16 +18,16 @@
     "https://orionshirt.com/product/official-nfl-pittsburgh-steelers-vs-seattle-seahawks-at-acrisure-stadium-on-september-14-2025-fan-gear-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/seattle-mariners-baseball-powered-by-witchcraft-shirt/",
-    "https://techteesusa.com/product/protect-ya-neck-shirt/",
-    "https://techteesusa.com/product/protect-communities-against-fascism-shirt/",
-    "https://techteesusa.com/product/most-kings-get-their-head-cut-off-shirt/",
-    "https://techteesusa.com/product/missouri-tigers-football-beau-pribula-pri-zou-la-signature-shirt/",
-    "https://techteesusa.com/product/liberty-weve-been-priced-out-shirt/",
-    "https://techteesusa.com/product/make-nazis-dead-again-shirt/",
-    "https://techteesusa.com/product/kyle-schwarber-50-schwarbombs-philadelphia-phillies-shirt/",
-    "https://techteesusa.com/product/justice-for-iryna-zarutska-shirt/",
-    "https://techteesusa.com/product/justice-for-iryna-shirt/"
+    "https://techteesusa.com/product/liberty-weve-been-priced-out-t-shirt/",
+    "https://techteesusa.com/product/shadow-wizard-skrillex-gang-t-shirt/",
+    "https://techteesusa.com/product/didnt-go-to-brit-school-t-shirt/",
+    "https://techteesusa.com/product/chinga-la-migra-t-shirt/",
+    "https://techteesusa.com/product/pls-do-not-give-me-a-cigarette-no-matter-what-i-say-t-shirt/",
+    "https://techteesusa.com/product/anthony-rizzo-is-my-captain-forever-t-shirt/",
+    "https://techteesusa.com/product/t-o-p-thanos-squid-game-movie-shirt/",
+    "https://techteesusa.com/product/my-precious-shirt/",
+    "https://techteesusa.com/product/takeover-making-mad-shirt/",
+    "https://techteesusa.com/product/banana-love-pride-car-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/wizard-of-boz-vintage-shirt/",
@@ -74,14 +74,14 @@
     "https://dreameshirt.com/product/official-rory-mcilroy-team-usa-ryder-cup-2025-painting-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-yugoslavia-basketball-jersey-shirt/",
-    "https://teeextra.com/product/official-we-are-charlie-kirk-eagle-usa-2025-shirt/",
-    "https://teeextra.com/product/official-vintage-wu-tang-clan-buffalo-bills-mafia-logo-shirt/",
-    "https://teeextra.com/product/official-victimhood-is-the-opium-of-those-who-dont-believe-in-themselves-shirt/",
-    "https://teeextra.com/product/official-this-is-my-turning-point-charlie-kirk-1993-2025-shirt/",
-    "https://teeextra.com/product/official-the-greatest-cities-in-the-world-bo-got-a-paris-rome-london-tennessee-usa-shirt/",
-    "https://teeextra.com/product/official-the-callous-daoboys-huffing-paint-thinner-makes-you-invincible-shirt/",
-    "https://teeextra.com/product/official-the-bluebonnet-bowl-1975-champions-texas-longhorns-shirt/"
+    "https://teeextra.com/product/official-the-real-stp-ultimate-experience-logo-shirt/",
+    "https://teeextra.com/product/official-the-only-monarch-that-i-recognize-heavyweight-shirt/",
+    "https://teeextra.com/product/official-sierra-ferrell-raleigh-nc-tour-9-10-2025-shirt/",
+    "https://teeextra.com/product/official-rip-charlie-kirk-he-inspired-a-generation-1993-2025-shirt/",
+    "https://teeextra.com/product/official-rip-charlie-kirk-faith-family-freedom-in-memory-of-a-patriot-1993-2025-shirt/",
+    "https://teeextra.com/product/official-punkwithacamera-unreleased-charlie-kirk-design-shirt/",
+    "https://teeextra.com/product/official-propagandhi-eastern-canada-tour-2025-shirt/",
+    "https://teeextra.com/product/official-pray-for-charlie-kirk-stand-with-charlie-kirk-2025-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/where-else-would-you-rather-be-shirt/",
