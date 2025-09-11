@@ -121,16 +121,16 @@
     "https://serenashirt.com/product/minnesota-vikings-nfl-j-j-mccarthy-swag-head-shirt/"
   ],
   "fanaticity.com": [
-    "https://fanaticity.com/product/zero-ducks-off-road-cracker-barrel-parody-shirt/",
-    "https://fanaticity.com/product/wilson-springs-hotel-with-tan-and-sober-richmond-va-on-october-11-2025-poster-shirt/",
-    "https://fanaticity.com/product/wear-pants-do-crimes-shirt/",
-    "https://fanaticity.com/product/university-of-northern-iowa-panthers-logo-shirt/",
-    "https://fanaticity.com/product/university-of-iowa-hawkeyes-logo-shirt/",
-    "https://fanaticity.com/product/the-hives-sept-09-2025-houston-tx-house-of-blues-concert-poster-shirt/",
-    "https://fanaticity.com/product/the-hives-austin-9-8-25-shirt/",
-    "https://fanaticity.com/product/than-india-shirt/",
-    "https://fanaticity.com/product/the-hives-2025-eyes-shirt/",
-    "https://fanaticity.com/product/tedeschi-trucks-band-tour-chicago-il-sep-09-2025-poster-shirt/"
+    "https://fanaticity.com/product/yin-yin-usa-and-canada-tour-2025-poster-shirt/",
+    "https://fanaticity.com/product/words-are-indeed-stronger-than-bullets-charlie-kirk-shirt/",
+    "https://fanaticity.com/product/weve-been-priced-out-shirt/",
+    "https://fanaticity.com/product/unreleased-charlie-kirk-design-shirt/",
+    "https://fanaticity.com/product/unity-collective-las-vegas-2025-shirt/",
+    "https://fanaticity.com/product/unc-charlotte-49ers-shirt/",
+    "https://fanaticity.com/product/turning-point-usa-shirt/",
+    "https://fanaticity.com/product/tommy-kelly-florida-state-seminoles-football-signature-shirt/",
+    "https://fanaticity.com/product/tom-smith-2025-uk-ireland-tour-poster-shirt/",
+    "https://fanaticity.com/product/theo-lawrence-and-will-worden-in-austin-tx-on-sep-13-2025-poster-shirt/"
   ],
   "legendusashirt.com": [
     "https://legendusashirt.com/product/hot-sexy-t-shirt/",
@@ -196,9 +196,16 @@
     "https://clickoneshirt.com/product/tennessee-volunteers-vs-georgia-bulldogs-nfl-2025-college-gameday-helmet-graphic-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/trisha-yearwood-the-mirror-t-shirts/",
-    "https://teleteeshirt.com/product/official-cardi-b-am-i-the-drama-magnet-heart-t-shirts/",
-    "https://teleteeshirt.com/product/aborted-the-necrotic-manifesto-t-shirts-3/"
+    "https://teleteeshirt.com/product/gold-rush-keep-gold-rush-alive-t-shirts/",
+    "https://teleteeshirt.com/product/extra-innings-festival-tempe-arizona-2025-grand-slam-t-shirts/",
+    "https://teleteeshirt.com/product/extra-innings-festival-snake-t-shirts/",
+    "https://teleteeshirt.com/product/don-broco-varsity-t-shirts/",
+    "https://teleteeshirt.com/product/don-broco-amazing-things-the-dolphin-t-shirts/",
+    "https://teleteeshirt.com/product/don-broco-2025-26-tour-t-shirts/",
+    "https://teleteeshirt.com/product/dc-bat-mite-its-an-elf-an-elf-dressed-in-a-crazy-looking-batman-costume-hi-t-shirts/",
+    "https://teleteeshirt.com/product/dc-batman-silver-age-batmobile-t-shirts/",
+    "https://teleteeshirt.com/product/dc-batman-bronze-age-t-shirts/",
+    "https://teleteeshirt.com/product/currents-onto-the-flame-weapon-of-loss-to-carve-out-our-fate-encaged-enslaved-ill-never-ride-the-wings-of-fallfe-moon-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/nope-cat-kicking-the-crown-shirt/",
@@ -237,16 +244,16 @@
     "https://dalatshirt.com/product/decoding-palm-culture-palm-angels-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/the-young-bucks-hardcore-tag-team-superstars-slick-nick-mr-instant-replay-shirt/",
-    "https://lovingsquad.com/product/the-real-stp-ultimate-experience-logo-shirt/",
-    "https://lovingsquad.com/product/the-president-wanted-to-trade-weapons-for-hostages-with-iran-and-all-we-got-was-the-iran-contra-affair-shirt/",
-    "https://lovingsquad.com/product/the-nightmare-before-christmas-jack-sally-shirt/",
-    "https://lovingsquad.com/product/tampa-bay-buccaneers-vs-atlanta-falcons-season-opener-sept-7-2025-comic-shirt/",
-    "https://lovingsquad.com/product/stfu-about-chicago-blue-demons-shirt/",
-    "https://lovingsquad.com/product/stfu-about-chicago-beefs-shirt/",
-    "https://lovingsquad.com/product/spooky-and-feral-raccoon-halloween-ghost-pumpkin-skeleton-shirt/",
-    "https://lovingsquad.com/product/snoopy-another-cocoa-please-shirt/",
-    "https://lovingsquad.com/product/snoopy-and-woodstock-joe-cool-way-to-cool-since-1971-shirt/"
+    "https://lovingsquad.com/product/haim-tour-2025-shirt/",
+    "https://lovingsquad.com/product/goldfinger-dec-19-philadelphia-and-dec-20-norfolk-2025-poster-shirt/",
+    "https://lovingsquad.com/product/frankie-and-the-witch-fingers-terminal-west-atlanta-ga-usa-sep-24-2025-concert-poster-shirt/",
+    "https://lovingsquad.com/product/foia-and-find-out-shirt/",
+    "https://lovingsquad.com/product/fit-for-an-autopsy-lurch-jesus-shirt/",
+    "https://lovingsquad.com/product/fit-for-an-autopsy-icfy-drip-black-shirt/",
+    "https://lovingsquad.com/product/fit-for-an-autopsy-eat-the-rich-jesus-shirt/",
+    "https://lovingsquad.com/product/fellas-in-paris-shirt/",
+    "https://lovingsquad.com/product/ew-chicago-meme-shirt/",
+    "https://lovingsquad.com/product/every-day-i-am-harvesting-the-wild-and-spontaneous-bounties-of-physical-existence-retro-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/toronto-blue-jays-comeback-kids-shirt/",
