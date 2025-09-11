@@ -21,16 +21,16 @@
     "https://techteesusa.com/product/ussf-united-states-space-force-always-above-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/rust-est-2010-shirt/",
-    "https://teeworksusa.com/product/happy-birthday-nick-cross-indianapolis-colts-shirt/",
-    "https://teeworksusa.com/product/batman-bat-mite-shirt/",
-    "https://teeworksusa.com/product/seth-rollins-burn-it-down-shirt/",
-    "https://teeworksusa.com/product/girl-dinner-clair-obscur-expedition-33-shirt/",
-    "https://teeworksusa.com/product/ring-the-bell-philadelphia-phillies-shirt/",
-    "https://teeworksusa.com/product/save-a-horse-ride-a-cowboy-kai-exo-shirt/",
-    "https://teeworksusa.com/product/motel-cbtv-life-wide-open-shirt/",
-    "https://teeworksusa.com/product/roman-reigns-greatness-amongst-you-goat-shirt/",
-    "https://teeworksusa.com/product/peacmaker-theres-no-wrong-time-to-rock-11th-street-kids-shirt/"
+    "https://teeworksusa.com/product/buckingham-nicks-shirt/",
+    "https://teeworksusa.com/product/gintama-seven-days-of-elizabeth-shirt/",
+    "https://teeworksusa.com/product/the-american-comeback-tour-charlie-kirk-shirt/",
+    "https://teeworksusa.com/product/beau-pribula-pri-zou-la-missouri-tigers-shirt/",
+    "https://teeworksusa.com/product/i-heart-pizza-mutant-ninja-turtles-shirt/",
+    "https://teeworksusa.com/product/sad-country-songs-and-cold-beer-shirt/",
+    "https://teeworksusa.com/product/jey-uso-yeet-shirt-2/",
+    "https://teeworksusa.com/product/sur-la-mer-sailboat-shirt/",
+    "https://teeworksusa.com/product/anthony-rizzo-our-captain-forever-shirt/",
+    "https://teeworksusa.com/product/mass-non-compliance-is-the-only-way-to-end-this-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-you-dont-know-a-buffalo-bills-die-hard-fan-until-you-meet-a-bills-fan-shirt/",
