@@ -118,7 +118,7 @@
         "url": "https://teeslocal.com/",
         "selector": "div.product-images img",
         "replacements": ["-classic-mens.jpeg", "-hoodie-teeslocal.jpeg"],
-        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teeslocal.com", "prefix_length": 9 }
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teeslocal.com", "prefix_length": 9 },
         "source_type": "product-list"
     },
     {
