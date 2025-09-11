@@ -18,24 +18,12 @@
     "https://orionshirt.com/product/official-nfl-pittsburgh-steelers-vs-seattle-seahawks-at-acrisure-stadium-on-september-14-2025-fan-gear-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/liberty-weve-been-priced-out-t-shirt/",
-    "https://techteesusa.com/product/shadow-wizard-skrillex-gang-t-shirt/",
-    "https://techteesusa.com/product/didnt-go-to-brit-school-t-shirt/",
-    "https://techteesusa.com/product/chinga-la-migra-t-shirt/",
-    "https://techteesusa.com/product/pls-do-not-give-me-a-cigarette-no-matter-what-i-say-t-shirt/",
-    "https://techteesusa.com/product/anthony-rizzo-is-my-captain-forever-t-shirt/",
-    "https://techteesusa.com/product/t-o-p-thanos-squid-game-movie-shirt/",
-    "https://techteesusa.com/product/my-precious-shirt/",
-    "https://techteesusa.com/product/takeover-making-mad-shirt/",
-    "https://techteesusa.com/product/banana-love-pride-car-shirt/"
+    "https://techteesusa.com/product/ussf-united-states-space-force-always-above-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/wizard-of-boz-vintage-shirt/",
-    "https://teeworksusa.com/product/snoopy-philadelphia-fly-eagles-fly-halloween-shirt/",
-    "https://teeworksusa.com/product/rich-aucoin-synthetic-shirt/",
-    "https://teeworksusa.com/product/pug-you-cant-fix-stupid-but-you-can-numb-it-with-a-2x4-shirt/",
-    "https://teeworksusa.com/product/pug-sometimes-i-wonder-if-im-in-a-bad-mood-or-if-everyone-around-me-is-just-stupid-shirt/",
-    "https://teeworksusa.com/product/hangman-adam-page-unhappy-trails-2025-shirt/"
+    "https://teeworksusa.com/product/nice-milky-land-cat-and-dog-group-shirt/",
+    "https://teeworksusa.com/product/nice-spider-man-2099-miguel-ohara-sketch-shirt/",
+    "https://teeworksusa.com/product/nice-ohio-university-bobcats-ohio-bobcat-head-abstract-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-you-dont-know-a-buffalo-bills-die-hard-fan-until-you-meet-a-bills-fan-shirt/",
@@ -74,14 +62,9 @@
     "https://dreameshirt.com/product/official-rory-mcilroy-team-usa-ryder-cup-2025-painting-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-the-real-stp-ultimate-experience-logo-shirt/",
-    "https://teeextra.com/product/official-the-only-monarch-that-i-recognize-heavyweight-shirt/",
-    "https://teeextra.com/product/official-sierra-ferrell-raleigh-nc-tour-9-10-2025-shirt/",
-    "https://teeextra.com/product/official-rip-charlie-kirk-he-inspired-a-generation-1993-2025-shirt/",
-    "https://teeextra.com/product/official-rip-charlie-kirk-faith-family-freedom-in-memory-of-a-patriot-1993-2025-shirt/",
-    "https://teeextra.com/product/official-punkwithacamera-unreleased-charlie-kirk-design-shirt/",
-    "https://teeextra.com/product/official-propagandhi-eastern-canada-tour-2025-shirt/",
-    "https://teeextra.com/product/official-pray-for-charlie-kirk-stand-with-charlie-kirk-2025-shirt/"
+    "https://teeextra.com/product/official-xl-badger-heavyweight-shirt/",
+    "https://teeextra.com/product/official-theo-lawrence-and-will-worden-sep-13-2025-sagebrush-austin-tx-shirt/",
+    "https://teeextra.com/product/official-the-view-season-29-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/where-else-would-you-rather-be-shirt/",
@@ -280,16 +263,16 @@
     "https://neoteeco.com/product/leon-bridges-and-charley-crockett-poster-the-crooner-and-the-cowboy-tour-2025-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/wristmeetrazor-replica-of-a-strange-love-morta-t-shirt/",
-    "https://newshirtstore.com/product/tyler-reddick-23xi-racing-car-shirt/",
-    "https://newshirtstore.com/product/who-are-you-calling-imaginary-rainbow-star-gaphic-shirt/",
-    "https://newshirtstore.com/product/yolanda-adams-better-than-gold-t-shirt/",
-    "https://newshirtstore.com/product/vetion-old-school-apparel-shirt/",
-    "https://newshirtstore.com/product/youve-got-this-victory-peace-hand-sign-shirt/",
-    "https://newshirtstore.com/product/wristmeetrazor-faces-t-shirt/",
-    "https://newshirtstore.com/product/tiah-mai-ayton-champion-comics-shirt/",
-    "https://newshirtstore.com/product/vrsty-space-skull-t-shirt/",
-    "https://newshirtstore.com/product/your-city-runs-on-dunkin-donuts-shirt/"
+    "https://newshirtstore.com/product/detroit-lions-all-grit-football-player-names-shirt/",
+    "https://newshirtstore.com/product/denny-hamlin-checkered-flag-2025-enjoy-illinois-300-race-winner-shirt/",
+    "https://newshirtstore.com/product/eat-sleep-notice-repeat-2025-shirt/",
+    "https://newshirtstore.com/product/eastons-fish-market-shirt/",
+    "https://newshirtstore.com/product/explode-rhode-island-target-shirt/",
+    "https://newshirtstore.com/product/dallas-cowboys-nfl-stitch-cartoon-football-shirt/",
+    "https://newshirtstore.com/product/dachshund-you-cant-fix-stupid-but-you-can-numb-it-with-a-2x4-shirt/",
+    "https://newshirtstore.com/product/cincinnati-open-in-orange-2025-shirt/",
+    "https://newshirtstore.com/product/chicago-cubs-im-just-here-for-the-snacks-shirt/",
+    "https://newshirtstore.com/product/dachshund-head-is-fucked-up-heart-is-fucked-up-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/skeleton-wolf-vampire-big-ween-energy-halloween-shirt/",
