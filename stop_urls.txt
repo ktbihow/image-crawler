@@ -12,10 +12,16 @@
     "https://geekteesus.com/product/chicago-cubs-2025-aj-mendez-love-bites-back-2025-t-shirt/"
   ],
   "orionshirt.com": [
-    "https://orionshirt.com/product/official-poster-nfl-pittsburgh-steelers-vs-seattle-seahawks-home-opener-at-acrisure-stadium-on-september-14-2025-here-we-go-t-shirt/",
-    "https://orionshirt.com/product/official-pediatric-cancer-awareness-chasing-gold-for-cure-cals-angels-pediatric-cancer-foundation-naperville-north-t-shirt/",
-    "https://orionshirt.com/product/official-nfl-pittsburgh-steelers-vs-seattle-seahawks-home-opener-at-acrisure-stadium-on-september-14-2025-fan-gear-t-shirt/",
-    "https://orionshirt.com/product/official-nfl-pittsburgh-steelers-vs-seattle-seahawks-at-acrisure-stadium-on-september-14-2025-fan-gear-t-shirt/"
+    "https://orionshirt.com/product/official-stand-strong-in-honor-of-charlie-kirk-1993-2025-vintage-retro-t-shirt/",
+    "https://orionshirt.com/product/official-j-j-mccarthy-where-else-would-you-rather-be-minnesota-vikings-nfl-signature-t-shirt/",
+    "https://orionshirt.com/product/official-charlie-kirk-shot-freedom-at-utah-valley-university-1993-2025-t-shirt/",
+    "https://orionshirt.com/product/official-charlie-kirk-fight-like-freedom-1993-2025-t-shirt/",
+    "https://orionshirt.com/product/official-time-poster-enough-the-killing-of-charlie-kirk-and-the-epidemic-of-american-political-violence-t-shirt/",
+    "https://orionshirt.com/product/official-poster-blink-182-fall-tour-september-11-2025-darien-lake-amphitheater-darien-center-ny-painting-t-shirt/",
+    "https://orionshirt.com/product/official-poster-billy-strings-summer-25-september-17-chattanooga-tn-at-the-signal-t-shirt/",
+    "https://orionshirt.com/product/official-hyeseong-kim-the-comet-los-angeles-dodgers-mlb-2025-t-shirt/",
+    "https://orionshirt.com/product/official-hawk-tuah-spit-on-dak-thing-philadelphia-eagles-nfl-fan-gear-t-shirt/",
+    "https://orionshirt.com/product/official-2025-blink-182-skateboard-bunny-graphic-painting-t-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/saratoga-springs-racing-since-1863-shirt/",
@@ -51,16 +57,16 @@
     "https://berrylittles.com/product/official-coach-al-new-york-yankees-mlb-planet-euphoria-artwork-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-temple-vs-oklahoma-fight-fight-fight-for-the-cherry-the-white-september-13-2025-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-congratulations-rizzo-retirement-new-york-yankees-anthony-rizzo-signature-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-fiesta-bowl-copper-state-invitational-tempe-arizona-october-9th-and-11th-2025-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-chicago-cubs-congratulations-anthony-rizzo-july-2012-national-league-rookie-of-the-month-signature-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-charlie-kirk-america-will-never-be-the-same-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-justice-for-charlie-kirk-1993-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-pray-for-charlie-kirk-1993-2025-usa-flag-t-shirt/",
-    "https://dreameshirt.com/product/official-rest-in-peace-charlie-kirk-1993-2025-painting-t-shirt/",
-    "https://dreameshirt.com/product/official-seattle-mariners-baseball-mlb-powered-by-witchcraft-t-shirt/",
-    "https://dreameshirt.com/product/official-rory-mcilroy-team-usa-ryder-cup-2025-painting-t-shirt/"
+    "https://dreameshirt.com/product/official-sam-darnold-seattle-seahawks-vs-pittsburgh-steelers-white-jersey-and-grey-pants-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-mike-campbell-the-dirty-knobs-heartbreaker-december-3-11-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-billy-strings-summer-25-september-17-chattanooga-tn-at-the-signal-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-2025-blink-182-skateboard-bunny-graphic-t-shirt/",
+    "https://dreameshirt.com/product/official-sleater-kinney-could-you-love-me-all-the-same-t-shirt/",
+    "https://dreameshirt.com/product/official-hawk-tuah-spit-on-dak-thing-philadelphia-eagles-nfl-t-shirt/",
+    "https://dreameshirt.com/product/official-hyeseong-kim-the-comet-los-angeles-dodgers-mlb-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-la-lom-fall-tour-december-5th-2025-gdl-mx-c3-rooftop-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-blink-182-fall-tour-september-11-2025-darien-lake-amphitheater-darien-center-ny-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-frankie-and-the-witch-fingers-live-september-24-2025-atlanta-ga-usa-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/official-xl-badger-heavyweight-shirt/",
@@ -68,16 +74,16 @@
     "https://teeextra.com/product/official-the-view-season-29-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/wnba-jam-kahleah-copper-and-satou-sabally-phoenix-mercury-shirt/",
-    "https://teespix.com/product/who-the-fck-is-mads-mikkelsen-shirt/",
-    "https://teespix.com/product/white-lives-matter-shirt/",
-    "https://teespix.com/product/whatever-you-allow-your-government-to-do-to-others-they-will-eventually-do-to-you-shirt/",
-    "https://teespix.com/product/tim-hudson-mark-mulder-barry-zito-the-big-three-oakland-athletics-baseball-caricature-shirt/",
-    "https://teespix.com/product/this-years-6-6k-race-celebrates-mario-at-the-finish-line-pittsburgh-penguins-shirt/",
-    "https://teespix.com/product/the-real-stp-ultimate-experience-logo-shirt/",
-    "https://teespix.com/product/the-mountain-goats-sea-monster-ivory-shirt/",
-    "https://teespix.com/product/south-florida-bulls-bucked-miami-hurricanes-2025-shirt/",
-    "https://teespix.com/product/sierra-ferrell-9-10-2025-raleigh-nc-tour-shirt/"
+    "https://teespix.com/product/freedom-fight-like-charlie-shirt/",
+    "https://teespix.com/product/freedom-charlie-kirk-shirt/",
+    "https://teespix.com/product/charlie-kirk-memorial-1993-2025-shirt/",
+    "https://teespix.com/product/a-true-patriot-charlie-kirk-pray-for-charlie-shirt/",
+    "https://teespix.com/product/charlie-kirk-is-my-hero-shirt/",
+    "https://teespix.com/product/pray-for-charlie-kirk-t-shirt/",
+    "https://teespix.com/product/charlie-kirk-they-shot-the-words-not-the-man-shirt/",
+    "https://teespix.com/product/voices-not-violence-charlie-kirk-1993-2025-shirt/",
+    "https://teespix.com/product/charlie-kirk-2025-fight-shirt/",
+    "https://teespix.com/product/charlie-kirk-the-soul-of-america-burning-light-never-let-it-go-out-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/tyreek-hill-10-miami-dolphins-2025-rivalries-player-name-and-number-2-sided-shirt/",
@@ -179,28 +185,26 @@
     "https://teleteeshirt.com/product/kyle-schwarber-50-schwarbombs-good-job-kyle-t-shirts/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/outside-im-human-inside-im-a-rat-asking-god-to-forgive-me-of-my-mortal-sins-shirt/",
-    "https://teeslocal.com/product/larry-allen-73-dallas-cowboys-1971-2024-rest-in-peace-larry-shirt/",
-    "https://teeslocal.com/product/homo-sexual-adjacent-shirt/",
-    "https://teeslocal.com/product/race-car-rhude-shirt/",
-    "https://teeslocal.com/product/new-order-usa-89-pride-flag-shirt/",
-    "https://teeslocal.com/product/liquid-gold-stolen-black-breastmilk-built-this-nation-shirt/",
-    "https://teeslocal.com/product/stoners-cannabis-show-funny-friends-shirt/",
-    "https://teeslocal.com/product/i-hope-you-step-on-a-lego-shirt/",
-    "https://teeslocal.com/product/guilty-of-stealing-my-heart-donald-trump-shirt/",
-    "https://teeslocal.com/product/convicted-felon-for-president-2024-trump-shirt/"
+    "https://teeslocal.com/product/hotter-than-a-hoochie-coochie-summer-vacation-music-lover-shirt/",
+    "https://teeslocal.com/product/slim-shiesty-cincinnati-bengals-joe-burrow-shirt/",
+    "https://teeslocal.com/product/young-dolph-big-head-half-tone-t-shirt/",
+    "https://teeslocal.com/product/caitlin-clark-wnba-basketball-star-shirt/",
+    "https://teeslocal.com/product/shai-gilgeous-alexander-okc-star-basketball-nba-shirt/",
+    "https://teeslocal.com/product/play-some-fucking-dubstep-heavy-bass-heavy-vibes-shirt/",
+    "https://teeslocal.com/product/post-malone-cowboy-western-graphic-shirt/",
+    "https://teeslocal.com/product/ivan-cornejo-mirada-2025-tour-shirt/"
   ],
   "melonashirt.com": [
-    "https://melonashirt.com/product/official-the-charlie-kirk-show-shirts/",
-    "https://melonashirt.com/product/official-rest-in-peace-charlie-kirk-american-flag-shirts/",
-    "https://melonashirt.com/product/official-charlie-kirk-freedom-american-flag-shirts/",
-    "https://melonashirt.com/product/official-charlie-kirk-in-memory-patriot-freedom-usa-shirts/",
-    "https://melonashirt.com/product/official-charlie-kirk-a-true-patriot-shirts/",
-    "https://melonashirt.com/product/official-justice-for-charlie-kirk-charlie-kirk-shirts/",
-    "https://melonashirt.com/product/official-in-loving-memory-of-charlie-kirk-shirts/",
-    "https://melonashirt.com/product/official-justice-for-charlie-kirk-eagle-american-flag-shirts/",
-    "https://melonashirt.com/product/official-rip-charlie-kirk-1993-2025-shirts/",
-    "https://melonashirt.com/product/official-charlie-kirk-rest-in-peace-1993-2025-shirts/"
+    "https://melonashirt.com/product/official-big-blues-bender-sept-4-7-2025-westgate-las-vegas-resort-casino-shirts/",
+    "https://melonashirt.com/product/official-zhmach-grime-stone-records-shirts/",
+    "https://melonashirt.com/product/official-iuter-across-generations-shirts/",
+    "https://melonashirt.com/product/official-unprocessed-hell-is-a-place-right-in-my-chest-shirts/",
+    "https://melonashirt.com/product/official-tomorrowland-sketch-shirts/",
+    "https://melonashirt.com/product/official-tomorrowland-pop-cultr-shirts/",
+    "https://melonashirt.com/product/official-tomorrowland-fusion-pastel-shirts/",
+    "https://melonashirt.com/product/official-psychostick-grrr-shirts/",
+    "https://melonashirt.com/product/official-psychostick-drum-shark-shirts/",
+    "https://melonashirt.com/product/official-psychostick-cerberus-like-socks-shirts/"
   ],
   "dalatshirt.com": [
     "https://dalatshirt.com/product/a-winning-tradition-marshall-university-thundering-herd-football-2025-t-shirts/",
@@ -231,16 +235,15 @@
     "https://designatshop.com/product/charlie-kirk-wearing-america-the-golden-age-is-upon-us-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/hellstar-brainwashed-world-tour-2025-t-shirt/",
-    "https://arjomany.com/product/2025-trisha-yearwood-the-mirror-tee/",
-    "https://arjomany.com/product/2025-dotties-yardoff-white-shirt/",
-    "https://arjomany.com/product/system-of-a-down-tour-uk-eu-2026-merch/",
-    "https://arjomany.com/product/sea-hear-now-event-asbury-park-nj-2025-lineup-shirt/",
-    "https://arjomany.com/product/men-at-work-2025-kookaburra-tour-t-shirt/",
-    "https://arjomany.com/product/gears-of-war-never-fight-alone-merch/",
-    "https://arjomany.com/product/gears-of-war-never-fight-alone-merch-2025/",
-    "https://arjomany.com/product/f1-x-snoopy-peanuts-pit-merch-limited/",
-    "https://arjomany.com/product/f1-x-snoopy-peanuts-joe-cool-t-shirt/"
+    "https://arjomany.com/product/seahearnow-festival-tour-asbury-park-nj-2025-merch/",
+    "https://arjomany.com/product/mia-when-hurricanes-fly-gators-cry-t-shirt/",
+    "https://arjomany.com/product/linkin-park-intuit-dome-inglewood-los-angeles-sept-13-2025-world-tour-2025-shirt/",
+    "https://arjomany.com/product/justice-for-charlie-kirk-1993-2025-merch/",
+    "https://arjomany.com/product/jennie-back-to-school-merch/",
+    "https://arjomany.com/product/hozier-toronto-september-10-show-shirt/",
+    "https://arjomany.com/product/2025-trisha-yearwood-black-tee/",
+    "https://arjomany.com/product/the-lumineers-tla-automatic-world-tour-2025-shirt/",
+    "https://arjomany.com/product/mina-shirakawa-toni-storm-intemporelle-shirt/"
   ],
   "collectionpostertour.com": [
     "https://collectionpostertour.com/product/charlie-kirk-rest-in-peace-1993-2025-t-shirt/",
