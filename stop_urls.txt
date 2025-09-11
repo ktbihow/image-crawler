@@ -21,16 +21,16 @@
     "https://techteesusa.com/product/ussf-united-states-space-force-always-above-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/the-valiant-silverback-diplomat-kongara-shirt/",
-    "https://teeworksusa.com/product/the-place-to-be-shirt/",
-    "https://teeworksusa.com/product/the-original-ohio-university-since-1804-shirt/",
-    "https://teeworksusa.com/product/baddas-boom-impmon-digimon-graphic-shirt/",
-    "https://teeworksusa.com/product/timmy-no-brakes-graphic-shirt/",
-    "https://teeworksusa.com/product/tracy-mcgrady-orlando-magic-retro-graphic-shirt/",
-    "https://teeworksusa.com/product/tracy-mcgrady-orlando-magic-art-retro-shirt/",
-    "https://teeworksusa.com/product/under-armour-soccer-bird-logo-shirt/",
-    "https://teeworksusa.com/product/u-a-u-know-fenimore-asset-management-shirt/",
-    "https://teeworksusa.com/product/usa-ryder-cup-2025-golfer-graphic-shirt/"
+    "https://teeworksusa.com/product/rust-est-2010-shirt/",
+    "https://teeworksusa.com/product/happy-birthday-nick-cross-indianapolis-colts-shirt/",
+    "https://teeworksusa.com/product/batman-bat-mite-shirt/",
+    "https://teeworksusa.com/product/seth-rollins-burn-it-down-shirt/",
+    "https://teeworksusa.com/product/girl-dinner-clair-obscur-expedition-33-shirt/",
+    "https://teeworksusa.com/product/ring-the-bell-philadelphia-phillies-shirt/",
+    "https://teeworksusa.com/product/save-a-horse-ride-a-cowboy-kai-exo-shirt/",
+    "https://teeworksusa.com/product/motel-cbtv-life-wide-open-shirt/",
+    "https://teeworksusa.com/product/roman-reigns-greatness-amongst-you-goat-shirt/",
+    "https://teeworksusa.com/product/peacmaker-theres-no-wrong-time-to-rock-11th-street-kids-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-you-dont-know-a-buffalo-bills-die-hard-fan-until-you-meet-a-bills-fan-shirt/",
