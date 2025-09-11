@@ -56,6 +56,12 @@
         "source_type": "product-list"
     },
     {
+        "url": "https://milkywayshirt.com/",
+        "selector": "div.product-images img",
+        "replacements": ["-Shirt.webp", "-Long-Sleeve.webp"],
+        "source_type": "product-list"
+    },
+    {
         "url": "https://teespix.com/",
         "source_type": "product-list",
         "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teespix.com", "prefix_length": 9 }
