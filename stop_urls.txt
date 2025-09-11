@@ -9,6 +9,9 @@
     "https://geekteesus.com/product/rule-the-jungle-joe-burrow-cincinnati-bengals-nfl-signature-graphic-shirt/",
     "https://geekteesus.com/product/prime-pizza-delivering-freshness-t-shirt/"
   ],
+  "orionshirt.com": [
+    "https://orionshirt.com/product/official-nfl-pittsburgh-steelers-versus-seattle-seahawks-home-opener-at-acrisure-stadium-on-september-14-2025-t-shirt/"
+  ],
   "techteesusa.com": [
     "https://techteesusa.com/product/texas-longhorns-vs-mississippi-state-bulldogs-game-day-2025-t-shirt/",
     "https://techteesusa.com/product/tennessee-volunteers-vs-mississippi-state-bulldogs-game-day-2025-shirt/",
