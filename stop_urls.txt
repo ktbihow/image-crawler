@@ -75,13 +75,7 @@
     "https://dreameshirt.com/product/official-poster-frankie-and-the-witch-fingers-live-september-24-2025-atlanta-ga-usa-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-san-francisco-49ers-san-francisco-giants-its-the-most-wonderful-time-of-the-year-2025-shirt/",
-    "https://teeextra.com/product/official-chicago-bears-chicago-cubs-its-the-most-wonderful-time-of-the-year-2025-shirt/",
-    "https://teeextra.com/product/official-you-dont-know-a-die-hard-fan-until-you-meet-a-buffalo-bills-fan-mascot-shirt/",
-    "https://teeextra.com/product/official-yes-i-am-old-but-i-saw-philadelphia-phillies-world-series-champions-1980-2008-signatures-shirt/",
-    "https://teeextra.com/product/official-yes-i-am-old-but-i-saw-lemieux-greene-harris-bradshaw-and-clemente-pittsburgh-now-and-forever-signatures-shirt/",
-    "https://teeextra.com/product/official-yes-i-am-old-but-i-saw-arizona-diamondbacks-world-series-champions-2001-signatures-shirt/",
-    "https://teeextra.com/product/official-the-vt-hokies-enter-sandman-135-seasons-1892-2025-signatures-thank-you-for-the-memories-walking-shirt/"
+    "https://teeextra.com/product/official-detroit-lions-detroit-tigers-its-the-most-wonderful-time-of-the-year-2025-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/freedom-fight-like-charlie-shirt/",
