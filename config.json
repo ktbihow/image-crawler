@@ -131,7 +131,7 @@
     },
     {
         "url": "https://lovingsquad.com/",
-        "replacements": {"-Shirt.jpg": ["-T-shirt.jpg"]},
+        "replacements": {"-Shirt.jpg": ["-T-shirt.jpg", "-Ladies.jpg"]},
         "source_type": "api"
     },
     {
