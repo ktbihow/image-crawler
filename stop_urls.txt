@@ -24,19 +24,23 @@
     "https://orionshirt.com/product/official-2025-blink-182-skateboard-bunny-graphic-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/dandadan-and-the-lion-king-new-neko-baba-shirt/",
-    "https://techteesusa.com/product/charlie-kirk-the-truth-is-disturbing-thats-why-they-want-to-be-silenced-shirt/",
-    "https://techteesusa.com/product/charlie-kirk-we-the-people-tribute-constitution-freedom-shirt/",
-    "https://techteesusa.com/product/advisors-season-8-photo-shirt/",
-    "https://techteesusa.com/product/bobby-witt-jr-kansas-city-royals-the-joy-of-baseball-bob-ross-shirt/",
-    "https://techteesusa.com/product/bruce-lee-chuck-norris-shirt/",
-    "https://techteesusa.com/product/best-halloween-friends-ghost-and-jack-o-lantern-shirt/",
-    "https://techteesusa.com/product/xl-badger-shirt/",
-    "https://techteesusa.com/product/wwe-evolve-championship-logo-shirt/",
-    "https://techteesusa.com/product/wheel-of-topics-shirt/"
+    "https://techteesusa.com/product/philadelphia-eagles-national-football-league-crest-shirt/",
+    "https://techteesusa.com/product/paul-your-hands-up-kfan-shirt/",
+    "https://techteesusa.com/product/party-rock-is-not-in-the-house-tonight-cat-shirt/",
+    "https://techteesusa.com/product/oh-my-glob-adventure-time-shirt/",
+    "https://techteesusa.com/product/oakland-athletics-shea-langeliers-30-homer-season-shirt/",
+    "https://techteesusa.com/product/new-york-jets-national-football-league-crest-shirt/",
+    "https://techteesusa.com/product/mighty-morphin-power-rangers-chibi-shirt/",
+    "https://techteesusa.com/product/miami-hurricanes-unleash-the-hurricanes-shirt/",
+    "https://techteesusa.com/product/miami-hurricanes-pack-the-rock-shirt/",
+    "https://techteesusa.com/product/miami-hurricanes-football-100-seasons-1926-2025-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/nice-ajewdas-money-dollars-logo-shirt/"
+    "https://teeworksusa.com/product/my-roots-are-in-kentucky-state-map-roots-shirt/",
+    "https://teeworksusa.com/product/my-broom-broke-so-now-i-drive-a-camaro-irocz-halloween-witch-shirt/",
+    "https://teeworksusa.com/product/philadelphia-football-ghost-holding-pumpkin-and-flag-halloween-shirt/",
+    "https://teeworksusa.com/product/pray-for-charlie-kirk-stand-with-charlie-kirk-shirt/",
+    "https://teeworksusa.com/product/please-pretend-im-not-here-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-voices-not-violence-charlie-kirk-1993-2025-shirt/",
@@ -75,14 +79,14 @@
     "https://dreameshirt.com/product/official-poster-frankie-and-the-witch-fingers-live-september-24-2025-atlanta-ga-usa-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-mercedes-mone-champion-everywhere-officially-comfort-colors-soft-shirt/",
-    "https://teeextra.com/product/official-legend-never-die-charlie-kirk-2025-shirt/",
-    "https://teeextra.com/product/official-legacy-of-courage-charlie-kirk-assassination-2025-shirt/",
-    "https://teeextra.com/product/official-kamasi-washington-sept-10-2025-mexico-city-shirt/",
-    "https://teeextra.com/product/official-justice-for-charlie-kirk-freedom-of-speech-shirt/",
-    "https://teeextra.com/product/official-history-moment-charlie-kirk-freedom-shirt/",
-    "https://teeextra.com/product/official-he-spoke-they-silenced-charlie-kirk-assassination-2025-shirt/",
-    "https://teeextra.com/product/official-goldfinger-sep-12-2025-the-rockwell-salt-lake-city-ut-shirt/"
+    "https://teeextra.com/product/charlie-kirk-freedom-memorial-1993-2025-shirt/",
+    "https://teeextra.com/product/charlie-kirk-assassination-never-give-up-never-surrender-alway-go-for-the-win-1993-2025-2-side-shirt/",
+    "https://teeextra.com/product/official-yin-yin-usa-and-canada-tour-2025-shirt/",
+    "https://teeextra.com/product/official-words-are-indeed-stronger-than-bullets-charlie-kirk-shirt/",
+    "https://teeextra.com/product/official-united-states-of-america-defense-is-freedom-shirt/",
+    "https://teeextra.com/product/official-turning-point-usa-2025-charlie-kirk-assassination-shirt/",
+    "https://teeextra.com/product/official-top-rope-tuesday-hangman-adam-page-unhappy-trails-ringer-shirt/",
+    "https://teeextra.com/product/official-they-shot-the-words-not-the-man-pray-for-charlie-kirk-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/freedom-fight-like-charlie-shirt/",
@@ -172,16 +176,16 @@
     "https://capitoneshirt.com/product/you-left-the-rodi-on-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/women-in-science-dna-rosalind-franklin-atomic-structure-marie-curie-shirt/",
-    "https://clickoneshirt.com/product/when-i-get-rich-from-kaspa-shirt/",
-    "https://clickoneshirt.com/product/wave-after-wave-still-my-favorite-ride-95-shirt/",
-    "https://clickoneshirt.com/product/waiting-for-halloween-like-horror-movie-villain-resting-retro-graphic-shirt/",
-    "https://clickoneshirt.com/product/volts-coach-football/",
-    "https://clickoneshirt.com/product/volee-airlines-your-destination-awaits-logo-shirt/",
-    "https://clickoneshirt.com/product/ute-utah-football-rice-eccles-stadium-retro-shirt/",
-    "https://clickoneshirt.com/product/vladimir-guerrero-jr-toronto-blue-jays-all-season-and-josh-allen-buffalo-bills-on-sundays-shirt/",
-    "https://clickoneshirt.com/product/utah-university-u-hands-retro-shirt/",
-    "https://clickoneshirt.com/product/trump-make-america-safe-again-portrait-shirt/"
+    "https://clickoneshirt.com/product/roronoa-zoro-one-piece-pirate-hunter-anime-character-shirt/",
+    "https://clickoneshirt.com/product/ray-allen-world-tour-1996-draft-first-round-5th-pick-basketball-player-retro-graphic-shirt/",
+    "https://clickoneshirt.com/product/ralph-lauren-ryder-cup-2025-shirt/",
+    "https://clickoneshirt.com/product/radio-free-alice-shirt/",
+    "https://clickoneshirt.com/product/pongan-la-lupa-con-el-padre-luis-toro-shirt/",
+    "https://clickoneshirt.com/product/phillies-flipadelphia-paddys-pub-its-always-sunny-in-philadelphia-shirt/",
+    "https://clickoneshirt.com/product/pbs-npr-fdt-public-media-graphic-shirt/",
+    "https://clickoneshirt.com/product/paddys-pub-eagles-flipadelphia-its-always-sunny-in-philadelphia-shirt/",
+    "https://clickoneshirt.com/product/nosferatu-halloween-male-vampire-vintage-shirt/",
+    "https://clickoneshirt.com/product/national-baseball-hall-of-fame-wordmark-with-logo-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/wwe-worlds-collide-wrestling-on-september-12-2025-with-aaa-lucha-libre-stars-t-shirts/",
