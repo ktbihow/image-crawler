@@ -25,6 +25,12 @@
         "next_product_selector": "a:has(i.icon-angle-right)"
     },
     {
+        "url": "https://orionshirt.com/",
+        "source_type": "prevnext",
+        "first_product_selector": ".product-small a.woocommerce-LoopProduct-link",
+        "next_product_selector": "a:has(i.icon-angle-right)"
+    },
+    {
         "url": "https://berrylittles.com/",
         "source_type": "prevnext",
         "first_product_selector": ".product-small a.woocommerce-LoopProduct-link",
