@@ -36,16 +36,7 @@
     "https://techteesusa.com/product/peace-will-win-fear-will-lose-lgbt-flag-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/where-else-would-you-rather-be-j-j-mccarthy-shirt/",
-    "https://teeworksusa.com/product/wear-pants-do-crimes-shirt/",
-    "https://teeworksusa.com/product/washingtons-national-disgrace-cartoon-shirt/",
-    "https://teeworksusa.com/product/unreleased-charlie-kirk-design-shirt/",
-    "https://teeworksusa.com/product/they-shot-the-words-not-the-man-charlie-kirk-shirt/",
-    "https://teeworksusa.com/product/time-for-kickoff-so-you-need-to-fuck-off-shirt-2/",
-    "https://teeworksusa.com/product/the-style-council-internationalists-85-lilac-shirt/",
-    "https://teeworksusa.com/product/the-ralph-farewell-season-where-else-would-you-rather-be-buffalo-bills-shirt/",
-    "https://teeworksusa.com/product/stand-against-violence-stand-with-charlie-kirk-shirt/",
-    "https://teeworksusa.com/product/stand-against-violence-for-all-charlie-kirk-shirt/"
+    "https://teeworksusa.com/product/time-kickoff-need-fuck-off-football-helmet-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-voices-not-violence-charlie-kirk-1993-2025-shirt/",
