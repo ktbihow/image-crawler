@@ -24,16 +24,16 @@
     "https://orionshirt.com/product/official-2025-blink-182-skateboard-bunny-graphic-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/pittsburgh-steelers-steely-mcbeam-city-of-bridges-shirt/",
-    "https://techteesusa.com/product/pittsburgh-steelers-jack-lambert-the-man-of-steel-signature-shirt/",
-    "https://techteesusa.com/product/pittsburgh-steelers-football-club-historic-logo-shirt/",
-    "https://techteesusa.com/product/pittsburgh-steelers-2025-season-50th-anniversary-1975-2025-the-terrible-towel-2025-shirt/",
-    "https://techteesusa.com/product/outside-im-hootin-but-inside-im-hollerin-shirt/",
-    "https://techteesusa.com/product/oregon-ducks-spend-to-win-shirt/",
-    "https://techteesusa.com/product/opossum-be-rootin-be-tootin-be-shootin-shirt/",
-    "https://techteesusa.com/product/ohio-state-buckeyes-legend-lee-corso-graphic-shirt/",
-    "https://techteesusa.com/product/new-york-giants-national-football-league-crest-shirt/",
-    "https://techteesusa.com/product/my-dad-has-everything-except-a-pulse-shirt/"
+    "https://techteesusa.com/product/dandadan-and-the-lion-king-new-neko-baba-shirt/",
+    "https://techteesusa.com/product/charlie-kirk-the-truth-is-disturbing-thats-why-they-want-to-be-silenced-shirt/",
+    "https://techteesusa.com/product/charlie-kirk-we-the-people-tribute-constitution-freedom-shirt/",
+    "https://techteesusa.com/product/advisors-season-8-photo-shirt/",
+    "https://techteesusa.com/product/bobby-witt-jr-kansas-city-royals-the-joy-of-baseball-bob-ross-shirt/",
+    "https://techteesusa.com/product/bruce-lee-chuck-norris-shirt/",
+    "https://techteesusa.com/product/best-halloween-friends-ghost-and-jack-o-lantern-shirt/",
+    "https://techteesusa.com/product/xl-badger-shirt/",
+    "https://techteesusa.com/product/wwe-evolve-championship-logo-shirt/",
+    "https://techteesusa.com/product/wheel-of-topics-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/nice-ajewdas-money-dollars-logo-shirt/"
@@ -75,14 +75,14 @@
     "https://dreameshirt.com/product/official-poster-frankie-and-the-witch-fingers-live-september-24-2025-atlanta-ga-usa-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-legends-never-die-charlie-kirk-2025-shirt/",
-    "https://teeextra.com/product/official-lahgo-secretly-i-love-it-shirt/",
-    "https://teeextra.com/product/official-julia-hart-spooky-hart-kids-shirt/",
-    "https://teeextra.com/product/official-innings-festival-tempe-arizona-2026-at-tempe-beach-park-and-arts-park-full-lineup-on-february-20-22-2026-shirt/",
-    "https://teeextra.com/product/official-honor-the-fallen-september-11-american-flag-shirt/",
-    "https://teeextra.com/product/official-i-stand-with-charlie-kirk-rip-charlie-kirk-shirt/",
-    "https://teeextra.com/product/official-haim-i-quit-tour-2025-shirt/",
-    "https://teeextra.com/product/official-gamblers-vs-rattlers-professional-bull-riders-texas-cup-rivalry-shirt/"
+    "https://teeextra.com/product/official-mercedes-mone-champion-everywhere-officially-comfort-colors-soft-shirt/",
+    "https://teeextra.com/product/official-legend-never-die-charlie-kirk-2025-shirt/",
+    "https://teeextra.com/product/official-legacy-of-courage-charlie-kirk-assassination-2025-shirt/",
+    "https://teeextra.com/product/official-kamasi-washington-sept-10-2025-mexico-city-shirt/",
+    "https://teeextra.com/product/official-justice-for-charlie-kirk-freedom-of-speech-shirt/",
+    "https://teeextra.com/product/official-history-moment-charlie-kirk-freedom-shirt/",
+    "https://teeextra.com/product/official-he-spoke-they-silenced-charlie-kirk-assassination-2025-shirt/",
+    "https://teeextra.com/product/official-goldfinger-sep-12-2025-the-rockwell-salt-lake-city-ut-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/freedom-fight-like-charlie-shirt/",
@@ -105,16 +105,16 @@
     "https://nowbestshirt.com/product/weve-been-priced-out-protest-the-libertys-skyrocketing-ticket-prices-2-sided-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/alec-anderson-buffalo-bills-lets-go-buffalo-shirt/",
-    "https://serenashirt.com/product/arcane-jinx-and-fishbones-shirt/",
-    "https://serenashirt.com/product/apple-pizza-star-miriam-shirt/",
-    "https://serenashirt.com/product/boo-please-pretend-im-not-here-shirt/",
-    "https://serenashirt.com/product/baltimore-orioles-park-at-camden-yards-stadium-retro-shirt/",
-    "https://serenashirt.com/product/cal-raleigh-seattle-mariners-mlb-cal-in-25-shirt/",
-    "https://serenashirt.com/product/cardi-b-i-mean-look-shirt/",
-    "https://serenashirt.com/product/chuck-norris-vs-bruce-lee-cartoon-shirt/",
-    "https://serenashirt.com/product/christian-mccaffrey-san-francisco-49ers-nfl-player-graphic-shirt/",
-    "https://serenashirt.com/product/chuck-you-chuck-norris-shirt/"
+    "https://serenashirt.com/product/how-bout-those-kansas-city-chiefs-shirt/",
+    "https://serenashirt.com/product/peanut-butter-angeli-time-steve-angeli-shirt/",
+    "https://serenashirt.com/product/annunciation-chicago-bears-nfl-shirt/",
+    "https://serenashirt.com/product/wnba-ps-we-see-you-shirt/",
+    "https://serenashirt.com/product/annunciation-minnesota-vikings-nfl-shirt/",
+    "https://serenashirt.com/product/anthony-rizzo-is-my-captain-forever-shirt/",
+    "https://serenashirt.com/product/georgia-tech-yellow-jackets-primary-logo-shirt/",
+    "https://serenashirt.com/product/ealges-hawk-tuah-spit-on-dak-thing-shirt/",
+    "https://serenashirt.com/product/missouri-tigers-beau-pribula-pri-zou-la-shirt/",
+    "https://serenashirt.com/product/minnesota-vikings-nfl-j-j-mccarthy-swag-head-shirt/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/zero-ducks-off-road-cracker-barrel-parody-shirt/",
@@ -172,16 +172,16 @@
     "https://capitoneshirt.com/product/you-left-the-rodi-on-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/iryna-zarutska-white-lives-matter-shirt/",
-    "https://clickoneshirt.com/product/iryna-zarutska-white-lives-matter-sdebate-this-diablo-macabre-shirt/",
-    "https://clickoneshirt.com/product/indianapolis-colts-football-pink-out-sparkling-heart-pink-ribbon-shirt/",
-    "https://clickoneshirt.com/product/im-going-nowhere-fast-fall-out-boy-shirt/",
-    "https://clickoneshirt.com/product/i-survived-the-ferguson-riots-of-2014-shirt/",
-    "https://clickoneshirt.com/product/i-love-smoking-rats-womens-rights-retro-graphic-shirt/",
-    "https://clickoneshirt.com/product/hey-who-turned-out-the-lights-space-exploration-and-death-comic-shirt/",
-    "https://clickoneshirt.com/product/hawk-tuah-spit-on-dak-thing-philadelphia-eagles-shirt/",
-    "https://clickoneshirt.com/product/harlowe-borderlands-4-game-character-classic-graffiti-style-shirt/",
-    "https://clickoneshirt.com/product/happy-couples-beware-shirt/"
+    "https://clickoneshirt.com/product/women-in-science-dna-rosalind-franklin-atomic-structure-marie-curie-shirt/",
+    "https://clickoneshirt.com/product/when-i-get-rich-from-kaspa-shirt/",
+    "https://clickoneshirt.com/product/wave-after-wave-still-my-favorite-ride-95-shirt/",
+    "https://clickoneshirt.com/product/waiting-for-halloween-like-horror-movie-villain-resting-retro-graphic-shirt/",
+    "https://clickoneshirt.com/product/volts-coach-football/",
+    "https://clickoneshirt.com/product/volee-airlines-your-destination-awaits-logo-shirt/",
+    "https://clickoneshirt.com/product/ute-utah-football-rice-eccles-stadium-retro-shirt/",
+    "https://clickoneshirt.com/product/vladimir-guerrero-jr-toronto-blue-jays-all-season-and-josh-allen-buffalo-bills-on-sundays-shirt/",
+    "https://clickoneshirt.com/product/utah-university-u-hands-retro-shirt/",
+    "https://clickoneshirt.com/product/trump-make-america-safe-again-portrait-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/wwe-worlds-collide-wrestling-on-september-12-2025-with-aaa-lucha-libre-stars-t-shirts/",
@@ -294,16 +294,16 @@
     "https://newshirtstore.com/product/unicorn-chef-bitchcraft-the-art-of-pissing-people-off-by-telling-them-the-truth-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/if-you-think-having-toddlers-are-tough-wait-until-they-grow-up-and-tell-you-they-are-joning-marines-shirt/",
-    "https://eteeclothing.com/product/if-you-dont-like-the-way-i-do-things-shirt/",
-    "https://eteeclothing.com/product/im-so-busy-i-have-to-schedule-my-mental-breakdown-shirt/",
-    "https://eteeclothing.com/product/i-wish-the-bags-under-my-eyes-had-money-in-them-shirt/",
-    "https://eteeclothing.com/product/i-wish-one-of-my-personalities-liked-to-cook-shirt/",
-    "https://eteeclothing.com/product/i-wan-hollow-point-vintage-shirt/",
-    "https://eteeclothing.com/product/i-thought-i-was-in-a-bad-mood-but-its-been-a-few-years-so-i-guess-this-is-who-i-am-shirt/",
-    "https://eteeclothing.com/product/i-can-only-please-one-person-per-day-today-is-not-your-day-shirt/",
-    "https://eteeclothing.com/product/i-believe-in-a-better-world-where-chickens-can-cross-the-road-shirt/",
-    "https://eteeclothing.com/product/crown-no-king-american-flag-shirt/"
+    "https://eteeclothing.com/product/x-ray-vision-and-feral-ambition-shirt/",
+    "https://eteeclothing.com/product/vegan-vampire-halloween-cartoon-shirt/",
+    "https://eteeclothing.com/product/unreleased-charlie-kirk-design-shirt/",
+    "https://eteeclothing.com/product/theres-no-such-thing-as-a-dirty-mind-its-just-a-sense-of-humour-with-adult-content-shirt/",
+    "https://eteeclothing.com/product/the-sopranos-tony-you-better-wipe-that-smile-off-your-face-shirt/",
+    "https://eteeclothing.com/product/the-sopranos-tony-photo-shirt/",
+    "https://eteeclothing.com/product/poughkeepsie-honey-bugs-new-jersey-vintage-defunct-baseball-teams-shirt/",
+    "https://eteeclothing.com/product/skeleton-girl-life-is-like-looking-for-your-phone-most-of-the-time-its-in-your-hand-shirt/",
+    "https://eteeclothing.com/product/ohio-university-bobcats-ou-paw-shirt/",
+    "https://eteeclothing.com/product/ohio-bobcats-symbols-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-j-j-mccarthy-swag-head-shirt/",
