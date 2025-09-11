@@ -24,16 +24,16 @@
     "https://orionshirt.com/product/official-2025-blink-182-skateboard-bunny-graphic-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/zack-baun-bald-eagle-philadelphia-eagles-shirt/",
-    "https://techteesusa.com/product/yugoslavia-basketball-92-shirt/",
-    "https://techteesusa.com/product/your-coworker-is-not-hot-theyre-just-within-10-ft-of-you-40-hrs-a-week-shirt/",
-    "https://techteesusa.com/product/yoshinobu-yamamoto-roar-los-angeles-dodgers-shirt/",
-    "https://techteesusa.com/product/we-got-this-bears-shirt/",
-    "https://techteesusa.com/product/vance-spafford-13-miami-hurricanes-shirt/",
-    "https://techteesusa.com/product/unrivaled-adding-breeze-basketball-club-and-hive-basketball-club-shirt/",
-    "https://techteesusa.com/product/two-six-philadelphia-eagles-shirt/",
-    "https://techteesusa.com/product/tommy-bahama-detroit-lions-football-shirt/",
-    "https://techteesusa.com/product/tnf-jayden-daniels-up-next-no-hes-up-now-shirt/"
+    "https://techteesusa.com/product/detroit-lions-football-est-1934-michigan-state-two-sided-shirt/",
+    "https://techteesusa.com/product/temple-of-doom-t-shirt/",
+    "https://techteesusa.com/product/sorry-i-was-super-weird-and-quiet-at-your-party-t-shirt/",
+    "https://techteesusa.com/product/dead-pedophiles-dont-reoffend-t-shirt/",
+    "https://techteesusa.com/product/silly-goose-on-the-loose-t-shirt/",
+    "https://techteesusa.com/product/law-enforcement-appreciation-lead-philadelphia-phillies-shirt/",
+    "https://techteesusa.com/product/stitch-aloha-from-hawaii-shirt/",
+    "https://techteesusa.com/product/the-earth-speaks-to-all-of-us-shirt/",
+    "https://techteesusa.com/product/hootin-and-hollerin-but-in-a-hot-and-my-terious-way-shirt/",
+    "https://techteesusa.com/product/peace-will-win-fear-will-lose-lgbt-flag-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/im-not-clumsy-the-floor-just-hates-me-a-cute-panda-shirt/",
