@@ -48,26 +48,28 @@
     "https://meredpremium.com/product/official-the-hogs-washington-redskins-abbey-road-shirt/"
   ],
   "berrylittles.com": [
-    "https://berrylittles.com/product/official-tennessee-volunteers-vs-georgia-bulldogs-september-13-2025-at-neyland-stadium-poster-t-shirt/",
-    "https://berrylittles.com/product/official-angry-runs-2025-new-york-giants-nfl-cam-skattebo-painting-t-shirt/",
-    "https://berrylittles.com/product/official-jalen-ramsey-curtains-called-game-pittsburgh-steelers-nfl-signature-t-shirt/",
-    "https://berrylittles.com/product/official-jayden-daniels-masterpiece-washington-commanders-nfl-football-signature-t-shirt/",
-    "https://berrylittles.com/product/official-micah-parsons-one-of-one-green-bay-packers-nfl-football-painting-t-shirt/",
-    "https://berrylittles.com/product/official-commanders-vs-packers-thursday-lambeau-field-greetings-from-green-bay-titletown-usa-poster-t-shirt/",
-    "https://berrylittles.com/product/official-maryland-terrapins-football-ncaa-malik-washington-superstar-pose-signature-t-shirt/",
-    "https://berrylittles.com/product/official-bucked-miami-south-florida-bulls-vs-miami-hurricanes-painting-t-shirt/"
+    "https://berrylittles.com/product/official-chicago-cubs-anthony-rizzo-our-captains-accomplishments-number-44-3x-all-star-4x-gold-glove-t-shirt/",
+    "https://berrylittles.com/product/official-innings-festival-2026-in-arizona-february-20-22-2026-tempe-beach-park-and-arts-park-t-shirt/",
+    "https://berrylittles.com/product/official-geno-smith-and-maxx-crosby-family-portrait-las-vegas-raiders-nfl-painting-t-shirt/",
+    "https://berrylittles.com/product/official-missouri-tigers-football-ncaa-beau-pribula-pri-zou-la-signature-t-shirt/",
+    "https://berrylittles.com/product/official-kyle-schwarber-50-schwarbombs-philadelphia-phillies-mlb-signature-t-shirt/",
+    "https://berrylittles.com/product/official-joe-burrow-cincinnati-bengals-nfl-football-masterpiece-signature-t-shirt/",
+    "https://berrylittles.com/product/official-wwe-x-aaa-worlds-collide-las-vegas-friday-september-12-2025-poster-t-shirt/",
+    "https://berrylittles.com/product/official-coming-soon-and-often-mina-shirakawa-and-toni-storm-intemporelle-aew-2025-t-shirt/",
+    "https://berrylittles.com/product/official-the-who-philadelphia-pa-august-21-2025-wells-fargo-center-poster-t-shirt/",
+    "https://berrylittles.com/product/official-coach-al-new-york-yankees-mlb-planet-euphoria-artwork-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-pittsburgh-steelers-vs-seattle-seahawks-home-opener-2025-season-on-september-14-acrisure-stadium-pennsylvania-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-everyone-loves-womens-rugby-pittsburgh-forge-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-i-helped-expose-fraudulent-september-9-2025-usf-bulls-69-in-the-college-football-ap-poll-t-shirt/",
-    "https://dreameshirt.com/product/official-delaware-ncaa-football-kyre-duplessis-catch-of-the-year-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-dave-matthews-band-live-trax-vol-71-ameris-bank-amphitheatre-alpharetta-georgia-t-shirt/",
-    "https://dreameshirt.com/product/official-auburn-tigers-football-ncaa-cam-coleman-superstar-pose-signature-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-giovannie-and-the-hired-guns-september-12-13-2025-gruene-hall-concert-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-hobo-johnson-and-the-lovemakers-2025-peach-scone-8-year-3-month-anniversary-tour-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-courtney-barnett-event-october-02-2025-joshua-tree-retreat-center-joshua-tree-ca-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-st-paul-and-the-broken-bones-avondale-brewing-company-in-birmingham-al-october-17-2025-t-shirt/"
+    "https://dreameshirt.com/product/official-temple-vs-oklahoma-fight-fight-fight-for-the-cherry-the-white-september-13-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-congratulations-rizzo-retirement-new-york-yankees-anthony-rizzo-signature-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-fiesta-bowl-copper-state-invitational-tempe-arizona-october-9th-and-11th-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-chicago-cubs-congratulations-anthony-rizzo-july-2012-national-league-rookie-of-the-month-signature-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-charlie-kirk-america-will-never-be-the-same-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-justice-for-charlie-kirk-1993-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-pray-for-charlie-kirk-1993-2025-usa-flag-t-shirt/",
+    "https://dreameshirt.com/product/official-rest-in-peace-charlie-kirk-1993-2025-painting-t-shirt/",
+    "https://dreameshirt.com/product/official-seattle-mariners-baseball-mlb-powered-by-witchcraft-t-shirt/",
+    "https://dreameshirt.com/product/official-rory-mcilroy-team-usa-ryder-cup-2025-painting-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/official-the-lumineers-tla-automatic-world-tour-2025-shirt/",
@@ -80,16 +82,16 @@
     "https://teeextra.com/product/official-kitchen-dwellers-denver-colorado-jan-24-2026-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/my-ideal-weight-josh-allen-on-top-of-me-shirt/",
-    "https://teespix.com/product/halloween-hocus-pocus-x-buffalo-bills-no-1-shirt/",
-    "https://teespix.com/product/rutgers-more-like-butt-gers-shirt/",
-    "https://teespix.com/product/denny-hamlin-2025-enjoy-illinois-300-race-winner-t-shirt/",
-    "https://teespix.com/product/usf-football-bucked-miami-shirt/",
-    "https://teespix.com/product/our-kicker-is-a-serial-killer-steelers-shirt/",
-    "https://teespix.com/product/raider-power-2025-texas-tech-vs-oregon-gameday-football-t-shirt/",
-    "https://teespix.com/product/university-of-nebraska-husker-football-max-collegiate-shirt/",
-    "https://teespix.com/product/zero-ducks-off-road-cracker-barrel-parody-t-shirt/",
-    "https://teespix.com/product/fsu-football-tommy-castellanos-tommy-football-shirt-2/"
+    "https://teespix.com/product/where-else-would-you-rather-be-shirt/",
+    "https://teespix.com/product/were-just-two-lost-souls-swimming-in-a-fish-bowl-shirt/",
+    "https://teespix.com/product/vintage-wu-tang-clan-buffalo-bills-mafia-logo-shirt/",
+    "https://teespix.com/product/toronto-blue-jays-logo-parody-shirt/",
+    "https://teespix.com/product/three-jeep-santa-car-christmas-shirt/",
+    "https://teespix.com/product/team-trump-pray-for-charlie-kirk-shirt/",
+    "https://teespix.com/product/support-queer-owned-businesses-shirt-2/",
+    "https://teespix.com/product/super-magfest-2026-shirt/",
+    "https://teespix.com/product/st-paul-and-the-broken-bones-oct-17-2025-avondale-brewing-company-in-birmingham-al-poster-shirt/",
+    "https://teespix.com/product/shadow-wizard-skrillex-gang-shirt-2/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/make-chicago-great-again-trump-chicago-bears-2-sided-shirt/"
@@ -144,16 +146,16 @@
     "https://uscraftedtees.com/product/official-the-mountain-goats-sea-monster-ivory-tour-2025-shirt/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/yeah-im-in-bangin-exquisite-latina-asses-shirt/",
-    "https://capitoneshirt.com/product/wanted-reward-phillies-karen-shirt/",
-    "https://capitoneshirt.com/product/virginia-old-dominion-state-shirt/",
-    "https://capitoneshirt.com/product/tomato-east-nashville-a-uniter-not-a-divider-shirt/",
-    "https://capitoneshirt.com/product/shaquille-oneal-shaqer-barrel-shirt/",
-    "https://capitoneshirt.com/product/phillies-karen-starter-pack-thats-my-ball-shirt/",
-    "https://capitoneshirt.com/product/phillies-karen-give-me-your-ball-shirt/",
-    "https://capitoneshirt.com/product/phillies-baseball-karen-old-cunt-store-cracker-barrel-shirt/",
-    "https://capitoneshirt.com/product/nosferatu-nosferagu-pasta-sauce-garlic-free-halloween-shirt/",
-    "https://capitoneshirt.com/product/newscum-destroyed-california-shirt/"
+    "https://capitoneshirt.com/product/words-are-stronger-than-bullets-charlie-kirk-shirt/",
+    "https://capitoneshirt.com/product/we-stand-with-charlie-kirk-a-true-patriot-shirt/",
+    "https://capitoneshirt.com/product/we-are-charlie-kirk-us-eagle-shirt/",
+    "https://capitoneshirt.com/product/the-charlie-kirk-show-shirt/",
+    "https://capitoneshirt.com/product/stand-against-violence-for-all-charlie-kirk-shirt/",
+    "https://capitoneshirt.com/product/shadow-wizard-skrillex-gang-shirt-2/",
+    "https://capitoneshirt.com/product/seattle-mariners-powered-by-witchcraft-shirt/",
+    "https://capitoneshirt.com/product/rory-mcilroy-usa-ryder-cup-2025-shirt/",
+    "https://capitoneshirt.com/product/rip-charlie-kirk-ideas-never-die-shirt/",
+    "https://capitoneshirt.com/product/rest-in-peace-charlie-kirk-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/wear-pants-do-crimes-shirt/",
@@ -180,26 +182,28 @@
     "https://teleteeshirt.com/product/kyle-schwarber-50-schwarbombs-good-job-kyle-t-shirts/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/hell-is-a-teenage-girl-heart-blazing-fire-shirt/",
-    "https://teeslocal.com/product/trivium-heavy-metal-band-playing-on-stage-with-flames-dark-demon-hands-vintage-shirt/",
-    "https://teeslocal.com/product/punk-bass-player-inspired-by-rogue-from-the-x-men-shirt/",
-    "https://teeslocal.com/product/tiger-tacocat-spelled-backwards-is-tacocat-go-team-shirt/",
-    "https://teeslocal.com/product/unicorn-chef-bitchcraft-the-art-of-pissing-people-off-by-telling-them-the-truth-shirt/",
-    "https://teeslocal.com/product/josh-allen-number-17-quarterback-throwing-and-celebrating-football-action-sports-shirt/",
-    "https://teeslocal.com/product/tony-santillan-bend-the-knee-strikeout-pitcher-baseball-sports-shirt/",
-    "https://teeslocal.com/product/cam-skattebo-new-york-giants-homage-angry-runs-player-nfl-shirt/"
+    "https://teeslocal.com/product/charlie-kirk-american-patriot-conservative-tribute-shirt/",
+    "https://teeslocal.com/product/rest-in-peace-charlie-kirk-1993-2025-american-comeback-shirt/",
+    "https://teeslocal.com/product/american-patriot-eagle-we-are-charlie-kirk-shirt/",
+    "https://teeslocal.com/product/charlie-kirk-fight-fight-fight-freedom-shirt/",
+    "https://teeslocal.com/product/voices-not-violence-rip-charlie-kirk-1993-2025-shirt/",
+    "https://teeslocal.com/product/voices-not-violence-charlie-kirk-1993-2025-shirt/",
+    "https://teeslocal.com/product/turning-point-forever-1993-2025-charlie-kirk-shirt/",
+    "https://teeslocal.com/product/stand-against-violance-charlie-kirk-stand-with-charlie-kirk-shirt/",
+    "https://teeslocal.com/product/rip-charlie-kirk-2025-fight-fight-fight-flag-shirt/",
+    "https://teeslocal.com/product/pray-for-charlie-kirk-true-patriot-political-statement-shirt/"
   ],
   "melonashirt.com": [
-    "https://melonashirt.com/product/official-charlie-kirk-in-long-memory-1993-2025-shirts/",
-    "https://melonashirt.com/product/official-wine-mommies-in-heat-for-gun-sense-in-america-shirts/",
-    "https://melonashirt.com/product/official-unreleased-charlie-kirk-design-shirts/",
-    "https://melonashirt.com/product/official-pray-for-charlie-kirk-shirts/",
-    "https://melonashirt.com/product/official-pray-for-charlie-kirk-1993-2025-shirts/",
-    "https://melonashirt.com/product/official-midnight-sun-tour-hot-and-sexy-ladies-flowy-cropped-shirts/",
-    "https://melonashirt.com/product/official-charlie-kirk-iwan-hollow-point-usa-shirts/",
-    "https://melonashirt.com/product/official-emmet-otters-jug-band-christmas-shirts/",
-    "https://melonashirt.com/product/official-how-bout-those-kc-chiefs-shirts/",
-    "https://melonashirt.com/product/official-iryna-zarutska-white-people-we-do-not-need-to-live-like-this-shirts/"
+    "https://melonashirt.com/product/official-the-charlie-kirk-show-shirts/",
+    "https://melonashirt.com/product/official-rest-in-peace-charlie-kirk-american-flag-shirts/",
+    "https://melonashirt.com/product/official-charlie-kirk-freedom-american-flag-shirts/",
+    "https://melonashirt.com/product/official-charlie-kirk-in-memory-patriot-freedom-usa-shirts/",
+    "https://melonashirt.com/product/official-charlie-kirk-a-true-patriot-shirts/",
+    "https://melonashirt.com/product/official-justice-for-charlie-kirk-charlie-kirk-shirts/",
+    "https://melonashirt.com/product/official-in-loving-memory-of-charlie-kirk-shirts/",
+    "https://melonashirt.com/product/official-justice-for-charlie-kirk-eagle-american-flag-shirts/",
+    "https://melonashirt.com/product/official-rip-charlie-kirk-1993-2025-shirts/",
+    "https://melonashirt.com/product/official-charlie-kirk-rest-in-peace-1993-2025-shirts/"
   ],
   "dalatshirt.com": [
     "https://dalatshirt.com/product/a-winning-tradition-marshall-university-thundering-herd-football-2025-t-shirts/",
@@ -238,40 +242,40 @@
     "https://designatshop.com/product/justice-for-charlie-kirk-american-flag-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/diego-lopes-noche-ufc-t-shirt/",
-    "https://arjomany.com/product/diego-lopes-lopes-ranch-t-shirt/",
-    "https://arjomany.com/product/diego-lopes-dream-believe-grunge-t-shirt/",
-    "https://arjomany.com/product/diego-lopes-bobblehead-t-shirt/",
-    "https://arjomany.com/product/cboystv-milwaukee-blaze-tee/",
-    "https://arjomany.com/product/cboystv-mans-best-friend-shirt/",
-    "https://arjomany.com/product/cboystv-life-wide-open-wave-runner-tee/",
-    "https://arjomany.com/product/cboystv-life-wide-open-sun-chaser-merch/",
-    "https://arjomany.com/product/cboystv-life-wide-open-slime-merch/",
-    "https://arjomany.com/product/cboystv-life-wide-open-pull-tab-shirt/"
+    "https://arjomany.com/product/chunky-mascots-stacking-heads-shirt/",
+    "https://arjomany.com/product/jennie-back-to-school-lyric-merch/",
+    "https://arjomany.com/product/jennie-back-to-school-lyric-merch-2025/",
+    "https://arjomany.com/product/gojira-erde-demon-shirt/",
+    "https://arjomany.com/product/gojira-erde-demon-merch-2025/",
+    "https://arjomany.com/product/limited-jennie-back-to-school-anime-shirt/",
+    "https://arjomany.com/product/jennie-back-to-school-anime-shirts/",
+    "https://arjomany.com/product/jennie-back-to-school-anime-shirt/",
+    "https://arjomany.com/product/2025-jennie-back-to-school-anime-shirt/",
+    "https://arjomany.com/product/vintage-pitt-tv-show-dr-robbie-graphic-tee/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/unity-sphere-las-vegas-2025-poster/",
-    "https://collectionpostertour.com/product/the-who-aug-21-2025-philadelphia-pa-concert-poster/",
-    "https://collectionpostertour.com/product/the-hives-sept-10-2025-dallas-tx-concert-poster/",
-    "https://collectionpostertour.com/product/system-of-a-down-uk-europe-summer-tour-2025-poster/",
-    "https://collectionpostertour.com/product/sierra-ferrell-sept-9-2025-richmond-va-concert-poster/",
-    "https://collectionpostertour.com/product/sierra-ferrell-sept-10-2025-raleigh-nc-concert-poster/",
-    "https://collectionpostertour.com/product/scowl-australia-tour-2025-poster/",
-    "https://collectionpostertour.com/product/poster-unity-sphere-las-vegas-2025/",
-    "https://collectionpostertour.com/product/leon-bridges-x-charley-crockett-the-crooner-and-the-cowboy-tour-september-2025-poster/",
-    "https://collectionpostertour.com/product/good-flying-birds-fall-tour-2025-poster/"
+    "https://collectionpostertour.com/product/twenty-one-pilots-breach-t-shirt/",
+    "https://collectionpostertour.com/product/mustangs-2025-grand-finalist-t-shirt/",
+    "https://collectionpostertour.com/product/armado-records-te-odio-t-shirt/",
+    "https://collectionpostertour.com/product/armado-records-soy-un-pendejo-t-shirt/",
+    "https://collectionpostertour.com/product/armado-records-eres-arte-t-shirt/",
+    "https://collectionpostertour.com/product/armado-records-dame-un-chanze-t-shirt/",
+    "https://collectionpostertour.com/product/the-olllam-nov-12-2025-beaver-creek-co-concert-poster/",
+    "https://collectionpostertour.com/product/the-olllam-fall-tour-2025-poster/",
+    "https://collectionpostertour.com/product/the-dear-hunter-uk-and-europe-tour-2026-poster/",
+    "https://collectionpostertour.com/product/snowmass-balloon-festival-sept-12-14-2025-snowmass-village-co-concert-poster/"
   ],
   "neoteeco.com": [
-    "https://neoteeco.com/product/wwe-worlds-collide-wrestling-poster-on-september-12-2025-with-aaa-lucha-libre-stars-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/the-who-poster-at-wells-fargo-center-in-philadelphia-pa-on-august-21-2025-eagle-artwork-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/system-of-a-down-poster-with-queens-of-the-stone-age-and-acid-bath-europe-tour-2025-artwork-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/sierra-ferrell-poster-at-the-rooftop-at-pier-17-in-new-york-ny-on-september-6-2025-tour-artwork-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/scowl-poster-australia-tour-2025-with-end-it-and-secret-world-artwork-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/rip-charlie-kirk-tribute-memorial-poster-2025-conservative-movement-artwork-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/rest-in-peace-charlie-kirk-tribute-poster-2025-onservative-voice-artwork-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/rest-in-peace-charlie-kirk-memorial-tribute-poster-2025-motivational-artwork-design-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/marvel-studios-thunderbolts-poster-the-new-avengers-disney-plus-artwork-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/leon-bridges-and-charley-crockett-poster-the-crooner-and-the-cowboy-tour-2025-artwork-home-decor-poster-canvas/"
+    "https://neoteeco.com/product/wwe-worlds-collide-wrestling-poster-on-september-12-2025-with-aaa-lucha-libre-stars-unisex-t-shirt/",
+    "https://neoteeco.com/product/the-who-poster-at-wells-fargo-center-in-philadelphia-pa-on-august-21-2025-eagle-artwork-unisex-t-shirt/",
+    "https://neoteeco.com/product/system-of-a-down-poster-with-queens-of-the-stone-age-and-acid-bath-europe-tour-2025-artwork-unisex-t-shirt/",
+    "https://neoteeco.com/product/sierra-ferrell-poster-at-the-rooftop-at-pier-17-in-new-york-ny-on-september-6-2025-tour-artwork-unisex-t-shirt/",
+    "https://neoteeco.com/product/rip-charlie-kirk-tribute-memorial-poster-2025-conservative-movement-artwork-unisex-t-shirt/",
+    "https://neoteeco.com/product/rest-in-peace-charlie-kirk-unisex-t-shirt/",
+    "https://neoteeco.com/product/rest-in-peace-charlie-kirk-memorial-tribute-poster-2025-motivational-artwork-design-unisex-t-shirt/",
+    "https://neoteeco.com/product/official-teenage-mutant-ninja-turtles-chrome-alone-2-lost-in-new-jersey-new-logo-2025-unisex-t-shirt/",
+    "https://neoteeco.com/product/marvel-studios-thunderbolts-poster-the-new-avengers-disney-plus-artwork-unisex-t-shirt/",
+    "https://neoteeco.com/product/leon-bridges-and-charley-crockett-poster-the-crooner-and-the-cowboy-tour-2025-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
     "https://newshirtstore.com/product/wristmeetrazor-replica-of-a-strange-love-morta-t-shirt/",
