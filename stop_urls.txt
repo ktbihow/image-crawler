@@ -93,16 +93,16 @@
     "https://nowbestshirt.com/product/isaac-teslaa-18-detroit-lions-name-and-number-2-sided-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/how-bout-those-kansas-city-chiefs-shirt/",
-    "https://serenashirt.com/product/peanut-butter-angeli-time-steve-angeli-shirt/",
-    "https://serenashirt.com/product/annunciation-chicago-bears-nfl-shirt/",
-    "https://serenashirt.com/product/wnba-ps-we-see-you-shirt/",
-    "https://serenashirt.com/product/annunciation-minnesota-vikings-nfl-shirt/",
-    "https://serenashirt.com/product/anthony-rizzo-is-my-captain-forever-shirt/",
-    "https://serenashirt.com/product/georgia-tech-yellow-jackets-primary-logo-shirt/",
-    "https://serenashirt.com/product/ealges-hawk-tuah-spit-on-dak-thing-shirt/",
-    "https://serenashirt.com/product/missouri-tigers-beau-pribula-pri-zou-la-shirt/",
-    "https://serenashirt.com/product/minnesota-vikings-nfl-j-j-mccarthy-swag-head-shirt/"
+    "https://serenashirt.com/product/better-to-be-a-faggot-than-a-fascist-shirt/",
+    "https://serenashirt.com/product/berxwedan-jiyane-kurdistan-flag-shirt/",
+    "https://serenashirt.com/product/charlie-kirk-1993-2025-when-people-stop-talking-thats-when-violence-happens-shirt/",
+    "https://serenashirt.com/product/charlie-kirk-economy-legacy-silence-shirt/",
+    "https://serenashirt.com/product/charlie-kirk-2025-fight-fight-fight-usa-flag-shirt/",
+    "https://serenashirt.com/product/charlie-kirk-forever-in-our-hearts-shirt/",
+    "https://serenashirt.com/product/charlie-kirk-freedom-bloody-shirt/",
+    "https://serenashirt.com/product/charlie-kirk-freedom-is-not-free-it-must-be-fought-for-and-defended-shirt/",
+    "https://serenashirt.com/product/charlie-kirk-freedom-shirt/",
+    "https://serenashirt.com/product/charlie-kirk-in-loving-memory-shirt/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/yin-yin-usa-and-canada-tour-2025-poster-shirt/",
