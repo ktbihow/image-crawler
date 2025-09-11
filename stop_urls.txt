@@ -106,12 +106,7 @@
     "https://teespix.com/product/charlie-kirk-the-soul-of-america-burning-light-never-let-it-go-out-shirt/"
   ],
   "nowbestshirt.com": [
-    "https://nowbestshirt.com/product/tyreek-hill-10-miami-dolphins-2025-rivalries-player-name-and-number-2-sided-shirt/",
-    "https://nowbestshirt.com/product/tua-tagovailoa-1-miami-dolphins-2025-rivalries-player-name-and-number-2-sided-shirt/",
-    "https://nowbestshirt.com/product/jaylen-waddle-17-miami-dolphins-2025-rivalries-player-name-and-number-2-sided-shirt/",
-    "https://nowbestshirt.com/product/devon-achane-28-miami-dolphins-2025-rivalries-player-name-and-number-2-sided-shirt/",
-    "https://nowbestshirt.com/product/brock-purdy-13-san-francisco-49ers-player-name-and-number-2-sided-shirt/",
-    "https://nowbestshirt.com/product/weve-been-priced-out-protest-the-libertys-skyrocketing-ticket-prices-2-sided-shirt/"
+    "https://nowbestshirt.com/product/isaac-teslaa-18-detroit-lions-name-and-number-2-sided-shirt/"
   ],
   "serenashirt.com": [
     "https://serenashirt.com/product/how-bout-those-kansas-city-chiefs-shirt/",
@@ -165,8 +160,16 @@
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/official-trump-chipocalypse-now-chicago-shirt/",
-    "https://uscraftedtees.com/product/official-the-mountain-goats-sea-monster-ivory-tour-2025-shirt/"
+    "https://uscraftedtees.com/product/original-zom-bee-cute-creepy-2025-t-shirts/",
+    "https://uscraftedtees.com/product/original-the-happy-fits-apple-2025-t-shirts/",
+    "https://uscraftedtees.com/product/original-the-black-crowes-tallest-flag-2025-t-shirts/",
+    "https://uscraftedtees.com/product/original-sorry-i-am-cranky-im-going-through-my-terrible-sixties-right-now-gnome-t-shirts/",
+    "https://uscraftedtees.com/product/original-skeletons-the-palmer-squares-beach-squad-2025-t-shirts/",
+    "https://uscraftedtees.com/product/original-pray-for-charlie-kirk-2025-t-shirts/",
+    "https://uscraftedtees.com/product/original-pheasant-hunting-dont-suck-t-shirts/",
+    "https://uscraftedtees.com/product/original-i-wan-hollow-point-2025-t-shirts/",
+    "https://uscraftedtees.com/product/original-i-never-wish-death-upon-anyone-who-wrongs-me-i-wish-sudden-explosive-diarrhea-while-stuck-in-traffic-t-shirts/",
+    "https://uscraftedtees.com/product/original-frog-off-to-commit-tomfoolery-2025-t-shirts/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/yes-im-old-but-i-saw-braves-greatness-legend-players-shirt/",
@@ -222,28 +225,28 @@
     "https://melonashirt.com/product/official-psychostick-cerberus-like-socks-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/a-winning-tradition-marshall-university-thundering-herd-football-2025-t-shirts/",
-    "https://dalatshirt.com/product/a-warning-in-this-t-shirts-is-a-positive-beautiful-loving-intelligent-sensitive-talented-hard-working-t-shirts/",
-    "https://dalatshirt.com/product/betty-white-fck-aroun-find-out-t-shirts/",
-    "https://dalatshirt.com/product/born-to-die-limveld-is-a-heck-kill-em-all-2025-i-am-parry-man-bad-relics-t-shirts/",
-    "https://dalatshirt.com/product/college-gameday-georgia-bulldogs-vs-tennessee-volunteers-2025-t-shirts/",
-    "https://dalatshirt.com/product/cowboy-bull-riding-letth-do-t-shirts/",
-    "https://dalatshirt.com/product/college-gameday-georgia-bulldogs-vs-tennessee-volunteers-t-shirts/",
-    "https://dalatshirt.com/product/cracker-barrel-vampires-t-shirts/",
-    "https://dalatshirt.com/product/corey-heim-no-11-toyota-tundra-trd-pro-for-tricon-garage-t-shirts/",
-    "https://dalatshirt.com/product/deer-how-bout-a-hug-famous-last-words-colorado-t-shirts/"
+    "https://dalatshirt.com/product/bluey-metal-gear-solid-t-shirts/",
+    "https://dalatshirt.com/product/celtic-park-graphic-t-shirts/",
+    "https://dalatshirt.com/product/cardi-b-am-i-the-drama-portrait-t-shirts/",
+    "https://dalatshirt.com/product/charlie-kirk-great-american-patriot-united-state-map-t-shirts/",
+    "https://dalatshirt.com/product/charlie-kirk-am-charlie-t-shirts/",
+    "https://dalatshirt.com/product/charlies-our-angel-in-loving-memory-charlie-kirk-1993-2025-t-shirts/",
+    "https://dalatshirt.com/product/charlie-kirk-true-patriot-1993-2025-rest-in-power-t-shirts/",
+    "https://dalatshirt.com/product/chilling-tales-of-horror-slave-of-the-living-hell-t-shirts/",
+    "https://dalatshirt.com/product/connect-technical-music-point-youcore-nightcore-resources-sculpted-sampler-t-shirts/",
+    "https://dalatshirt.com/product/decoding-palm-culture-palm-angels-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/dont-ask-what-happened-to-the-uss-liberty-on-june-8th-1967-shirt/",
-    "https://lovingsquad.com/product/do-it-lady-chit-tour-tiktok-graphic-shirt/",
-    "https://lovingsquad.com/product/cover-me-im-going-in-custom-graphic-shirt/",
-    "https://lovingsquad.com/product/charlie-kirk-voices-not-violence-1993-2025-shirt/",
-    "https://lovingsquad.com/product/charlie-kirk-signature-just-because-you-are-offended-doesnt-mean-you-are-right-shirt/",
-    "https://lovingsquad.com/product/charlie-kirk-never-surrender-shirt/",
-    "https://lovingsquad.com/product/charlie-kirk-justice-for-americas-turning-shirt/",
-    "https://lovingsquad.com/product/charlie-kirk-just-because-youre-offended-doesnt-mean-youre-right-shirt/",
-    "https://lovingsquad.com/product/charlie-kirk-i-love-ck-heart-shirt/",
-    "https://lovingsquad.com/product/charlie-kirk-blessed-is-the-man-who-remains-steadfast-under-trial-for-when-he-has-stood-shirt/"
+    "https://lovingsquad.com/product/the-young-bucks-hardcore-tag-team-superstars-slick-nick-mr-instant-replay-shirt/",
+    "https://lovingsquad.com/product/the-real-stp-ultimate-experience-logo-shirt/",
+    "https://lovingsquad.com/product/the-president-wanted-to-trade-weapons-for-hostages-with-iran-and-all-we-got-was-the-iran-contra-affair-shirt/",
+    "https://lovingsquad.com/product/the-nightmare-before-christmas-jack-sally-shirt/",
+    "https://lovingsquad.com/product/tampa-bay-buccaneers-vs-atlanta-falcons-season-opener-sept-7-2025-comic-shirt/",
+    "https://lovingsquad.com/product/stfu-about-chicago-blue-demons-shirt/",
+    "https://lovingsquad.com/product/stfu-about-chicago-beefs-shirt/",
+    "https://lovingsquad.com/product/spooky-and-feral-raccoon-halloween-ghost-pumpkin-skeleton-shirt/",
+    "https://lovingsquad.com/product/snoopy-another-cocoa-please-shirt/",
+    "https://lovingsquad.com/product/snoopy-and-woodstock-joe-cool-way-to-cool-since-1971-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/toronto-blue-jays-comeback-kids-shirt/",
