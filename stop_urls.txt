@@ -21,16 +21,16 @@
     "https://techteesusa.com/product/ussf-united-states-space-force-always-above-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/buckingham-nicks-shirt/",
-    "https://teeworksusa.com/product/gintama-seven-days-of-elizabeth-shirt/",
-    "https://teeworksusa.com/product/the-american-comeback-tour-charlie-kirk-shirt/",
-    "https://teeworksusa.com/product/beau-pribula-pri-zou-la-missouri-tigers-shirt/",
-    "https://teeworksusa.com/product/i-heart-pizza-mutant-ninja-turtles-shirt/",
-    "https://teeworksusa.com/product/sad-country-songs-and-cold-beer-shirt/",
-    "https://teeworksusa.com/product/jey-uso-yeet-shirt-2/",
-    "https://teeworksusa.com/product/sur-la-mer-sailboat-shirt/",
-    "https://teeworksusa.com/product/anthony-rizzo-our-captain-forever-shirt/",
-    "https://teeworksusa.com/product/mass-non-compliance-is-the-only-way-to-end-this-shirt/"
+    "https://teeworksusa.com/product/amorica-or-bust-stars-and-stripes-the-black-crowes-shirt/",
+    "https://teeworksusa.com/product/amorica-distressed-album-cover-the-black-crowes-shirt/",
+    "https://teeworksusa.com/product/my-give-a-shit-meter-shirt/",
+    "https://teeworksusa.com/product/justice-for-charlie-kirk-shirt/",
+    "https://teeworksusa.com/product/batman-bronze-age-shirt/",
+    "https://teeworksusa.com/product/charlie-kirk-1993-2025-rip-shirt/",
+    "https://teeworksusa.com/product/muffins-unicorn-shirt/",
+    "https://teeworksusa.com/product/batman-silver-age-batmobile-shirt/",
+    "https://teeworksusa.com/product/amoricans-united-the-black-crowes-shirt/",
+    "https://teeworksusa.com/product/youll-do-nuttin-conor-mcgregor-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-you-dont-know-a-buffalo-bills-die-hard-fan-until-you-meet-a-bills-fan-shirt/",
