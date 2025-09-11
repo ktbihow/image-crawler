@@ -1,15 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/thomas-x-grasso-tugboat-roundup-2025-waterford-ny-shirt-png/",
-    "https://geekteesus.com/product/oasis-cigarettes-and-alcohol-live-25-la-rose-bowl-stadium-shirt-png/",
-    "https://geekteesus.com/product/son-heung-min-x-los-angeles-dodgers-2025-signature-shirt-png/",
-    "https://geekteesus.com/product/boise-state-broncos-football-mental-health-matters-2025-shirt-png/",
-    "https://geekteesus.com/product/annunciation-catholic-church-shooting-minnesota-vikings-shirt-png/",
-    "https://geekteesus.com/product/zach-bryan-michigan-wolverines-tour-2025-t-shirt-png/",
-    "https://geekteesus.com/product/zach-bryan-michigan-stadium-2025-t-shirt-png/",
-    "https://geekteesus.com/product/uconn-huskies-mens-basketball-5x-national-champs-banners-t-shirt-png/",
-    "https://geekteesus.com/product/maryland-terrapins-2025-ncaa-football-t-shirt-png/",
-    "https://geekteesus.com/product/chicago-cubs-2025-aj-mendez-love-bites-back-2025-t-shirt-png/"
+    "https://geekteesus.com/product/thomas-x-grasso-tugboat-roundup-2025-waterford-ny-shirt/",
+    "https://geekteesus.com/product/oasis-cigarettes-and-alcohol-live-25-la-rose-bowl-stadium-shirt/",
+    "https://geekteesus.com/product/son-heung-min-x-los-angeles-dodgers-2025-signature-shirt/",
+    "https://geekteesus.com/product/boise-state-broncos-football-mental-health-matters-2025-shirt/",
+    "https://geekteesus.com/product/annunciation-catholic-church-shooting-minnesota-vikings-shirt/",
+    "https://geekteesus.com/product/zach-bryan-michigan-wolverines-tour-2025-t-shirt/",
+    "https://geekteesus.com/product/zach-bryan-michigan-stadium-2025-t-shirt/",
+    "https://geekteesus.com/product/uconn-huskies-mens-basketball-5x-national-champs-banners-t-shirt/",
+    "https://geekteesus.com/product/maryland-terrapins-2025-ncaa-football-t-shirt/",
+    "https://geekteesus.com/product/chicago-cubs-2025-aj-mendez-love-bites-back-2025-t-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-poster-nfl-pittsburgh-steelers-vs-seattle-seahawks-home-opener-at-acrisure-stadium-on-september-14-2025-here-we-go-t-shirt/",
@@ -18,16 +18,16 @@
     "https://orionshirt.com/product/official-nfl-pittsburgh-steelers-vs-seattle-seahawks-at-acrisure-stadium-on-september-14-2025-fan-gear-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/unrivaled-expansion-club-hive-basketball-club-shirt/",
-    "https://techteesusa.com/product/unreleased-charlie-kirk-design-shirt/",
-    "https://techteesusa.com/product/radio-free-alice-repeat-shirt/",
-    "https://techteesusa.com/product/pray-for-charlie-kirk-47-shirt/",
-    "https://techteesusa.com/product/pray-for-charlie-kirk-shirt/",
-    "https://techteesusa.com/product/pls-do-not-give-me-a-cigarette-no-matter-what-i-say-shirt-2/",
-    "https://techteesusa.com/product/new-york-inner-city-sports-division-shirt/",
-    "https://techteesusa.com/product/never-forget-remember-her-iryna-zarutska-shirt/",
-    "https://techteesusa.com/product/i-wan-hollow-point-shirt/",
-    "https://techteesusa.com/product/dont-stop-talking-about-palestine-watermelon-shirt/"
+    "https://techteesusa.com/product/seattle-mariners-baseball-powered-by-witchcraft-shirt/",
+    "https://techteesusa.com/product/protect-ya-neck-shirt/",
+    "https://techteesusa.com/product/protect-communities-against-fascism-shirt/",
+    "https://techteesusa.com/product/most-kings-get-their-head-cut-off-shirt/",
+    "https://techteesusa.com/product/missouri-tigers-football-beau-pribula-pri-zou-la-signature-shirt/",
+    "https://techteesusa.com/product/liberty-weve-been-priced-out-shirt/",
+    "https://techteesusa.com/product/make-nazis-dead-again-shirt/",
+    "https://techteesusa.com/product/kyle-schwarber-50-schwarbombs-philadelphia-phillies-shirt/",
+    "https://techteesusa.com/product/justice-for-iryna-zarutska-shirt/",
+    "https://techteesusa.com/product/justice-for-iryna-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/wizard-of-boz-vintage-shirt/",
@@ -74,14 +74,14 @@
     "https://dreameshirt.com/product/official-rory-mcilroy-team-usa-ryder-cup-2025-painting-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-the-lumineers-tla-automatic-world-tour-2025-shirt/",
-    "https://teeextra.com/product/official-the-brian-and-jones-towin-with-massacre-nov-4-2025-slo-brew-in-san-luis-obispo-ca-shirt/",
-    "https://teeextra.com/product/official-south-florida-bulls-bucked-miami-miami-hurricanes-shirt/",
-    "https://teeextra.com/product/official-radio-free-alice-shirt/",
-    "https://teeextra.com/product/official-new-york-mets-hyper-local-refresh-shea-stadium-2025-shirt/",
-    "https://teeextra.com/product/official-more-like-butt-gers-shirt/",
-    "https://teeextra.com/product/official-melvins-and-redd-kross-9-18-2025-madison-wi-shirt/",
-    "https://teeextra.com/product/official-kitchen-dwellers-denver-colorado-jan-24-2026-shirt/"
+    "https://teeextra.com/product/official-pitt-panthers-vs-west-virginia-mountaineers-backyard-brawl-comfort-colors-shirt/",
+    "https://teeextra.com/product/official-pick-your-poison-halloween-2025-shirt/",
+    "https://teeextra.com/product/official-pedro-the-lion-living-room-tour-november-2025-shirt/",
+    "https://teeextra.com/product/official-parkour-hardcore-team-scranton-est-2009-shirt/",
+    "https://teeextra.com/product/official-oh-wonder-10-years-on-shirt/",
+    "https://teeextra.com/product/official-nobody-will-do-it-for-you-shirt/",
+    "https://teeextra.com/product/official-nasum-inhaled-exhaled-revised-shirt/",
+    "https://teeextra.com/product/official-nanowar-of-o-jetbrains-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/where-else-would-you-rather-be-shirt/",
@@ -160,16 +160,16 @@
     "https://capitoneshirt.com/product/rest-in-peace-charlie-kirk-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/only-jesus-can-save-us-warrior-angel-cross-christian-shirt/",
-    "https://clickoneshirt.com/product/old-age-used-to-be-all-in-my-head-now-its-in-my-joints-too-shirt/",
-    "https://clickoneshirt.com/product/mississippi-state-bulldogs-football-welcome-to-starkville-hand-drawn-campus-masot-shirt/",
-    "https://clickoneshirt.com/product/minesota-viking-football-skol-four-time-nfc-champions-helmet-shirt/",
-    "https://clickoneshirt.com/product/midnight-sun-tour-hot-and-sexy-shirt/",
-    "https://clickoneshirt.com/product/mcdonalds-grinch-just-waiting-for-halloween-goth-graphic-shirt/",
-    "https://clickoneshirt.com/product/maid-rite-milk-shakes-shirt/",
-    "https://clickoneshirt.com/product/lemonade-i-have-a-bad-relationship-with-my-dad-wanna-do-tequila-shots-shirt/",
-    "https://clickoneshirt.com/product/keir-starmer-wanker-shirt/",
-    "https://clickoneshirt.com/product/justin-jefferson-and-sam-darnold-minnesota-viking-football-step-brothers-shirt/"
+    "https://clickoneshirt.com/product/wendys-grinch-just-waiting-for-halloween-goth-graphic-shirt/",
+    "https://clickoneshirt.com/product/walmart-grinch-just-waiting-for-halloween-goth-graphic-shirt/",
+    "https://clickoneshirt.com/product/vampire-nurse-help-build-the-blood-bank-now-retro-shirt/",
+    "https://clickoneshirt.com/product/the-timeless-adventures-of-tommy-in-the-breakroom-comic-shirt/",
+    "https://clickoneshirt.com/product/the-revenge-of-colton-in-the-tv-robot-at-last-im-free-comic-shirt/",
+    "https://clickoneshirt.com/product/the-return-of-the-department-of-war-est-2025-bald-eagle-flag-shirt/",
+    "https://clickoneshirt.com/product/subway-grinch-just-waiting-for-halloween-goth-graphic-shirt/",
+    "https://clickoneshirt.com/product/skeleton-minnesota-viking-football-club-est-1960-retro-style-shirt/",
+    "https://clickoneshirt.com/product/see-you-at-the-maginot-zoo-tv-mysterious-creature-graphic-shirt/",
+    "https://clickoneshirt.com/product/ryan-reynolds-canada-toronto-international-film-festival-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/trump-make-america-safe-again-t-shirts/",
