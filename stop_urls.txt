@@ -36,16 +36,16 @@
     "https://techteesusa.com/product/peace-will-win-fear-will-lose-lgbt-flag-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/youngboy-never-broke-again-graphic-shirt/",
-    "https://teeworksusa.com/product/yes-yes-perfect-i-wish-i-could-read-dog-playing-cards-poker-shirt/",
-    "https://teeworksusa.com/product/whirr-2025-tour-cartoon-shirt/",
-    "https://teeworksusa.com/product/violent-gentlemen-hockey-club-shirt-2/",
-    "https://teeworksusa.com/product/usj-hami-kuma-halloween-2025-shirt/",
-    "https://teeworksusa.com/product/toronto-blue-jays-logo-parody-shirt/",
-    "https://teeworksusa.com/product/thesicit-fantasy-character-music-abstract-shirt/",
-    "https://teeworksusa.com/product/the-wiener-hole-frankfurter-grab-a-frank-with-a-friend-shirt/",
-    "https://teeworksusa.com/product/the-thing-john-carpenter-cult-the-ultimate-in-alien-terror-man-is-the-warmest-place-to-hide-horror-movie-halloween-shirt/",
-    "https://teeworksusa.com/product/the-hives-dallas-texas-2025-poster-shirt/"
+    "https://teeworksusa.com/product/where-else-would-you-rather-be-j-j-mccarthy-shirt/",
+    "https://teeworksusa.com/product/wear-pants-do-crimes-shirt/",
+    "https://teeworksusa.com/product/washingtons-national-disgrace-cartoon-shirt/",
+    "https://teeworksusa.com/product/unreleased-charlie-kirk-design-shirt/",
+    "https://teeworksusa.com/product/they-shot-the-words-not-the-man-charlie-kirk-shirt/",
+    "https://teeworksusa.com/product/time-for-kickoff-so-you-need-to-fuck-off-shirt-2/",
+    "https://teeworksusa.com/product/the-style-council-internationalists-85-lilac-shirt/",
+    "https://teeworksusa.com/product/the-ralph-farewell-season-where-else-would-you-rather-be-buffalo-bills-shirt/",
+    "https://teeworksusa.com/product/stand-against-violence-stand-with-charlie-kirk-shirt/",
+    "https://teeworksusa.com/product/stand-against-violence-for-all-charlie-kirk-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-voices-not-violence-charlie-kirk-1993-2025-shirt/",
@@ -172,16 +172,16 @@
     "https://uscraftedtees.com/product/original-frog-off-to-commit-tomfoolery-2025-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/yes-im-old-but-i-saw-braves-greatness-legend-players-shirt/",
-    "https://capitoneshirt.com/product/texas-tech-vs-kent-state-2025-celebrate-agriculture-gameday-shirt/",
-    "https://capitoneshirt.com/product/yes-im-old-but-i-saw-red-sox-greatness-legend-players-shirt/",
-    "https://capitoneshirt.com/product/welcome-to-akron-home-of-the-rubberducks-shirt/",
-    "https://capitoneshirt.com/product/weekend-forecast-football-saturday-and-sunday-shirt/",
-    "https://capitoneshirt.com/product/this-is-what-we-voted-for-shirt/",
-    "https://capitoneshirt.com/product/somebodys-loud-mouth-football-mama-shirt/",
-    "https://capitoneshirt.com/product/rush-was-right-shirt/",
-    "https://capitoneshirt.com/product/raised-right-machinist-for-life-shirt/",
-    "https://capitoneshirt.com/product/you-left-the-rodi-on-shirt/"
+    "https://capitoneshirt.com/product/woman-definition-an-adult-human-organism-that-posesses-the-biological-shirt/",
+    "https://capitoneshirt.com/product/waffle-house-we-throw-hands-cracker-barrel-shirt-2/",
+    "https://capitoneshirt.com/product/usa-2x-world-wars-champions-the-land-of-opportunity-shirt/",
+    "https://capitoneshirt.com/product/two-eagles-strength-and-liberty-est-1776-shirt/",
+    "https://capitoneshirt.com/product/trump-playing-golf-par-tee-in-the-usa-shirt/",
+    "https://capitoneshirt.com/product/tj-vasher-flame-houston-roughnecks-shirt/",
+    "https://capitoneshirt.com/product/tj-vasher-flame-graphic-houston-roughnecks-shirt/",
+    "https://capitoneshirt.com/product/riley-gaines-speak-truth-in-love-ephesians-4-15-shirt/",
+    "https://capitoneshirt.com/product/riley-gaines-for-the-girls-shirt/",
+    "https://capitoneshirt.com/product/ricky-person-jr-graphic-birmingham-stallions-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/world-cup-2026-america-welcomes-the-world-funny-political-soccer-shirt/",
@@ -196,16 +196,16 @@
     "https://clickoneshirt.com/product/tennessee-volunteers-vs-georgia-bulldogs-nfl-2025-college-gameday-helmet-graphic-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/gold-rush-keep-gold-rush-alive-t-shirts/",
-    "https://teleteeshirt.com/product/extra-innings-festival-tempe-arizona-2025-grand-slam-t-shirts/",
-    "https://teleteeshirt.com/product/extra-innings-festival-snake-t-shirts/",
-    "https://teleteeshirt.com/product/don-broco-varsity-t-shirts/",
-    "https://teleteeshirt.com/product/don-broco-amazing-things-the-dolphin-t-shirts/",
-    "https://teleteeshirt.com/product/don-broco-2025-26-tour-t-shirts/",
-    "https://teleteeshirt.com/product/dc-bat-mite-its-an-elf-an-elf-dressed-in-a-crazy-looking-batman-costume-hi-t-shirts/",
-    "https://teleteeshirt.com/product/dc-batman-silver-age-batmobile-t-shirts/",
-    "https://teleteeshirt.com/product/dc-batman-bronze-age-t-shirts/",
-    "https://teleteeshirt.com/product/currents-onto-the-flame-weapon-of-loss-to-carve-out-our-fate-encaged-enslaved-ill-never-ride-the-wings-of-fallfe-moon-t-shirts/"
+    "https://teleteeshirt.com/product/tyler-perrys-beauty-in-black-netflix-series-part-1-premiering-september-11-2025-t-shirts/",
+    "https://teleteeshirt.com/product/twisted-sister-ride-to-live-live-to-ride-t-shirts/",
+    "https://teleteeshirt.com/product/trisha-yearwood-live-in-concert-2025-t-shirts/",
+    "https://teleteeshirt.com/product/trisha-yearwood-every-girl-in-this-town-t-shirts/",
+    "https://teleteeshirt.com/product/the-replacements-one-more-chance-get-it-all-wrong-satisfying-customers-since-79-t-shirts/",
+    "https://teleteeshirt.com/product/the-charlie-kirk-show-photo-t-shirts/",
+    "https://teleteeshirt.com/product/the-black-crowes-amorica-distressed-album-cover-t-shirts/",
+    "https://teleteeshirt.com/product/the-adam-friedland-show-tv-glow-t-shirts/",
+    "https://teleteeshirt.com/product/stand-with-charlie-kirk-t-shirts/",
+    "https://teleteeshirt.com/product/riley-gaines-turning-point-tpusa-usa-est-2012-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/nope-cat-kicking-the-crown-shirt/",
