@@ -75,14 +75,14 @@
     "https://dreameshirt.com/product/official-poster-frankie-and-the-witch-fingers-live-september-24-2025-atlanta-ga-usa-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/charlie-kirk-freedom-memorial-1993-2025-shirt/",
-    "https://teeextra.com/product/charlie-kirk-assassination-never-give-up-never-surrender-alway-go-for-the-win-1993-2025-2-side-shirt/",
-    "https://teeextra.com/product/official-yin-yin-usa-and-canada-tour-2025-shirt/",
-    "https://teeextra.com/product/official-words-are-indeed-stronger-than-bullets-charlie-kirk-shirt/",
-    "https://teeextra.com/product/official-united-states-of-america-defense-is-freedom-shirt/",
-    "https://teeextra.com/product/official-turning-point-usa-2025-charlie-kirk-assassination-shirt/",
-    "https://teeextra.com/product/official-top-rope-tuesday-hangman-adam-page-unhappy-trails-ringer-shirt/",
-    "https://teeextra.com/product/official-they-shot-the-words-not-the-man-pray-for-charlie-kirk-shirt/"
+    "https://teeextra.com/product/official-buffalo-bills-dasher-dancer-prancer-vixen-allen-coleman-cook-blitzen-2025-shirt/",
+    "https://teeextra.com/product/official-buckle-up-buttercup-halloween-san-francisco-49ers-golden-state-warriors-you-just-flipped-my-witch-switch-2025-shirt/",
+    "https://teeextra.com/product/official-buckle-up-buttercup-halloween-new-york-giants-new-york-knicks-you-just-flipped-my-witch-switch-2025-shirt/",
+    "https://teeextra.com/product/official-alabama-crimson-tide-are-you-fall-o-ween-jesus-2025-shirt/",
+    "https://teeextra.com/product/official-boston-red-sox-never-give-up-fight-cancer-in-all-colors-2025-shirt/",
+    "https://teeextra.com/product/official-baltimore-ravens-skyline-names-thank-you-for-the-memories-2025-shirt/",
+    "https://teeextra.com/product/official-buckle-up-buttercup-halloween-chicago-bears-chicago-cubs-you-just-flipped-my-witch-switch-2025-shirt/",
+    "https://teeextra.com/product/official-buckle-up-buttercup-halloween-detroit-lions-detroit-tigers-you-just-flipped-my-witch-switch-2025-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/freedom-fight-like-charlie-shirt/",
@@ -187,16 +187,16 @@
     "https://clickoneshirt.com/product/tennessee-volunteers-vs-georgia-bulldogs-nfl-2025-college-gameday-helmet-graphic-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/tyler-perrys-beauty-in-black-netflix-series-part-1-premiering-september-11-2025-t-shirts/",
-    "https://teleteeshirt.com/product/twisted-sister-ride-to-live-live-to-ride-t-shirts/",
-    "https://teleteeshirt.com/product/trisha-yearwood-live-in-concert-2025-t-shirts/",
-    "https://teleteeshirt.com/product/trisha-yearwood-every-girl-in-this-town-t-shirts/",
-    "https://teleteeshirt.com/product/the-replacements-one-more-chance-get-it-all-wrong-satisfying-customers-since-79-t-shirts/",
-    "https://teleteeshirt.com/product/the-charlie-kirk-show-photo-t-shirts/",
-    "https://teleteeshirt.com/product/the-black-crowes-amorica-distressed-album-cover-t-shirts/",
-    "https://teleteeshirt.com/product/the-adam-friedland-show-tv-glow-t-shirts/",
-    "https://teleteeshirt.com/product/stand-with-charlie-kirk-t-shirts/",
-    "https://teleteeshirt.com/product/riley-gaines-turning-point-tpusa-usa-est-2012-t-shirts/"
+    "https://teleteeshirt.com/product/official-tomorrowland-unity-sphere-las-vegas-2025-t-shirts/",
+    "https://teleteeshirt.com/product/official-vampiric-coffin-t-shirts/",
+    "https://teleteeshirt.com/product/tomorrowland-orbyz-event-2025-t-shirts-2/",
+    "https://teleteeshirt.com/product/official-snoopy-and-friends-the-peanuts-just-a-woman-who-loves-fall-and-alabama-crimson-tide-crimson-t-shirts/",
+    "https://teleteeshirt.com/product/the-righteous-man-tempt-not-the-to-draw-his-sword-t-shirts/",
+    "https://teleteeshirt.com/product/misty-tavern-t-shirts/",
+    "https://teleteeshirt.com/product/josh-allen-and-matt-prater-buffalo-bills-almost-friday-game-ball-t-shirts/",
+    "https://teleteeshirt.com/product/hazbin-hotel-san-japan-contracted-t-shirts/",
+    "https://teleteeshirt.com/product/habitual-linecrosser-mrs-hlc-riveter-we-just-be-building-shit-strong-woman-t-shirts/",
+    "https://teleteeshirt.com/product/almost-friday-george-w-bush-first-pitch-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/nope-cat-kicking-the-crown-shirt/",
