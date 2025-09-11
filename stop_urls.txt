@@ -80,7 +80,12 @@
     "https://teespix.com/product/sierra-ferrell-9-10-2025-raleigh-nc-tour-shirt/"
   ],
   "nowbestshirt.com": [
-    "https://nowbestshirt.com/product/make-chicago-great-again-trump-chicago-bears-2-sided-shirt/"
+    "https://nowbestshirt.com/product/tyreek-hill-10-miami-dolphins-2025-rivalries-player-name-and-number-2-sided-shirt/",
+    "https://nowbestshirt.com/product/tua-tagovailoa-1-miami-dolphins-2025-rivalries-player-name-and-number-2-sided-shirt/",
+    "https://nowbestshirt.com/product/jaylen-waddle-17-miami-dolphins-2025-rivalries-player-name-and-number-2-sided-shirt/",
+    "https://nowbestshirt.com/product/devon-achane-28-miami-dolphins-2025-rivalries-player-name-and-number-2-sided-shirt/",
+    "https://nowbestshirt.com/product/brock-purdy-13-san-francisco-49ers-player-name-and-number-2-sided-shirt/",
+    "https://nowbestshirt.com/product/weve-been-priced-out-protest-the-libertys-skyrocketing-ticket-prices-2-sided-shirt/"
   ],
   "serenashirt.com": [
     "https://serenashirt.com/product/alec-anderson-buffalo-bills-lets-go-buffalo-shirt/",
@@ -174,16 +179,16 @@
     "https://teleteeshirt.com/product/kyle-schwarber-50-schwarbombs-good-job-kyle-t-shirts/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/skid-row-florist-we-got-killer-buds-a-power-stem-nasty-thorns-and-were-usin-them-shirt/",
-    "https://teeslocal.com/product/seattle-mariners-julio-rodriguez-fireball-shirt/",
-    "https://teeslocal.com/product/uindy-vs-saginaw-valley-state-2024-ncaa-division-ii-baseball-super-regional-champion-shirt/",
-    "https://teeslocal.com/product/steely-dan-aja-album-shirt/",
-    "https://teeslocal.com/product/the-road-to-omaha-evansville-east-carolina-vcu-and-wake-forest-2024-ncaa-division-i-baseball-regional-champion-shirt/",
-    "https://teeslocal.com/product/earth-worms-making-soil-great-again-shirt/",
-    "https://teeslocal.com/product/accomplish-greatness-2024-acc-wrestling-championships-chapel-hill-nc-logo-shirt/",
-    "https://teeslocal.com/product/monkey-geezyworld-slumped-shirt/",
-    "https://teeslocal.com/product/teletech-teletegg-2024-shirt/",
-    "https://teeslocal.com/product/donald-trump-mug-shot-no-one-is-above-the-law-anti-trump-shirt/"
+    "https://teeslocal.com/product/outside-im-human-inside-im-a-rat-asking-god-to-forgive-me-of-my-mortal-sins-shirt/",
+    "https://teeslocal.com/product/larry-allen-73-dallas-cowboys-1971-2024-rest-in-peace-larry-shirt/",
+    "https://teeslocal.com/product/homo-sexual-adjacent-shirt/",
+    "https://teeslocal.com/product/race-car-rhude-shirt/",
+    "https://teeslocal.com/product/new-order-usa-89-pride-flag-shirt/",
+    "https://teeslocal.com/product/liquid-gold-stolen-black-breastmilk-built-this-nation-shirt/",
+    "https://teeslocal.com/product/stoners-cannabis-show-funny-friends-shirt/",
+    "https://teeslocal.com/product/i-hope-you-step-on-a-lego-shirt/",
+    "https://teeslocal.com/product/guilty-of-stealing-my-heart-donald-trump-shirt/",
+    "https://teeslocal.com/product/convicted-felon-for-president-2024-trump-shirt/"
   ],
   "melonashirt.com": [
     "https://melonashirt.com/product/official-the-charlie-kirk-show-shirts/",
@@ -226,16 +231,16 @@
     "https://designatshop.com/product/charlie-kirk-wearing-america-the-golden-age-is-upon-us-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/chunky-mascots-stacking-heads-shirt/",
-    "https://arjomany.com/product/jennie-back-to-school-lyric-merch/",
-    "https://arjomany.com/product/jennie-back-to-school-lyric-merch-2025/",
-    "https://arjomany.com/product/gojira-erde-demon-shirt/",
-    "https://arjomany.com/product/gojira-erde-demon-merch-2025/",
-    "https://arjomany.com/product/limited-jennie-back-to-school-anime-shirt/",
-    "https://arjomany.com/product/jennie-back-to-school-anime-shirts/",
-    "https://arjomany.com/product/jennie-back-to-school-anime-shirt/",
-    "https://arjomany.com/product/2025-jennie-back-to-school-anime-shirt/",
-    "https://arjomany.com/product/vintage-pitt-tv-show-dr-robbie-graphic-tee/"
+    "https://arjomany.com/product/hellstar-brainwashed-world-tour-2025-t-shirt/",
+    "https://arjomany.com/product/2025-trisha-yearwood-the-mirror-tee/",
+    "https://arjomany.com/product/2025-dotties-yardoff-white-shirt/",
+    "https://arjomany.com/product/system-of-a-down-tour-uk-eu-2026-merch/",
+    "https://arjomany.com/product/sea-hear-now-event-asbury-park-nj-2025-lineup-shirt/",
+    "https://arjomany.com/product/men-at-work-2025-kookaburra-tour-t-shirt/",
+    "https://arjomany.com/product/gears-of-war-never-fight-alone-merch/",
+    "https://arjomany.com/product/gears-of-war-never-fight-alone-merch-2025/",
+    "https://arjomany.com/product/f1-x-snoopy-peanuts-pit-merch-limited/",
+    "https://arjomany.com/product/f1-x-snoopy-peanuts-joe-cool-t-shirt/"
   ],
   "collectionpostertour.com": [
     "https://collectionpostertour.com/product/charlie-kirk-rest-in-peace-1993-2025-t-shirt/",
