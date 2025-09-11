@@ -1,29 +1,31 @@
 --- Summary of Last Image Crawl ---
-Thời gian: 2025-09-11 00:21:55
-geekteesus.com: 8 new URLs added. Total 375 URLs.
+Thời gian: 2025-09-11 10:44:40
+geekteesus.com: 0 new URLs added. Total 375 URLs.
 techteesusa.com: 0 new URLs added. Total 500 URLs.
 teeworksusa.com: 0 new URLs added. Total 500 URLs.
 meredpremium.com: 0 new URLs added. Total 500 URLs.
+orionshirt.com: 4 new URLs added. Total 4 URLs.
 berrylittles.com: 0 new URLs added. Total 65 URLs.
 dreameshirt.com: 0 new URLs added. Total 226 URLs.
 teeextra.com: 0 new URLs added. Total 168 URLs.
+eteeclothing.com: 200 new URLs added. Total 200 URLs.
+milkywayshirt.com: 200 new URLs added. Total 200 URLs.
 teespix.com: 0 new URLs added. Total 500 URLs.
 nowbestshirt.com: 0 new URLs added. Total 57 URLs.
 serenashirt.com: 0 new URLs added. Total 500 URLs.
 fanaticity.com: 0 new URLs added. Total 500 URLs.
 legendusashirt.com: 0 new URLs added. Total 500 URLs.
 teehandus.com: 0 new URLs added. Total 500 URLs.
-thefunnyt.com: 1 new URLs added. Total 49 URLs.
 uscraftedtees.com: 0 new URLs added. Total 500 URLs.
 capitoneshirt.com: 0 new URLs added. Total 500 URLs.
 clickoneshirt.com: 0 new URLs added. Total 500 URLs.
-teleteeshirt.com: 0 new URLs added. Total 500 URLs.
+teleteeshirt.com: 49 new URLs added. Total 500 URLs.
 teeslocal.com: 0 new URLs added. Total 463 URLs.
-melonashirt.com: 0 new URLs added. Total 158 URLs.
+melonashirt.com: 50 new URLs added. Total 208 URLs.
 dalatshirt.com: 0 new URLs added. Total 234 URLs.
-lovingsquad.com: 0 new URLs added. Total 343 URLs.
-arjomany.com: 0 new URLs added. Total 141 URLs.
-designatshop.com: 0 new URLs added. Total 231 URLs.
-collectionpostertour.com: 0 new URLs added. Total 113 URLs.
-neoteeco.com: 0 new URLs added. Total 118 URLs.
-newshirtstore.com: 0 new URLs added. Total 374 URLs.
+lovingsquad.com: 15 new URLs added. Total 358 URLs.
+arjomany.com: 47 new URLs added. Total 188 URLs.
+designatshop.com: 81 new URLs added. Total 312 URLs.
+collectionpostertour.com: 76 new URLs added. Total 189 URLs.
+neoteeco.com: 23 new URLs added. Total 141 URLs.
+newshirtstore.com: 0 new URLs added. Total 10 URLs.
