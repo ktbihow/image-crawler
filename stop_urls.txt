@@ -31,7 +31,16 @@
     "https://techteesusa.com/product/peace-will-win-fear-will-lose-lgbt-flag-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/time-kickoff-need-fuck-off-football-helmet-shirt/"
+    "https://teeworksusa.com/product/resist-the-left-shirt/",
+    "https://teeworksusa.com/product/pritzker-sucks-shirt/",
+    "https://teeworksusa.com/product/monte-carlo-las-vegas-vintage-shirt/",
+    "https://teeworksusa.com/product/this-is-the-turning-point-charlie-kirk-shirt/",
+    "https://teeworksusa.com/product/charlie-kirk-broken-heart-dove-shirt/",
+    "https://teeworksusa.com/product/just-because-you-are-offended-doesnt-mean-you-are-right-charlie-kirk-shirt/",
+    "https://teeworksusa.com/product/comeback-kids-toronto-blue-jays-shirt/",
+    "https://teeworksusa.com/product/the-style-council-a-paris-shirt/",
+    "https://teeworksusa.com/product/the-original-ohio-university-since-1804-shirt-2/",
+    "https://teeworksusa.com/product/a-true-patriot-charlie-kirk-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-voices-not-violence-charlie-kirk-1993-2025-shirt/",
