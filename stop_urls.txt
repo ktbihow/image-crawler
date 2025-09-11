@@ -1,15 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/thomas-x-grasso-tugboat-roundup-2025-waterford-ny-shirt/",
-    "https://geekteesus.com/product/oasis-cigarettes-and-alcohol-live-25-la-rose-bowl-stadium-shirt/",
-    "https://geekteesus.com/product/son-heung-min-x-los-angeles-dodgers-2025-signature-shirt/",
-    "https://geekteesus.com/product/boise-state-broncos-football-mental-health-matters-2025-shirt/",
-    "https://geekteesus.com/product/annunciation-catholic-church-shooting-minnesota-vikings-shirt/",
-    "https://geekteesus.com/product/zach-bryan-michigan-wolverines-tour-2025-t-shirt/",
-    "https://geekteesus.com/product/zach-bryan-michigan-stadium-2025-t-shirt/",
-    "https://geekteesus.com/product/uconn-huskies-mens-basketball-5x-national-champs-banners-t-shirt/",
-    "https://geekteesus.com/product/maryland-terrapins-2025-ncaa-football-t-shirt/",
-    "https://geekteesus.com/product/chicago-cubs-2025-aj-mendez-love-bites-back-2025-t-shirt/"
+    "https://geekteesus.com/product/charlie-kirk-wearing-freedom-shirt/",
+    "https://geekteesus.com/product/huzzah-frog-knight-shirt/",
+    "https://geekteesus.com/product/radio-free-alice-repeat-shirt/",
+    "https://geekteesus.com/product/felix-auger-aliassime-tennis-shirt/",
+    "https://geekteesus.com/product/pray-for-charlie-kirk-47-shirt/",
+    "https://geekteesus.com/product/i-wan-hollow-point-shirt/",
+    "https://geekteesus.com/product/new-york-inner-city-sports-division-shirt/",
+    "https://geekteesus.com/product/pls-do-not-give-me-a-cigarette-no-matter-what-i-say-shirt/",
+    "https://geekteesus.com/product/unrivaled-expansion-club-hive-basketball-club-shirt/",
+    "https://geekteesus.com/product/anthony-rizzo-is-my-captain-forever-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-stand-strong-in-honor-of-charlie-kirk-1993-2025-vintage-retro-t-shirt/",
