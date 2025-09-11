@@ -118,16 +118,16 @@
     "https://fanaticity.com/product/tedeschi-trucks-band-tour-chicago-il-sep-09-2025-poster-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/five-nights-at-freddys-animatronic-hot-pizza-enjoy-a-slice-survive-the-night-t-shirt/",
-    "https://legendusashirt.com/product/drake-maye-new-england-patriots-player-illustrative-pack-2025-t-shirt/",
-    "https://legendusashirt.com/product/dk-metcalf-pittsburgh-cartoon-signature-t-shirt/",
-    "https://legendusashirt.com/product/deebo-samuel-unstoppable-washington-t-shirt/",
-    "https://legendusashirt.com/product/death-before-dishonor-you-were-always-just-a-means-to-an-end-hourglass-t-shirt/",
-    "https://legendusashirt.com/product/cobie-durant-los-angeles-r-interception-t-shirt/",
-    "https://legendusashirt.com/product/charlie-kirk-silence-is-violence-free-speech-2025-t-shirt/",
-    "https://legendusashirt.com/product/charlie-kirk-in-loving-memory-graphic-t-shirt/",
-    "https://legendusashirt.com/product/yugoslavia-basketball-jersey-t-shirt/",
-    "https://legendusashirt.com/product/vintage-wu-tang-clan-buffalo-bills-mafia-logo-t-shirt/"
+    "https://legendusashirt.com/product/hot-sexy-t-shirt/",
+    "https://legendusashirt.com/product/the-who-september-10-2025-wells-fargo-center-philadelphia-pa-poster-t-shirt/",
+    "https://legendusashirt.com/product/teletech-x-kruelty-february-6-2026-newcastle-poster-t-shirt/",
+    "https://legendusashirt.com/product/tedeschi-trucks-band-september-10-2025-pine-knob-music-theatre-clarkston-mi-poster-t-shirt/",
+    "https://legendusashirt.com/product/rest-in-peace-charlie-kirk-freedom-t-shirt/",
+    "https://legendusashirt.com/product/punk-with-a-camera-unreleased-charlie-kirk-design-t-shirt/",
+    "https://legendusashirt.com/product/pray-for-charlie-kirk-freedom-essential-t-shirt/",
+    "https://legendusashirt.com/product/kyle-schwarber-50-schwarbombs-t-shirt/",
+    "https://legendusashirt.com/product/justice-for-iryna-zarutska-t-shirt/",
+    "https://legendusashirt.com/product/justice-for-charlie-kirk-freedom-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/young-bucks-harcore-tag-team-superstars-shirt/",
@@ -149,50 +149,51 @@
     "https://uscraftedtees.com/product/official-the-mountain-goats-sea-monster-ivory-tour-2025-shirt/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/us-dept-of-war-eagle-shirt/",
-    "https://capitoneshirt.com/product/fdt-feynman-darwin-tesla-great-minds-embrace-science-shirt/",
-    "https://capitoneshirt.com/product/conspiracy-realist-shirt/",
-    "https://capitoneshirt.com/product/your-silence-wont-protect-you-america-we-are-the-majority-shirt/",
-    "https://capitoneshirt.com/product/woke-beats-hate-and-willful-ignorance-shirt/",
-    "https://capitoneshirt.com/product/who-the-fuck-is-mads-mikkelsen-shirt/",
-    "https://capitoneshirt.com/product/white-lives-matter-shirt/",
-    "https://capitoneshirt.com/product/when-the-national-guard-arrives-the-crimes-dies-shirt/",
-    "https://capitoneshirt.com/product/when-fascism-comes-to-the-usa-it-will-be-wrapped-in-the-flag-and-carrying-a-cross-shirt/",
-    "https://capitoneshirt.com/product/west-palm-beach-sheriffs-estd-1928-florida-state-league-shirt/"
+    "https://capitoneshirt.com/product/yes-im-old-but-i-saw-braves-greatness-legend-players-shirt/",
+    "https://capitoneshirt.com/product/texas-tech-vs-kent-state-2025-celebrate-agriculture-gameday-shirt/",
+    "https://capitoneshirt.com/product/yes-im-old-but-i-saw-red-sox-greatness-legend-players-shirt/",
+    "https://capitoneshirt.com/product/welcome-to-akron-home-of-the-rubberducks-shirt/",
+    "https://capitoneshirt.com/product/weekend-forecast-football-saturday-and-sunday-shirt/",
+    "https://capitoneshirt.com/product/this-is-what-we-voted-for-shirt/",
+    "https://capitoneshirt.com/product/somebodys-loud-mouth-football-mama-shirt/",
+    "https://capitoneshirt.com/product/rush-was-right-shirt/",
+    "https://capitoneshirt.com/product/raised-right-machinist-for-life-shirt/",
+    "https://capitoneshirt.com/product/you-left-the-rodi-on-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/wendys-grinch-just-waiting-for-halloween-goth-graphic-shirt/",
-    "https://clickoneshirt.com/product/walmart-grinch-just-waiting-for-halloween-goth-graphic-shirt/",
-    "https://clickoneshirt.com/product/vampire-nurse-help-build-the-blood-bank-now-retro-shirt/",
-    "https://clickoneshirt.com/product/the-timeless-adventures-of-tommy-in-the-breakroom-comic-shirt/",
-    "https://clickoneshirt.com/product/the-revenge-of-colton-in-the-tv-robot-at-last-im-free-comic-shirt/",
-    "https://clickoneshirt.com/product/the-return-of-the-department-of-war-est-2025-bald-eagle-flag-shirt/",
-    "https://clickoneshirt.com/product/subway-grinch-just-waiting-for-halloween-goth-graphic-shirt/",
-    "https://clickoneshirt.com/product/skeleton-minnesota-viking-football-club-est-1960-retro-style-shirt/",
-    "https://clickoneshirt.com/product/see-you-at-the-maginot-zoo-tv-mysterious-creature-graphic-shirt/",
-    "https://clickoneshirt.com/product/ryan-reynolds-canada-toronto-international-film-festival-shirt/"
+    "https://clickoneshirt.com/product/lancer-rpg-game-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/weve-been-priced-out-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/buffalo-bills-the-farewell-season-tour-1973-2025-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/spider-man-spidey-brick-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/moon-knight-white-batman-bruce-wayne-other-guy-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/wednesday-devils-memento-mori-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/carolina-hurricanes-margaritaville-night-2025-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/lets-get-whats-on-the-inside-out-2025-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/savage-sailor-frankenstein-halloween-two-sided-t-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/trump-make-america-safe-again-t-shirts/",
-    "https://teleteeshirt.com/product/system-of-a-down-queen-of-the-stone-age-acid-bath-uk-europe-2026-tour-dates-t-shirts/",
-    "https://teleteeshirt.com/product/smoulder-violent-creed-of-vengeance-t-shirts/",
-    "https://teleteeshirt.com/product/seattle-mariners-powered-by-witchcraft-t-shirts/",
-    "https://teleteeshirt.com/product/protect-ya-neck-freedom-t-shirts/",
-    "https://teleteeshirt.com/product/pray-for-charlie-kirk-american-flag-t-shirts/",
-    "https://teleteeshirt.com/product/oh-wonder-10-years-on-t-shirts/",
-    "https://teleteeshirt.com/product/nine-inch-nails-sep-09-2025-gas-south-arena-duluth-ga-t-shirts/",
-    "https://teleteeshirt.com/product/missouri-tigers-beau-pribula-pri-zou-la-t-shirts/",
-    "https://teleteeshirt.com/product/kyle-schwarber-50-schwarbombs-good-job-kyle-t-shirts/"
+    "https://teleteeshirt.com/product/cannibal-corpse-north-american-skull-maggot-2025-tour-dates-t-shirts/",
+    "https://teleteeshirt.com/product/charlie-kirk-we-the-people-most-important-document-protect-our-freedoms-est-1787-shirts/",
+    "https://teleteeshirt.com/product/cannibal-corpse-pitchfork-impalement-2025-tour-dates-t-shirts/",
+    "https://teleteeshirt.com/product/cannibal-corpse-north-american-graveside-tour-2025-dates-t-shirts/",
+    "https://teleteeshirt.com/product/cboystv-life-wide-open-ice-live-bait-ice-cold-beer-catch-big-fish-lure-fishing-shirts/",
+    "https://teleteeshirt.com/product/tomorrowland-glass-butterfly-t-shirts/",
+    "https://teleteeshirt.com/product/texas-am-aggies-sister-heart-t-shirts/",
+    "https://teleteeshirt.com/product/old-nick-x-haunted-toast-t-shirts/",
+    "https://teleteeshirt.com/product/old-nick-time-to-level-up-witch-hat-t-shirts/",
+    "https://teleteeshirt.com/product/old-nick-the-jersey-devil-t-shirts/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/hotter-than-a-hoochie-coochie-summer-vacation-music-lover-shirt/",
-    "https://teeslocal.com/product/slim-shiesty-cincinnati-bengals-joe-burrow-shirt/",
-    "https://teeslocal.com/product/young-dolph-big-head-half-tone-t-shirt/",
-    "https://teeslocal.com/product/caitlin-clark-wnba-basketball-star-shirt/",
-    "https://teeslocal.com/product/shai-gilgeous-alexander-okc-star-basketball-nba-shirt/",
-    "https://teeslocal.com/product/play-some-fucking-dubstep-heavy-bass-heavy-vibes-shirt/",
-    "https://teeslocal.com/product/post-malone-cowboy-western-graphic-shirt/",
-    "https://teeslocal.com/product/ivan-cornejo-mirada-2025-tour-shirt/"
+    "https://teeslocal.com/product/nope-cat-kicking-the-crown-shirt/",
+    "https://teeslocal.com/product/donald-trump-american-86-46-shirt/",
+    "https://teeslocal.com/product/86-46-donald-trump-america-2024-shirt/",
+    "https://teeslocal.com/product/indian-air-force-our-job-is-to-hit-the-target-not-to-count-the-body-bags-shirt/",
+    "https://teeslocal.com/product/charlie-kirk-legends-never-die-bold-typography-shirt/",
+    "https://teeslocal.com/product/def-leppard-cowboy-skeleton-basic-shirt/",
+    "https://teeslocal.com/product/mystery-wrestling-its-the-best-thing-shirt-a-sasquatch-druids-hot-dog-people-shirt/",
+    "https://teeslocal.com/product/justice-for-iryna-say-her-name-iryna-zarutska-shirt/",
+    "https://teeslocal.com/product/lipstick-your-energy-luxury-item-funny-shirt/",
+    "https://teeslocal.com/product/misfits-skull-inverted-natural-t-shirt/"
   ],
   "melonashirt.com": [
     "https://melonashirt.com/product/official-big-blues-bender-sept-4-7-2025-westgate-las-vegas-resort-casino-shirts/",
@@ -231,8 +232,16 @@
     "https://lovingsquad.com/product/charlie-kirk-great-american-patriot-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/iryna-zarutska-memorial-never-forget-2002-2025-shirt/",
-    "https://designatshop.com/product/charlie-kirk-wearing-america-the-golden-age-is-upon-us-shirt/"
+    "https://designatshop.com/product/toronto-blue-jays-comeback-kids-shirt/",
+    "https://designatshop.com/product/we-love-charlie-kirk-america-patriotic-flag-shirt/",
+    "https://designatshop.com/product/sorry-i-was-super-weird-quiet-at-your-party-shirt/",
+    "https://designatshop.com/product/skeleton-horror-do-you-wanna-party-the-return-of-the-living-dead-shirt/",
+    "https://designatshop.com/product/roman-empire-xix-shirt/",
+    "https://designatshop.com/product/royal-challengers-bengaluru-rcb-fc-champions-2025-shirt/",
+    "https://designatshop.com/product/royal-challengers-bengaluru-rcb-champions-2025-shirt/",
+    "https://designatshop.com/product/rip-pray-for-charlie-kirk-shirt/",
+    "https://designatshop.com/product/rip-never-forget-a-iryna-zarutska-2002-2025-shirt/",
+    "https://designatshop.com/product/rest-in-peace-charlie-kirk-rip-1993-2025-shirt/"
   ],
   "arjomany.com": [
     "https://arjomany.com/product/seahearnow-festival-tour-asbury-park-nj-2025-merch/",
@@ -274,15 +283,16 @@
     "https://newshirtstore.com/product/unicorn-chef-bitchcraft-the-art-of-pissing-people-off-by-telling-them-the-truth-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/xl-badger-shirt/",
-    "https://eteeclothing.com/product/weve-been-priced-out-bright-orange-34650-261-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/snoopy-x-woodstock-nurse-boo-boo-crew-shirt/",
-    "https://eteeclothing.com/product/snoopy-another-cocoa-please-shirt/",
-    "https://eteeclothing.com/product/ole-miss-vs-lsu-game-day-oxford-ms-2025-shirt/",
-    "https://eteeclothing.com/product/ohio-state-buckeyes-saved-by-the-blood-of-jesus-won-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/new-york-liberty-weve-been-priced-out-bright-orange-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/minnesota-vikings-j-j-mccarthy-where-else-would-you-rather-be-signature-shirt/",
-    "https://eteeclothing.com/product/medusa-girls-will-be-girls-shirt/"
+    "https://eteeclothing.com/product/if-you-think-having-toddlers-are-tough-wait-until-they-grow-up-and-tell-you-they-are-joning-marines-shirt/",
+    "https://eteeclothing.com/product/if-you-dont-like-the-way-i-do-things-shirt/",
+    "https://eteeclothing.com/product/im-so-busy-i-have-to-schedule-my-mental-breakdown-shirt/",
+    "https://eteeclothing.com/product/i-wish-the-bags-under-my-eyes-had-money-in-them-shirt/",
+    "https://eteeclothing.com/product/i-wish-one-of-my-personalities-liked-to-cook-shirt/",
+    "https://eteeclothing.com/product/i-wan-hollow-point-vintage-shirt/",
+    "https://eteeclothing.com/product/i-thought-i-was-in-a-bad-mood-but-its-been-a-few-years-so-i-guess-this-is-who-i-am-shirt/",
+    "https://eteeclothing.com/product/i-can-only-please-one-person-per-day-today-is-not-your-day-shirt/",
+    "https://eteeclothing.com/product/i-believe-in-a-better-world-where-chickens-can-cross-the-road-shirt/",
+    "https://eteeclothing.com/product/crown-no-king-american-flag-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-j-j-mccarthy-swag-head-shirt/",
