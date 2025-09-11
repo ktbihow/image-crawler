@@ -289,16 +289,16 @@
     "https://newshirtstore.com/product/unicorn-chef-bitchcraft-the-art-of-pissing-people-off-by-telling-them-the-truth-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/x-ray-vision-and-feral-ambition-shirt/",
-    "https://eteeclothing.com/product/vegan-vampire-halloween-cartoon-shirt/",
-    "https://eteeclothing.com/product/unreleased-charlie-kirk-design-shirt/",
-    "https://eteeclothing.com/product/theres-no-such-thing-as-a-dirty-mind-its-just-a-sense-of-humour-with-adult-content-shirt/",
-    "https://eteeclothing.com/product/the-sopranos-tony-you-better-wipe-that-smile-off-your-face-shirt/",
-    "https://eteeclothing.com/product/the-sopranos-tony-photo-shirt/",
-    "https://eteeclothing.com/product/poughkeepsie-honey-bugs-new-jersey-vintage-defunct-baseball-teams-shirt/",
-    "https://eteeclothing.com/product/skeleton-girl-life-is-like-looking-for-your-phone-most-of-the-time-its-in-your-hand-shirt/",
-    "https://eteeclothing.com/product/ohio-university-bobcats-ou-paw-shirt/",
-    "https://eteeclothing.com/product/ohio-bobcats-symbols-shirt/"
+    "https://eteeclothing.com/product/turning-point-forever-1993-2025-charlie-kirk-us-flag-shirt/",
+    "https://eteeclothing.com/product/rip-charlie-kirk-freedom-is-not-free-it-must-be-fought-for-and-defended-shirt/",
+    "https://eteeclothing.com/product/freedom-is-not-free-rip-charlie-kirk-you-took-one-we-rise-as-thousands-shirt/",
+    "https://eteeclothing.com/product/freedom-charlie-kirk-they-shot-the-words-not-the-man-shirt/",
+    "https://eteeclothing.com/product/rest-in-peace-charlie-kirk-1993-2025-shirt/",
+    "https://eteeclothing.com/product/forever-in-our-hearts-rip-charlie-kirk-a-true-patriot-us-flag-shirt/",
+    "https://eteeclothing.com/product/freedom-is-not-free-rip-charlie-kirk-faith-freedom-forever-us-flag-shirt/",
+    "https://eteeclothing.com/product/wendys-x-horror-movies-halloween-you-cant-sit-with-us-shirt/",
+    "https://eteeclothing.com/product/we-need-a-white-house-not-a-nuthouse-us-flag-shirt/",
+    "https://eteeclothing.com/product/tj-maxx-x-horror-movies-halloween-not-for-the-weak-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-j-j-mccarthy-swag-head-shirt/",
