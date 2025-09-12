@@ -24,16 +24,14 @@
     "https://orionshirt.com/product/official-2025-blink-182-skateboard-bunny-graphic-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/venice-and-malibu-and-oxnard-and-ventura-shirt/",
-    "https://techteesusa.com/product/tpusa-turning-point-est-2012-shirt/",
-    "https://techteesusa.com/product/the-wiener-hole-grab-a-frank-with-a-friend-shirt/",
-    "https://techteesusa.com/product/syna-world-pill-shirt/",
-    "https://techteesusa.com/product/rip-charlie-kirk-a-true-patriot-1993-2025-shirt/",
-    "https://techteesusa.com/product/paige-bueckers-dallas-wings-why-slow-down-signature-shirt/",
-    "https://techteesusa.com/product/martin-valer-shirt/",
-    "https://techteesusa.com/product/last-perfect-thing-shirt/",
-    "https://techteesusa.com/product/marietta-the-town-faded-when-the-smoke-quit-moving-shirt/",
-    "https://techteesusa.com/product/justice-for-charlie-kirk-2025-hammer-of-justice-shirt/"
+    "https://techteesusa.com/product/paige-bueckers-dallas-wings-roty-why-slow-down-signature-shirt/",
+    "https://techteesusa.com/product/henry-selicks-a-nightmare-in-other-world-shirt/",
+    "https://techteesusa.com/product/deer-creek-music-center-shirt/",
+    "https://techteesusa.com/product/elon-musk-america-party-2028-shirt/",
+    "https://techteesusa.com/product/the-peanuts-houston-sports-teams-crossing-forever-not-just-when-we-win-shirt/",
+    "https://techteesusa.com/product/youre-killin-me-smalls-cincinnati-reds-x-the-sandlot-shirt/",
+    "https://techteesusa.com/product/over-and-out-shirt/",
+    "https://techteesusa.com/product/joni-mitchell-jonis-joint-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/original-ohio-university-since-1804-logo-shirt/",
