@@ -70,14 +70,14 @@
     "https://dreameshirt.com/product/official-josh-dallas-im-just-here-to-watch-georgia-southern-eagles-football-ncaa-game-day-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-idaho-football-kibbie-dome-50th-anniversary-shirt/",
-    "https://teeextra.com/product/official-idaho-football-dome-sweet-dome-shirt/",
-    "https://teeextra.com/product/official-idaho-football-fightin-taters-shirt/",
-    "https://teeextra.com/product/official-i-am-charlie-kirk-shirt/",
-    "https://teeextra.com/product/official-hubris-cannon-a-shot-your-straight-edge-friends-can-get-behind-shirt/",
-    "https://teeextra.com/product/official-heart-attack-man-horseshoe-shirt/",
-    "https://teeextra.com/product/official-gracie-abrams-rocky-shirt/",
-    "https://teeextra.com/product/official-fit-for-an-autopsy-icfy-drip-band-shirt/"
+    "https://teeextra.com/product/in-october-we-wear-pink-and-watch-washington-commanders-2-sided-shirt/",
+    "https://teeextra.com/product/in-october-we-wear-pink-and-watch-tennessee-titans-2-sided-shirt/",
+    "https://teeextra.com/product/in-october-we-wear-pink-and-watch-tampa-bay-buccaneers-2-sided-shirt/",
+    "https://teeextra.com/product/in-october-we-wear-pink-and-watch-seattle-seahawks-2-sided-shirt/",
+    "https://teeextra.com/product/in-october-we-wear-pink-and-watch-san-francisco-49ers-2-sided-shirt/",
+    "https://teeextra.com/product/in-october-we-wear-pink-and-watch-pittsburgh-steelers-2-sided-shirt/",
+    "https://teeextra.com/product/in-october-we-wear-pink-and-watch-philadelphia-eagles-2-sided-shirt/",
+    "https://teeextra.com/product/in-october-we-wear-pink-and-watch-new-york-jets-2-sided-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/we-are-all-turning-point-charlie-kirk-shirt/",
@@ -271,16 +271,16 @@
     "https://neoteeco.com/product/time-magazine-september-29-2025-cover-enough-the-killing-of-charlie-kirk-and-the-epidemic-of-american-political-violence-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/unreleased-charlie-kirk-design-shirt/",
-    "https://newshirtstore.com/product/the-tenants-shirt/",
-    "https://newshirtstore.com/product/the-heavens-are-roaring-psalm-19-1-t-shirt/",
-    "https://newshirtstore.com/product/squirrel-you-call-it-ocd-i-call-it-put-the-fucking-thing-back-where-it-belongs-shirt/",
-    "https://newshirtstore.com/product/syd-barrett-madcap-laughs-natural-shirt/",
-    "https://newshirtstore.com/product/ralph-lauren-ryder-cup-graphic-2025-shirt/",
-    "https://newshirtstore.com/product/subway-grinch-just-waiting-for-halloween-goth-graphic-shirt/",
-    "https://newshirtstore.com/product/tennessee-volunteers-thank-you-coach-lee-corso-college-gameday-shirt/",
-    "https://newshirtstore.com/product/robot-dog-k-9-maximum-defence-mode-shirt/",
-    "https://newshirtstore.com/product/ryan-reynolds-canada-toronto-international-film-festival-shirt/"
+    "https://newshirtstore.com/product/wendys-grinch-just-waiting-for-halloween-goth-graphic-shirt/",
+    "https://newshirtstore.com/product/the-timeless-adventures-of-tommy-in-the-breakroom-comic-shirt/",
+    "https://newshirtstore.com/product/walmart-grinch-just-waiting-for-halloween-goth-graphic-shirt/",
+    "https://newshirtstore.com/product/utah-university-brand-history-logo-shirt/",
+    "https://newshirtstore.com/product/time-for-kickoff-so-you-need-to-fuck-off-football-helmet-shirt/",
+    "https://newshirtstore.com/product/washingtons-national-disgrace-cartoon-shirt/",
+    "https://newshirtstore.com/product/turning-point-usa-shirt/",
+    "https://newshirtstore.com/product/the-philadelphia-eagles-spit-out-their-first-win-of-the-season-defeat-dallas-cowboys-t-shirt/",
+    "https://newshirtstore.com/product/the-ralph-farewell-season-where-else-would-you-rather-be-buffalo-bills-shirt/",
+    "https://newshirtstore.com/product/the-los-angeles-rams-stampede-through-houston-texans-t-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/ohio-always-can-beat-michigan-ohio-state-buckeyes-against-the-world-2-sided-t-shirt/",
