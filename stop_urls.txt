@@ -24,16 +24,11 @@
     "https://orionshirt.com/product/official-2025-blink-182-skateboard-bunny-graphic-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/detroit-lions-football-est-1934-michigan-state-two-sided-shirt/",
-    "https://techteesusa.com/product/temple-of-doom-t-shirt/",
-    "https://techteesusa.com/product/sorry-i-was-super-weird-and-quiet-at-your-party-t-shirt/",
-    "https://techteesusa.com/product/dead-pedophiles-dont-reoffend-t-shirt/",
-    "https://techteesusa.com/product/silly-goose-on-the-loose-t-shirt/",
-    "https://techteesusa.com/product/law-enforcement-appreciation-lead-philadelphia-phillies-shirt/",
-    "https://techteesusa.com/product/stitch-aloha-from-hawaii-shirt/",
-    "https://techteesusa.com/product/the-earth-speaks-to-all-of-us-shirt/",
-    "https://techteesusa.com/product/hootin-and-hollerin-but-in-a-hot-and-my-terious-way-shirt/",
-    "https://techteesusa.com/product/peace-will-win-fear-will-lose-lgbt-flag-shirt/"
+    "https://techteesusa.com/product/d-a-r-e-to-resist-marxist-indoctrination-shirt/",
+    "https://techteesusa.com/product/mr-edtropolis-no-pants-pride-shirt/",
+    "https://techteesusa.com/product/enjoy-summer-sweat-sand-and-skeeters-shirt/",
+    "https://techteesusa.com/product/kitty-smile-shirt/",
+    "https://techteesusa.com/product/nimby-nuclear-in-my-backyard-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/original-ohio-university-since-1804-logo-shirt/",
@@ -184,16 +179,14 @@
     "https://clickoneshirt.com/product/tennessee-volunteers-vs-georgia-bulldogs-nfl-2025-college-gameday-helmet-graphic-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/official-tomorrowland-unity-sphere-las-vegas-2025-t-shirts/",
-    "https://teleteeshirt.com/product/official-vampiric-coffin-t-shirts/",
-    "https://teleteeshirt.com/product/tomorrowland-orbyz-event-2025-t-shirts-2/",
-    "https://teleteeshirt.com/product/official-snoopy-and-friends-the-peanuts-just-a-woman-who-loves-fall-and-alabama-crimson-tide-crimson-t-shirts/",
-    "https://teleteeshirt.com/product/the-righteous-man-tempt-not-the-to-draw-his-sword-t-shirts/",
-    "https://teleteeshirt.com/product/misty-tavern-t-shirts/",
-    "https://teleteeshirt.com/product/josh-allen-and-matt-prater-buffalo-bills-almost-friday-game-ball-t-shirts/",
-    "https://teleteeshirt.com/product/hazbin-hotel-san-japan-contracted-t-shirts/",
-    "https://teleteeshirt.com/product/habitual-linecrosser-mrs-hlc-riveter-we-just-be-building-shit-strong-woman-t-shirts/",
-    "https://teleteeshirt.com/product/almost-friday-george-w-bush-first-pitch-t-shirts/"
+    "https://teleteeshirt.com/product/bring-back-the-i-formation-t-shirts/",
+    "https://teleteeshirt.com/product/cool-cat-t-shirts/",
+    "https://teleteeshirt.com/product/charlie-kirk-martyr-for-democracy-t-shirts/",
+    "https://teleteeshirt.com/product/yeah-im-poly-poly-gonna-drink-18-beers-tonight-t-shirts/",
+    "https://teleteeshirt.com/product/what-the-duck-t-shirts-2/",
+    "https://teleteeshirt.com/product/we-are-all-charlie-kirk-fundraiser-t-shirts-3/",
+    "https://teleteeshirt.com/product/bourbon-beyond-concert-tour-2025-louisville-ky-t-shirts-3/",
+    "https://teleteeshirt.com/product/coach-al-planete-uphoria-new-york-yankees-t-shirts-6/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/nope-cat-kicking-the-crown-shirt/",
@@ -232,16 +225,7 @@
     "https://dalatshirt.com/product/decoding-palm-culture-palm-angels-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/haim-tour-2025-shirt/",
-    "https://lovingsquad.com/product/goldfinger-dec-19-philadelphia-and-dec-20-norfolk-2025-poster-shirt/",
-    "https://lovingsquad.com/product/frankie-and-the-witch-fingers-terminal-west-atlanta-ga-usa-sep-24-2025-concert-poster-shirt/",
-    "https://lovingsquad.com/product/foia-and-find-out-shirt/",
-    "https://lovingsquad.com/product/fit-for-an-autopsy-lurch-jesus-shirt/",
-    "https://lovingsquad.com/product/fit-for-an-autopsy-icfy-drip-black-shirt/",
-    "https://lovingsquad.com/product/fit-for-an-autopsy-eat-the-rich-jesus-shirt/",
-    "https://lovingsquad.com/product/fellas-in-paris-shirt/",
-    "https://lovingsquad.com/product/ew-chicago-meme-shirt/",
-    "https://lovingsquad.com/product/every-day-i-am-harvesting-the-wild-and-spontaneous-bounties-of-physical-existence-retro-shirt/"
+    "https://lovingsquad.com/product/charlie-kirk-land-of-the-free-home-of-the-brave-america-flag-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/official-the-charlie-kirk-show-shirt/",
@@ -267,8 +251,16 @@
     "https://arjomany.com/product/mina-shirakawa-toni-storm-intemporelle-shirt/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/charlie-kirk-rest-in-peace-1993-2025-t-shirt/",
-    "https://collectionpostertour.com/product/charlie-kirk-1993-2025-t-shirt/"
+    "https://collectionpostertour.com/product/eliza-the-delusionals-merch-2025/",
+    "https://collectionpostertour.com/product/red-clay-strays-sept-11-2025-andover-ks-tour-t-shirt/",
+    "https://collectionpostertour.com/product/out-in-front-limited-edition-float-t-shirt/",
+    "https://collectionpostertour.com/product/jennie-back-to-school-lyric-t-shirt/",
+    "https://collectionpostertour.com/product/analepsy-cryogenic-rebirth-t-shirt/",
+    "https://collectionpostertour.com/product/8485-plague-town-t-shirt/",
+    "https://collectionpostertour.com/product/waylon-x-chocolate-too-dumb-t-shirt/",
+    "https://collectionpostertour.com/product/jennie-back-to-school-t-shirt/",
+    "https://collectionpostertour.com/product/jennie-back-to-school-anime-washed-t-shirt/",
+    "https://collectionpostertour.com/product/jennie-back-to-school-anime-t-shirt/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/tyler-perrys-beauty-in-black-netflix-series-poster-part-1-premiering-september-11-2025-unisexx-t-shirt/",
