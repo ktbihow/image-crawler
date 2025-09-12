@@ -1,10 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/liberty-sth-feel-priced-out-shirt-back/",
-    "https://geekteesus.com/product/unreleased-charlie-kirk-design-shirt/",
-    "https://geekteesus.com/product/never-forget-remember-her-iryna-zarutska-shirt/",
-    "https://geekteesus.com/product/pray-for-charlie-kirk-shirt/",
-    "https://geekteesus.com/product/dont-stop-talking-about-palestine-watermelon-shirt/"
+    "https://geekteesus.com/product/liberty-sth-feel-priced-out-t-shirt/",
+    "https://geekteesus.com/product/ew-chicago-shirt/",
+    "https://geekteesus.com/product/didnt-go-to-brit-school-shirt/",
+    "https://geekteesus.com/product/anthony-rizzo-forever-shirt/",
+    "https://geekteesus.com/product/make-nazis-dead-again-shirt/",
+    "https://geekteesus.com/product/pray-for-charlie-kirk-rest-in-peace-support-tribute-shirt/",
+    "https://geekteesus.com/product/pray-for-charlie-kirk-shirt-2/",
+    "https://geekteesus.com/product/most-kings-get-their-head-cut-off-shirt/",
+    "https://geekteesus.com/product/pray-protest-protect-charlie-kirk-shirt/",
+    "https://geekteesus.com/product/pre-pear-planet-4-four-rooster-funny-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-stand-strong-in-honor-of-charlie-kirk-1993-2025-vintage-retro-t-shirt/",
@@ -239,16 +244,16 @@
     "https://lovingsquad.com/product/every-day-i-am-harvesting-the-wild-and-spontaneous-bounties-of-physical-existence-retro-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/toronto-blue-jays-comeback-kids-shirt/",
-    "https://designatshop.com/product/we-love-charlie-kirk-america-patriotic-flag-shirt/",
-    "https://designatshop.com/product/sorry-i-was-super-weird-quiet-at-your-party-shirt/",
-    "https://designatshop.com/product/skeleton-horror-do-you-wanna-party-the-return-of-the-living-dead-shirt/",
-    "https://designatshop.com/product/roman-empire-xix-shirt/",
-    "https://designatshop.com/product/royal-challengers-bengaluru-rcb-fc-champions-2025-shirt/",
-    "https://designatshop.com/product/royal-challengers-bengaluru-rcb-champions-2025-shirt/",
-    "https://designatshop.com/product/rip-pray-for-charlie-kirk-shirt/",
-    "https://designatshop.com/product/rip-never-forget-a-iryna-zarutska-2002-2025-shirt/",
-    "https://designatshop.com/product/rest-in-peace-charlie-kirk-rip-1993-2025-shirt/"
+    "https://designatshop.com/product/official-the-charlie-kirk-show-shirt/",
+    "https://designatshop.com/product/patriotic-charlie-kirk-his-voice-lives-on-shirt/",
+    "https://designatshop.com/product/justice-for-charlie-kirk-his-blooded-shirt-said-one-word-freedom-shirt/",
+    "https://designatshop.com/product/pray-for-charlie-kirk-we-the-people-american-flag-vingtage-shirt/",
+    "https://designatshop.com/product/pray-for-charlie-kirk-great-american-patriot-flag-shirt/",
+    "https://designatshop.com/product/hero-charlie-kirk-rip-1993-2025-shirt/",
+    "https://designatshop.com/product/charlie-kirk-you-took-one-we-rise-as-thousands-shirt/",
+    "https://designatshop.com/product/freedom-charlie-kirk-shirt/",
+    "https://designatshop.com/product/charlie-kirk-shirt-conservative-political-graphic-firm-in-faith-fierce-in-justice-shirt/",
+    "https://designatshop.com/product/charlie-kirk-strongman-of-god-christian-faith-shirt/"
   ],
   "arjomany.com": [
     "https://arjomany.com/product/seahearnow-festival-tour-asbury-park-nj-2025-merch/",
