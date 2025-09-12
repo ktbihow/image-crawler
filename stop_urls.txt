@@ -1,6 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/anthony-rizzo-44-baseball-shirt/"
+    "https://geekteesus.com/product/well-done-good-and-faithful-servant-charlie-kirk-2025-shirt/",
+    "https://geekteesus.com/product/we-stand-with-charlie-kirk-american-flag-shirt/",
+    "https://geekteesus.com/product/we-are-all-charlie-kirk-shirt/",
+    "https://geekteesus.com/product/united-states-space-force-redstone-arsenal-shirt/",
+    "https://geekteesus.com/product/true-og-sebastian-janikowski-shirt/",
+    "https://geekteesus.com/product/this-is-my-turning-point-charlie-kirk-1993-2025-shirt/",
+    "https://geekteesus.com/product/ripcharlie-kirk-a-true-patriot-shirt/",
+    "https://geekteesus.com/product/rest-in-peace-charlie-kirk-shirt/",
+    "https://geekteesus.com/product/model-iryna-zarutska-murdered-on-train-shirt/",
+    "https://geekteesus.com/product/justice-for-charlie-kirk-censored-targeted-silenced-we-wont-stay-quiet-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-stand-strong-in-honor-of-charlie-kirk-1993-2025-vintage-retro-t-shirt/",
@@ -15,16 +24,16 @@
     "https://orionshirt.com/product/official-2025-blink-182-skateboard-bunny-graphic-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/they-shot-the-words-not-the-man-shirt/",
-    "https://techteesusa.com/product/the-creature-from-the-black-lagoon-shirt/",
-    "https://techteesusa.com/product/stand-strong-in-honor-of-charlie-kirk-shirt/",
-    "https://techteesusa.com/product/satisfy-off-road-spirit-of-the-wild-shirt/",
-    "https://techteesusa.com/product/rancid-let-the-dominoes-fall-shirt/",
-    "https://techteesusa.com/product/poorly-drawn-ghost-shirt/",
-    "https://techteesusa.com/product/one-of-my-weyes-blood-shirt/",
-    "https://techteesusa.com/product/no-risk-pull-push-shirt/",
-    "https://techteesusa.com/product/never-surrender-charlie-kirk-shirt/",
-    "https://techteesusa.com/product/for-charlie-american-flag-shirt/"
+    "https://techteesusa.com/product/venice-and-malibu-and-oxnard-and-ventura-shirt/",
+    "https://techteesusa.com/product/tpusa-turning-point-est-2012-shirt/",
+    "https://techteesusa.com/product/the-wiener-hole-grab-a-frank-with-a-friend-shirt/",
+    "https://techteesusa.com/product/syna-world-pill-shirt/",
+    "https://techteesusa.com/product/rip-charlie-kirk-a-true-patriot-1993-2025-shirt/",
+    "https://techteesusa.com/product/paige-bueckers-dallas-wings-why-slow-down-signature-shirt/",
+    "https://techteesusa.com/product/martin-valer-shirt/",
+    "https://techteesusa.com/product/last-perfect-thing-shirt/",
+    "https://techteesusa.com/product/marietta-the-town-faded-when-the-smoke-quit-moving-shirt/",
+    "https://techteesusa.com/product/justice-for-charlie-kirk-2025-hammer-of-justice-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/original-ohio-university-since-1804-logo-shirt/",
@@ -131,16 +140,16 @@
     "https://legendusashirt.com/product/yes-i-am-old-but-i-saw-lemieux-greene-harris-bradshaw-and-clemente-pittsburgh-now-and-forever-signatures-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/tpusa-collegiate-est-2012-shirt/",
-    "https://teehandus.com/product/trine-5-a-clockwork-conspiracy-shirt/",
-    "https://teehandus.com/product/trump-make-america-safe-again-shirt/",
-    "https://teehandus.com/product/turtle-i-got-that-dog-in-me-shirt/",
-    "https://teehandus.com/product/usko-united-states-karate-organization-shirt/",
-    "https://teehandus.com/product/vampire-arrows-in-action-i-can-feel-it-in-her-bite-shirt/",
-    "https://teehandus.com/product/venice-malibu-oxnard-ventura-shirt/",
-    "https://teehandus.com/product/vote-sauron-make-middle-earth-great-again-shirt/",
-    "https://teehandus.com/product/war-paint-minnesota-vikings-shirt/",
-    "https://teehandus.com/product/we-are-all-charlie-kirk-shirt/"
+    "https://teehandus.com/product/puro-pinche-party-shirt/",
+    "https://teehandus.com/product/publicly-executed-at-the-mcr-show-shirt/",
+    "https://teehandus.com/product/raccoon-i-want-to-steal-something-shirt/",
+    "https://teehandus.com/product/remind-me-to-do-my-shirt/",
+    "https://teehandus.com/product/resist-the-left-shirt/",
+    "https://teehandus.com/product/riviera-comedy-club-las-vegas-nevada-shirt/",
+    "https://teehandus.com/product/robin-williams-dead-poet-society-shirt/",
+    "https://teehandus.com/product/rocket-the-raccoon-shirt/",
+    "https://teehandus.com/product/rumi-mira-and-zoey-of-huntrx-kpop-demon-hunters-x-the-powerpuff-girls-the-power-of-music-shirt/",
+    "https://teehandus.com/product/sad-country-songs-and-cold-beer-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -158,10 +167,16 @@
     "https://uscraftedtees.com/product/original-frog-off-to-commit-tomfoolery-2025-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/a-true-patriot-charlie-kirk-shirt-2/",
-    "https://capitoneshirt.com/product/american-flag-this-is-the-turning-point-shirt/",
-    "https://capitoneshirt.com/product/be-without-fear-in-the-face-of-your-enemies-safeguard-the-helpless-and-do-no-wrong-shirt/",
-    "https://capitoneshirt.com/product/charlie-kirk-all-death-can-do-to-the-believer-is-deliver-him-to-jesus-shirt/"
+    "https://capitoneshirt.com/product/official-cool-cat-shirt/",
+    "https://capitoneshirt.com/product/matt-prater-and-josh-allen-game-ball-shirt/",
+    "https://capitoneshirt.com/product/you-cant-silence-us-all-i-am-charlie-shirt/",
+    "https://capitoneshirt.com/product/you-are-the-goat-shirt/",
+    "https://capitoneshirt.com/product/yeah-im-poly-poly-gonna-drink-18-beers-tonight-shirt/",
+    "https://capitoneshirt.com/product/wiener-dog-hot-dog-shirt/",
+    "https://capitoneshirt.com/product/what-the-duck-shirt/",
+    "https://capitoneshirt.com/product/wwmrd-what-would-mr-rogers-do-shirt/",
+    "https://capitoneshirt.com/product/tim-and-moby-full-metal-alchemist-shirt/",
+    "https://capitoneshirt.com/product/words-are-stronger-than-bullets-charlie-kirk-shirt-2/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/washington-commanders-vs-green-bay-packers-gameday-2025-comic-shirt/",
