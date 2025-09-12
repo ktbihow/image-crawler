@@ -112,16 +112,16 @@
     "https://fanaticity.com/product/theo-lawrence-and-will-worden-in-austin-tx-on-sep-13-2025-poster-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/hot-sexy-t-shirt/",
-    "https://legendusashirt.com/product/the-who-september-10-2025-wells-fargo-center-philadelphia-pa-poster-t-shirt/",
-    "https://legendusashirt.com/product/teletech-x-kruelty-february-6-2026-newcastle-poster-t-shirt/",
-    "https://legendusashirt.com/product/tedeschi-trucks-band-september-10-2025-pine-knob-music-theatre-clarkston-mi-poster-t-shirt/",
-    "https://legendusashirt.com/product/rest-in-peace-charlie-kirk-freedom-t-shirt/",
-    "https://legendusashirt.com/product/punk-with-a-camera-unreleased-charlie-kirk-design-t-shirt/",
-    "https://legendusashirt.com/product/pray-for-charlie-kirk-freedom-essential-t-shirt/",
-    "https://legendusashirt.com/product/kyle-schwarber-50-schwarbombs-t-shirt/",
-    "https://legendusashirt.com/product/justice-for-iryna-zarutska-t-shirt/",
-    "https://legendusashirt.com/product/justice-for-charlie-kirk-freedom-t-shirt/"
+    "https://legendusashirt.com/product/silence-is-violence-free-speech-rip-charlie-kirk-statue-of-liberty-t-shirt/",
+    "https://legendusashirt.com/product/secret-lives-of-mormon-wives-star-taylor-frankie-paul-is-the-next-bachelor/",
+    "https://legendusashirt.com/product/rip-pray-for-charlie-kirk-t-shirt/",
+    "https://legendusashirt.com/product/rip-charlie-kirk-t-shirt-a-true-patriot-charlie-kirk-t-shirt/",
+    "https://legendusashirt.com/product/rip-charlie-kirk-the-greatness-of-our-nation-lies-in-the-power-and-potential-of-its-individuals-t-shirt/",
+    "https://legendusashirt.com/product/rip-charlie-kirk-rest-in-peace-t-shirt/",
+    "https://legendusashirt.com/product/rip-charlie-kirk-is-my-homeboy-t-shirt/",
+    "https://legendusashirt.com/product/rip-charlie-kirk-a-true-patriot-1993-2025-t-shirt/",
+    "https://legendusashirt.com/product/rip-charlie-kirk-1993-2025-t-shirt/",
+    "https://legendusashirt.com/product/rest-in-peace-charlie-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/land-of-the-free-home-of-the-brave-american-flag-with-eagle-shirt/",
@@ -243,10 +243,12 @@
     "https://collectionpostertour.com/product/molotov-usa-tour-september-2025-poster/"
   ],
   "neoteeco.com": [
-    "https://neoteeco.com/product/atlanta-falcons-vs-minnesota-vikings-nfl-game-poster-sunday-night-football-2025-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/aliyah-boston-indiana-fever-wnba-all-team-basketball-poster-2025-artwork-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/aaron-judge-new-york-yankees-poster-career-361-home-runs-tribute-mlb-artwork-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/aaron-judge-new-york-yankees-poster-100-rbi-milestone-2025-mlb-artwork-home-decor-poster-canvas/"
+    "https://neoteeco.com/product/washington-commanders-vs-green-bay-packers-nfl-game-poster-at-lambeau-field-2025-home-decor-poster-canvas/",
+    "https://neoteeco.com/product/time-magazine-september-29-2025-cover-enough-the-killing-of-charlie-kirk-and-the-epidemic-of-american-political-violence-home-decor-poster-canvas/",
+    "https://neoteeco.com/product/max-verstappen-f1-poster-gap-to-winner-2025-red-bull-racing-victory-artwork-home-decor-poster-canvas/",
+    "https://neoteeco.com/product/kobie-turner-los-angeles-rams-nfl-top-25-pressures-career-2025-home-decor-poster-canvas/",
+    "https://neoteeco.com/product/kelsey-mitchell-indiana-fever-wnba-all-team-basketball-poster-2025-artwork-home-decor-poster-canvas/",
+    "https://neoteeco.com/product/blink-182-show-at-darien-lake-amphitheater-in-darien-center-ny-on-september-11-2025-tour-artwork-home-decor-poster-canvas/"
   ],
   "newshirtstore.com": [
     "https://newshirtstore.com/product/zach-bryan-the-quittin-time-tour-2025-michigan-stadium-shirt/",
@@ -273,15 +275,15 @@
     "https://eteeclothing.com/product/tj-maxx-x-horror-movies-halloween-not-for-the-weak-shirt/"
   ],
   "milkywayshirt.com": [
-    "https://milkywayshirt.com/product/official-j-j-mccarthy-swag-head-shirt/",
-    "https://milkywayshirt.com/product/official-poppy-end-of-you-shirt/",
-    "https://milkywayshirt.com/product/official-poppy-start-of-life-shirt/",
-    "https://milkywayshirt.com/product/official-seattle-seahawks-nike-2025-rivalries-collection-slub-dri-fit-shirt/",
-    "https://milkywayshirt.com/product/official-chill-hill-club-pop-pop-shirt/",
-    "https://milkywayshirt.com/product/official-all-blues-no-clues-shirt/",
-    "https://milkywayshirt.com/product/official-alice-in-chains-christmas-1991-shirt/",
-    "https://milkywayshirt.com/product/official-i-wish-somebody-cared-enough-%cf%84%ce%bf-assassinate-me-assholes-live-forever-shirt/",
-    "https://milkywayshirt.com/product/official-sea-hear-now-festival-9-13-9-14-2025-in-asbury-park-nj-shirt/",
-    "https://milkywayshirt.com/product/official-mystery-wrestling-2025-shirt/"
+    "https://milkywayshirt.com/product/official-freedom-fight-like-charlie-shirt/",
+    "https://milkywayshirt.com/product/official-culturist-overdose-at-a-dungeon-rave/",
+    "https://milkywayshirt.com/product/official-this-years-6-6k-race-celebrates-mario-at-the-finish-line-pittsburgh-penguins-shirt/",
+    "https://milkywayshirt.com/product/official-charlie-kirk-voice-of-a-generation-patriotic-shirt/",
+    "https://milkywayshirt.com/product/official-cboystv-life-wide-open-drippin-shirt/",
+    "https://milkywayshirt.com/product/official-south-florida-bulls-bucked-miami-hurricanes-2025-shirt/",
+    "https://milkywayshirt.com/product/official-charlie-kirk-they-shot-the-words-not-the-man-shirt/",
+    "https://milkywayshirt.com/product/official-snowmass-balloon-festival-50th-annual-sept-12-14-2025-snowmass-village-co-shirt/",
+    "https://milkywayshirt.com/product/official-cat-mobb-lifestyle-shirt/",
+    "https://milkywayshirt.com/product/official-peter-griffin-family-guy-it-seems-today-that-all-you-see-is-violence-in-movies-shirt/"
   ]
 }
