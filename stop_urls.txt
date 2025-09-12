@@ -70,7 +70,14 @@
     "https://dreameshirt.com/product/official-josh-dallas-im-just-here-to-watch-georgia-southern-eagles-football-ncaa-game-day-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-detroit-lions-detroit-tigers-its-the-most-wonderful-time-of-the-year-2025-shirt/"
+    "https://teeextra.com/product/official-idaho-football-kibbie-dome-50th-anniversary-shirt/",
+    "https://teeextra.com/product/official-idaho-football-dome-sweet-dome-shirt/",
+    "https://teeextra.com/product/official-idaho-football-fightin-taters-shirt/",
+    "https://teeextra.com/product/official-i-am-charlie-kirk-shirt/",
+    "https://teeextra.com/product/official-hubris-cannon-a-shot-your-straight-edge-friends-can-get-behind-shirt/",
+    "https://teeextra.com/product/official-heart-attack-man-horseshoe-shirt/",
+    "https://teeextra.com/product/official-gracie-abrams-rocky-shirt/",
+    "https://teeextra.com/product/official-fit-for-an-autopsy-icfy-drip-band-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/we-are-all-turning-point-charlie-kirk-shirt/",
@@ -264,16 +271,16 @@
     "https://neoteeco.com/product/time-magazine-september-29-2025-cover-enough-the-killing-of-charlie-kirk-and-the-epidemic-of-american-political-violence-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/kansas-city-chiefs-cheerleader-go-chiefs-vintage-shirt/",
-    "https://newshirtstore.com/product/lafayette-bulls-louisiana-vintage-shirt/",
-    "https://newshirtstore.com/product/justice-for-iryna-zarutska-t-shirt/",
-    "https://newshirtstore.com/product/kylian-mbappe-scores-51st-france-goal-equals-thierry-henry-shirt/",
-    "https://newshirtstore.com/product/jaren-kanak-burger-time-shirt/",
-    "https://newshirtstore.com/product/in-loving-memory-charlie-kirk-shirt/",
-    "https://newshirtstore.com/product/jason-kelce-old-fashioned-donuts-monday-night-countdown-shirt/",
-    "https://newshirtstore.com/product/its-finally-autism-autumn-cat-shirt/",
-    "https://newshirtstore.com/product/keir-starmer-wanker-shirt/",
-    "https://newshirtstore.com/product/hardcore-tag-team-superstars-young-bucks-slick-nick-and-mr-instant-replay-bear-shirt/"
+    "https://newshirtstore.com/product/unreleased-charlie-kirk-design-shirt/",
+    "https://newshirtstore.com/product/the-tenants-shirt/",
+    "https://newshirtstore.com/product/the-heavens-are-roaring-psalm-19-1-t-shirt/",
+    "https://newshirtstore.com/product/squirrel-you-call-it-ocd-i-call-it-put-the-fucking-thing-back-where-it-belongs-shirt/",
+    "https://newshirtstore.com/product/syd-barrett-madcap-laughs-natural-shirt/",
+    "https://newshirtstore.com/product/ralph-lauren-ryder-cup-graphic-2025-shirt/",
+    "https://newshirtstore.com/product/subway-grinch-just-waiting-for-halloween-goth-graphic-shirt/",
+    "https://newshirtstore.com/product/tennessee-volunteers-thank-you-coach-lee-corso-college-gameday-shirt/",
+    "https://newshirtstore.com/product/robot-dog-k-9-maximum-defence-mode-shirt/",
+    "https://newshirtstore.com/product/ryan-reynolds-canada-toronto-international-film-festival-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/ohio-always-can-beat-michigan-ohio-state-buckeyes-against-the-world-2-sided-t-shirt/",
