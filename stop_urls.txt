@@ -15,16 +15,16 @@
     "https://orionshirt.com/product/official-2025-blink-182-skateboard-bunny-graphic-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/pack-the-rock-miami-hurricane-season-incoming-shirt/",
-    "https://techteesusa.com/product/ohio-state-buckeyes-9-11-never-forget-shirt/",
-    "https://techteesusa.com/product/we-will-never-forget-9-11-2001-skyline-shirt/",
-    "https://techteesusa.com/product/electric-juice-miami-hurricanes-shirt/",
-    "https://techteesusa.com/product/charlie-kirk-if-i-die-i-want-to-be-remembered-for-courage-and-my-faith-shirt/",
-    "https://techteesusa.com/product/land-of-the-free-home-of-the-brave-eagle-american-flag-shirt/",
-    "https://techteesusa.com/product/electric-juice-miami-hurricanes-energy-bring-it-mascot-shirt/",
-    "https://techteesusa.com/product/america-will-never-be-the-same-shirt/",
-    "https://techteesusa.com/product/charlie-kirk-here-i-am-lord-send-me-shirt/",
-    "https://techteesusa.com/product/young-dumb-and-full-of-bourbon-shirt/"
+    "https://techteesusa.com/product/they-shot-the-words-not-the-man-shirt/",
+    "https://techteesusa.com/product/the-creature-from-the-black-lagoon-shirt/",
+    "https://techteesusa.com/product/stand-strong-in-honor-of-charlie-kirk-shirt/",
+    "https://techteesusa.com/product/satisfy-off-road-spirit-of-the-wild-shirt/",
+    "https://techteesusa.com/product/rancid-let-the-dominoes-fall-shirt/",
+    "https://techteesusa.com/product/poorly-drawn-ghost-shirt/",
+    "https://techteesusa.com/product/one-of-my-weyes-blood-shirt/",
+    "https://techteesusa.com/product/no-risk-pull-push-shirt/",
+    "https://techteesusa.com/product/never-surrender-charlie-kirk-shirt/",
+    "https://techteesusa.com/product/for-charlie-american-flag-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/original-ohio-university-since-1804-logo-shirt/",
@@ -131,8 +131,16 @@
     "https://legendusashirt.com/product/yes-i-am-old-but-i-saw-lemieux-greene-harris-bradshaw-and-clemente-pittsburgh-now-and-forever-signatures-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/land-of-the-free-home-of-the-brave-american-flag-with-eagle-shirt/",
-    "https://teehandus.com/product/disabled-veteran-american-flag-with-eagle-shirt/"
+    "https://teehandus.com/product/tpusa-collegiate-est-2012-shirt/",
+    "https://teehandus.com/product/trine-5-a-clockwork-conspiracy-shirt/",
+    "https://teehandus.com/product/trump-make-america-safe-again-shirt/",
+    "https://teehandus.com/product/turtle-i-got-that-dog-in-me-shirt/",
+    "https://teehandus.com/product/usko-united-states-karate-organization-shirt/",
+    "https://teehandus.com/product/vampire-arrows-in-action-i-can-feel-it-in-her-bite-shirt/",
+    "https://teehandus.com/product/venice-malibu-oxnard-ventura-shirt/",
+    "https://teehandus.com/product/vote-sauron-make-middle-earth-great-again-shirt/",
+    "https://teehandus.com/product/war-paint-minnesota-vikings-shirt/",
+    "https://teehandus.com/product/we-are-all-charlie-kirk-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -150,16 +158,10 @@
     "https://uscraftedtees.com/product/original-frog-off-to-commit-tomfoolery-2025-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/venice-and-malibu-and-oxnard-and-ventura-shirt/",
-    "https://capitoneshirt.com/product/usf-bulls-wordmark-shirt/",
-    "https://capitoneshirt.com/product/suspect-in-charlie-kirk-shooting-wearing-land-of-the-free-home-of-the-brave-shirt/",
-    "https://capitoneshirt.com/product/romeo-doubs-celebration-packers-87-shirt/",
-    "https://capitoneshirt.com/product/marietta-the-town-faded-when-the-smothe-quit-moving-shirt/",
-    "https://capitoneshirt.com/product/lsu-vs-oklahoma-game-day-2025-gaylord-family-oklahoma-memorial-stadium-shirt/",
-    "https://capitoneshirt.com/product/poorly-drawn-ghost-shirt/",
-    "https://capitoneshirt.com/product/justin-herbert-celebration-shout-chargers-10-shirt/",
-    "https://capitoneshirt.com/product/oklahoma-sooners-do-you-believe-in-sooner-magic-shirt-2/",
-    "https://capitoneshirt.com/product/no-risk-pull-push-shirt/"
+    "https://capitoneshirt.com/product/a-true-patriot-charlie-kirk-shirt-2/",
+    "https://capitoneshirt.com/product/american-flag-this-is-the-turning-point-shirt/",
+    "https://capitoneshirt.com/product/be-without-fear-in-the-face-of-your-enemies-safeguard-the-helpless-and-do-no-wrong-shirt/",
+    "https://capitoneshirt.com/product/charlie-kirk-all-death-can-do-to-the-believer-is-deliver-him-to-jesus-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/washington-commanders-vs-green-bay-packers-gameday-2025-comic-shirt/",
@@ -247,16 +249,16 @@
     "https://arjomany.com/product/horizon-happy-song-t-shirt/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/the-avett-brothers-sept-11-2025-gertrude-ford-center-athens-ga-tour-poster/",
-    "https://collectionpostertour.com/product/rocket-r-is-for-rocket-tour-2025-poster/",
-    "https://collectionpostertour.com/product/riles-survival-tour-2026-poster/",
-    "https://collectionpostertour.com/product/punk-in-the-park-oct-4-5-2025-berth-46-san-pedro-ca-tour-poster/",
-    "https://collectionpostertour.com/product/powerwolf-nort-american-tour-2025-poster/",
-    "https://collectionpostertour.com/product/moonalice-sept-20-2025-laytonville-ca-tour-poster/",
-    "https://collectionpostertour.com/product/moonalice-sept-19-2025-laytonville-ca-concert-poster/",
-    "https://collectionpostertour.com/product/johnnie-guilbert-violent-dream-tour-2025-poster/",
-    "https://collectionpostertour.com/product/stand-strong-in-honor-of-charlie-kirk-t-shirt/",
-    "https://collectionpostertour.com/product/justice-for-charlie-kirk-t-shirt/"
+    "https://collectionpostertour.com/product/ocean-grove-oddworld-live-t-shirt/",
+    "https://collectionpostertour.com/product/ocean-grove-flame-world-t-shirt/",
+    "https://collectionpostertour.com/product/ocean-grove-black-and-white-quad-t-shirt/",
+    "https://collectionpostertour.com/product/carach-angren-wrong-forest-t-shirt/",
+    "https://collectionpostertour.com/product/carach-angren-worship-horror-t-shirt/",
+    "https://collectionpostertour.com/product/carach-angren-tourmente-t-shirt/",
+    "https://collectionpostertour.com/product/carach-angren-the-cult-of-kariba-stir-t-shirt/",
+    "https://collectionpostertour.com/product/carach-angren-the-cult-of-kariba-portrait-t-shirt/",
+    "https://collectionpostertour.com/product/carach-angren-the-cult-of-kariba-coffin-t-shirt/",
+    "https://collectionpostertour.com/product/carach-angren-spectral-t-shirt/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/washington-commanders-vs-green-bay-packers-nfl-game-poster-at-lambeau-field-2025-all-over-print-shirt/",
@@ -271,15 +273,16 @@
     "https://neoteeco.com/product/time-magazine-september-29-2025-cover-enough-the-killing-of-charlie-kirk-and-the-epidemic-of-american-political-violence-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/big-gang-youre-nobody-until-someone-vintage-shirt/",
-    "https://newshirtstore.com/product/batman-silver-age-batmobile-shirt/",
-    "https://newshirtstore.com/product/bobcats-ohio-basketball-with-bobcat-logo-ball-shirt/",
-    "https://newshirtstore.com/product/anthony-rizzo-forever-baseball-script-shirt/",
-    "https://newshirtstore.com/product/anal-bead-tug-of-war-champion-shirt/",
-    "https://newshirtstore.com/product/anthony-rizzo-career-stats-baseball-fan-shirt/",
-    "https://newshirtstore.com/product/air-israel-911-shirt/",
-    "https://newshirtstore.com/product/ajewdas-money-dollars-logo-shirt/",
-    "https://newshirtstore.com/product/a-true-patriot-charlie-kirk-vintage-shirt/"
+    "https://newshirtstore.com/product/yoda-i-was-taught-to-think-before-i-act-so-if-i-smack-the-stupidity-out-of-you-rest-assured-shirt/",
+    "https://newshirtstore.com/product/white-abarrio-gulfstream-park-thoroughbred-horse-racing-shirt/",
+    "https://newshirtstore.com/product/whitney-houston-queen-of-the-night-black-shirt/",
+    "https://newshirtstore.com/product/yes-yes-perfect-i-wish-i-could-read-dog-playing-cards-poker-shirt/",
+    "https://newshirtstore.com/product/wave-after-wave-still-my-favorite-ride-95-shirt/",
+    "https://newshirtstore.com/product/whisky-a-go-go-hollywood-ca-lady-logo-shirt/",
+    "https://newshirtstore.com/product/vince-carter-5-draft-orlando-magic-graphic-shirt/",
+    "https://newshirtstore.com/product/where-else-would-you-rather-be-minnesota-football-shirt/",
+    "https://newshirtstore.com/product/usf-football-silenced-the-swamp-t-shirt/",
+    "https://newshirtstore.com/product/when-i-get-rich-from-kaspa-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/yeah-im-poly-poly-gonna-drink-18-beers-tonight-shirt/",
