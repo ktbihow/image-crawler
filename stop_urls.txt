@@ -119,16 +119,16 @@
     "https://fanaticity.com/product/theo-lawrence-and-will-worden-in-austin-tx-on-sep-13-2025-poster-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/the-flaming-lips-dec-31-2025-dc-party-t-shirt/",
-    "https://legendusashirt.com/product/scowl-with-end-it-secret-world-2025-tour-australia-t-shirt/",
-    "https://legendusashirt.com/product/san-francisco-49ers-san-francisco-giants-its-the-most-wonderful-time-of-the-year-2025-t-shirt/",
-    "https://legendusashirt.com/product/ralph-lauren-ryder-cup-graphic-2025-t-shirt/",
-    "https://legendusashirt.com/product/pray-for-charlie-kirk-just-because-you-are-offended-doesnt-mean-you-are-right-2025-t-shirt/",
-    "https://legendusashirt.com/product/never-give-up-never-surrender-always-go-for-the-win-charlie-kirk-1993-2025-t-shirt/",
-    "https://legendusashirt.com/product/new-york-giants-new-york-yankees-its-the-most-wonderful-time-of-the-year-2025-t-shirt/",
-    "https://legendusashirt.com/product/mike-campbell-the-dirty-knobs-heartbreaker-2025-t-shirt/",
-    "https://legendusashirt.com/product/mercedes-mone-champion-everywhere-officially-comfort-colors-soft-t-shirt/",
-    "https://legendusashirt.com/product/legend-never-die-charlie-kirk-2025-t-shirt/"
+    "https://legendusashirt.com/product/kansas-city-chiefs-yes-i-am-old-but-i-saw-liv-champions-chiefs-signatures-thank-you-for-the-memories-t-shirt/",
+    "https://legendusashirt.com/product/lahgo-secretly-i-love-it-t-shirt/",
+    "https://legendusashirt.com/product/kansas-city-chiefs-sugar-skull-in-october-we-wear-pink-and-watch-halloween-2025-t-shirt/",
+    "https://legendusashirt.com/product/kansas-city-chiefs-all-time-greats-60th-1960-2025-4x-sb-champions-signatures-t-shirt/",
+    "https://legendusashirt.com/product/julia-hart-spooky-hart-kids-t-shirt/",
+    "https://legendusashirt.com/product/innings-festival-tempe-arizona-2026-at-tempe-beach-park-and-arts-park-full-lineup-on-february-20-22-2026-t-shirt/",
+    "https://legendusashirt.com/product/in-memory-of-bryan-braman-1987-2025-forever-an-eagle-forever-a-super-bowl-champions-thank-you-signature-t-shirt/",
+    "https://legendusashirt.com/product/you-dont-know-a-die-hard-fan-until-you-meet-a-buffalo-bills-fan-mascot-t-shirt/",
+    "https://legendusashirt.com/product/yes-i-am-old-but-i-saw-philadelphia-phillies-world-series-champions-1980-2008-signatures-t-shirt/",
+    "https://legendusashirt.com/product/yes-i-am-old-but-i-saw-lemieux-greene-harris-bradshaw-and-clemente-pittsburgh-now-and-forever-signatures-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/land-of-the-free-home-of-the-brave-american-flag-with-eagle-shirt/",
@@ -271,28 +271,27 @@
     "https://neoteeco.com/product/time-magazine-september-29-2025-cover-enough-the-killing-of-charlie-kirk-and-the-epidemic-of-american-political-violence-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/wendys-grinch-just-waiting-for-halloween-goth-graphic-shirt/",
-    "https://newshirtstore.com/product/the-timeless-adventures-of-tommy-in-the-breakroom-comic-shirt/",
-    "https://newshirtstore.com/product/walmart-grinch-just-waiting-for-halloween-goth-graphic-shirt/",
-    "https://newshirtstore.com/product/utah-university-brand-history-logo-shirt/",
-    "https://newshirtstore.com/product/time-for-kickoff-so-you-need-to-fuck-off-football-helmet-shirt/",
-    "https://newshirtstore.com/product/washingtons-national-disgrace-cartoon-shirt/",
-    "https://newshirtstore.com/product/turning-point-usa-shirt/",
-    "https://newshirtstore.com/product/the-philadelphia-eagles-spit-out-their-first-win-of-the-season-defeat-dallas-cowboys-t-shirt/",
-    "https://newshirtstore.com/product/the-ralph-farewell-season-where-else-would-you-rather-be-buffalo-bills-shirt/",
-    "https://newshirtstore.com/product/the-los-angeles-rams-stampede-through-houston-texans-t-shirt/"
+    "https://newshirtstore.com/product/big-gang-youre-nobody-until-someone-vintage-shirt/",
+    "https://newshirtstore.com/product/batman-silver-age-batmobile-shirt/",
+    "https://newshirtstore.com/product/bobcats-ohio-basketball-with-bobcat-logo-ball-shirt/",
+    "https://newshirtstore.com/product/anthony-rizzo-forever-baseball-script-shirt/",
+    "https://newshirtstore.com/product/anal-bead-tug-of-war-champion-shirt/",
+    "https://newshirtstore.com/product/anthony-rizzo-career-stats-baseball-fan-shirt/",
+    "https://newshirtstore.com/product/air-israel-911-shirt/",
+    "https://newshirtstore.com/product/ajewdas-money-dollars-logo-shirt/",
+    "https://newshirtstore.com/product/a-true-patriot-charlie-kirk-vintage-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/ohio-always-can-beat-michigan-ohio-state-buckeyes-against-the-world-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/new-york-yankees-stand-with-charlie-kirk-heart-shirt/",
-    "https://eteeclothing.com/product/new-orleans-saints-football-all-names-city-thank-you-for-the-memories-skyline-shirt/",
-    "https://eteeclothing.com/product/mississippi-state-bulldogs-football-ncaa-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/miami-dolphins-football-all-names-city-thank-you-for-the-memories-skyline-shirt/",
-    "https://eteeclothing.com/product/mascots-ohio-state-buckeyes-vs-grambling-state-tigers-ohio-stadium-colu-mbus-oh-shirt/",
-    "https://eteeclothing.com/product/long-after-this-maron-is-dead-history-will-remember-the-cowards-who-kept-quiet-and-let-this-go-on-shirt/",
-    "https://eteeclothing.com/product/lee-corso-ohio-state-buckeyes-no-so-fast-my-friend-its-gameday-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/justice-for-charlie-kirk-memorial-retro-shirt/",
-    "https://eteeclothing.com/product/josh-dallas-georgia-southern-eagles-football-fan-club-shirt/"
+    "https://eteeclothing.com/product/yeah-im-poly-poly-gonna-drink-18-beers-tonight-shirt/",
+    "https://eteeclothing.com/product/when-people-stop-talking-thats-when-violence-happens-charlie-kirk-1993-2025-shirt/",
+    "https://eteeclothing.com/product/trump-devil-liar-shirt/",
+    "https://eteeclothing.com/product/stitch-you-curse-too-much-bitch-you-breathe-too-much-shut-the-fuck-up-shirt/",
+    "https://eteeclothing.com/product/stitch-some-people-make-me-wonder-how-do-they-fit-all-that-stupid-into-one-head-halloween-shirt/",
+    "https://eteeclothing.com/product/stitch-i-used-to-think-adulthood-was-one-crisis-after-another-i-was-wrong-its-multiple-crises-shirt/",
+    "https://eteeclothing.com/product/sec-lsu-tigers-womens-basketball-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/send-me-charlie-kirk-legend-never-die-shirt/",
+    "https://eteeclothing.com/product/rest-in-peace-charlie-kirk-wearing-freedom-us-flag-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/pray-for-charlie-kirk-wearing-freedom-make-america-great-again-2-sided-t-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-rection-10-piglet-shirt/",
